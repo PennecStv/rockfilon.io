@@ -1,0 +1,17 @@
+id: os-du-corps-humain
+prompt: "Cite un os du corps humain"
+categorie: corps humain
+sources:
+  - type: wikidata_sparql
+    enrichir_seulement: true
+    query: |
+      # alias FR des os humains (sous-classes de Q265868 avec identifiant FMA) ; la liste manuelle fait foi
+      SELECT ?item ?label ?alias WHERE {
+        ?item wdt:P279+ wd:Q265868 ; wdt:P1402 [] ; rdfs:label ?label .
+        FILTER(LANG(?label) = "fr")
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+      }
+  - type: liste_manuelle
+    fichier: extras/os.txt
+rarete: llm  # le Lexique mesure le mot, pas l'os : « marteau », « talus », « carpe » y sont surcotés, « fémur » sous-coté
+pepite: "os hyoïde"

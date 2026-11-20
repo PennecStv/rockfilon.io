@@ -1,0 +1,3 @@
+# Instruments à cordes absents de Wikidata (ou sans code Hornbostel-Sachs). Format : libellé | alias | alias
+piano | piano droit | piano à queue | pianoforte | forte-piano
+épinette des Vosges | épinette vosgienne

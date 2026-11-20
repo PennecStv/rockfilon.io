@@ -1,0 +1,66 @@
+id: instruments-a-cordes
+prompt: "Cite un instrument à cordes"
+categorie: musique
+sources:
+  - type: wikidata_sparql
+    query: |
+      # sous-classes de « instrument à cordes » (Q1798603), sans les modèles de marque ni les familles
+      SELECT ?item ?label ?alias ?sitelinks WHERE {
+        ?item wdt:P279* wd:Q1798603 ; rdfs:label ?label ; wikibase:sitelinks ?sitelinks .
+        FILTER(LANG(?label) = "fr")
+        FILTER NOT EXISTS { ?item wdt:P176 [] }
+        FILTER(!CONTAINS(LCASE(?label), "instrument"))
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+      }
+  - type: wikidata_sparql
+    query: |
+      # cordophones selon la classification Hornbostel-Sachs (code 3…) : piano, balalaïka, kora…
+      SELECT ?item ?label ?alias ?sitelinks WHERE {
+        ?item wdt:P1762 ?hs ; rdfs:label ?label ; wikibase:sitelinks ?sitelinks .
+        FILTER(STRSTARTS(?hs, "3"))
+        FILTER(LANG(?label) = "fr")
+        FILTER NOT EXISTS { ?item wdt:P176 [] }
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+      }
+  - type: liste_manuelle
+    fichier: extras/instruments-a-cordes.txt
+rarete: sitelinks
+pepite: "épinette des Vosges"  # à valider : cithare lorraine, jouée en France, que presque personne ne cite
+exclure:
+  # pas des cordophones (la guimbarde est un idiophone)
+  - guimbarde
+  # familles, catégories, parties ou techniques plutôt qu'instruments
+  - famille du violon
+  - famille des violes
+  - guitares par type
+  - luths comportant un bol et un manche, joués avec un plectre
+  - cordes
+  - chœur
+  - Do
+  - Third bridge
+  - Pan coupé
+  - Touch guitar
+  - basse à tessiture étendue
+  # marques et modèles déposés
+  - Westone Guitars
+  - Fernandes/burny
+  - Squier Jagmaster
+  - Bond Electraglide
+  - Super Strat
+  - Infinite Guitar
+  - cordophone
+  - cithares barre
+  - cithares tube
+  - cithares demi-tube
+  - cithares planche
+alias:
+  # synonymes portés par deux éléments Wikidata distincts
+  guitare basse: [basse électrique, basse]
+  # « X électrique » vaudrait un diamant sans rien savoir de plus que X : rangé sous X
+  violon: [violon électrique]
+  violoncelle: [violoncelle électrique]
+  mandoline: [mandoline électrique]
+  sitar: [sitar électrique]
+  charango: [charango électrique]
+  cithare: [cithare électrique]
+  harpe: [harpe électrique]

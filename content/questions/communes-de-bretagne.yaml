@@ -1,0 +1,17 @@
+id: communes-de-bretagne
+prompt: "Cite une commune de Bretagne"
+categorie: géographie de France
+sources:
+  - type: wikidata_sparql
+    query: |
+      # communes actuelles (non dissoutes) des Côtes-d'Armor, du Finistère, d'Ille-et-Vilaine et du Morbihan
+      SELECT ?item ?label ?alias ?article WHERE {
+        ?item wdt:P31 wd:Q484170 ; wdt:P374 ?insee ; rdfs:label ?label .
+        FILTER(LANG(?label) = "fr")
+        FILTER(REGEX(?insee, "^(22|29|35|56)"))
+        FILTER NOT EXISTS { ?item wdt:P576 [] }
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }  # « Carhaix » pour Carhaix-Plouguer
+        OPTIONAL { ?article schema:about ?item ; schema:isPartOf <https://fr.wikipedia.org/> }
+      }
+rarete: pageviews
+pepite: "Île-de-Sein"  # à valider : 200 habitants, ralliés en bloc à la France libre en 1940
