@@ -1,0 +1,2342 @@
+{
+ "id": "pays-du-monde",
+ "prompt": "Cite un pays du monde",
+ "categorie": "géographie",
+ "built_at": "2026-11-20T18:02:33+00:00",
+ "answers": [
+  {
+   "display": "Afghanistan",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "af",
+    "afghanistan",
+    "pay des cavalier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Afrique du Sud",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "afrique du sud",
+    "republique d afrique du sud",
+    "republique sud africaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Albanie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "albanie",
+    "republique d albanie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Algérie",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "alg",
+    "algerie",
+    "dzayer",
+    "radp",
+    "republique algerienne democratique et populaire",
+    "republique algerienne democratique populaire"
+   ],
+   "exact": [
+    "algerie"
+   ]
+  },
+  {
+   "display": "Allemagne",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "all",
+    "allemagne",
+    "r f a",
+    "republique federale allemande",
+    "republique federale d allemagne",
+    "rfa"
+   ],
+   "exact": [
+    "allemagne"
+   ]
+  },
+  {
+   "display": "Andorre",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "andorre",
+    "principaute d andorre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Angola",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "angola",
+    "republique d angola"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Antigua-et-Barbuda",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "antigua et barbuda",
+    "antigue et barbude"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arabie saoudite",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "arabie saoudite",
+    "arabie seoudite",
+    "royaume d arabie saoudite",
+    "royaume d arabie seoudite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Argentine",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "arg",
+    "argentine",
+    "republique argentine"
+   ],
+   "exact": [
+    "argentine"
+   ]
+  },
+  {
+   "display": "Arménie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "armenie",
+    "republique d armenie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Australie",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "australie",
+    "commonwealth d australie",
+    "nouvelle hollande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Autriche",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "autriche",
+    "republique d autriche"
+   ],
+   "exact": [
+    "autriche"
+   ]
+  },
+  {
+   "display": "Azerbaïdjan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "azerbaidjan",
+    "republique d azerbaidjan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bahamas",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bahama",
+    "commonwealth des bahama"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bahreïn",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bahrein",
+    "royaume de bahrein"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bangladesh",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bangladesh",
+    "republique populaire du bangladesh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Barbade",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "barbade",
+    "bb",
+    "brb"
+   ],
+   "exact": [
+    "barbade"
+   ]
+  },
+  {
+   "display": "Belgique",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "belg",
+    "belgique",
+    "royaume de belgique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Belize",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "belize"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bénin",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "benin",
+    "republique du benin"
+   ],
+   "exact": [
+    "benin"
+   ]
+  },
+  {
+   "display": "Bhoutan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bhoutan",
+    "bt",
+    "royaume du bhoutan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Biélorussie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "belaru",
+    "bielor",
+    "bielorussie",
+    "republique de bielorussie"
+   ],
+   "exact": [
+    "belaru"
+   ]
+  },
+  {
+   "display": "Birmanie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "birmanie",
+    "republique de l union de birmanie",
+    "republique de l union du myanmar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bolivie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "bolivie",
+    "etat plurinational de bolivie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bosnie-Herzégovine",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ba",
+    "bosnie et herzegovine",
+    "bosnie herzegovine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Botswana",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "botswana",
+    "republique du botswana"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brésil",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "amerique lusophone",
+    "auriverde",
+    "brazil",
+    "bre",
+    "bresil",
+    "bresilien",
+    "bresilienne",
+    "brezil",
+    "republique des etat uni du bresil",
+    "republique federative du bresil"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brunei",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "brunei",
+    "brunei darussalam"
+   ],
+   "exact": [
+    "brunei"
+   ]
+  },
+  {
+   "display": "Bulgarie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bulg",
+    "bulgarie",
+    "republique de bulgarie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Burkina Faso",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bf",
+    "burk f",
+    "burk faso",
+    "burkina",
+    "burkina faso",
+    "pay des homme integre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Burundi",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "burundi",
+    "republique du burundi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cambodge",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "cambodge",
+    "royaume du cambodge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cameroun",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cameroun",
+    "republique du cameroun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Canada",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "canada"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cap-Vert",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "cap vert",
+    "republique du cap vert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chili",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "chili",
+    "republique du chili"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chypre",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chypre",
+    "chypre sud",
+    "chypriote",
+    "cy",
+    "republique de chypre"
+   ],
+   "exact": [
+    "chypre"
+   ]
+  },
+  {
+   "display": "Colombie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "col",
+    "colombie",
+    "republique de colombie"
+   ],
+   "exact": [
+    "colombie"
+   ]
+  },
+  {
+   "display": "Comores",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "comore",
+    "union des comore"
+   ],
+   "exact": [
+    "comore"
+   ]
+  },
+  {
+   "display": "Corée du Nord",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "coree du nord",
+    "kp",
+    "republique populaire de coree",
+    "republique populaire democratique de coree",
+    "rpdc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Corée du Sud",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cor du sud",
+    "coree du sud",
+    "hanguk",
+    "republique de coree"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Costa Rica",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "costa rica",
+    "republique du costa rica"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Côte d'Ivoire",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cote d ivoire",
+    "republique de cote d ivoire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Croatie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "croatie",
+    "republique de croatie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cuba",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cuba",
+    "republique de cuba"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Djibouti",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "djibouti",
+    "republique de djibouti"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dominique",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "commonwealth de dominique",
+    "dm",
+    "dominica",
+    "dominique",
+    "isle de la dominique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Égypte",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "eg",
+    "egypte",
+    "republique arabe d egypte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Émirats arabes unis",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "e a u",
+    "emir ar uni",
+    "emirat",
+    "emirat arabe uni"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Équateur",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "equateur",
+    "republique d equateur",
+    "republique de l equateur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Érythrée",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "erythree",
+    "etat d erythree"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Espagne",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "esp",
+    "espagne",
+    "royaume d espagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Estonie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "esthonie",
+    "estonie",
+    "republique d estonie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Eswatini",
+   "tier": 6,
+   "score": 0.3,
+   "forms": [
+    "eswatini",
+    "ngwane",
+    "royaume d eswatini",
+    "royaume du swaziland",
+    "sz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "État de Palestine",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "autorite nationale palestinienne",
+    "autorite palestinienne",
+    "etat de palestine",
+    "etat palestinien",
+    "palestine"
+   ],
+   "exact": [
+    "palestine"
+   ]
+  },
+  {
+   "display": "États fédérés de Micronésie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "efm",
+    "etat federe de micronesie",
+    "fm",
+    "micronesie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "États-Unis",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "amerique",
+    "e u",
+    "e u a",
+    "etat",
+    "etat uni",
+    "etat uni d amerique",
+    "eu",
+    "oncle sam",
+    "pay de l oncle sam",
+    "state"
+   ],
+   "exact": [
+    "state"
+   ]
+  },
+  {
+   "display": "Éthiopie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "ethiopie",
+    "republique democratique federale d ethiopie",
+    "republique federale democratique d ethiopie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fidji",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "fidji",
+    "fiji",
+    "ile fidji",
+    "ile fiji",
+    "republique des fidji",
+    "republique des ile fidji"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Finlande",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "fin",
+    "finl",
+    "finlande",
+    "republique de finlande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "France",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "afrance",
+    "fr",
+    "france",
+    "franquistan",
+    "hexagone",
+    "republique francaise",
+    "rf",
+    "whallaland"
+   ],
+   "exact": [
+    "france"
+   ]
+  },
+  {
+   "display": "Gabon",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ga",
+    "gabon",
+    "republique du gabon",
+    "republique gabonaise"
+   ],
+   "exact": [
+    "gabon"
+   ]
+  },
+  {
+   "display": "Gambie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "gambie",
+    "republique de gambie"
+   ],
+   "exact": [
+    "gambie",
+    "republique de gambie"
+   ]
+  },
+  {
+   "display": "Géorgie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "georg",
+    "georgie",
+    "georgie pay",
+    "republique de georgie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ghana",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ghana",
+    "republique du ghana"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grèce",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "grece",
+    "republique hellenique"
+   ],
+   "exact": [
+    "grece"
+   ]
+  },
+  {
+   "display": "Grenade",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "gd",
+    "grd",
+    "grenade"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guatemala",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "gt",
+    "guatemala",
+    "republique du guatemala"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guinée",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "guinee",
+    "guinee conakry",
+    "republique de guinee"
+   ],
+   "exact": [
+    "guinee"
+   ]
+  },
+  {
+   "display": "Guinée-Bissau",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "gb",
+    "guinee bissao",
+    "guinee bissau",
+    "republique de guinee bissao",
+    "republique de guinee bissau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guinée équatoriale",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "guinee equat",
+    "guinee equatoriale",
+    "republique de guinee equatoriale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guyana",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "guyana",
+    "republique cooperative du guyana"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Haïti",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "haiti",
+    "republique d haiti"
+   ],
+   "exact": [
+    "haiti"
+   ]
+  },
+  {
+   "display": "Honduras",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "hondura",
+    "republique du hondura"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hongrie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "hongrie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Îles Marshall",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "ile marshall",
+    "marshall",
+    "republique des ile marshall"
+   ],
+   "exact": [
+    "marshall"
+   ]
+  },
+  {
+   "display": "Îles Salomon",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "ile salomon",
+    "salomon",
+    "sb"
+   ],
+   "exact": [
+    "salomon"
+   ]
+  },
+  {
+   "display": "Inde",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bharatvarsh",
+    "hindustan",
+    "inde",
+    "indostan",
+    "republique d inde",
+    "republique de l inde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Indonésie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "indonesie",
+    "republique d indonesie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Irak",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "al iraq",
+    "irak",
+    "republique d irak"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Iran",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "iran",
+    "perse",
+    "republique islamique d iran",
+    "republique islamique iranienne"
+   ],
+   "exact": [
+    "perse"
+   ]
+  },
+  {
+   "display": "Irlande",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "irl",
+    "irlande",
+    "republique d irlande",
+    "republique irlandaise"
+   ],
+   "exact": [
+    "irlande",
+    "republique d irlande",
+    "republique irlandaise"
+   ]
+  },
+  {
+   "display": "Islande",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "isl",
+    "islande",
+    "republique d islande"
+   ],
+   "exact": [
+    "islande",
+    "republique d islande"
+   ]
+  },
+  {
+   "display": "Israël",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "etat d israel",
+    "etat hebreu",
+    "isr",
+    "israel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Italie",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "it",
+    "ita",
+    "ital",
+    "italie",
+    "republique italienne"
+   ],
+   "exact": [
+    "italie"
+   ]
+  },
+  {
+   "display": "Jamaïque",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "jamaique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Japon",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "etat du japon",
+    "jap",
+    "japon",
+    "pay du soleil levant"
+   ],
+   "exact": [
+    "japon"
+   ]
+  },
+  {
+   "display": "Jordanie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "jord",
+    "jordanie",
+    "royaume hachemite de jordanie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kazakhstan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kazakh",
+    "kazakhstan",
+    "kazakstan",
+    "republique du kazakhstan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kenya",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "kenya",
+    "republique du kenya"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kirghizistan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kirghizie",
+    "kirghizistan",
+    "kirghizstan",
+    "republique kirghize"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kiribati",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "ile gilbert",
+    "ki",
+    "kiribati",
+    "republique des kiribati"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kosovo",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kosovo",
+    "kossovo",
+    "republique du kosovo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Koweït",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "etat du koweit",
+    "koweit",
+    "kuwait"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laos",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "lao",
+    "republique democratique populaire lao",
+    "republique populaire democratique du lao"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lesotho",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "lesotho",
+    "ls",
+    "royaume du lesotho"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lettonie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "lettonie",
+    "republique de lettonie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liban",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "liban",
+    "republique libanaise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liberia",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "liberia",
+    "republique du liberia"
+   ],
+   "exact": [
+    "liberia"
+   ]
+  },
+  {
+   "display": "Libye",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "etat de libye",
+    "libye"
+   ],
+   "exact": [
+    "libye"
+   ]
+  },
+  {
+   "display": "Liechtenstein",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "liechtenstein",
+    "principaute de liechtenstein",
+    "principaute du liechtenstein"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lituanie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "lithuanie",
+    "lituanie",
+    "republique de lituanie"
+   ],
+   "exact": [
+    "lithuanie",
+    "lituanie"
+   ]
+  },
+  {
+   "display": "Luxembourg",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "grand duche de luxembourg",
+    "lux",
+    "luxembourg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Macédoine du Nord",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ancienne republique yougoslave de macedoine",
+    "arym",
+    "ex republique yougoslave de macedoine",
+    "macedoine",
+    "macedoine du nord",
+    "republique de macedoine",
+    "republique de macedoine du nord"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Madagascar",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "madagascar",
+    "republique de madagascar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Malaisie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "federation de malaisie",
+    "federation malaise",
+    "malaisie"
+   ],
+   "exact": [
+    "malaisie"
+   ]
+  },
+  {
+   "display": "Malawi",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "malawi",
+    "mw",
+    "republique du malawi"
+   ],
+   "exact": [
+    "republique du malawi"
+   ]
+  },
+  {
+   "display": "Maldives",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ile maldive",
+    "maldive",
+    "mv",
+    "republique des maldive"
+   ],
+   "exact": [
+    "maldive"
+   ]
+  },
+  {
+   "display": "Mali",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "mali",
+    "republique du mali"
+   ],
+   "exact": [
+    "republique du mali"
+   ]
+  },
+  {
+   "display": "Malte",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "malte",
+    "republique de malte"
+   ],
+   "exact": [
+    "malte"
+   ]
+  },
+  {
+   "display": "Maroc",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "maroc",
+    "royaume du maroc"
+   ],
+   "exact": [
+    "maroc"
+   ]
+  },
+  {
+   "display": "Maurice",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ile maurice",
+    "maurice",
+    "mu",
+    "republique de maurice"
+   ],
+   "exact": [
+    "maurice"
+   ]
+  },
+  {
+   "display": "Mauritanie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "mauritanie",
+    "republique islamique de mauritanie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mexique",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "etat uni du mexique",
+    "etat uni mexicain",
+    "mex",
+    "mexique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moldavie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "moldavie",
+    "republique de moldavie",
+    "republique de moldova"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Monaco",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "fort hercule",
+    "mc",
+    "monaco",
+    "monaco rattachee au district de menton en 1793",
+    "principatu de munegu",
+    "principaute de monaco"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mongolie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "mgl",
+    "mongalie",
+    "mongolie",
+    "mongolie exterieure"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Monténégro",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "me",
+    "monten",
+    "montenegro"
+   ],
+   "exact": [
+    "monten"
+   ]
+  },
+  {
+   "display": "Mozambique",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "moz",
+    "mozambique",
+    "republique du mozambique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Namibie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "namibie",
+    "republique de namibie"
+   ],
+   "exact": [
+    "republique de namibie"
+   ]
+  },
+  {
+   "display": "Nauru",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "naoero",
+    "nauru",
+    "republique de nauru"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Népal",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "nepal",
+    "nipal",
+    "np",
+    "pai pou",
+    "republique democratique federale du nepal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nicaragua",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "nca",
+    "ni",
+    "nic",
+    "nicaragua",
+    "republique du nicaragua",
+    "republique nicaraguayenne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Niger",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ne",
+    "nig",
+    "niger",
+    "republique du niger"
+   ],
+   "exact": [
+    "niger"
+   ]
+  },
+  {
+   "display": "Nigeria",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "ng",
+    "nigeria",
+    "republique federale du nigeria",
+    "republique federale nigeriane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Norvège",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "norv",
+    "norvege",
+    "royaume de norvege"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nouvelle-Zélande",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "nouvelle zelande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Oman",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "om",
+    "oma",
+    "oman",
+    "sultanat d oman"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ouganda",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ouganda",
+    "republique d ouganda",
+    "republique de l ouganda"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ouzbékistan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ouzbekistan",
+    "ouzbekisthan",
+    "republique d ouzbekistan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pakistan",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "pakistan",
+    "pk",
+    "republique islamique du pakistan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Palaos",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "belau",
+    "palao",
+    "palau",
+    "pw",
+    "republique des palao"
+   ],
+   "exact": [
+    "belau",
+    "palao",
+    "palau"
+   ]
+  },
+  {
+   "display": "Panama",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "pa",
+    "panama",
+    "pm",
+    "republique du panama"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Papouasie-Nouvelle-Guinée",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "etat independant de papouasie nouvelle guinee",
+    "papouasie nouvelle guinee",
+    "pg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paraguay",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "coeur de l amerique du sud",
+    "paraguay",
+    "republique du paraguay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pérou",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "pe",
+    "perou",
+    "republique du perou"
+   ],
+   "exact": [
+    "perou"
+   ]
+  },
+  {
+   "display": "Philippines",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "ile philippine",
+    "phil",
+    "philippine",
+    "republique des philippine",
+    "rp"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pologne",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "pol",
+    "pologne",
+    "republique de pologne",
+    "republique polonaise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Portugal",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "portugal",
+    "republique portugaise"
+   ],
+   "exact": [
+    "portugal"
+   ]
+  },
+  {
+   "display": "Qatar",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "etat du qatar",
+    "katar",
+    "qa",
+    "qatar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "République centrafricaine",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "centrafrique",
+    "rep centrafrique",
+    "republique",
+    "republique centrafricaine"
+   ],
+   "exact": [
+    "republique"
+   ]
+  },
+  {
+   "display": "République démocratique du Congo",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "rd congo",
+    "rd du congo",
+    "rdc",
+    "rep dem du congo",
+    "republique democratique du congo",
+    "zaire"
+   ],
+   "exact": [
+    "zaire"
+   ]
+  },
+  {
+   "display": "République dominicaine",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "dominicaine",
+    "rep dominicaine",
+    "republique dominicaine"
+   ],
+   "exact": [
+    "dominicaine"
+   ]
+  },
+  {
+   "display": "République du Congo",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "congo brazza",
+    "rc",
+    "republique du congo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "République populaire de Chine",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "chine",
+    "chine communiste",
+    "chine continentale",
+    "chine populaire",
+    "republique populaire de chine"
+   ],
+   "exact": [
+    "chine"
+   ]
+  },
+  {
+   "display": "Roumanie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "roum",
+    "roumanie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "royaume de Danemark",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "danemark",
+    "royaume de danemark",
+    "royaume du danemark"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Royaume des Pays-Bas",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "pay bas",
+    "royaume des pay bas"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Royaume-Uni",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "grande bretagne",
+    "r u",
+    "royaume uni",
+    "royaume uni de grande bretagne et d irlande du nord",
+    "royaume uni de grande bretagne et irlande du nord"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Russie",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "federation de russie",
+    "federation russe",
+    "ru",
+    "rus",
+    "russie"
+   ],
+   "exact": [
+    "russie"
+   ]
+  },
+  {
+   "display": "Rwanda",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du rwanda",
+    "republique rwandaise",
+    "rwanda"
+   ],
+   "exact": [
+    "republique rwandaise"
+   ]
+  },
+  {
+   "display": "Saint-Christophe-et-Niévès",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "federation de saint christophe et nieve",
+    "saint christophe et nevi",
+    "saint christophe et nieve",
+    "saint christopher et nevi",
+    "saint kitt et nevi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Marin",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique de saint marin",
+    "saint marin",
+    "serenissime republique de saint marin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Vincent-et-les-Grenadines",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "saint vincent et grenadine",
+    "saint vincent et les grenadine",
+    "svg",
+    "vc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Lucie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "sainte lucie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Salvador",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "el salvador",
+    "republique du salvador",
+    "salvador"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Samoa",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "etat independant des samoa",
+    "samoa",
+    "samoa occidentale",
+    "ws"
+   ],
+   "exact": [
+    "samoa"
+   ]
+  },
+  {
+   "display": "Sao Tomé-et-Principe",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "republique democratique de sao tome et principe",
+    "saint thoma et ile du prince",
+    "saint thoma et prince",
+    "sao tome e principe",
+    "sao tome et pr",
+    "sao tome et principe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sénégal",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "republique du senegal",
+    "senegal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Serbie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique de serbie",
+    "serbie"
+   ],
+   "exact": [
+    "serbie"
+   ]
+  },
+  {
+   "display": "Seychelles",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "repiblik sesel",
+    "republique des seychelle",
+    "sc",
+    "seychelle"
+   ],
+   "exact": [
+    "seychelle"
+   ]
+  },
+  {
+   "display": "Sierra Leone",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique de sierra leone",
+    "sierra leone",
+    "sl"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Singapour",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique de singapour",
+    "singapour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Slovaquie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique slovaque",
+    "sk",
+    "slovaquie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Slovénie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "carniole",
+    "republique de slovenie",
+    "slovenie"
+   ],
+   "exact": [
+    "carniole"
+   ]
+  },
+  {
+   "display": "Somalie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique federale de somalie",
+    "somalie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Soudan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du soudan",
+    "sd",
+    "soudan"
+   ],
+   "exact": [
+    "soudan"
+   ]
+  },
+  {
+   "display": "Soudan du Sud",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du soudan du sud",
+    "soudan du sud",
+    "sud soudan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sri Lanka",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ceylan",
+    "ile de ceylan",
+    "republique socialiste democratique de sri lanka",
+    "serendib",
+    "sri lanka",
+    "taprobane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Suède",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "royaume de suede",
+    "suede"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Suisse",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "confederation helvetique",
+    "confederation suisse",
+    "helvetie",
+    "suisse"
+   ],
+   "exact": [
+    "suisse"
+   ]
+  },
+  {
+   "display": "Suriname",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du surinam",
+    "republique du suriname",
+    "surinam",
+    "suriname"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Syrie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "republique arabe syrienne",
+    "syrie"
+   ],
+   "exact": [
+    "syrie"
+   ]
+  },
+  {
+   "display": "Tadjikistan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du tadjikistan",
+    "tadjikistan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Taïwan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chine nationaliste",
+    "formose",
+    "republique de chine",
+    "republique nationaliste de chine",
+    "taiwan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tanzanie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique unie de tanzanie",
+    "tanzanie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tchad",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du tchad",
+    "tchad"
+   ],
+   "exact": [
+    "tchad"
+   ]
+  },
+  {
+   "display": "Tchéquie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "rep tcheque",
+    "republique tcheque",
+    "tcheque rep",
+    "tchequie"
+   ],
+   "exact": [
+    "tchequie"
+   ]
+  },
+  {
+   "display": "Thaïlande",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "royaume de thailande",
+    "th",
+    "thail",
+    "thailande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Timor oriental",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique democratique du timor leste",
+    "republique democratique du timor oriental",
+    "timor oriental"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Togo",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique togolaise",
+    "togo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tonga",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "royaume des tonga",
+    "tonga"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trinité-et-Tobago",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique de trinidad et tobago",
+    "republique de trinite et tobago",
+    "trinidad et tobago",
+    "trinite et tobago"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tunisie",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "republique tunisienne",
+    "tun",
+    "tunisie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Turkménistan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "turkmenie",
+    "turkmenistan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Turquie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "republique de turquie",
+    "republique turque",
+    "turq",
+    "turquie"
+   ],
+   "exact": [
+    "turquie"
+   ]
+  },
+  {
+   "display": "Tuvalu",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "etat des tuvalu",
+    "tuvalu",
+    "tv"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ukraine",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "ukr",
+    "ukraine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Uruguay",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "republique orientale de l uruguay",
+    "uruguay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vanuatu",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "republique de vanuatu",
+    "republique du vanuatu",
+    "vanuatu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vatican",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cite du vatican",
+    "etat de la cite du vatican",
+    "vatican"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Venezuela",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "republique bolivarienne du venezuela",
+    "venezuela"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vietnam",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "republique socialiste du vietnam",
+    "viet nam",
+    "vietnam"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yémen",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du yemen",
+    "yemen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zambie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique de zambie",
+    "zambie"
+   ],
+   "exact": [
+    "republique de zambie",
+    "zambie"
+   ]
+  },
+  {
+   "display": "Zimbabwe",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "republique du zimbabwe",
+    "zimbabwe"
+   ],
+   "exact": []
+  }
+ ]
+}

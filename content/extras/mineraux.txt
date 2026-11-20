@@ -1,0 +1,25 @@
+# Réponses que tout le monde donnera, absentes ou mal nommées dans Wikidata. Format : libellé | alias
+or | or natif
+argent | argent natif
+cuivre | cuivre natif
+platine | platine natif
+mercure | mercure natif
+fer natif | fer
+soufre natif | soufre
+# groupes, roches et gemmes organiques : pas des espèces minérales, mais cités comme « pierres »
+mica
+feldspath
+lapis-lazuli | lapis lazuli
+ambre
+perle
+silex
+obsidienne
+jaspe
+onyx
+calcédoine
+cristal de roche
+œil-de-tigre | oeil de tigre
+pierre de lune
+aigue-marine
+grenat
+tourmaline

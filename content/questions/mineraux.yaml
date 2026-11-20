@@ -1,0 +1,19 @@
+id: mineraux
+prompt: "Cite un minéral ou une pierre précieuse"
+categorie: sciences
+sources:
+  - type: wikidata_sparql
+    query: |
+      # espèces minérales et gemmes (rubis, améthyste… sont des variétés, pas des espèces)
+      SELECT ?item ?label ?alias ?sitelinks WHERE {
+        { ?item wdt:P31 wd:Q12089225 } UNION { ?item wdt:P31|wdt:P279 wd:Q83437 }
+        ?item rdfs:label ?label ; wikibase:sitelinks ?sitelinks .
+        ?article schema:about ?item ; schema:isPartOf <https://fr.wikipedia.org/> .
+        FILTER(LANG(?label) = "fr")
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+      }
+  - type: liste_manuelle
+    fichier: extras/mineraux.txt
+rarete: sitelinks
+pepite: "béryl"  # à valider : le minéral qui donne son nom au béryl rouge du jeu
+quantiles: [0.985, 0.96, 0.88, 0.70]  # longue liste : charbon et fer réservés aux réponses vraiment courantes
