@@ -3,9 +3,11 @@
 import datetime as dt
 import uuid
 from collections import Counter
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from fastapi import Depends, FastAPI, Header, HTTPException
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 from sqlalchemy import func, select, update
 from sqlalchemy.dialects.postgresql import insert
@@ -302,3 +304,10 @@ def me(pid: uuid.UUID = Depends(player), s=Depends(db)):
         "best_meters": max(per_day.values(), default=0) * config.METERS_PER_POINT,
         "collection": {t: n for t, n in Counter(tier for _, tier, _ in rows if tier).items()},
     }
+
+
+# Le site construit (web/dist) est servi par la même origine que l'API : une seule image, pas de CORS.
+# Monté en dernier pour que les routes /api passent avant.
+WEB_DIST = Path(__file__).resolve().parent.parent / "web" / "dist"
+if WEB_DIST.is_dir():
+    app.mount("/", StaticFiles(directory=WEB_DIST, html=True), name="web")

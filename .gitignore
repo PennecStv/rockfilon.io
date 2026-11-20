@@ -8,3 +8,4 @@ node_modules/
 web/dist/
 .taste-skill/
 .playwright-mcp/
+.tools/
