@@ -7,6 +7,8 @@ import csv
 import datetime as dt
 import hashlib
 import json
+import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -30,17 +32,26 @@ STOPWORDS = {"de", "du", "des", "d", "la", "le", "l", "a", "au", "en", "et", "su
 # --- récupération (avec cache disque) ------------------------------------------------------------
 
 
-def _fetch(url: str) -> bytes:
-    with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=120) as r:
-        return r.read()
+def _fetch(url: str, attempts: int = 4) -> bytes:
+    for i in range(attempts):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=120) as r:
+                return r.read()
+        except (urllib.error.HTTPError, TimeoutError) as e:
+            retriable = isinstance(e, TimeoutError) or e.code in (429, 503)
+            if not retriable or i == attempts - 1:
+                raise
+            wait = getattr(e, "headers", None) and e.headers.get("Retry-After")
+            time.sleep(int(wait or 10 * (i + 1)))  # limite de débit / lenteur de Wikimedia
 
 
 def _max(a, b):
     return b if a is None else a if b is None else max(a, b)
 
 
-def _item(label, aliases=(), article=None, sitelinks=None, trusted=False):
-    return {"label": label, "aliases": set(aliases), "article": article, "sitelinks": sitelinks, "trusted": trusted}
+def _item(label, aliases=(), article=None, sitelinks=None, trusted=False, qid=None, enrich_only=False):
+    label = re.sub(r"\s*\([^)]*\)$", "", label)  # « Requinto (cordes) » -> « Requinto »
+    return {"label": label, "aliases": set(aliases), "article": article, "sitelinks": sitelinks, "trusted": trusted, "qid": qid, "enrich_only": enrich_only}
 
 
 def wikidata_sparql(query: str) -> list[dict]:
@@ -53,7 +64,7 @@ def wikidata_sparql(query: str) -> list[dict]:
     items: dict[str, dict] = {}
     for row in json.loads(cache.read_bytes())["results"]["bindings"]:
         v = {k: x["value"] for k, x in row.items()}
-        it = items.setdefault(v["item"], _item(v["label"], sitelinks=0))
+        it = items.setdefault(v["item"], _item(v["label"], sitelinks=0, qid=v["item"].rsplit("/", 1)[1]))
         if "alias" in v:
             it["aliases"].add(v["alias"])
         if "article" in v:
@@ -121,10 +132,12 @@ def pageviews(titles: set[str]) -> dict[str, int]:
 
 
 def merge(items: list[dict], exclure: list[str], alias: dict[str, list[str]], log: dict) -> list[dict]:
-    """Dédoublonne par forme canonique. Ordre de priorité : libellés > alias de confiance > alias Wikidata.
+    """Dédoublonne par forme canonique.
 
-    Un alias de confiance (liste manuelle, YAML) absorbe la réponse qui porte cette forme
-    (ex. « onzième côte » rangée sous « côte ») ; un alias Wikidata ne fait que s'ajouter s'il est libre.
+    Ordre : listes manuelles (libellés puis alias) > libellés Wikidata > alias du YAML > alias Wikidata.
+    Un libellé Wikidata déjà connu comme forme d'une réponse s'y fusionne (« onzième côte » -> « côte »),
+    un alias du YAML absorbe la réponse qui porte cette forme, un alias Wikidata ne s'ajoute que s'il est libre.
+    Une source `enrichir_seulement` n'ajoute jamais de réponse, seulement des alias.
     """
     excluded = {normalize(x) for x in exclure}
     answers: list[dict | None] = []
@@ -140,45 +153,52 @@ def merge(items: list[dict], exclure: list[str], alias: dict[str, list[str]], lo
         log["absorbees"].append(f"{b['display']} → {a['display']}")
         answers[src] = None
 
-    kept = [it for it in sorted(items, key=lambda it: not it["trusted"]) if normalize(it["label"]) not in excluded]
-    log["exclues"] = sorted({it["label"] for it in items} - {it["label"] for it in kept})
-    for it in kept:  # 1. libellés
+    def add_form(key: str, form: str, steal: bool):
+        idx, f = owner[key], normalize(form)
+        if not f or f in excluded or owner.get(f) == idx:
+            return
+        if f in owner:
+            if not steal:
+                log["alias_ignores"].append(f"« {f} » ({answers[idx]['display']}) déjà pris par {answers[owner[f]]['display']}")
+                return
+            absorb(idx, owner[f])
+        owner[f] = idx
+        answers[idx]["forms"].add(f)
+
+    def add_label(it: dict) -> bool:
         key = normalize(it["label"])
         if key in owner:
             a = answers[owner[key]]
             a["sitelinks"] = _max(a["sitelinks"], it["sitelinks"])
             a["article"] = a["article"] or it["article"]
-            log["fusions"].append(f"{it['label']} = {a['display']}")
+            if it["qid"] not in a["qids"]:  # le même élément Wikidata vu par deux requêtes n'est pas un doublon
+                log["fusions"].append(f"{it['label']} ({it['qid'] or 'liste'}) = {a['display']}")
+            a["qids"].add(it["qid"])
+        elif it["enrich_only"]:
+            log["hors_liste"].append(it["label"])
+            return False
         else:
             owner[key] = len(answers)
-            answers.append({"display": it["label"], "forms": {key}, "article": it["article"], "sitelinks": it["sitelinks"]})
+            answers.append(
+                {"display": it["label"], "forms": {key}, "article": it["article"], "sitelinks": it["sitelinks"], "qids": {it["qid"]}}
+            )
+        return True
 
-    trusted = [(normalize(it["label"]), it["aliases"]) for it in kept if it["trusted"]]
+    kept = [it for it in items if normalize(it["label"]) not in excluded]
+    log["exclues"] = sorted({it["label"] for it in items} - {it["label"] for it in kept})
+    for it in (it for it in kept if it["trusted"]):
+        add_label(it)
+        for f in it["aliases"]:
+            add_form(normalize(it["label"]), f, steal=True)
+    wikidata = [it for it in kept if not it["trusted"] and add_label(it)]
     for label, forms in alias.items():  # alias ajoutés dans le YAML (ou par la CLI admin)
         if normalize(label) not in owner:
             raise ValueError(f"alias : réponse inconnue « {label} »")
-        trusted.append((normalize(label), set(forms)))
-    for key, forms in trusted:  # 2. alias de confiance
-        idx = owner[key]  # suit les absorptions déjà faites
-        for f in map(normalize, forms):
-            if f and f not in excluded:
-                if f in owner and owner[f] != idx:
-                    absorb(idx, owner[f])
-                owner[f] = idx
-                answers[idx]["forms"].add(f)
-
-    for it in kept:  # 3. alias Wikidata, seulement s'ils sont libres
-        if it["trusted"]:
-            continue
-        idx = owner[normalize(it["label"])]
-        for f in map(normalize, it["aliases"]):
-            if not f or f in excluded:
-                continue
-            if f in owner and owner[f] != idx:
-                log["alias_ignores"].append(f"« {f} » ({answers[idx]['display']}) déjà pris par {answers[owner[f]]['display']}")
-            else:
-                owner[f] = idx
-                answers[idx]["forms"].add(f)
+        for f in forms:
+            add_form(normalize(label), f, steal=True)
+    for it in wikidata:
+        for f in it["aliases"]:
+            add_form(normalize(it["label"]), f, steal=False)
     return [a for a in answers if a]
 
 
@@ -284,7 +304,7 @@ def build(qid: str) -> Path:
     items = []
     for src in spec["sources"]:
         if src["type"] == "wikidata_sparql":
-            items += wikidata_sparql(src["query"])
+            items += [it | {"enrich_only": src.get("enrichir_seulement", False)} for it in wikidata_sparql(src["query"])]
         elif src["type"] == "liste_manuelle":
             items += liste_manuelle(src["fichier"])
         else:
@@ -364,6 +384,7 @@ def write_report(spec: dict, answers: list[dict], exact: set[str], log: dict) ->
     md.append(_section("Réponses absorbées par un alias de confiance", log["absorbees"]))
     md.append(_section("Doublons fusionnés (même forme canonique)", log["fusions"]))
     md.append(_section("Alias Wikidata ignorés (déjà pris)", log["alias_ignores"]))
+    md.append(_section("Écartées : source d'enrichissement, absentes de la liste de référence", sorted(log["hors_liste"])))
     md.append(_section("Scores CSV sans réponse correspondante", log["scores_orphelins"]))
     md.append(_section("Exclues", log["exclues"]))
     md.append("\n## Exemples par palier (30 au plus, du plus connu au plus rare)\n")

@@ -24,7 +24,20 @@ def test_merge_dedups_by_canonical_form_and_trusts_manual_aliases():
     assert {"cote", "onzieme cote", "cote flottante", "cote humaine"} <= cote["forms"]
     assert cote["sitelinks"] == 110 and cote["article"] == "Côte_(anatomie)"
     assert "omoplate" in by_display["scapula"]["forms"]
-    assert log["exclues"] == ["os long"] and log["absorbees"] == ["onzième côte → côte"]
+    assert log["exclues"] == ["os long"] and log["absorbees"] == []
+
+
+def test_yaml_alias_absorbs_a_wikidata_answer_and_enrich_only_adds_nothing():
+    items = [
+        _item("guitare basse", sitelinks=88),
+        _item("basse électrique", ["basse"], sitelinks=19),
+        _item("tibia", ["os du tibia"], enrich_only=True),
+        _item("surface du calcanéus", enrich_only=True),
+    ]
+    answers, log = _merge(items, alias={"guitare basse": ["basse électrique"]})
+    assert [a["display"] for a in answers] == ["guitare basse"]
+    assert answers[0]["forms"] == {"guitare basse", "basse electrique", "basse"}
+    assert log["hors_liste"] == ["tibia", "surface du calcanéus"]
 
 
 def test_untrusted_alias_never_steals_a_form():
