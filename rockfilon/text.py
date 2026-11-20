@@ -5,6 +5,7 @@ import unicodedata
 
 _LIGATURES = str.maketrans({"œ": "oe", "Œ": "oe", "æ": "ae", "Æ": "ae"})
 _NON_ALNUM = re.compile(r"[^a-z0-9]+")
+_ABBREV = {"st": "saint", "ste": "sainte"}
 _ARTICLE = re.compile(r"^(?:de la|le|la|les|l|un|une|des|du) ")
 
 
@@ -27,7 +28,7 @@ def normalize(text: str) -> str:
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = _NON_ALNUM.sub(" ", s).strip()
     s = _ARTICLE.sub("", s, count=1) or s
-    return " ".join(_singular(w) for w in s.split())
+    return " ".join(_singular(_ABBREV.get(w, w)) for w in s.split())
 
 
 def tolerance(length: int) -> int:

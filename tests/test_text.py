@@ -19,6 +19,8 @@ from rockfilon.text import distance, match, normalize, tolerance
         ("bijoux", "bijou"),
         ("Œsophage", "oesophage"),
         ("ex æquo", "ex aequo"),
+        ("St-Malo", "Saint-Malo"),
+        ("Ste Anne d'Auray", "Sainte-Anne-d'Auray"),
     ],
 )
 def test_normalize_equivalences(a, b):
