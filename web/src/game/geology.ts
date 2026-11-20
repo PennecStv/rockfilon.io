@@ -6,19 +6,18 @@ export type Stratum = {
   name: string;
   from: number; // mètres
   to: number;
-  top: string; // teinte en haut de la couche, assombrie vers le bas
-  bottom: string;
+  tones: [string, string, string, string]; // reflet, puis trois tons du haut vers le bas de la couche
   pattern: PatternId;
 };
 
 export const STRATA: Stratum[] = [
-  { name: "Terre végétale", from: 0, to: 60, top: "#4b3321", bottom: "#352416", pattern: "humus" },
-  { name: "Argile", from: 60, to: 250, top: "#7a4329", bottom: "#56301e", pattern: "argile" },
-  { name: "Calcaire", from: 250, to: 600, top: "#7b7361", bottom: "#5c5547", pattern: "calcaire" },
-  { name: "Grès", from: 600, to: 1000, top: "#86603a", bottom: "#634427", pattern: "gres" },
-  { name: "Schiste", from: 1000, to: 1500, top: "#3e4a58", bottom: "#29333f", pattern: "schiste" },
-  { name: "Granite", from: 1500, to: 2200, top: "#574b50", bottom: "#3a3236", pattern: "granite" },
-  { name: "Roche profonde", from: 2200, to: 3400, top: "#3b1712", bottom: "#6a1a0c", pattern: "magma" },
+  { name: "Terre végétale", from: 0, to: 60, tones: ["#6b4a30", "#4f3622", "#402b1b", "#322115"], pattern: "humus" },
+  { name: "Argile", from: 60, to: 250, tones: ["#a8603a", "#8a4a2c", "#743d24", "#5e311c"], pattern: "argile" },
+  { name: "Calcaire", from: 250, to: 600, tones: ["#a39a84", "#857d69", "#706958", "#5b5547"], pattern: "calcaire" },
+  { name: "Grès", from: 600, to: 1000, tones: ["#b8844d", "#98693c", "#7e5631", "#644326"], pattern: "gres" },
+  { name: "Schiste", from: 1000, to: 1500, tones: ["#62738a", "#485668", "#3a4655", "#2c3642"], pattern: "schiste" },
+  { name: "Granite", from: 1500, to: 2200, tones: ["#94787f", "#685b60", "#54494d", "#40373b"], pattern: "granite" },
+  { name: "Roche profonde", from: 2200, to: 3400, tones: ["#c2451c", "#4d1c14", "#5a1d10", "#6e1f0c"], pattern: "magma" },
 ];
 
 export const stratumAt = (m: number) => STRATA.find((s) => m < s.to) ?? STRATA[STRATA.length - 1];
@@ -34,7 +33,7 @@ export const ORE_NAMES: Record<Tier, string> = {
   6: "Béryl rouge",
 };
 
-/** Ondulation déterministe d'une limite de couche : les strates ne sont jamais parfaitement plates. */
+/** Ondulation déterministe d'une limite de couche (en px écran) : les strates ne sont jamais plates. */
 export function wave(x: number, seed: number, amplitude: number) {
   return amplitude * (Math.sin(x / 140 + seed * 1.7) * 0.6 + Math.sin(x / 53 + seed * 3.1) * 0.4);
 }
