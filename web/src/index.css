@@ -55,6 +55,9 @@
     outline: 3px solid var(--ring);
     outline-offset: 2px;
   }
+  * {
+    scrollbar-color: #4a3a2c transparent;
+  }
   ::selection {
     background: var(--primary);
     color: var(--primary-foreground);

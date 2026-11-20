@@ -7,7 +7,7 @@ import uuid
 from sqlalchemy import ARRAY, DateTime, ForeignKey, Index, Text, UniqueConstraint, create_engine
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, sessionmaker
 
-DATABASE_URL = os.environ.get("DATABASE_URL", "postgresql+psycopg://rockfilon:rockfilon@localhost:5432/rockfilon")
+DATABASE_URL = os.environ.get("DATABASE_URL", "postgresql+psycopg://rockfilon:rockfilon@127.0.0.1:5432/rockfilon")
 engine = create_engine(DATABASE_URL, pool_pre_ping=True)
 Session = sessionmaker(engine, expire_on_commit=False)
 

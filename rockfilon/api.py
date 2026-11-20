@@ -233,9 +233,10 @@ def day_summary(s, pid: uuid.UUID, d: dt.date, require_finished: bool) -> dict:
         n = sum(counts.values())
         pct = lambda aid: round(100 * counts.get(aid, 0) / n) if n else 0  # noqa: E731
         pepite_id = next((aid for aid, (_, tier) in by_id.items() if tier == config.PEPITE_TIER), None)
-        found = [aid for aid in counts if aid in by_id and aid != pepite_id]
-        found.sort(key=lambda aid: (-final_tier(by_id[aid][1], counts[aid], n), counts[aid]))
         mine = atts.get(i)
+        # ce que les AUTRES ont trouvé : ni la pépite (révélée à part) ni sa propre réponse
+        found = [aid for aid in counts if aid in by_id and aid not in (pepite_id, mine and mine.answer_id)]
+        found.sort(key=lambda aid: (-final_tier(by_id[aid][1], counts[aid], n), counts[aid]))
         questions.append(
             {
                 "prompt": s.scalar(select(Question.prompt).where(Question.id == qid)),

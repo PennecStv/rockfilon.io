@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 $root = Split-Path $PSScriptRoot -Parent
 Set-Location $root
 
-docker compose up -d --build api  # site construit + API sur http://localhost:8000
+docker compose up -d --build api  # site construit + API sur http://127.0.0.1:8000
 if ($LASTEXITCODE -ne 0) { throw "docker compose a échoué (Docker Desktop est-il lancé ?)" }
 
 $cf = Join-Path $root ".tools\cloudflared.exe"
@@ -19,4 +19,4 @@ if ($sig.Status -ne "Valid" -or $sig.SignerCertificate.Subject -notmatch 'O="Clo
     throw "cloudflared.exe n'est pas signé par Cloudflare : supprimé."
 }
 
-& $cf tunnel --no-autoupdate --url http://localhost:8000
+& $cf tunnel --no-autoupdate --url http://127.0.0.1:8000

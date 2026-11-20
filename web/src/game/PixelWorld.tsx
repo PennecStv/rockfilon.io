@@ -1,3 +1,4 @@
+import { motion, useReducedMotion } from "motion/react";
 import { useEffect, useRef } from "react";
 import { STRATA, wave, type PatternId, type Tier } from "./geology";
 import { bayer, hash, mix, rgb, shade, type RGB, type SpriteDef } from "./pixel";
@@ -17,6 +18,8 @@ type Props = {
   lamp: number; // 1 = lampe pleine, 0 = éteinte : c'est le chrono
   panelTop: number; // haut du front de taille (px écran)
   labels: boolean; // noms des couches sur le côté (grands écrans)
+  cxRatio?: number; // position horizontale du puits
+  burst?: { key: number; tier: Tier } | null; // éclats au dernier minerai trouvé
 };
 
 const SKY = ["#0a0d13", "#0f131c", "#151b26", "#1d2532"].map(rgb);
@@ -78,14 +81,14 @@ function drawSprite(ctx: CanvasRenderingContext2D, def: SpriteDef, x0: number, y
 }
 
 /** La coupe géologique en pixel art : dessinée en basse résolution puis agrandie sans lissage. */
-export function PixelWorld({ w, h, px, surface, scale, depth, finds, lamp, panelTop, labels }: Props) {
+export function PixelWorld({ w, h, px, surface, scale, depth, finds, lamp, panelTop, labels, cxRatio = 0.5, burst }: Props) {
   const ref = useRef<HTMLCanvasElement>(null);
   const W = Math.ceil(w / px);
   const H = Math.ceil(h / px);
   const S = Math.round(surface / px);
   const k = scale / px; // pixels de scène par mètre
   const Y = (m: number) => S + m * k;
-  const cx = Math.floor(W / 2);
+  const cx = Math.floor(W * cxRatio);
   const B = Math.round(Y(depth)); // fond du puits
   const lampY = B - 3;
 
@@ -210,17 +213,50 @@ export function PixelWorld({ w, h, px, surface, scale, depth, finds, lamp, panel
           </span>
         </div>
       ))}
+      {burst && ores.length > 0 && (
+        <Shards key={burst.key} tier={burst.tier} px={px} x={(ores[ores.length - 1].x + ORE / 2) * px} y={(ores[ores.length - 1].y + ORE / 2) * px} />
+      )}
       {labels &&
         STRATA.map((s) => {
           const top = Y(s.from) * px;
           const height = (Math.min(s.to, 3000) - s.from) * scale;
-          if (height < 30 || top > panelTop - 30) return null;
+          const y = top + Math.min(height / 2, 140) - 12;
+          if (height < 30 || y > panelTop - 40) return null; // jamais sur le front de taille
           return (
-            <p key={s.name} className="absolute right-10 text-xl text-foreground/85" style={{ top: top + Math.min(height / 2, 140) - 12 }}>
+            <p key={s.name} className="absolute right-10 text-xl text-foreground/85" style={{ top: y }}>
               {s.name} <span className="text-muted-foreground tabular-nums">{s.from.toLocaleString("fr-FR")} m</span>
             </p>
           );
         })}
     </div>
   );
+}
+
+const SHARD_COLORS: Record<Tier, [string, string]> = {
+  1: ["#45414c", "#77727f"],
+  2: ["#c8733f", "#eba574"],
+  3: ["#f7d44c", "#fff4b8"],
+  4: ["#2fd07e", "#9bf5c6"],
+  5: ["#bdeeff", "#ffffff"],
+  6: ["#ff3f76", "#ffd3df"],
+};
+
+/** Éclats de roche et de gemme au coup de pioche ; plus nombreux pour le béryl rouge. */
+function Shards({ x, y, tier, px }: { x: number; y: number; tier: Tier; px: number }) {
+  if (useReducedMotion()) return null;
+  const n = tier === 6 ? 20 : 10;
+  return Array.from({ length: n }, (_, i) => {
+    const a = (i / n) * Math.PI * 2 + hash(i, tier);
+    const dist = (28 + hash(i, 7) * 48) * (tier === 6 ? 1.7 : 1);
+    return (
+      <motion.span
+        key={i}
+        className="absolute"
+        style={{ left: x, top: y, width: px * 2, height: px * 2, background: SHARD_COLORS[tier][i % 2] }}
+        initial={{ x: 0, y: 0, opacity: 1 }}
+        animate={{ x: Math.cos(a) * dist, y: [0, Math.sin(a) * dist - 16, Math.sin(a) * dist + 40], opacity: [1, 1, 0] }}
+        transition={{ duration: 0.8, ease: "easeOut" }}
+      />
+    );
+  });
 }

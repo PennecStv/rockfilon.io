@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: { alias: { "@": path.resolve(__dirname, "src") } },
   // en dev, l'API FastAPI tourne à côté (docker compose up api)
-  server: { proxy: { "/api": process.env.API_URL ?? "http://localhost:8000" } },
+  server: { proxy: { "/api": process.env.API_URL ?? "http://127.0.0.1:8000" } },
 });

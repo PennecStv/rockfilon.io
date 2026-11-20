@@ -6,11 +6,11 @@ import pytest
 from fastapi.testclient import TestClient
 from sqlalchemy import text
 
-from rockfilon import api
+from rockfilon import api, config
 from rockfilon.models import Answer, Base, Question, Session, engine
 from rockfilon.text import normalize
 
-T0 = dt.datetime(2026, 12, 3, 9, 0, tzinfo=dt.UTC)  # 3e jour après LAUNCH_DATE (1er déc.)
+T0 = dt.datetime(2026, 12, 3, 9, 0, tzinfo=dt.UTC)
 SECRET = ["clavicule", "os hyoïde", "radius", "os hyoide"]
 
 
@@ -56,7 +56,7 @@ def play(c, idx, text):
 def test_full_game_then_results_and_stats():
     c = player()
     daily = c.get("/api/daily").json()
-    assert daily["number"] == 3 and daily["questions"] == 7
+    assert daily["number"] == (T0.date() - config.LAUNCH_DATE).days + 1 and daily["questions"] == 7
     assert [p["status"] for p in daily["progress"]] == ["todo"] * 7
     answers = ["Fémur", "femru", "radis", "radius", "os hyoïde", "n'importe quoi", "clavicule"]
     got = [play(c, i, a).json() for i, a in enumerate(answers)]
@@ -67,6 +67,7 @@ def test_full_game_then_results_and_stats():
     assert res["points"] == 5 + 5 + 85 + 100 + 35
     assert res["questions"][0]["pepite"]["display"] == "os hyoïde"
     assert res["questions"][3]["mine"]["raw"] == "radius"
+    assert res["questions"][0]["rare_finds"] == []  # seul joueur : personne d'autre n'a rien trouvé
     me = c.get("/api/me").json()
     assert me["streak"] == 1 and me["best_meters"] == res["meters"] and me["collection"]["6"] == 1
 
@@ -142,5 +143,5 @@ def test_archive_only_shows_past_days(clock):
     assert c.get("/api/archive/2026-12-03").status_code == 403
     clock["t"] += dt.timedelta(days=1)
     past = c.get("/api/archive").json()
-    assert [d["number"] for d in past] == [3]
+    assert [d["number"] for d in past] == [(T0.date() - config.LAUNCH_DATE).days + 1]
     assert c.get("/api/archive/2026-12-03").json()["questions"][0]["pepite"]["display"] == "os hyoïde"

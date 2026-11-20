@@ -176,3 +176,38 @@ export const HEADFRAME: SpriteDef = {
   ],
   colors: { s: "#59616f", o: "#363c47", w: "#8b93a1" },
 };
+
+// Réponse ratée : un caillou fendu (aucun minerai).
+export const MISS: SpriteDef = {
+  rows: [
+    "............",
+    "............",
+    "............",
+    "....oooo....",
+    "...occcco...",
+    "..occdcccoo.",
+    ".occcdccccco",
+    ".occdcdcccco",
+    "oocdcccdccco",
+    "occcccccccco",
+    ".oooooooooo.",
+    "............",
+  ],
+  colors: { o: "#24201c", c: "#6f665c", d: "#2e2924" },
+};
+
+export const SPEAKER_OFF: SpriteDef = {
+  rows: [
+    "....s.......",
+    "...ss.......",
+    "..sss.......",
+    "ssssss.s...s",
+    "ssssss..s.s.",
+    "ssssss...s..",
+    "ssssss..s.s.",
+    "..sss..s...s",
+    "...ss.......",
+    "....s.......",
+  ],
+  colors: { s: "currentColor" },
+};

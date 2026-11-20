@@ -6,7 +6,7 @@ QUESTIONS_PER_DAY = 7
 SECONDS_PER_QUESTION = 25
 GRACE_SECONDS = 2  # marge réseau tolérée par le serveur
 TIMEZONE = "Europe/Paris"
-LAUNCH_DATE = dt.date(2026, 12, 1)  # plongée n° 1 ; les numéros suivent le calendrier
+LAUNCH_DATE = dt.date(2026, 11, 20)  # plongée n° 1 (premiers tests) ; les numéros suivent le calendrier
 
 METERS_PER_POINT = 4
 
