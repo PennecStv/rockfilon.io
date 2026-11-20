@@ -1,9 +1,12 @@
 """Tous les réglages du jeu au même endroit (API, pipeline et front via /api/daily)."""
 
+import datetime as dt
+
 QUESTIONS_PER_DAY = 7
 SECONDS_PER_QUESTION = 25
 GRACE_SECONDS = 2  # marge réseau tolérée par le serveur
 TIMEZONE = "Europe/Paris"
+LAUNCH_DATE = dt.date(2026, 12, 1)  # plongée n° 1 ; les numéros suivent le calendrier
 
 METERS_PER_POINT = 4
 

@@ -309,6 +309,8 @@ def build(qid: str) -> Path:
             items += liste_manuelle(src["fichier"])
         else:
             raise ValueError(f"source inconnue : {src['type']}")
+    if (CONTENT / "corrections" / f"{qid}.txt").exists():  # ajouts de `rockfilon add`, de confiance
+        items += liste_manuelle(f"corrections/{qid}.txt")
     answers = merge(items, spec.get("exclure", []), spec.get("alias", {}), log)
 
     scores_path = CONTENT / "scores" / f"{qid}.csv"
