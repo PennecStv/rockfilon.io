@@ -6,3 +6,5 @@ __pycache__/
 content/.cache/
 node_modules/
 web/dist/
+.taste-skill/
+.playwright-mcp/
