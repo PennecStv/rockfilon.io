@@ -1,0 +1,1254 @@
+{
+ "id": "os-du-corps-humain",
+ "prompt": "Cite un os du corps humain",
+ "categorie": "corps humain",
+ "built_at": "2026-11-20T16:18:44+00:00",
+ "answers": [
+  {
+   "display": "atlas",
+   "tier": 3,
+   "score": 0.76,
+   "forms": [
+    "atla",
+    "c1",
+    "os atla",
+    "premiere vertebre cervicale",
+    "vertebre c1"
+   ],
+   "exact": [
+    "vertebre c1"
+   ]
+  },
+  {
+   "display": "axis",
+   "tier": 4,
+   "score": 0.66,
+   "forms": [
+    "axi",
+    "axi vertebre",
+    "c2",
+    "deuxieme vertebre cervicale",
+    "os axi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bassin",
+   "tier": 2,
+   "score": 0.9,
+   "forms": [
+    "bassin",
+    "ceinture pelvienne",
+    "pelvi"
+   ],
+   "exact": [
+    "bassin"
+   ]
+  },
+  {
+   "display": "calcanéus",
+   "tier": 3,
+   "score": 0.8,
+   "forms": [
+    "calcaneu",
+    "calcaneum",
+    "os du talon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "capitatum",
+   "tier": 5,
+   "score": 0.48,
+   "forms": [
+    "capitatum",
+    "grand os",
+    "os capitatum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "carpe",
+   "tier": 3,
+   "score": 0.76,
+   "forms": [
+    "carpe",
+    "os du carpe"
+   ],
+   "exact": [
+    "carpe",
+    "os du carpe"
+   ]
+  },
+  {
+   "display": "clavicule",
+   "tier": 2,
+   "score": 0.95,
+   "forms": [
+    "clavicule"
+   ],
+   "exact": [
+    "clavicule"
+   ]
+  },
+  {
+   "display": "coccyx",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "cocci",
+    "coccy",
+    "coccyx",
+    "coxi",
+    "os coccyx",
+    "vertebre caudale",
+    "vertebre coccygienne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cornet nasal inférieur",
+   "tier": 4,
+   "score": 0.5,
+   "forms": [
+    "cornet inferieur",
+    "cornet nasal inferieur",
+    "os turbinatum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "côte",
+   "tier": 1,
+   "score": 0.98,
+   "forms": [
+    "cinquieme cote",
+    "cote",
+    "cote asternale",
+    "cote flottante",
+    "cote sternale",
+    "deuxieme cote",
+    "dixieme cote",
+    "douzieme cote",
+    "fausse cote",
+    "huitieme cote",
+    "k1",
+    "neuvieme cote",
+    "onzieme cote",
+    "premiere cote",
+    "quatrieme cote",
+    "septieme cote",
+    "sixieme cote",
+    "troisieme cote",
+    "vraie cote"
+   ],
+   "exact": []
+  },
+  {
+   "display": "côte cervicale",
+   "tier": 4,
+   "score": 0.5,
+   "forms": [
+    "cote cervicale",
+    "cote lombaire",
+    "cote lombale",
+    "cote surnumeraire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "crâne",
+   "tier": 1,
+   "score": 0.98,
+   "forms": [
+    "boite cranienne",
+    "calotte cranienne",
+    "calvaria",
+    "crane",
+    "neurocrane",
+    "neurocrane membraneu",
+    "os du crane",
+    "voute cranienne"
+   ],
+   "exact": [
+    "crane",
+    "os du crane"
+   ]
+  },
+  {
+   "display": "cuboïde",
+   "tier": 4,
+   "score": 0.55,
+   "forms": [
+    "cuboide",
+    "os cuboide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cunéiforme",
+   "tier": 4,
+   "score": 0.56,
+   "forms": [
+    "cuneiforme",
+    "os cuneiforme"
+   ],
+   "exact": [
+    "cuneiforme",
+    "os cuneiforme"
+   ]
+  },
+  {
+   "display": "cunéiforme intermédiaire",
+   "tier": 5,
+   "score": 0.35,
+   "forms": [
+    "cuneiforme intermediaire",
+    "deuxieme cuneiforme",
+    "os cuneiforme intermediaire",
+    "petit cuneiforme"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cunéiforme latéral",
+   "tier": 5,
+   "score": 0.38,
+   "forms": [
+    "cuneiforme lateral",
+    "moyen cuneiforme",
+    "os cuneiforme lateral",
+    "troisieme cuneiforme"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cunéiforme médial",
+   "tier": 5,
+   "score": 0.4,
+   "forms": [
+    "cuneiforme medial",
+    "grand cuneiforme",
+    "os cuneiforme medial",
+    "premier cuneiforme"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cyamella",
+   "tier": 5,
+   "score": 0.08,
+   "forms": [
+    "cyamella"
+   ],
+   "exact": []
+  },
+  {
+   "display": "enclume",
+   "tier": 3,
+   "score": 0.84,
+   "forms": [
+    "enclume",
+    "incu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "étrier",
+   "tier": 3,
+   "score": 0.85,
+   "forms": [
+    "etrier",
+    "stape"
+   ],
+   "exact": [
+    "etrier",
+    "stape"
+   ]
+  },
+  {
+   "display": "fabella",
+   "tier": 5,
+   "score": 0.25,
+   "forms": [
+    "fabella"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fémur",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "femur",
+    "os femur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fibula",
+   "tier": 2,
+   "score": 0.92,
+   "forms": [
+    "fibula",
+    "perone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hamatum",
+   "tier": 5,
+   "score": 0.46,
+   "forms": [
+    "hamatum",
+    "os crochu",
+    "os hamatum",
+    "os unciforme",
+    "unciforme"
+   ],
+   "exact": [
+    "os unciforme",
+    "unciforme"
+   ]
+  },
+  {
+   "display": "humérus",
+   "tier": 2,
+   "score": 0.94,
+   "forms": [
+    "humeral",
+    "humeru",
+    "os humeru",
+    "piece basale"
+   ],
+   "exact": [
+    "humeru"
+   ]
+  },
+  {
+   "display": "ilium",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "aile iliaque",
+    "ilion",
+    "ilium"
+   ],
+   "exact": [
+    "ilion"
+   ]
+  },
+  {
+   "display": "ischium",
+   "tier": 4,
+   "score": 0.6,
+   "forms": [
+    "ischion",
+    "ischium"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lunatum",
+   "tier": 4,
+   "score": 0.54,
+   "forms": [
+    "lunatum",
+    "os lunatum",
+    "os semi lunaire",
+    "semi lunaire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mandibule",
+   "tier": 2,
+   "score": 0.9,
+   "forms": [
+    "machoire",
+    "machoire inferieure",
+    "mandibule",
+    "maxillaire inferieur"
+   ],
+   "exact": [
+    "mandibule"
+   ]
+  },
+  {
+   "display": "manubrium",
+   "tier": 4,
+   "score": 0.55,
+   "forms": [
+    "manubrium",
+    "manubrium sternal",
+    "poignee du sternum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "marteau",
+   "tier": 3,
+   "score": 0.85,
+   "forms": [
+    "malleu",
+    "marteau"
+   ],
+   "exact": [
+    "malleu",
+    "marteau"
+   ]
+  },
+  {
+   "display": "métacarpien",
+   "tier": 3,
+   "score": 0.81,
+   "forms": [
+    "1e metacarpien",
+    "1er metecarpien",
+    "2eme metacarpien",
+    "3eme metacarpien",
+    "4eme metacarpien",
+    "5eme metacarpien",
+    "cinquieme metacarpien",
+    "deuxieme metacarpien",
+    "metacarpe",
+    "metacarpien",
+    "os du metacarpe",
+    "os metacarpien",
+    "premier metacarpien",
+    "quatrieme metacarpien",
+    "troisieme metacarpien"
+   ],
+   "exact": [
+    "cinquieme metacarpien",
+    "deuxieme metacarpien",
+    "metacarpe",
+    "metacarpien",
+    "os du metacarpe",
+    "os metacarpien",
+    "premier metacarpien",
+    "quatrieme metacarpien",
+    "troisieme metacarpien"
+   ]
+  },
+  {
+   "display": "métatarsien",
+   "tier": 3,
+   "score": 0.79,
+   "forms": [
+    "cinquieme metatarsien",
+    "cinquieme os du metatarse",
+    "cinquieme os metatarsien",
+    "deuxieme metatarsien",
+    "deuxieme os du metatarse",
+    "deuxieme os metatarsien",
+    "metatarse",
+    "metatarsien",
+    "os du metatarse",
+    "os metatarsien",
+    "premier metatarsien",
+    "premier os du metatarse",
+    "premier os metatarsien",
+    "quatrieme metatarsien",
+    "quatrieme os du metatarse",
+    "quatrieme os metatarsien",
+    "troisieme metatarsien",
+    "troisieme os du metatarse",
+    "troisieme os metatarsien"
+   ],
+   "exact": [
+    "cinquieme metatarsien",
+    "deuxieme metatarsien",
+    "metatarse",
+    "metatarsien",
+    "os du metatarse",
+    "os metatarsien",
+    "premier metatarsien",
+    "quatrieme metatarsien",
+    "troisieme metatarsien"
+   ]
+  },
+  {
+   "display": "os acromial",
+   "tier": 5,
+   "score": 0.12,
+   "forms": [
+    "os acromial",
+    "os acromiale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os central du carpe",
+   "tier": 5,
+   "score": 0.15,
+   "forms": [
+    "os central du carpe",
+    "os centrale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os coxal",
+   "tier": 3,
+   "score": 0.78,
+   "forms": [
+    "bassin osseu",
+    "coxal",
+    "iliaque",
+    "os coxal",
+    "os de la hanche",
+    "os iliaque",
+    "os illiaque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os ethmoïde",
+   "tier": 4,
+   "score": 0.58,
+   "forms": [
+    "ethmoide",
+    "os ethmoide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os frontal",
+   "tier": 3,
+   "score": 0.77,
+   "forms": [
+    "frontal",
+    "os frontal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os hyoïde",
+   "tier": 6,
+   "score": 0.45,
+   "forms": [
+    "hyoide",
+    "os hyoide",
+    "os lingual"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os incisif",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "os incisif",
+    "os intermaxillaire",
+    "premaxillaire",
+    "tubercule incisif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os intermétatarsien",
+   "tier": 5,
+   "score": 0.1,
+   "forms": [
+    "os intermetatarseum",
+    "os intermetatarsien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os interpariétal",
+   "tier": 5,
+   "score": 0.2,
+   "forms": [
+    "os de l inca",
+    "os epactal",
+    "os inca",
+    "os interparietal",
+    "os sus occipital"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os lacrymal",
+   "tier": 4,
+   "score": 0.55,
+   "forms": [
+    "lacrymal",
+    "os lacrimale",
+    "os lacrymal",
+    "ungui"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os maxillaire",
+   "tier": 3,
+   "score": 0.78,
+   "forms": [
+    "maxilla",
+    "maxillaire",
+    "maxillaire superieur",
+    "os maxillaire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os nasal",
+   "tier": 3,
+   "score": 0.76,
+   "forms": [
+    "os du nez",
+    "os nasal",
+    "os propre du nez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os naviculaire",
+   "tier": 4,
+   "score": 0.52,
+   "forms": [
+    "naviculaire",
+    "os naviculaire",
+    "os scaphoide du pied",
+    "scaphoide tarsien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os naviculaire accessoire",
+   "tier": 5,
+   "score": 0.18,
+   "forms": [
+    "os naviculaire accessoire",
+    "os tibial externe",
+    "os tibiale externum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os occipital",
+   "tier": 4,
+   "score": 0.72,
+   "forms": [
+    "occipital",
+    "os occipital"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os odontoïde",
+   "tier": 5,
+   "score": 0.1,
+   "forms": [
+    "os odontoide",
+    "os odontoideum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os palatin",
+   "tier": 4,
+   "score": 0.54,
+   "forms": [
+    "os palatin",
+    "palatin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os pariétal",
+   "tier": 4,
+   "score": 0.72,
+   "forms": [
+    "os parietal",
+    "parietal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os péronéen",
+   "tier": 5,
+   "score": 0.15,
+   "forms": [
+    "os peroneen",
+    "os peroneum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os sésamoïde",
+   "tier": 4,
+   "score": 0.58,
+   "forms": [
+    "os sesamoide",
+    "sesamoide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os sphénoïde",
+   "tier": 4,
+   "score": 0.6,
+   "forms": [
+    "os sphenoide",
+    "sphenoide"
+   ],
+   "exact": [
+    "sphenoide"
+   ]
+  },
+  {
+   "display": "os styloïde",
+   "tier": 5,
+   "score": 0.12,
+   "forms": [
+    "os styloide",
+    "os styloideum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os supranaviculaire",
+   "tier": 5,
+   "score": 0.08,
+   "forms": [
+    "os supranaviculaire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os suprasternal",
+   "tier": 5,
+   "score": 0.08,
+   "forms": [
+    "os suprasternal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os temporal",
+   "tier": 3,
+   "score": 0.75,
+   "forms": [
+    "os petreu",
+    "os temporal",
+    "rocher",
+    "temporal"
+   ],
+   "exact": [
+    "rocher",
+    "temporal"
+   ]
+  },
+  {
+   "display": "os trigone",
+   "tier": 5,
+   "score": 0.22,
+   "forms": [
+    "astragale accessoire",
+    "astragale surnumeraire",
+    "os trigone",
+    "os trigonum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os vésalien",
+   "tier": 5,
+   "score": 0.1,
+   "forms": [
+    "os vesalianum",
+    "os vesalien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os wormien",
+   "tier": 5,
+   "score": 0.32,
+   "forms": [
+    "os medio palatin",
+    "os sutural",
+    "os wormien",
+    "os wormien enchasse",
+    "os wormien endocranien",
+    "os wormien exocranien",
+    "os wormien fal",
+    "os wormien fontanellaire",
+    "os wormien glabellaire",
+    "os wormien insule",
+    "os wormien obelique",
+    "os wormien palatin",
+    "os wormien sutural",
+    "os wormien vrai",
+    "osselet de gonthier d andernach"
+   ],
+   "exact": []
+  },
+  {
+   "display": "os zygomatique",
+   "tier": 4,
+   "score": 0.64,
+   "forms": [
+    "malaire",
+    "os de la joue",
+    "os de la pommette",
+    "os jugal",
+    "os malaire",
+    "os zygomatique",
+    "pommette",
+    "zygoma",
+    "zygomatique"
+   ],
+   "exact": [
+    "malaire"
+   ]
+  },
+  {
+   "display": "osselet",
+   "tier": 3,
+   "score": 0.8,
+   "forms": [
+    "chaine des osselet",
+    "chaine ossiculaire",
+    "osselet",
+    "osselet auditif",
+    "osselet de l oreille",
+    "osselet de l ouie",
+    "ossicule"
+   ],
+   "exact": []
+  },
+  {
+   "display": "patella",
+   "tier": 2,
+   "score": 0.94,
+   "forms": [
+    "patella",
+    "rotule"
+   ],
+   "exact": [
+    "patella",
+    "rotule"
+   ]
+  },
+  {
+   "display": "phalange",
+   "tier": 2,
+   "score": 0.91,
+   "forms": [
+    "os des doigt de la main",
+    "os des doigt du pied",
+    "phalange",
+    "phalange de l annulaire",
+    "phalange de l auriculaire",
+    "phalange de l index",
+    "phalange de la main",
+    "phalange des doigt de la main",
+    "phalange des doigt du pied",
+    "phalange des orteil",
+    "phalange du gro orteil",
+    "phalange du majeur",
+    "phalange du mediu",
+    "phalange du petit orteil",
+    "phalange du pied",
+    "phalange du pouce"
+   ],
+   "exact": [
+    "phalange"
+   ]
+  },
+  {
+   "display": "phalange proximale",
+   "tier": 4,
+   "score": 0.55,
+   "forms": [
+    "1ere phalange de la main",
+    "p1",
+    "phalange proximale",
+    "phalange proximale de la main",
+    "phalange proximale du pied",
+    "premiere phalange",
+    "premiere phalange de la main"
+   ],
+   "exact": [
+    "1ere phalange de la main"
+   ]
+  },
+  {
+   "display": "phalangette",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "3eme phalange de la main",
+    "p3",
+    "phalange distale",
+    "phalange distale de la main",
+    "phalange distale du pied",
+    "phalange ungueale",
+    "phalangette",
+    "tierce phalange",
+    "troisieme phalange",
+    "troisieme phalange de la main"
+   ],
+   "exact": [
+    "3eme phalange de la main"
+   ]
+  },
+  {
+   "display": "phalangine",
+   "tier": 4,
+   "score": 0.57,
+   "forms": [
+    "2eme phalange de la main",
+    "deuxieme phalange",
+    "deuxieme phalange de la main",
+    "p2",
+    "phalange intermediaire",
+    "phalange moyenne",
+    "phalange moyenne de la main",
+    "phalange moyenne du pied",
+    "phalangine",
+    "seconde phalange"
+   ],
+   "exact": [
+    "2eme phalange de la main",
+    "phalangine"
+   ]
+  },
+  {
+   "display": "pisiforme",
+   "tier": 4,
+   "score": 0.52,
+   "forms": [
+    "os pisiforme",
+    "pisiforme"
+   ],
+   "exact": []
+  },
+  {
+   "display": "processus xiphoïde",
+   "tier": 4,
+   "score": 0.58,
+   "forms": [
+    "appendice xiphoide",
+    "processu xiphoide",
+    "xiphoide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pubis",
+   "tier": 3,
+   "score": 0.84,
+   "forms": [
+    "os du pubi",
+    "os pubi",
+    "os pubien",
+    "pubi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "radius",
+   "tier": 2,
+   "score": 0.92,
+   "forms": [
+    "os radiu",
+    "radiu"
+   ],
+   "exact": [
+    "radiu"
+   ]
+  },
+  {
+   "display": "sacrum",
+   "tier": 3,
+   "score": 0.86,
+   "forms": [
+    "aile de l os sacrum",
+    "aileron du sacrum",
+    "os sacre",
+    "os sacrum",
+    "sacrum",
+    "vertebre sacrale",
+    "vertebre sacree"
+   ],
+   "exact": []
+  },
+  {
+   "display": "scaphoïde",
+   "tier": 4,
+   "score": 0.66,
+   "forms": [
+    "os naviculaire carpien",
+    "os naviculaire de la main",
+    "os scaphoide",
+    "scaphoide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "scapula",
+   "tier": 2,
+   "score": 0.92,
+   "forms": [
+    "omoplate",
+    "scapula"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sternum",
+   "tier": 2,
+   "score": 0.91,
+   "forms": [
+    "sternum",
+    "sternum humain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "talus",
+   "tier": 4,
+   "score": 0.68,
+   "forms": [
+    "astragale",
+    "talu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tarse",
+   "tier": 3,
+   "score": 0.75,
+   "forms": [
+    "os du tarse",
+    "tarse"
+   ],
+   "exact": [
+    "os du tarse",
+    "tarse"
+   ]
+  },
+  {
+   "display": "tibia",
+   "tier": 1,
+   "score": 0.97,
+   "forms": [
+    "os tibia",
+    "tibia"
+   ],
+   "exact": []
+  },
+  {
+   "display": "trapèze",
+   "tier": 4,
+   "score": 0.57,
+   "forms": [
+    "os trapeze",
+    "trapeze",
+    "trapezium"
+   ],
+   "exact": [
+    "trapezium"
+   ]
+  },
+  {
+   "display": "trapézoïde",
+   "tier": 5,
+   "score": 0.45,
+   "forms": [
+    "os trapezoide",
+    "trapezoide",
+    "trapezoidum"
+   ],
+   "exact": [
+    "trapezoidum"
+   ]
+  },
+  {
+   "display": "triquetrum",
+   "tier": 5,
+   "score": 0.45,
+   "forms": [
+    "os pyramidal",
+    "os triquetrum",
+    "pyramidal",
+    "triquetrum"
+   ],
+   "exact": [
+    "pyramidal"
+   ]
+  },
+  {
+   "display": "ulna",
+   "tier": 3,
+   "score": 0.87,
+   "forms": [
+    "cubitu",
+    "os ulna",
+    "ulna"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vertèbre",
+   "tier": 2,
+   "score": 0.96,
+   "forms": [
+    "vertebre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vertèbre cervicale",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "c3",
+    "c4",
+    "c5",
+    "c6",
+    "cervicale",
+    "cinquieme vertebre cervicale",
+    "quatrieme vertebre cervicale",
+    "sixieme vertebre cervicale",
+    "troisieme vertebre cervicale",
+    "vertebre c3",
+    "vertebre c4",
+    "vertebre c5",
+    "vertebre c6",
+    "vertebre cervicale"
+   ],
+   "exact": [
+    "cervicale",
+    "vertebre c3",
+    "vertebre c4",
+    "vertebre c5",
+    "vertebre c6"
+   ]
+  },
+  {
+   "display": "vertèbre lombaire",
+   "tier": 3,
+   "score": 0.8,
+   "forms": [
+    "cinquieme vertebre lombaire",
+    "deuxieme vertebre lombaire",
+    "l1",
+    "l2",
+    "l3",
+    "l4",
+    "l5",
+    "lombaire",
+    "premiere vertebre lombaire",
+    "quatrieme vertebre lombaire",
+    "troisieme vertebre lombaire",
+    "vertebre l1",
+    "vertebre l2",
+    "vertebre l3",
+    "vertebre l4",
+    "vertebre l5",
+    "vertebre lombaire"
+   ],
+   "exact": [
+    "vertebre l1",
+    "vertebre l2",
+    "vertebre l3",
+    "vertebre l4",
+    "vertebre l5"
+   ]
+  },
+  {
+   "display": "vertèbre proéminente",
+   "tier": 5,
+   "score": 0.35,
+   "forms": [
+    "c7",
+    "septieme vertebre cervicale",
+    "vertebre c7",
+    "vertebre proeminente"
+   ],
+   "exact": [
+    "vertebre c7"
+   ]
+  },
+  {
+   "display": "vertèbre thoracique",
+   "tier": 3,
+   "score": 0.75,
+   "forms": [
+    "cinquieme vertebre thoracique",
+    "deuxieme vertebre thoracique",
+    "dixieme vertebre thoracique",
+    "dorsale",
+    "douzieme vertebre thoracique",
+    "huitieme vertebre thoracique",
+    "neuvieme vertebre thoracique",
+    "onzieme vertebre thoracique",
+    "premiere vertebre thoracique",
+    "quatrieme vertebre thoracique",
+    "septieme vertebre thoracique",
+    "sixieme vertebre thoracique",
+    "t1",
+    "t10",
+    "t11",
+    "t12",
+    "t2",
+    "t3",
+    "t4",
+    "t5",
+    "t6",
+    "t7",
+    "t8",
+    "t9",
+    "troisieme vertebre thoracique",
+    "vertebre dorsale",
+    "vertebre t1",
+    "vertebre t10",
+    "vertebre t11",
+    "vertebre t12",
+    "vertebre t2",
+    "vertebre t3",
+    "vertebre t4",
+    "vertebre t5",
+    "vertebre t6",
+    "vertebre t7",
+    "vertebre t8",
+    "vertebre t9",
+    "vertebre thoracique",
+    "vertebre thoracique inferieure"
+   ],
+   "exact": [
+    "vertebre t1",
+    "vertebre t10",
+    "vertebre t11",
+    "vertebre t12",
+    "vertebre t2",
+    "vertebre t3",
+    "vertebre t4",
+    "vertebre t5",
+    "vertebre t6",
+    "vertebre t7",
+    "vertebre t8",
+    "vertebre t9"
+   ]
+  },
+  {
+   "display": "vomer",
+   "tier": 4,
+   "score": 0.56,
+   "forms": [
+    "os vomer",
+    "vomer",
+    "vomerien"
+   ],
+   "exact": [
+    "vomer"
+   ]
+  }
+ ]
+}

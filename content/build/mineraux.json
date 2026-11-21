@@ -1,0 +1,12944 @@
+{
+ "id": "mineraux",
+ "prompt": "Cite un minéral ou une pierre précieuse",
+ "categorie": "sciences",
+ "built_at": "2026-11-20T18:02:51+00:00",
+ "answers": [
+  {
+   "display": "Abelsonite",
+   "tier": 4,
+   "score": 0.8492,
+   "forms": [
+    "abelsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Abenakiite-",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "abenakiite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "abernathyite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "abernathyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Abhurite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "abhurite"
+   ],
+   "exact": [
+    "abhurite"
+   ]
+  },
+  {
+   "display": "Abswurmbachite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "abswurmbachite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "acanthite",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "12068 32 5",
+    "acanthite",
+    "acantite",
+    "akanthite",
+    "argent vitreu",
+    "argentite",
+    "argyrite",
+    "argyrose",
+    "daleminzite",
+    "henkelite"
+   ],
+   "exact": [
+    "acanthite",
+    "acantite",
+    "argentite",
+    "argyrite",
+    "henkelite"
+   ]
+  },
+  {
+   "display": "achavalite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "achavalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "actinote",
+   "tier": 3,
+   "score": 0.9517,
+   "forms": [
+    "actinolite",
+    "actinolithe",
+    "actinote",
+    "actynolite",
+    "rayonnante",
+    "stralite commun",
+    "zillerthite"
+   ],
+   "exact": [
+    "rayonnante"
+   ]
+  },
+  {
+   "display": "Acuminite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "acuminite"
+   ],
+   "exact": [
+    "acuminite"
+   ]
+  },
+  {
+   "display": "adamite",
+   "tier": 3,
+   "score": 0.9428,
+   "forms": [
+    "adamite",
+    "cobaltoadamite",
+    "cuproadamite",
+    "manganoadamite"
+   ],
+   "exact": [
+    "adamite"
+   ]
+  },
+  {
+   "display": "Adamsite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "adamsite"
+   ],
+   "exact": [
+    "adamsite"
+   ]
+  },
+  {
+   "display": "adélite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "adelite",
+    "kuhnite"
+   ],
+   "exact": [
+    "adelite"
+   ]
+  },
+  {
+   "display": "Admontite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "admontite"
+   ],
+   "exact": [
+    "admontite"
+   ]
+  },
+  {
+   "display": "Aegirine",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "achmite",
+    "acmite",
+    "acnite",
+    "aegerine",
+    "aegerite",
+    "aegirine",
+    "aegirite",
+    "aegyrine",
+    "aemite",
+    "agirine"
+   ],
+   "exact": [
+    "achmite",
+    "acmite",
+    "acnite"
+   ]
+  },
+  {
+   "display": "Aenigmatite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "aenigmatite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aérinite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "aerinite"
+   ],
+   "exact": [
+    "aerinite"
+   ]
+  },
+  {
+   "display": "Aerugite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "aerugite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aeschynite-",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "aeschynite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Afghanite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "afghanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Afwillite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "afwillite"
+   ],
+   "exact": [
+    "afwillite"
+   ]
+  },
+  {
+   "display": "Agardite-",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "agardite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "agate",
+   "tier": 1,
+   "score": 0.9919,
+   "forms": [
+    "agate"
+   ],
+   "exact": [
+    "agate"
+   ]
+  },
+  {
+   "display": "agrellite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "agrellite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "agriniérite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "agrinierite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aguilarite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "aguilarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aheylite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "aheylite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ahlfeldite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "ahlfeldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aigue-marine",
+   "tier": 4,
+   "score": 0.85,
+   "forms": [
+    "aigue marine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aïkinite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "aikinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ajoïte",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "ajoite"
+   ],
+   "exact": [
+    "ajoite"
+   ]
+  },
+  {
+   "display": "Akaganéite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "akaganeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akatoréite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "akatoreite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akdalaïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "akdalaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akermanite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "akermanite"
+   ],
+   "exact": [
+    "akermanite"
+   ]
+  },
+  {
+   "display": "akhtenskite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "akhtenskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "akimotoïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "akimotoite",
+    "ima 1997 044"
+   ],
+   "exact": []
+  },
+  {
+   "display": "akrochordite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "akrochordite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aksaite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "aksaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aktashite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "aktashite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alabandite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "alabandite"
+   ],
+   "exact": [
+    "alabandite"
+   ]
+  },
+  {
+   "display": "alacránite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "alacranite"
+   ],
+   "exact": [
+    "alacranite"
+   ]
+  },
+  {
+   "display": "alamosite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "alamosite"
+   ],
+   "exact": [
+    "alamosite"
+   ]
+  },
+  {
+   "display": "alarsite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "alarsite"
+   ],
+   "exact": [
+    "alarsite"
+   ]
+  },
+  {
+   "display": "albite",
+   "tier": 2,
+   "score": 0.961,
+   "forms": [
+    "acid plagioclase",
+    "albite",
+    "hyposclerite",
+    "kieselspath",
+    "natro feldspat",
+    "sodaclase",
+    "tetartine",
+    "zygadite"
+   ],
+   "exact": [
+    "tetartine"
+   ]
+  },
+  {
+   "display": "albrechtschraufite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "albrechtschraufite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alcantarillaïte",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "alcantarillaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aldermanite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "aldermanite"
+   ],
+   "exact": [
+    "aldermanite"
+   ]
+  },
+  {
+   "display": "aleksite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "aleksite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "alforsite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "alforsite"
+   ],
+   "exact": [
+    "alforsite"
+   ]
+  },
+  {
+   "display": "algodonite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "algodonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aliettite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "aliettite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "allabogdanite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "allabogdanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "allactite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "allactite"
+   ],
+   "exact": [
+    "allactite"
+   ]
+  },
+  {
+   "display": "Allargentum",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "allargentum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "alleghanyite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "alleghanyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alloclasite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "alloclasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Allophane",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "allophane",
+    "allophanite",
+    "carolathine",
+    "collyrite",
+    "dillnite",
+    "elhuyarite",
+    "ferriallophane",
+    "ilbaite",
+    "phosphate allophane",
+    "plumboallophane",
+    "protoallophane",
+    "riemanit",
+    "riemanite",
+    "samoite",
+    "scarbroite",
+    "schotterite",
+    "schrotterite"
+   ],
+   "exact": [
+    "allophane",
+    "ilbaite",
+    "riemanite"
+   ]
+  },
+  {
+   "display": "alluaïvite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "alluaivite"
+   ],
+   "exact": [
+    "alluaivite"
+   ]
+  },
+  {
+   "display": "Alluaudite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "alluaudite"
+   ],
+   "exact": [
+    "alluaudite"
+   ]
+  },
+  {
+   "display": "almandin",
+   "tier": 3,
+   "score": 0.9542,
+   "forms": [
+    "alamandine",
+    "almandin",
+    "almandite",
+    "dhanrasite"
+   ],
+   "exact": [
+    "alamandine",
+    "almandite"
+   ]
+  },
+  {
+   "display": "Almarudite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "almarudite"
+   ],
+   "exact": [
+    "almarudite"
+   ]
+  },
+  {
+   "display": "Alstonite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "alstonite"
+   ],
+   "exact": [
+    "alstonite"
+   ]
+  },
+  {
+   "display": "altaïte",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "altaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "althausite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "althausite"
+   ],
+   "exact": [
+    "althausite"
+   ]
+  },
+  {
+   "display": "althupite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "althupite"
+   ],
+   "exact": [
+    "althupite"
+   ]
+  },
+  {
+   "display": "altisite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "altisite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aluminite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "aluminite"
+   ],
+   "exact": [
+    "aluminite"
+   ]
+  },
+  {
+   "display": "aluminium natif",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "aluminium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aluminocéladonite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "aluminoceladonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aluminocopiapite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "aluminocopiapite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alumohydrocalcite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "alumohydrocalcite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "alunite",
+   "tier": 3,
+   "score": 0.9178,
+   "forms": [
+    "alunite"
+   ],
+   "exact": [
+    "alunite"
+   ]
+  },
+  {
+   "display": "Alunogène",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "alunogene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Amarantite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "amarantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Amblygonite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "amblygonite",
+    "hebronite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ambre",
+   "tier": 3,
+   "score": 0.9,
+   "forms": [
+    "ambre"
+   ],
+   "exact": [
+    "ambre"
+   ]
+  },
+  {
+   "display": "amésite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "amesite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "améthyste",
+   "tier": 1,
+   "score": 0.9949,
+   "forms": [
+    "amethyste",
+    "lavendine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Amicite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "amicite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ammolite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "ammolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "analcime",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "analcime"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Anatase",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "anatase",
+    "dauphinite",
+    "hydrotitanite",
+    "schorl bleu indigo",
+    "schorl octaedre rectanglaire",
+    "schorl octaedre rectangulaire",
+    "wiserine",
+    "xanthitane",
+    "xanthotitane"
+   ],
+   "exact": [
+    "dauphinite",
+    "wiserine"
+   ]
+  },
+  {
+   "display": "Andalousite",
+   "tier": 2,
+   "score": 0.9703,
+   "forms": [
+    "12183 80 1",
+    "andalousite",
+    "andalusite",
+    "andaluzite",
+    "crusite",
+    "feldspath apyre",
+    "micaphyllite",
+    "stanzaite"
+   ],
+   "exact": [
+    "crusite",
+    "stanzaite"
+   ]
+  },
+  {
+   "display": "Andersonite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "andersonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Andorite IV",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "andorite iv",
+    "quatrandorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "andradite",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "andradite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Andremeyerite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "andremeyerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Anglésite",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "7446 14 2",
+    "anglesine",
+    "anglesite",
+    "barytoanglesite",
+    "plomb sulfate",
+    "vitriol de plomb",
+    "vitriol de plomb natif"
+   ],
+   "exact": [
+    "anglesite",
+    "plomb sulfate"
+   ]
+  },
+  {
+   "display": "Anhydrite",
+   "tier": 2,
+   "score": 0.961,
+   "forms": [
+    "7778 18 9",
+    "anhydrite",
+    "chal sulfatee anhydre",
+    "chal sulfatee quartzifere",
+    "karstenite",
+    "muriacite",
+    "pierre de tripe",
+    "soude muriatee gypsifere",
+    "vulpinite"
+   ],
+   "exact": [
+    "muriacite",
+    "vulpinite"
+   ]
+  },
+  {
+   "display": "Ankérite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "ankerite"
+   ],
+   "exact": [
+    "ankerite"
+   ]
+  },
+  {
+   "display": "Annabergite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "annabergite",
+    "cabrerite",
+    "dudgeonite",
+    "fleur de nickel",
+    "mine de cobalt verte",
+    "nickel arseniate",
+    "nickelocre",
+    "nickeocre"
+   ],
+   "exact": [
+    "cabrerite"
+   ]
+  },
+  {
+   "display": "Annite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "annite"
+   ],
+   "exact": [
+    "annite"
+   ]
+  },
+  {
+   "display": "anorthite",
+   "tier": 3,
+   "score": 0.9542,
+   "forms": [
+    "amphodelite",
+    "anorthite",
+    "anorthoite",
+    "barium anorthite",
+    "barsowite",
+    "beffanite",
+    "beffonite",
+    "bytownite",
+    "calciclase",
+    "cyclopite",
+    "didymolite",
+    "diploite",
+    "indianite",
+    "latrobite",
+    "lindsayite",
+    "rosite",
+    "thiorsauite"
+   ],
+   "exact": [
+    "barsowite",
+    "cyclopite",
+    "didymolite",
+    "indianite",
+    "latrobite",
+    "rosite"
+   ]
+  },
+  {
+   "display": "Antarcticite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "antarcticite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Anthoinite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "anthoinite"
+   ],
+   "exact": [
+    "anthoinite"
+   ]
+  },
+  {
+   "display": "anthonyite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "anthonyite"
+   ],
+   "exact": [
+    "anthonyite"
+   ]
+  },
+  {
+   "display": "Anthophyllite",
+   "tier": 4,
+   "score": 0.8492,
+   "forms": [
+    "anthogrammite",
+    "anthophylite",
+    "anthophylline",
+    "anthophyllite",
+    "kupferite",
+    "magnesio anthophyllite"
+   ],
+   "exact": [
+    "anthophyllite"
+   ]
+  },
+  {
+   "display": "antigorite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "antigorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Antimoine natif",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "antimoine natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Antimonsélite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "antimonselite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Antlérite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "antlerite",
+    "arminite",
+    "cu3 oh 4so4",
+    "heterobrochantite",
+    "stelznerite",
+    "vernadskite"
+   ],
+   "exact": [
+    "antlerite",
+    "arminite",
+    "stelznerite"
+   ]
+  },
+  {
+   "display": "Aphthalose",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "aphthalose"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Apjohnite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "apjohnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aplowite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "aplowite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aqeeq",
+   "tier": 5,
+   "score": 0.0004,
+   "forms": [
+    "aqeeq"
+   ],
+   "exact": []
+  },
+  {
+   "display": "aragonite",
+   "tier": 2,
+   "score": 0.9763,
+   "forms": [
+    "aragonite"
+   ],
+   "exact": [
+    "aragonite"
+   ]
+  },
+  {
+   "display": "Arcanite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "arcanite"
+   ],
+   "exact": [
+    "arcanite"
+   ]
+  },
+  {
+   "display": "archerite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "archerite"
+   ],
+   "exact": [
+    "archerite"
+   ]
+  },
+  {
+   "display": "Arctite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "arctite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ardaïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "ardaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ardennite-",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "ardennite",
+    "dewalquite"
+   ],
+   "exact": [
+    "ardennite"
+   ]
+  },
+  {
+   "display": "Arfvedsonite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "arfvedsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "argent",
+   "tier": 2,
+   "score": 0.98,
+   "forms": [
+    "argent",
+    "argent natif"
+   ],
+   "exact": [
+    "argent"
+   ]
+  },
+  {
+   "display": "Argentopyrite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "argentopyrite"
+   ],
+   "exact": [
+    "argentopyrite"
+   ]
+  },
+  {
+   "display": "Argentotennantite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "argentotennantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Argutite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "argutite"
+   ],
+   "exact": [
+    "argutite"
+   ]
+  },
+  {
+   "display": "argyrodite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "argyrodite"
+   ],
+   "exact": [
+    "argyrodite"
+   ]
+  },
+  {
+   "display": "arhbarite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "arhbarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Armalcolite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "armalcolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arsenic natif",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "arsenic natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "arsenolamprite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "arsenolamprite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arsénolite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "arsenolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arsénopyrite",
+   "tier": 3,
+   "score": 0.9449,
+   "forms": [
+    "arsenomarcasite",
+    "arsenopyrite",
+    "dalarnite",
+    "delarnite",
+    "hoffamnnite",
+    "mispickel",
+    "pyrite arsenicale",
+    "thaleimite"
+   ],
+   "exact": [
+    "arsenopyrite",
+    "dalarnite",
+    "delarnite"
+   ]
+  },
+  {
+   "display": "arthurite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "arthurite"
+   ],
+   "exact": [
+    "arthurite"
+   ]
+  },
+  {
+   "display": "artinite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "artinite"
+   ],
+   "exact": [
+    "artinite"
+   ]
+  },
+  {
+   "display": "astrophyllite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "astrophyllite"
+   ],
+   "exact": [
+    "astrophyllite"
+   ]
+  },
+  {
+   "display": "atacamite",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "alacamite",
+    "atacamite",
+    "cu2cl oh 3",
+    "cuivre muriate",
+    "halochalcite",
+    "marcylite",
+    "remolinite"
+   ],
+   "exact": [
+    "alacamite",
+    "marcylite"
+   ]
+  },
+  {
+   "display": "Athabascaïte",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "athabascaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Attapulgite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "attapulgite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Augelite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "augelite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Augite",
+   "tier": 3,
+   "score": 0.9492,
+   "forms": [
+    "augite"
+   ],
+   "exact": [
+    "augite"
+   ]
+  },
+  {
+   "display": "Aurichalcite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "auricalcite",
+    "aurichalcite",
+    "buratite",
+    "calamine verdatre",
+    "messingite",
+    "orichalcite",
+    "risseite"
+   ],
+   "exact": [
+    "messingite",
+    "orichalcite"
+   ]
+  },
+  {
+   "display": "Auricupride",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "auricupride"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aurostibite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "aurostibite"
+   ],
+   "exact": [
+    "aurostibite"
+   ]
+  },
+  {
+   "display": "Austinite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "austinite"
+   ],
+   "exact": [
+    "austinite"
+   ]
+  },
+  {
+   "display": "autunite",
+   "tier": 3,
+   "score": 0.9076,
+   "forms": [
+    "autunite",
+    "calcium autunite",
+    "calcouranite",
+    "lime uranite",
+    "uranite"
+   ],
+   "exact": [
+    "autunite",
+    "uranite"
+   ]
+  },
+  {
+   "display": "Avicennite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "avicennite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Awaruite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "awaruite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "azoproïte",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "azoproite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "azurite",
+   "tier": 2,
+   "score": 0.9763,
+   "forms": [
+    "azur de cuivre",
+    "azur de cuivre bleu",
+    "azurite",
+    "chessylite",
+    "cu3 co3 2 oh 2",
+    "cuivre azure",
+    "cuivre carbonate bleu",
+    "fleur de cuivre bleu",
+    "lasurite"
+   ],
+   "exact": [
+    "azurite",
+    "lasurite"
+   ]
+  },
+  {
+   "display": "Babefphite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "babefphite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Babingtonite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "babingtonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Baileychlore",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "baileychlore"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Balkanite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "balkanite"
+   ],
+   "exact": [
+    "balkanite"
+   ]
+  },
+  {
+   "display": "bannistérite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "bannisterite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bararite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "bararite"
+   ],
+   "exact": [
+    "bararite"
+   ]
+  },
+  {
+   "display": "Barrérite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "barrerite"
+   ],
+   "exact": [
+    "barrerite"
+   ]
+  },
+  {
+   "display": "barstowite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "barstowite"
+   ],
+   "exact": [
+    "barstowite"
+   ]
+  },
+  {
+   "display": "Bartelkéite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "bartelkeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "barytine",
+   "tier": 2,
+   "score": 0.9733,
+   "forms": [
+    "baritite",
+    "baroselenite",
+    "baryte",
+    "baryte sulfatee",
+    "barytine",
+    "dreelite",
+    "gyspum spathosum",
+    "litheosphore",
+    "marmor metalicum",
+    "spath pesant",
+    "wolnyne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bassanite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "bassanite",
+    "hemihydrate",
+    "miltonite",
+    "mirupolskite",
+    "polyhydrate",
+    "vibertite"
+   ],
+   "exact": [
+    "bassanite",
+    "miltonite"
+   ]
+  },
+  {
+   "display": "Bavénite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "bavenite"
+   ],
+   "exact": [
+    "bavenite"
+   ]
+  },
+  {
+   "display": "bayérite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "bayerite"
+   ],
+   "exact": [
+    "bayerite"
+   ]
+  },
+  {
+   "display": "Bayldonite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "bayldonite",
+    "cuproplumbite",
+    "parabayldonite"
+   ],
+   "exact": [
+    "bayldonite"
+   ]
+  },
+  {
+   "display": "Bayleyite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "bayleyite"
+   ],
+   "exact": [
+    "bayleyite"
+   ]
+  },
+  {
+   "display": "bazzite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "bazzite",
+    "beryl bleu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "becquerélite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "becquerelite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Béhierite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "behierite"
+   ],
+   "exact": [
+    "behierite"
+   ]
+  },
+  {
+   "display": "beïdellite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "beidellite"
+   ],
+   "exact": [
+    "beidellite"
+   ]
+  },
+  {
+   "display": "Bellidoïte",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "bellidoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bénavidésite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "benavidesite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bénitoïte",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "benitoite"
+   ],
+   "exact": [
+    "benitoite"
+   ]
+  },
+  {
+   "display": "Benjaminite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "benjaminite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "benstonite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "benstonite"
+   ],
+   "exact": [
+    "benstonite"
+   ]
+  },
+  {
+   "display": "Béraunite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "beraunite"
+   ],
+   "exact": [
+    "beraunite"
+   ]
+  },
+  {
+   "display": "bergénite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "bergenite"
+   ],
+   "exact": [
+    "bergenite"
+   ]
+  },
+  {
+   "display": "Berlinite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "7784 30 7",
+    "alpo4",
+    "berlinite"
+   ],
+   "exact": [
+    "berlinite"
+   ]
+  },
+  {
+   "display": "Berthiérine",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "berthierine"
+   ],
+   "exact": [
+    "berthierine"
+   ]
+  },
+  {
+   "display": "berthiérite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "berthierite"
+   ],
+   "exact": [
+    "berthierite"
+   ]
+  },
+  {
+   "display": "Bertossaïte",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "bertossaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bertrandite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "bertrandite"
+   ],
+   "exact": [
+    "bertrandite"
+   ]
+  },
+  {
+   "display": "béryl",
+   "tier": 6,
+   "score": 0.9907,
+   "forms": [
+    "beril",
+    "beryl"
+   ],
+   "exact": [
+    "beril"
+   ]
+  },
+  {
+   "display": "berzéline",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "berzelianite",
+    "berzeline"
+   ],
+   "exact": [
+    "berzeline"
+   ]
+  },
+  {
+   "display": "Beudantite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "beudantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bezsmertnovite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "bezsmertnovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bianchite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "bianchite"
+   ],
+   "exact": [
+    "bianchite"
+   ]
+  },
+  {
+   "display": "biebérite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "bieberite"
+   ],
+   "exact": [
+    "bieberite"
+   ]
+  },
+  {
+   "display": "Bilibinskite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "bilibinskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bismite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "bismite"
+   ],
+   "exact": [
+    "bismite"
+   ]
+  },
+  {
+   "display": "Bismuth natif",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "bismuth natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bismuthinite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "12233 37 3",
+    "bismuthine",
+    "bismuthinite",
+    "bismutholamprite",
+    "bismutinite",
+    "cheleutite",
+    "csiklovaite",
+    "horobetsuite"
+   ],
+   "exact": [
+    "bismuthine",
+    "bismuthinite",
+    "bismutinite",
+    "cheleutite"
+   ]
+  },
+  {
+   "display": "bismutite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "agnesite",
+    "bismuth carbonate",
+    "bismuthite",
+    "bismutite",
+    "bismutosparite",
+    "bismutosphaerite",
+    "normannite"
+   ],
+   "exact": [
+    "agnesite",
+    "bismuthite",
+    "bismutite",
+    "normannite"
+   ]
+  },
+  {
+   "display": "Bityite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "bityite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bjarébyite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "bjarebyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Blatonite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "blatonite"
+   ],
+   "exact": [
+    "blatonite"
+   ]
+  },
+  {
+   "display": "blödite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "astrakanite",
+    "blodite",
+    "bloedite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bobfergusonite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "bobfergusonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boéhmite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "14457 84 2",
+    "boehmite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boléite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "boleite"
+   ],
+   "exact": [
+    "boleite"
+   ]
+  },
+  {
+   "display": "Boltwoodite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "boltwoodite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bonaccordite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "bonaccordite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boothite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "boothite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boracite",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "boracite"
+   ],
+   "exact": [
+    "boracite"
+   ]
+  },
+  {
+   "display": "borax",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "borax"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bornite",
+   "tier": 3,
+   "score": 0.9576,
+   "forms": [
+    "1308 82 3",
+    "bornite",
+    "chalcomiklite",
+    "cuivre panache",
+    "cuivre pyriteu hepatique",
+    "cuivre pyriteu panache",
+    "double sulfure de fer et de cuivre a cassure de nickel",
+    "erubescite",
+    "mine de cuivre hepatique",
+    "mine de cuivre panachee",
+    "mine de cuivre violette azuree",
+    "phillipsine",
+    "poikilite"
+   ],
+   "exact": [
+    "bornite"
+   ]
+  },
+  {
+   "display": "Borocookéite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "borocookeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Botallackite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "botallackite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boulangérite",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "boulangerite"
+   ],
+   "exact": [
+    "boulangerite"
+   ]
+  },
+  {
+   "display": "Bournonite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "berthonite",
+    "bournonite",
+    "endellionite",
+    "wolchite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boussingaultite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "boussingaultite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boyléite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "boyleite"
+   ],
+   "exact": [
+    "boyleite"
+   ]
+  },
+  {
+   "display": "Braggite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "braggite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brannérite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "brannerite"
+   ],
+   "exact": [
+    "brannerite"
+   ]
+  },
+  {
+   "display": "Braunite",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "braunite"
+   ],
+   "exact": [
+    "braunite"
+   ]
+  },
+  {
+   "display": "brazilianite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "brazilianite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Breithauptite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "antimonnicke",
+    "breithauptite",
+    "hartmannite"
+   ],
+   "exact": [
+    "hartmannite"
+   ]
+  },
+  {
+   "display": "Brianite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "brianite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bridgmanite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "bridgmanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brindleyite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "brindleyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brochantite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "brochantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bromargyrite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "bromargyrite",
+    "bromite",
+    "bromyrite",
+    "chorobromite"
+   ],
+   "exact": [
+    "bromite",
+    "bromyrite"
+   ]
+  },
+  {
+   "display": "brookite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "arkansite",
+    "brookite",
+    "eumanite",
+    "jurinite",
+    "pyromelane"
+   ],
+   "exact": [
+    "arkansite",
+    "eumanite",
+    "pyromelane"
+   ]
+  },
+  {
+   "display": "brownleeite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "brownleeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brucite",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "brucite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brushite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "brushite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "buddingtonite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "buddingtonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bultfontéinite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "bultfonteinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bunsénite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "bunsenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bushmakinite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "bushmakinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cabalzarite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cabalzarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cabochon",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "cabochon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cacoxénite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "cacoxene",
+    "cacoxenite",
+    "kacoxene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cadmium natif",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "cadmium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cadmoindite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cadmoindite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cafarsite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cafarsite"
+   ],
+   "exact": [
+    "cafarsite"
+   ]
+  },
+  {
+   "display": "Caféosite",
+   "tier": 5,
+   "score": 0.0004,
+   "forms": [
+    "cafeosite"
+   ],
+   "exact": [
+    "cafeosite"
+   ]
+  },
+  {
+   "display": "Cafetite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cafetite"
+   ],
+   "exact": [
+    "cafetite"
+   ]
+  },
+  {
+   "display": "Cahnite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "cahnite"
+   ],
+   "exact": [
+    "cahnite"
+   ]
+  },
+  {
+   "display": "Calavérite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "1303 56 6",
+    "aute2",
+    "calaverite"
+   ],
+   "exact": [
+    "1303 56 6",
+    "aute2",
+    "calaverite"
+   ]
+  },
+  {
+   "display": "calcédoine",
+   "tier": 5,
+   "score": 0.6,
+   "forms": [
+    "calcedoine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Calciborite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "calciborite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "calcite",
+   "tier": 1,
+   "score": 0.989,
+   "forms": [
+    "calcite",
+    "protocalcite",
+    "spath calcaire",
+    "vaterite a"
+   ],
+   "exact": [
+    "calcite",
+    "vaterite a"
+   ]
+  },
+  {
+   "display": "Caldérite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "calderite"
+   ],
+   "exact": [
+    "calderite"
+   ]
+  },
+  {
+   "display": "Calédonite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "caledonite"
+   ],
+   "exact": [
+    "caledonite"
+   ]
+  },
+  {
+   "display": "calomel",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "calomel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Campigliaïte",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "campigliaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Canasite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "canasite"
+   ],
+   "exact": [
+    "canasite"
+   ]
+  },
+  {
+   "display": "Cancrinite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "cancrinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caoxite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "caoxite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carletonite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "carletonite"
+   ],
+   "exact": [
+    "carletonite"
+   ]
+  },
+  {
+   "display": "Carlinite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "carlinite"
+   ],
+   "exact": [
+    "carlinite"
+   ]
+  },
+  {
+   "display": "carmeltazite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "carmeltazite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carminite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "carminite"
+   ],
+   "exact": [
+    "carminite"
+   ]
+  },
+  {
+   "display": "carnallite",
+   "tier": 3,
+   "score": 0.9076,
+   "forms": [
+    "carnallite"
+   ],
+   "exact": [
+    "carnallite"
+   ]
+  },
+  {
+   "display": "Carnotite",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "carnotite"
+   ],
+   "exact": [
+    "carnotite"
+   ]
+  },
+  {
+   "display": "Carobbiite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "carobbiite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carpholite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "carpholite"
+   ],
+   "exact": [
+    "carpholite"
+   ]
+  },
+  {
+   "display": "Carraraïte",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "carraraite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carrollite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "carrolite",
+    "carrollite",
+    "corrolite",
+    "sychnodymite"
+   ],
+   "exact": [
+    "carrolite",
+    "carrollite",
+    "corrolite"
+   ]
+  },
+  {
+   "display": "caryopilite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "caryopilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cascandite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "cascandite"
+   ],
+   "exact": [
+    "cascandite"
+   ]
+  },
+  {
+   "display": "cassitérite",
+   "tier": 2,
+   "score": 0.9636,
+   "forms": [
+    "ainalite",
+    "cassiterite",
+    "dneiproskite",
+    "etain oxyde",
+    "oxyde d etain",
+    "stannum calciforme",
+    "zinnspat"
+   ],
+   "exact": [
+    "ainalite"
+   ]
+  },
+  {
+   "display": "cattiérite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cattierite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cavansite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "cavansite"
+   ],
+   "exact": [
+    "cavansite"
+   ]
+  },
+  {
+   "display": "céladonite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "celadonite"
+   ],
+   "exact": [
+    "celadonite"
+   ]
+  },
+  {
+   "display": "célestine",
+   "tier": 3,
+   "score": 0.9542,
+   "forms": [
+    "barytocelestine",
+    "calciocelestine",
+    "celestine",
+    "celestite",
+    "coelestine",
+    "colestine",
+    "dioxynite",
+    "eschwegite",
+    "schutzite",
+    "sicilianite",
+    "sr so4",
+    "strontiane sulfatee"
+   ],
+   "exact": [
+    "celestine",
+    "celestite",
+    "colestine",
+    "schutzite"
+   ]
+  },
+  {
+   "display": "Celsiane",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "celsian",
+    "celsiane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cérusite",
+   "tier": 3,
+   "score": 0.9267,
+   "forms": [
+    "598 63 0",
+    "cerusite",
+    "cerussite"
+   ],
+   "exact": [
+    "cerusite",
+    "cerussite"
+   ]
+  },
+  {
+   "display": "Cervantite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "cervantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chabazite-Ca",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "adipite",
+    "chabazite ca"
+   ],
+   "exact": [
+    "chabazite ca"
+   ]
+  },
+  {
+   "display": "Chabazite-Na",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "chabazite na",
+    "herschelite"
+   ],
+   "exact": [
+    "chabazite na"
+   ]
+  },
+  {
+   "display": "Chalcantite",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "calcantite",
+    "calchante",
+    "chacalcanthite",
+    "chalcanthite",
+    "chalcantite",
+    "chalkanthite",
+    "couperouse bleue",
+    "cuivre sulfate",
+    "cyanosite",
+    "cyprian vitriol"
+   ],
+   "exact": [
+    "calcantite",
+    "calchante",
+    "cyanosite"
+   ]
+  },
+  {
+   "display": "chalcocite",
+   "tier": 3,
+   "score": 0.9267,
+   "forms": [
+    "chalcocite"
+   ],
+   "exact": [
+    "chalcocite"
+   ]
+  },
+  {
+   "display": "Chalcophyllite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "chalcophyllite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chalcopyrite",
+   "tier": 2,
+   "score": 0.9733,
+   "forms": [
+    "blister copper",
+    "chalcopyrite",
+    "chalkopyrite",
+    "cufes2",
+    "cuivre jaune",
+    "cuivre pyriteu",
+    "mine de cuivre jaune",
+    "pyrite cuivreuse",
+    "towanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chamosite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "brunsvigite",
+    "chamosite",
+    "delessite"
+   ],
+   "exact": [
+    "chamosite",
+    "delessite"
+   ]
+  },
+  {
+   "display": "Chaoite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "chaoite"
+   ],
+   "exact": [
+    "chaoite"
+   ]
+  },
+  {
+   "display": "charlésite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "charlesite"
+   ],
+   "exact": [
+    "charlesite"
+   ]
+  },
+  {
+   "display": "charoïte",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "charoite"
+   ],
+   "exact": [
+    "charoite"
+   ]
+  },
+  {
+   "display": "Chérépanovite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "cherepanovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chernovite-",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "chernovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chernykhite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "chernykhite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chervétite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "chervetite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chesterite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "chesterite"
+   ],
+   "exact": [
+    "chesterite"
+   ]
+  },
+  {
+   "display": "Childrénite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "childrenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chintamani",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "chandmani",
+    "chintamani"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chiolite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "chiolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chlorargyrite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "chlorargyrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chloritoïde",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "chloritoide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chondrodite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "chondrodite"
+   ],
+   "exact": [
+    "chondrodite"
+   ]
+  },
+  {
+   "display": "christite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "christite"
+   ],
+   "exact": [
+    "christite"
+   ]
+  },
+  {
+   "display": "Chrome natif",
+   "tier": 5,
+   "score": 0.0025,
+   "forms": [
+    "chrome natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chromite",
+   "tier": 3,
+   "score": 0.9517,
+   "forms": [
+    "1308 31 2",
+    "chromite",
+    "fecr2o4",
+    "feo cr2o3"
+   ],
+   "exact": [
+    "1308 31 2"
+   ]
+  },
+  {
+   "display": "chrysobéryl",
+   "tier": 2,
+   "score": 0.961,
+   "forms": [
+    "1304 50 3",
+    "aluminate de glucine",
+    "alumoberyl",
+    "chrysberil",
+    "chrysoberil",
+    "chrysoberyl",
+    "chrysoberyl oeil de chat",
+    "chrysolite orientale",
+    "chrysopale",
+    "cymophane",
+    "cymophanite"
+   ],
+   "exact": [
+    "chrysopale",
+    "cymophanite"
+   ]
+  },
+  {
+   "display": "chrysocolle",
+   "tier": 3,
+   "score": 0.9297,
+   "forms": [
+    "chrysocolle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chrysotile",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "chrysotile"
+   ],
+   "exact": [
+    "chrysotile"
+   ]
+  },
+  {
+   "display": "Chvaleticéite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "chvaleticeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cinabre",
+   "tier": 2,
+   "score": 0.9818,
+   "forms": [
+    "1344 48 5",
+    "cinabre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Claraite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "claraite"
+   ],
+   "exact": [
+    "claraite"
+   ]
+  },
+  {
+   "display": "Clarkeite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "clarkeite"
+   ],
+   "exact": [
+    "clarkeite"
+   ]
+  },
+  {
+   "display": "Claudétite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "claudetite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clausthalite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "clausthalie",
+    "clausthalite",
+    "plomb selenie",
+    "tilkerodite",
+    "zorgite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clinochlore",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "clinochlore",
+    "mineral vert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clinoclase",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "clinoclase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clinohumite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "clinohumite"
+   ],
+   "exact": [
+    "clinohumite"
+   ]
+  },
+  {
+   "display": "clinozoïsite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "aluminium epidote",
+    "chrome clinozoisite",
+    "clinoepidote",
+    "clinothulite",
+    "clinozoisite",
+    "epidote gri",
+    "fouqueite"
+   ],
+   "exact": [
+    "clinothulite"
+   ]
+  },
+  {
+   "display": "clintonite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "clintonite"
+   ],
+   "exact": [
+    "clintonite"
+   ]
+  },
+  {
+   "display": "cobaltite",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "12254 82 9",
+    "coas",
+    "cobaltine",
+    "cobaltite",
+    "dzhulukite"
+   ],
+   "exact": [
+    "12254 82 9"
+   ]
+  },
+  {
+   "display": "coconinoïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "coconinoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "coésite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "13778 38 6",
+    "coesite"
+   ],
+   "exact": [
+    "13778 38 6",
+    "coesite"
+   ]
+  },
+  {
+   "display": "Cohénite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "cohenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Colémanite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "colemanite",
+    "neocolemanite"
+   ],
+   "exact": [
+    "colemanite"
+   ]
+  },
+  {
+   "display": "Colimaïte",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "colimaite"
+   ],
+   "exact": [
+    "colimaite"
+   ]
+  },
+  {
+   "display": "Coloradoïte",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "coloradoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Conichalcite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "conichalcite"
+   ],
+   "exact": [
+    "conichalcite"
+   ]
+  },
+  {
+   "display": "Connellite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "ceruleofibrite",
+    "connellite",
+    "footeite"
+   ],
+   "exact": [
+    "connellite"
+   ]
+  },
+  {
+   "display": "Cookéite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cookeite"
+   ],
+   "exact": [
+    "cookeite"
+   ]
+  },
+  {
+   "display": "Cooperite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "cooperite"
+   ],
+   "exact": [
+    "cooperite"
+   ]
+  },
+  {
+   "display": "Copiapite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "copiapite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "coquandite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "coquandite"
+   ],
+   "exact": [
+    "coquandite"
+   ]
+  },
+  {
+   "display": "Coquimbite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "coquimbite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cordiérite",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "cordierite",
+    "dichroite",
+    "indialite",
+    "iolite",
+    "quartz bleu de la nouvelle finlande",
+    "saphir d eau",
+    "steinheilite",
+    "yolithe"
+   ],
+   "exact": [
+    "cordierite",
+    "dichroite",
+    "indialite",
+    "iolite",
+    "yolithe"
+   ]
+  },
+  {
+   "display": "corindon",
+   "tier": 1,
+   "score": 0.9869,
+   "forms": [
+    "1302 74 5",
+    "alumine alpha",
+    "ayatite",
+    "corindon",
+    "corindon adamantin",
+    "corindon harmophane",
+    "corundite",
+    "corundumite",
+    "spath adamantin",
+    "telesie",
+    "zircolite"
+   ],
+   "exact": [
+    "1302 74 5",
+    "corundite",
+    "zircolite"
+   ]
+  },
+  {
+   "display": "Corkite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "corkite",
+    "dernbachite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cornaline",
+   "tier": 2,
+   "score": 0.972,
+   "forms": [
+    "cornaline"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cornétite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "cornetite"
+   ],
+   "exact": [
+    "cornetite"
+   ]
+  },
+  {
+   "display": "Cornubite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "cornubite"
+   ],
+   "exact": [
+    "cornubite"
+   ]
+  },
+  {
+   "display": "cornwallite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "cornwallite"
+   ],
+   "exact": [
+    "cornwallite"
+   ]
+  },
+  {
+   "display": "covellite",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "cantonite",
+    "coveline",
+    "covelline",
+    "covellinite",
+    "covellite",
+    "covellonite"
+   ],
+   "exact": [
+    "cantonite",
+    "covelline",
+    "covellite"
+   ]
+  },
+  {
+   "display": "crandallite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "crandallite"
+   ],
+   "exact": [
+    "crandallite"
+   ]
+  },
+  {
+   "display": "Cranswickite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "cranswickite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Creedite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "creedite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cristal de roche",
+   "tier": 4,
+   "score": 0.75,
+   "forms": [
+    "cristal de roche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cristobalite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "14464 46 1",
+    "cristobalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Crocoïte",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "beresofite",
+    "crocoise",
+    "crocoite",
+    "lehmannite of brooke",
+    "minerai de plomb rouge",
+    "plomb chromate",
+    "plombe rouge de siberie"
+   ],
+   "exact": [
+    "crocoite"
+   ]
+  },
+  {
+   "display": "cronstedtite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "cronstedtite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "crookesite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "crookesite"
+   ],
+   "exact": [
+    "crookesite"
+   ]
+  },
+  {
+   "display": "cryolite",
+   "tier": 3,
+   "score": 0.9576,
+   "forms": [
+    "alumine fluatee alkaline",
+    "cryolite",
+    "cryolithe"
+   ],
+   "exact": [
+    "cryolite",
+    "cryolithe"
+   ]
+  },
+  {
+   "display": "Cryptomélane",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "cryptomelane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cubanite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "barracanite",
+    "chalcopyrrhotite",
+    "chalmersite",
+    "cubanite",
+    "cufe2s3"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cuivre",
+   "tier": 3,
+   "score": 0.95,
+   "forms": [
+    "cuivre",
+    "cuivre natif"
+   ],
+   "exact": [
+    "cuivre"
+   ]
+  },
+  {
+   "display": "cumengéite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cumengeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cummingtonite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "cummingtonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cuprite",
+   "tier": 3,
+   "score": 0.9492,
+   "forms": [
+    "cuivre oxidule",
+    "cuivre oxidule capillaire",
+    "cuprite",
+    "mine de cuivre vitreuse rouge",
+    "minerai rouge de cuivre",
+    "ruberite",
+    "zigueline"
+   ],
+   "exact": [
+    "cuprite",
+    "ruberite"
+   ]
+  },
+  {
+   "display": "Cuprosklodowskite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "cuprosklodowskite",
+    "jachimovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cuprostibite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cuprostibite"
+   ],
+   "exact": [
+    "cuprostibite"
+   ]
+  },
+  {
+   "display": "Curite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "curite"
+   ],
+   "exact": [
+    "curite"
+   ]
+  },
+  {
+   "display": "Cuspidine",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "cuspidine"
+   ],
+   "exact": [
+    "cuspidine"
+   ]
+  },
+  {
+   "display": "Cyanotrichite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "cuivre veloute",
+    "cyanotrichite",
+    "lettsomite",
+    "namaqualite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cylindrite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "cylindrite"
+   ],
+   "exact": [
+    "cylindrite"
+   ]
+  },
+  {
+   "display": "Cyrilovite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "cyrilovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Danalite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "danalite"
+   ],
+   "exact": [
+    "danalite"
+   ]
+  },
+  {
+   "display": "Danburite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "danburite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "datolite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "datolite"
+   ],
+   "exact": [
+    "datolite"
+   ]
+  },
+  {
+   "display": "Davemaoïte",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "davemaoite",
+    "ima2020 012a"
+   ],
+   "exact": []
+  },
+  {
+   "display": "davyne",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "davyne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dawsonite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "dawsonite"
+   ],
+   "exact": [
+    "dawsonite"
+   ]
+  },
+  {
+   "display": "Delafossite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "delafossite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "delvauxite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "delvauxite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "derriksite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "derriksite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Descloizite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "descloizite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Despujolsite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "despujolsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Devilline",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "devilline"
+   ],
+   "exact": []
+  },
+  {
+   "display": "diaboléite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "diaboleite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "diadochite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "diadochite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "diamant",
+   "tier": 1,
+   "score": 1.0,
+   "forms": [
+    "diamant"
+   ],
+   "exact": []
+  },
+  {
+   "display": "diaspore",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "diaspore",
+    "diasporite",
+    "diasporogelite",
+    "empholite",
+    "kayserite",
+    "tanatarite",
+    "zultanite"
+   ],
+   "exact": [
+    "kayserite",
+    "zultanite"
+   ]
+  },
+  {
+   "display": "Dickite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "dickite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "digénite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "digenite"
+   ],
+   "exact": [
+    "digenite"
+   ]
+  },
+  {
+   "display": "diopside",
+   "tier": 3,
+   "score": 0.9517,
+   "forms": [
+    "acantoide",
+    "alalite",
+    "coccolite",
+    "dekalbite",
+    "diopside",
+    "kokkolith",
+    "maclurite",
+    "malacolite",
+    "protheite",
+    "pyroxene granuliforme",
+    "pyroxene gri verdatre",
+    "sahlite",
+    "wallerite"
+   ],
+   "exact": [
+    "acantoide",
+    "alalite",
+    "coccolite",
+    "maclurite",
+    "malacolite",
+    "protheite",
+    "wallerite"
+   ]
+  },
+  {
+   "display": "dioptase",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "achirite",
+    "achrite",
+    "aschirite",
+    "cusio3 h2o",
+    "dioptase",
+    "dioptasite",
+    "kirghisite",
+    "rhombohedral emerald malachite",
+    "smaragdo chalcite"
+   ],
+   "exact": [
+    "achirite",
+    "achrite",
+    "aschirite"
+   ]
+  },
+  {
+   "display": "Disthène",
+   "tier": 3,
+   "score": 0.9576,
+   "forms": [
+    "1302 76 7",
+    "beril feuillete",
+    "cyanite",
+    "disthene",
+    "kyanite",
+    "rhaeticite",
+    "sappare",
+    "talc bleu",
+    "zeolithe cyanite"
+   ],
+   "exact": [
+    "1302 76 7",
+    "cyanite"
+   ]
+  },
+  {
+   "display": "Djerfisherite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "djerfisherite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Djurleite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "djurleite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dolomite",
+   "tier": 2,
+   "score": 0.9839,
+   "forms": [
+    "brossite",
+    "camg co3 2",
+    "chal carbonatee magnesifere",
+    "dolomite",
+    "dolomite zincifere",
+    "magnesiodolomite",
+    "manganodolomite",
+    "miemite",
+    "plumbodolomite",
+    "protodolomite",
+    "siderocalcite",
+    "spath magnesien",
+    "spath perle",
+    "tharandite"
+   ],
+   "exact": [
+    "brossite"
+   ]
+  },
+  {
+   "display": "Domeykite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "domeykite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Donbassite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "donbassite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dorrite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "dorrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "doyleite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "doyleite"
+   ],
+   "exact": [
+    "doyleite"
+   ]
+  },
+  {
+   "display": "Dravite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "dravite"
+   ],
+   "exact": [
+    "dravite"
+   ]
+  },
+  {
+   "display": "Dresserite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "dresserite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dufrénite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "dufrenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dufrénoysite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "dufrenoysite",
+    "scleroclase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Duftite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "duftite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dumortierite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "dumortierite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dundasite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "dundasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Durangite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "durangite"
+   ],
+   "exact": [
+    "durangite"
+   ]
+  },
+  {
+   "display": "Dyscrasite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "argent antimoniale",
+    "discrase",
+    "discrasite",
+    "dyscrasite",
+    "stibiotriargentite"
+   ],
+   "exact": [
+    "discrasite",
+    "dyscrasite"
+   ]
+  },
+  {
+   "display": "Édénite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "edenite"
+   ],
+   "exact": [
+    "edenite"
+   ]
+  },
+  {
+   "display": "édingtonite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "edingtonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "edscottite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "edscottite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Efremovite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "efremovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ekanite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "ekanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "elaliite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "elaliite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "elbaïte",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "elbaite"
+   ],
+   "exact": [
+    "elbaite"
+   ]
+  },
+  {
+   "display": "elkinstantonite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "elkinstantonite",
+    "fe4 po4 2o"
+   ],
+   "exact": []
+  },
+  {
+   "display": "elpidite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "elpidite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "émeraude",
+   "tier": 1,
+   "score": 0.9992,
+   "forms": [
+    "12415 33 7",
+    "be3al2 sio3 6 cr",
+    "emeraude",
+    "esmeraude"
+   ],
+   "exact": []
+  },
+  {
+   "display": "emmonsite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "emmonsite"
+   ],
+   "exact": [
+    "emmonsite"
+   ]
+  },
+  {
+   "display": "empressite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "empressite"
+   ],
+   "exact": [
+    "empressite"
+   ]
+  },
+  {
+   "display": "énargite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "cu3ass4",
+    "enargite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Enstatite",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "enstatite"
+   ],
+   "exact": [
+    "enstatite"
+   ]
+  },
+  {
+   "display": "éosphorite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "eosphorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épidote",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "acanticone",
+    "acanticonite",
+    "allochite",
+    "arendalite",
+    "beustite",
+    "epidosite",
+    "epidosyte",
+    "epidote",
+    "epidotite",
+    "pistachite",
+    "rayonnante vitreuse",
+    "rosstrevorite",
+    "schorl vert du dauphine",
+    "scorza",
+    "thallite"
+   ],
+   "exact": [
+    "allochite",
+    "thallite"
+   ]
+  },
+  {
+   "display": "Épistilbite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "epistilbite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épsomite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "aromite",
+    "cobalto epsomite",
+    "epsomite",
+    "fauserite",
+    "ferroepsomite",
+    "reichardite",
+    "seelandite"
+   ],
+   "exact": [
+    "aromite",
+    "fauserite",
+    "reichardite",
+    "seelandite"
+   ]
+  },
+  {
+   "display": "érythrite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "erythrite"
+   ],
+   "exact": [
+    "erythrite"
+   ]
+  },
+  {
+   "display": "Eskebornite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "eskebornite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Eskolaïte",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "eskolaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Esperite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "esperite"
+   ],
+   "exact": [
+    "esperite"
+   ]
+  },
+  {
+   "display": "Étain natif",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "etain natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ettringite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "chalkomorphit",
+    "ettringite",
+    "sel de candlot",
+    "woodfordite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "eucaïrite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "eucairite",
+    "euchairite",
+    "eukairite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Euchroïte",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "cu2 aso4 oh 3h2o",
+    "euchroite"
+   ],
+   "exact": [
+    "euchroite"
+   ]
+  },
+  {
+   "display": "euclase",
+   "tier": 4,
+   "score": 0.8492,
+   "forms": [
+    "euclase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Eucryptite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "eucriptite",
+    "eucryptite",
+    "lialsio4"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Eudialyte",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "eudialyte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Euxénite-",
+   "tier": 4,
+   "score": 0.8492,
+   "forms": [
+    "euxenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fabianite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "fabianite"
+   ],
+   "exact": [
+    "fabianite"
+   ]
+  },
+  {
+   "display": "fahéyite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "faheyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fahléite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "fahleite"
+   ],
+   "exact": [
+    "fahleite"
+   ]
+  },
+  {
+   "display": "fairbankite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "fairbankite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Falcondoïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "falcondoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fayalite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "fayalite",
+    "peridot ferrugineu"
+   ],
+   "exact": [
+    "fayalite"
+   ]
+  },
+  {
+   "display": "feldspath",
+   "tier": 4,
+   "score": 0.82,
+   "forms": [
+    "feldspath"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fer natif",
+   "tier": 3,
+   "score": 0.92,
+   "forms": [
+    "fer",
+    "fer natif"
+   ],
+   "exact": [
+    "fer natif"
+   ]
+  },
+  {
+   "display": "fer tellurique",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "fer tellurique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ferbérite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "ferberite",
+    "reinite"
+   ],
+   "exact": [
+    "ferberite"
+   ]
+  },
+  {
+   "display": "Feroxyhyte",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "feroxyhyte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ferrohexahydrite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "ferrohexahydrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ferrosélite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "ferroselite"
+   ],
+   "exact": [
+    "ferroselite"
+   ]
+  },
+  {
+   "display": "Fiedlérite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "fiedlerite",
+    "fielderite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fischesserite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "fischesserite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fluckite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "fluckite"
+   ],
+   "exact": [
+    "fluckite"
+   ]
+  },
+  {
+   "display": "Fluoborite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "fluoborite"
+   ],
+   "exact": [
+    "fluoborite"
+   ]
+  },
+  {
+   "display": "fluorine",
+   "tier": 2,
+   "score": 0.9788,
+   "forms": [
+    "7789 75 5",
+    "androdamant",
+    "bruiachite",
+    "chal fluatee",
+    "chrome fluorite",
+    "fluore",
+    "fluorine",
+    "fluorite",
+    "liparite",
+    "spath fluor",
+    "spath fusible"
+   ],
+   "exact": [
+    "fluore",
+    "fluorite",
+    "liparite"
+   ]
+  },
+  {
+   "display": "Fluoro-liddicoatite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "fluoro liddicoatite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Foitite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "foitite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fornacite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "fornacite"
+   ],
+   "exact": [
+    "fornacite"
+   ]
+  },
+  {
+   "display": "Forstérite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "boltonite",
+    "forsterite",
+    "mg2sio4",
+    "peridot blanc"
+   ],
+   "exact": [
+    "boltonite",
+    "forsterite"
+   ]
+  },
+  {
+   "display": "Fraipontite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "cupro fraipontite",
+    "fraipontite",
+    "zinalsite"
+   ],
+   "exact": [
+    "zinalsite"
+   ]
+  },
+  {
+   "display": "Francevillite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "francevillite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Franckéite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "franckeite",
+    "ilijteria",
+    "incaite",
+    "potosiite"
+   ],
+   "exact": [
+    "incaite"
+   ]
+  },
+  {
+   "display": "Franklinfurnacéite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "franklinfurnaceite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Franklinite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "ferrite de zinc",
+    "francklinite",
+    "franklinite",
+    "isophane",
+    "magnofranklinite",
+    "zinkoferrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Franklinphilite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "franklinphilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fréboldite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "freboldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fukuchilite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "fukuchilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gahnite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "gahnite"
+   ],
+   "exact": [
+    "gahnite"
+   ]
+  },
+  {
+   "display": "Galaxite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "galaxite"
+   ],
+   "exact": [
+    "galaxite"
+   ]
+  },
+  {
+   "display": "galène",
+   "tier": 2,
+   "score": 0.9763,
+   "forms": [
+    "galene",
+    "galenite",
+    "johnstonite",
+    "parakobellite",
+    "plomb argentifere",
+    "plomb sulfure",
+    "sexangulite",
+    "sinkanite"
+   ],
+   "exact": [
+    "galene",
+    "galenite",
+    "plomb sulfure",
+    "sinkanite"
+   ]
+  },
+  {
+   "display": "galkhaïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "galkhaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ganophyllite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "ganophyllite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gaspéite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "gaspeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gaudefroyite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "gaudefroyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gaylussite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "gaylussite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gehlénite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "gehlenite",
+    "velardenite"
+   ],
+   "exact": [
+    "gehlenite"
+   ]
+  },
+  {
+   "display": "Germanite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "germanite"
+   ],
+   "exact": [
+    "germanite"
+   ]
+  },
+  {
+   "display": "Gersdorffite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "amoibite",
+    "disosmose",
+    "dobschauite",
+    "gersdorffite",
+    "plessite"
+   ],
+   "exact": [
+    "plessite"
+   ]
+  },
+  {
+   "display": "Gibbsite",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "beta kliachite",
+    "claussenite",
+    "gibbsite",
+    "gibbsitogelite",
+    "hydrargyllite",
+    "zirlite"
+   ],
+   "exact": [
+    "zirlite"
+   ]
+  },
+  {
+   "display": "Ginorite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "ginorite"
+   ],
+   "exact": [
+    "ginorite"
+   ]
+  },
+  {
+   "display": "giraudite-",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "giraudite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gittinsite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "gittinsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Glagolévite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "glagolevite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Glaubérite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "glauberite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Glaucochroïte",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "glaucochroite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Glaucodot",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "glaucodot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Glaucophane",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "antiglaucophane",
+    "gastaldite",
+    "glaucophane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Godovikovite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "godovikovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "goethite",
+   "tier": 2,
+   "score": 0.9691,
+   "forms": [
+    "20344 49 4",
+    "allcharite",
+    "alumogoethite",
+    "chileite",
+    "ehrenwerthite",
+    "fer hydroxyle oolitique",
+    "fullonite",
+    "goethite",
+    "hydrohematite",
+    "mesabite",
+    "onegite",
+    "yanthosiderite"
+   ],
+   "exact": [
+    "fullonite"
+   ]
+  },
+  {
+   "display": "Goldfieldite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "goldfieldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Goldmanite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "goldmanite"
+   ],
+   "exact": [
+    "goldmanite"
+   ]
+  },
+  {
+   "display": "Gonnardite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "gonnardite",
+    "ranite",
+    "tetranatrolite"
+   ],
+   "exact": [
+    "ranite"
+   ]
+  },
+  {
+   "display": "Gonyérite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "gonyerite"
+   ],
+   "exact": [
+    "gonyerite"
+   ]
+  },
+  {
+   "display": "Gorceixite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "bariohitchcockite",
+    "ferrazite",
+    "geraesite",
+    "gorceixite",
+    "gosseixite"
+   ],
+   "exact": [
+    "geraesite"
+   ]
+  },
+  {
+   "display": "Goslarite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "goslarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "goudeyite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "goudeyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Goyazite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "goyazite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "grandidiérite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "grandidierite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "graphite",
+   "tier": 1,
+   "score": 0.9958,
+   "forms": [
+    "graphite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grayite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "grayite"
+   ],
+   "exact": [
+    "grayite"
+   ]
+  },
+  {
+   "display": "Greenalite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "greenalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Greenockite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "greenockite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "greigite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "greigite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "grenat",
+   "tier": 4,
+   "score": 0.85,
+   "forms": [
+    "grenat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grenat d'yttrium et d'aluminium",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "12005 21 9",
+    "grenat d yttrium aluminium",
+    "grenat d yttrium et d aluminium",
+    "grenat yttrium aluminium",
+    "yttrogrenat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gricéite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "griceite"
+   ],
+   "exact": [
+    "griceite"
+   ]
+  },
+  {
+   "display": "Grossite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "grossite"
+   ],
+   "exact": [
+    "grossite"
+   ]
+  },
+  {
+   "display": "grossulaire",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "grossulaire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Groupe de la crichtonite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "groupe de la crichtonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Groutite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "groutite"
+   ],
+   "exact": [
+    "groutite"
+   ]
+  },
+  {
+   "display": "Grunérite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "grunerite"
+   ],
+   "exact": [
+    "grunerite"
+   ]
+  },
+  {
+   "display": "Guanajuatite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "guanajuatite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gudmundite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "gudmundite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guettardite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "guettardite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gugiaïte",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "gugiaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guilleminite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "guilleminite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gunningite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "gunningite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gwihabaïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "gwihabaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "gypse",
+   "tier": 1,
+   "score": 0.9941,
+   "forms": [
+    "10101 41 4",
+    "aphroselenon",
+    "caso4 2h2o",
+    "gypse",
+    "gypseu",
+    "montmartrite",
+    "ordite",
+    "oulopholite"
+   ],
+   "exact": [
+    "ordite"
+   ]
+  },
+  {
+   "display": "gyrolite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "gyrolite"
+   ],
+   "exact": [
+    "gyrolite"
+   ]
+  },
+  {
+   "display": "halite",
+   "tier": 1,
+   "score": 0.9898,
+   "forms": [
+    "halite"
+   ],
+   "exact": [
+    "halite"
+   ]
+  },
+  {
+   "display": "Halloysite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "halloysite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Halotrichite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "halotrichite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hambergite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "hambergite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hanksite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "hanksite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hapkéite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "hapkeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hardystonite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "hardystonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harmotome",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "harmotome"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hastingsite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "hastingsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hauérite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "hauerite"
+   ],
+   "exact": [
+    "hauerite"
+   ]
+  },
+  {
+   "display": "Hausmannite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "hausmannite"
+   ],
+   "exact": [
+    "hausmannite"
+   ]
+  },
+  {
+   "display": "haüyne",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "amphigene octaedrique",
+    "hauyne",
+    "hauynite",
+    "pleonaste blanc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hawleyite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "hawleyite"
+   ],
+   "exact": [
+    "hawleyite"
+   ]
+  },
+  {
+   "display": "Heazlewoodite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "heazlewoodite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hectorite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "hectorite"
+   ],
+   "exact": [
+    "hectorite"
+   ]
+  },
+  {
+   "display": "Hédenbergite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "cafe2 si2o6",
+    "hedenbergite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Heinrichite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "heinrichite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "héliodore",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "heliodore"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Héliophyllite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "heliophyllite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Helvite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "helvite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hématite",
+   "tier": 1,
+   "score": 0.9869,
+   "forms": [
+    "anhydroferrite",
+    "fer micace",
+    "fer oxyde rouge",
+    "fer speculaire",
+    "hematite",
+    "hematitogelite",
+    "oligiste",
+    "specularite"
+   ],
+   "exact": [
+    "hematite"
+   ]
+  },
+  {
+   "display": "hémimorphite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "e557",
+    "hemimorphite",
+    "oxyde de zinc silicifere",
+    "silicate de zinc",
+    "wagite",
+    "zinc oxyde silicifere"
+   ],
+   "exact": [
+    "wagite"
+   ]
+  },
+  {
+   "display": "Henmilite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "henmilite"
+   ],
+   "exact": [
+    "henmilite"
+   ]
+  },
+  {
+   "display": "Herbertsmithite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "herbertsmithite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hercynite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "hercynite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "herderite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "herderite"
+   ],
+   "exact": [
+    "herderite"
+   ]
+  },
+  {
+   "display": "Hessite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "hessite"
+   ],
+   "exact": [
+    "hessite"
+   ]
+  },
+  {
+   "display": "Hétérogénite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "heterogenite"
+   ],
+   "exact": [
+    "heterogenite"
+   ]
+  },
+  {
+   "display": "Hétérosite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "ferripurpurite",
+    "heterosite",
+    "heterozite",
+    "na heterosite",
+    "neopurpurite",
+    "pseudotriplite"
+   ],
+   "exact": [
+    "heterosite",
+    "heterozite"
+   ]
+  },
+  {
+   "display": "Hexahydrite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "hexahydrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hexamolybdène",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "hexamolybdene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hilgardite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "hilgardite"
+   ],
+   "exact": [
+    "hilgardite"
+   ]
+  },
+  {
+   "display": "Hodgkinsonite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "hodgkinsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hollandite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "hollandite"
+   ],
+   "exact": [
+    "hollandite"
+   ]
+  },
+  {
+   "display": "Hopeite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "hopeite",
+    "stilbite duovigesimale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hörnesite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "hornesite"
+   ],
+   "exact": [
+    "hornesite"
+   ]
+  },
+  {
+   "display": "Hotsonite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "hotsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Howlite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "howlite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hsianghualite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "hsianghualite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hubéite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "hubeite"
+   ],
+   "exact": [
+    "hubeite"
+   ]
+  },
+  {
+   "display": "Hübnérite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "hubnerite",
+    "huebnerite",
+    "manganowolframite"
+   ],
+   "exact": [
+    "hubnerite"
+   ]
+  },
+  {
+   "display": "humite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "humite"
+   ],
+   "exact": [
+    "humite"
+   ]
+  },
+  {
+   "display": "Huntite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "huntite"
+   ],
+   "exact": [
+    "huntite"
+   ]
+  },
+  {
+   "display": "huréaulite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "baldaufite",
+    "hureaulite",
+    "pseudopalaite",
+    "wenzelite"
+   ],
+   "exact": [
+    "hureaulite",
+    "wenzelite"
+   ]
+  },
+  {
+   "display": "Hutchinsonite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "hutchinsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hydroboracite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "hydroboracite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hydrohalite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "hydrohalite"
+   ],
+   "exact": [
+    "hydrohalite"
+   ]
+  },
+  {
+   "display": "hydromagnésite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "hydromagnesite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hydrotalcite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "hydrotalcite"
+   ],
+   "exact": [
+    "hydrotalcite"
+   ]
+  },
+  {
+   "display": "Hydroxyapatite",
+   "tier": 3,
+   "score": 0.9178,
+   "forms": [
+    "hydroxy apatite",
+    "hydroxyapatite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hydrozincite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "hydrozincite",
+    "zinconise"
+   ],
+   "exact": [
+    "zinconise"
+   ]
+  },
+  {
+   "display": "Hypercinabre",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "hypercinabre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ianbrucéite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "ianbruceite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Icosahédrite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "icosahedrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ikaïte",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "ikaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ikranite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "ikranite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ilésite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "ilesite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ilménite",
+   "tier": 2,
+   "score": 0.9678,
+   "forms": [
+    "98072 94 7",
+    "ferro ilmenite",
+    "ferroilmenite",
+    "fetio3",
+    "guadarramite",
+    "hystatite",
+    "ilmenite",
+    "iserine",
+    "kibdelophane",
+    "magneto ilmenite",
+    "manaccanite",
+    "menachanite",
+    "picrocrichtonite",
+    "picroilmenite",
+    "picrotitanite",
+    "silico ilmenite",
+    "washingtonite"
+   ],
+   "exact": [
+    "hystatite",
+    "iserine",
+    "menachanite"
+   ]
+  },
+  {
+   "display": "Imogolite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "imogolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Inderite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "inderite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Indite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "indite"
+   ],
+   "exact": [
+    "indite"
+   ]
+  },
+  {
+   "display": "indium natif",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "indium natif"
+   ],
+   "exact": [
+    "indium natif"
+   ]
+  },
+  {
+   "display": "inyoite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "inyoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Iodargyrite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "iodargyrite",
+    "iodite",
+    "iodyrite"
+   ],
+   "exact": [
+    "iodite"
+   ]
+  },
+  {
+   "display": "Irarsite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "irarsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Iridium natif",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "iridium natif"
+   ],
+   "exact": [
+    "iridium natif"
+   ]
+  },
+  {
+   "display": "Ixiolite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "ixiolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "jacobsite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "jacobsite"
+   ],
+   "exact": [
+    "jacobsite"
+   ]
+  },
+  {
+   "display": "Jadarite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "jadarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "jade",
+   "tier": 1,
+   "score": 0.9869,
+   "forms": [
+    "jade"
+   ],
+   "exact": []
+  },
+  {
+   "display": "jadéite",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "jadeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jaipurite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "jaipurite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jamesonite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "comuccite",
+    "domingite",
+    "jamesonite",
+    "pfaffite",
+    "sakharovaite",
+    "warrenite",
+    "wolfsbergite"
+   ],
+   "exact": [
+    "domingite",
+    "sakharovaite",
+    "warrenite"
+   ]
+  },
+  {
+   "display": "Jarosite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "antunezite",
+    "jarosite",
+    "leucanterite",
+    "misy",
+    "moronolite",
+    "utahite",
+    "vitriolgelb"
+   ],
+   "exact": [
+    "jarosite",
+    "moronolite",
+    "utahite"
+   ]
+  },
+  {
+   "display": "jaspe",
+   "tier": 4,
+   "score": 0.7,
+   "forms": [
+    "jaspe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jennite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "jennite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jéréméjévite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "jeremejevite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jinshajiangite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "jinshajiangite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Joaquinite-",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "joaquinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Johannite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "johannite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Johannsénite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "johannsenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Johnbaumite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "johnbaumite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Johntomaïte",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "johntomaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "jôkokuite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "jokokuite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Joliotite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "joliotite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jordanite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "jordanite"
+   ],
+   "exact": [
+    "jordanite"
+   ]
+  },
+  {
+   "display": "Jouravskite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "jouravskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kaersutite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "kaersutite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kahlerite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "kahlerite"
+   ],
+   "exact": [
+    "kahlerite"
+   ]
+  },
+  {
+   "display": "kaïnite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "kainite"
+   ],
+   "exact": [
+    "kainite"
+   ]
+  },
+  {
+   "display": "Kaïnosite-",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "kainosite"
+   ],
+   "exact": [
+    "kainosite"
+   ]
+  },
+  {
+   "display": "kalininite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "kalininite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kalsilite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "kalsilite"
+   ],
+   "exact": [
+    "kalsilite"
+   ]
+  },
+  {
+   "display": "kaňkite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "kankite"
+   ],
+   "exact": [
+    "kankite"
+   ]
+  },
+  {
+   "display": "kaolinite",
+   "tier": 2,
+   "score": 0.9788,
+   "forms": [
+    "1318 74 7",
+    "al2si2o5 oh 4",
+    "kaolinite"
+   ],
+   "exact": [
+    "kaolinite"
+   ]
+  },
+  {
+   "display": "Karélianite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "karelianite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kasolite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "kasolite"
+   ],
+   "exact": [
+    "kasolite"
+   ]
+  },
+  {
+   "display": "Katayamalite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "katayamalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Keatite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "keatite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kellyite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "kellyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kermésite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "antimoine blende",
+    "antimoine en plume rouge",
+    "antimoine oxyde sulfure",
+    "antimoine rouge",
+    "kerme mineral natif",
+    "kermesite",
+    "mine d antimoine rouge",
+    "oxyde d antimoine sulfure rouge",
+    "pyrostibite",
+    "pyrostibnite",
+    "soufre dore natif"
+   ],
+   "exact": [
+    "kermesite",
+    "pyrostibite"
+   ]
+  },
+  {
+   "display": "Kernite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "kernite",
+    "rasorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kësterite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "isostannite",
+    "kesterite",
+    "khinganite"
+   ],
+   "exact": [
+    "kesterite"
+   ]
+  },
+  {
+   "display": "Khomyakovite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "khomyakovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kiesérite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "kieserite"
+   ],
+   "exact": [
+    "kieserite"
+   ]
+  },
+  {
+   "display": "kimzeyite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "kimzeyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kinoite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "kinoite"
+   ],
+   "exact": [
+    "kinoite"
+   ]
+  },
+  {
+   "display": "Kirschsteinite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "kirschsteinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kleinite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "kleinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Klockmannite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "klockmannite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kolbeckite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "kolbeckite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kornélite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "kornelite"
+   ],
+   "exact": [
+    "kornelite"
+   ]
+  },
+  {
+   "display": "Kosmochlor",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "chrome acmite",
+    "cloromelanitite",
+    "cosmochlore",
+    "kosmochlor",
+    "ureyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "köttigite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "koettigite",
+    "kottigite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kotulskite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "kotulskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Koutekite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "koutekite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Krautite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "krautite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "krennerite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "krennerite"
+   ],
+   "exact": [
+    "krennerite"
+   ]
+  },
+  {
+   "display": "Kristiansenite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "kristiansenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kröhnkite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "krohnkite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "krutaïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "krutaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kulanite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "kulanite"
+   ],
+   "exact": [
+    "kulanite"
+   ]
+  },
+  {
+   "display": "Kuliokite-",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "kuliokite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kurnakovite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "kurnakovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kutinaïte",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "kutinaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kutnohorite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "kutnahorite",
+    "kutnohorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kyawthuite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "kyawthuite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kyzylkumite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "kyzylkumite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lacroixite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "lacroixite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Langisite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "langisite"
+   ],
+   "exact": [
+    "langisite"
+   ]
+  },
+  {
+   "display": "Langite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "langite"
+   ],
+   "exact": [
+    "langite"
+   ]
+  },
+  {
+   "display": "lansfordite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "lansfordite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lapis-lazuli",
+   "tier": 4,
+   "score": 0.84,
+   "forms": [
+    "lapi lazuli"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Larnite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "larnite"
+   ],
+   "exact": [
+    "larnite"
+   ]
+  },
+  {
+   "display": "Laumontite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "laumontite"
+   ],
+   "exact": [
+    "laumontite"
+   ]
+  },
+  {
+   "display": "Laurionite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "laurionite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laurite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "laurite"
+   ],
+   "exact": [
+    "laurite"
+   ]
+  },
+  {
+   "display": "Lavendulan",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "lavendulan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lawsonite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "lawsonite"
+   ],
+   "exact": [
+    "lawsonite"
+   ]
+  },
+  {
+   "display": "Lazulite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "lazulite"
+   ],
+   "exact": [
+    "lazulite"
+   ]
+  },
+  {
+   "display": "lazurite",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "lazurite"
+   ],
+   "exact": [
+    "lazurite"
+   ]
+  },
+  {
+   "display": "Leadhillite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "leadhillite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lechateliérite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "lechatelierite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Legrandite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "legrandite"
+   ],
+   "exact": [
+    "legrandite"
+   ]
+  },
+  {
+   "display": "Leifite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "leifite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "leiteite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "leiteite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lengenbachite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "lengenbachite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Léonite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "leonite"
+   ],
+   "exact": [
+    "leonite"
+   ]
+  },
+  {
+   "display": "Lepersonnite-",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "lepersonnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lépidocrocite",
+   "tier": 4,
+   "score": 0.8492,
+   "forms": [
+    "hydrolepidocrocite",
+    "lepidocrocite",
+    "pyrrhosiderite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "letovicite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "letovicite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "leucite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "kalsi2o6",
+    "leucite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Leucophanite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "leucophanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Leucophosphite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "leucophosphite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Libéthénite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "libethenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liebenbergite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "liebenbergite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liebigite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "liebigite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ligure",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "ligure"
+   ],
+   "exact": [
+    "ligure"
+   ]
+  },
+  {
+   "display": "Linarite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "linarite",
+    "plomb sulfate cuprifere"
+   ],
+   "exact": [
+    "linarite"
+   ]
+  },
+  {
+   "display": "Lindgrenite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "lindgrenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Linnaéite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "linnaeite"
+   ],
+   "exact": [
+    "linnaeite"
+   ]
+  },
+  {
+   "display": "Liroconite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "couphochlorite",
+    "lentulite",
+    "liroconite"
+   ],
+   "exact": [
+    "lentulite"
+   ]
+  },
+  {
+   "display": "lislkirchnerite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "lislkirchnerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Litharge",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "litharge",
+    "lithargie"
+   ],
+   "exact": [
+    "lithargie"
+   ]
+  },
+  {
+   "display": "lithiophilite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "lithiophilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lizardite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "lizardite"
+   ],
+   "exact": [
+    "lizardite"
+   ]
+  },
+  {
+   "display": "Löllingite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "arsenokrokit",
+    "arsenosiderite",
+    "geyerite",
+    "guerite",
+    "huttenbergite",
+    "leucopurite",
+    "loellingite",
+    "lollingite",
+    "pharmakopyrite",
+    "saetersbergite",
+    "satersbergite"
+   ],
+   "exact": [
+    "geyerite",
+    "guerite"
+   ]
+  },
+  {
+   "display": "Lomonosovite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "lomonosovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Londonite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "londonite"
+   ],
+   "exact": [
+    "londonite"
+   ]
+  },
+  {
+   "display": "lonsdaléite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "lonsdaleite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loparite-",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "loparite"
+   ],
+   "exact": [
+    "loparite"
+   ]
+  },
+  {
+   "display": "lopézite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "lopezite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lorandite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "lorandite"
+   ],
+   "exact": [
+    "lorandite"
+   ]
+  },
+  {
+   "display": "lotharmeyerite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "lotharmeyerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ludlockite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "ludlockite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ludwigite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "ludwigite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lueshite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "lueshite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "luxembourgite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "luxembourgite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lyonsite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "lyonsite"
+   ],
+   "exact": [
+    "lyonsite"
+   ]
+  },
+  {
+   "display": "macallistérite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "macallisterite",
+    "mcallisterite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Macdonaldite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "macdonaldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Macfallite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "macfallite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mackinawite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "mackinawite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Macquartite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "macquartite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "madocite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "madocite"
+   ],
+   "exact": [
+    "madocite"
+   ]
+  },
+  {
+   "display": "maganvésuvianite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "maganvesuvianite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Maghémite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "maghemite"
+   ],
+   "exact": [
+    "maghemite"
+   ]
+  },
+  {
+   "display": "Magnésiochromite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "magnesiochromite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Magnésioferrite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "magnesioferrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Magnésiohastingsite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "magnesiohastingsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "magnésite",
+   "tier": 2,
+   "score": 0.9657,
+   "forms": [
+    "13717 00 5",
+    "baldisserite",
+    "breinnerite",
+    "e504",
+    "e504 i",
+    "ferroan magnesite",
+    "hallite",
+    "hoshiite",
+    "magnesianite",
+    "magnesite",
+    "magnesium carbonate de",
+    "mesitine",
+    "mesitite",
+    "nickel magnesite"
+   ],
+   "exact": [
+    "breinnerite",
+    "hallite",
+    "magnesite"
+   ]
+  },
+  {
+   "display": "magnétite",
+   "tier": 2,
+   "score": 0.9805,
+   "forms": [
+    "1309 38 2",
+    "1317 61 9",
+    "aimantine",
+    "diamagnetite",
+    "fer oxyde magnetique",
+    "fer oxydule",
+    "ferroferrite",
+    "heraclion",
+    "magnetite",
+    "morpholite",
+    "pierre d aimant"
+   ],
+   "exact": [
+    "1309 38 2",
+    "1317 61 9",
+    "aimantine",
+    "magnetite",
+    "morpholite"
+   ]
+  },
+  {
+   "display": "Majorite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "majorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mäkinenite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "makinenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "malachite",
+   "tier": 2,
+   "score": 0.9818,
+   "forms": [
+    "cu2 co3 oh 2",
+    "cuivre carbonate vert",
+    "fleur de cuivre verte",
+    "malachite"
+   ],
+   "exact": [
+    "malachite"
+   ]
+  },
+  {
+   "display": "Maldonite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "maldonite"
+   ],
+   "exact": [
+    "maldonite"
+   ]
+  },
+  {
+   "display": "Mallardite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "mallardite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Manandonite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "manandonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "manganite",
+   "tier": 3,
+   "score": 0.9131,
+   "forms": [
+    "acerdese",
+    "magnesie noire",
+    "manganaise cristallisee",
+    "manganese satinee",
+    "manganite",
+    "newkirkite",
+    "pierre de perigueu",
+    "savon des verrier",
+    "sphenomanganite"
+   ],
+   "exact": [
+    "manganite"
+   ]
+  },
+  {
+   "display": "Manganosite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "manganosite",
+    "mno"
+   ],
+   "exact": [
+    "manganosite"
+   ]
+  },
+  {
+   "display": "Mansfieldite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "mansfieldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "marcassite",
+   "tier": 3,
+   "score": 0.9492,
+   "forms": [
+    "alasanite",
+    "binarite",
+    "binarkie",
+    "cyrosite",
+    "hydropyrite",
+    "kausimkie",
+    "kyrosite",
+    "lonchandite",
+    "marcasite",
+    "marcassite",
+    "metalonchidite",
+    "poliopyrite",
+    "pyrite blanche",
+    "pyrite cretee",
+    "pyrite lamelleuse",
+    "pyrite rhomboidale",
+    "sperkise"
+   ],
+   "exact": [
+    "alasanite",
+    "binarite",
+    "cyrosite",
+    "hydropyrite",
+    "marcasite"
+   ]
+  },
+  {
+   "display": "margaritasite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "margaritasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "margarite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "margarite"
+   ],
+   "exact": [
+    "margarite"
+   ]
+  },
+  {
+   "display": "Marialite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "marialite"
+   ],
+   "exact": [
+    "marialite"
+   ]
+  },
+  {
+   "display": "Maricite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "maricite"
+   ],
+   "exact": [
+    "maricite"
+   ]
+  },
+  {
+   "display": "mascagnite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "mascagnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "massicot",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "massico",
+    "massicot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Matioliite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "matioliite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Matlockite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "matlockite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mauchérite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "maucherite"
+   ],
+   "exact": [
+    "maucherite"
+   ]
+  },
+  {
+   "display": "Maw sit",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "maw sit"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mckelveyite-",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "mckelveyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Méionite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "meionite"
+   ],
+   "exact": [
+    "meionite"
+   ]
+  },
+  {
+   "display": "Meisserite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "meisserite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mélanophlogite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "melanophlogite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mélantérite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "7782 63 0",
+    "chalcite",
+    "chalcitri",
+    "couperose verte",
+    "cuprojarosite",
+    "cuprokirovite",
+    "fer sulfate",
+    "feso4 7h2o",
+    "luckite",
+    "luckyite",
+    "melanterie",
+    "melanterite",
+    "melanterite cuprifere",
+    "pisanite",
+    "sommairite",
+    "vitriol vert",
+    "yarroshite"
+   ],
+   "exact": [
+    "chalcite",
+    "luckite",
+    "melanterie",
+    "sommairite"
+   ]
+  },
+  {
+   "display": "Mélilite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "melilite"
+   ],
+   "exact": [
+    "melilite"
+   ]
+  },
+  {
+   "display": "Mellite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "mellilite",
+    "mellite",
+    "pierre miel",
+    "xylocryptite"
+   ],
+   "exact": [
+    "mellilite",
+    "mellite"
+   ]
+  },
+  {
+   "display": "Melonite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "melonite"
+   ],
+   "exact": [
+    "melonite"
+   ]
+  },
+  {
+   "display": "Mendozite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "mendozite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ménéghinite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "meneghinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mercure",
+   "tier": 4,
+   "score": 0.7,
+   "forms": [
+    "mercure",
+    "mercure natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Méridianiite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "meridianiite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Merrillite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "merrillite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mésolite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "mesolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "méta-autunite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "meta autunite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Métacinabre",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "metacinabre",
+    "metacinnabar",
+    "metacinnabarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "metatorbernite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "metatorbernite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Métazeunérite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "metazeunerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "meyerhofferite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "meyerhofferite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "miargyrite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "agsbs2",
+    "argent antimonie sulfure noir",
+    "hypargyrite",
+    "kenngottite de haidinger",
+    "miargyrite"
+   ],
+   "exact": [
+    "hypargyrite",
+    "miargyrite"
+   ]
+  },
+  {
+   "display": "Miassite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "miassite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mica",
+   "tier": 4,
+   "score": 0.85,
+   "forms": [
+    "mica"
+   ],
+   "exact": []
+  },
+  {
+   "display": "microcline",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "microcline"
+   ],
+   "exact": [
+    "microcline"
+   ]
+  },
+  {
+   "display": "Microlite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "microlite"
+   ],
+   "exact": [
+    "microlite"
+   ]
+  },
+  {
+   "display": "Miguelroméroïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "miguelromeroite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "millérite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "archise",
+    "harkise",
+    "millerite",
+    "nickel sulfure",
+    "pyrite capillaire",
+    "pyrite de nickel",
+    "trichopyrite"
+   ],
+   "exact": [
+    "archise",
+    "millerite"
+   ]
+  },
+  {
+   "display": "mimétite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "arsenopyromorphite",
+    "campylite",
+    "mimetesite",
+    "mimetite",
+    "prixite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "minium",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "minium"
+   ],
+   "exact": [
+    "minium"
+   ]
+  },
+  {
+   "display": "Minnésotaïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "minnesotaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "minrecordite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "minrecordite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Minyulite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "minyulite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mirabilite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "mirabilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mitscherlichite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "mitscherlichite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mixite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "mixite"
+   ],
+   "exact": [
+    "mixite"
+   ]
+  },
+  {
+   "display": "Modderite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "modderite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "moganite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "lutecite",
+    "moganite"
+   ],
+   "exact": [
+    "lutecite",
+    "moganite"
+   ]
+  },
+  {
+   "display": "mohrite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "mohrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "moissanite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "moissanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "molybdénite",
+   "tier": 3,
+   "score": 0.9331,
+   "forms": [
+    "1317 33 5",
+    "molybdenite",
+    "mos2",
+    "muchuanite"
+   ],
+   "exact": [
+    "1317 33 5"
+   ]
+  },
+  {
+   "display": "Montebrasite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "montebrasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "monticellite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "monticellite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montmorillonite",
+   "tier": 3,
+   "score": 0.9449,
+   "forms": [
+    "montmorillonite",
+    "terre de sommiere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "montroydite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "hgo",
+    "montroydite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moorhouséite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "moorhouseite"
+   ],
+   "exact": [
+    "moorhouseite"
+   ]
+  },
+  {
+   "display": "Morénosite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "morenosite"
+   ],
+   "exact": [
+    "morenosite"
+   ]
+  },
+  {
+   "display": "mottramite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "mottramite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mounanaite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "mounanaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mullite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "mullite"
+   ],
+   "exact": [
+    "mullite"
+   ]
+  },
+  {
+   "display": "Mundite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "mundite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Muscovite",
+   "tier": 2,
+   "score": 0.961,
+   "forms": [
+    "alurgite",
+    "ammochryse",
+    "ammochryso",
+    "amphilogite",
+    "antonite",
+    "argent de chat",
+    "argent des chat",
+    "didymite",
+    "mica argentin",
+    "muscovite",
+    "oncosine",
+    "polychroilite",
+    "verre de moscou"
+   ],
+   "exact": [
+    "antonite",
+    "didymite"
+   ]
+  },
+  {
+   "display": "Nacrite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "nacrite"
+   ],
+   "exact": [
+    "nacrite"
+   ]
+  },
+  {
+   "display": "Nadorite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "nadorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "nagyagite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "elasmose",
+    "nagyagite",
+    "or gri lamelleu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nahcolite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "nahcolite"
+   ],
+   "exact": [
+    "nahcolite"
+   ]
+  },
+  {
+   "display": "Nambulite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "nambulite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "natrite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "natrite"
+   ],
+   "exact": [
+    "natrite"
+   ]
+  },
+  {
+   "display": "Natrojarosite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "natrojarosite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Natrolite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "apoanalcite",
+    "brevicite",
+    "chondrikite",
+    "crocalite",
+    "edelite",
+    "epimatrolite",
+    "hosruite",
+    "lehuntite",
+    "mesotype",
+    "mooraboolite",
+    "natrolite",
+    "savite",
+    "zeolithe farineuse"
+   ],
+   "exact": [
+    "chondrikite",
+    "crocalite",
+    "edelite",
+    "lehuntite",
+    "natrolite",
+    "savite"
+   ]
+  },
+  {
+   "display": "Natron",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "natron"
+   ],
+   "exact": [
+    "natron"
+   ]
+  },
+  {
+   "display": "Naumannite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "naumannite"
+   ],
+   "exact": [
+    "naumannite"
+   ]
+  },
+  {
+   "display": "Nchwaningite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "nchwaningite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nealite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "nealite"
+   ],
+   "exact": [
+    "nealite"
+   ]
+  },
+  {
+   "display": "nénadkévichite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "nenadkevichite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "néphéline",
+   "tier": 3,
+   "score": 0.9331,
+   "forms": [
+    "na3kal4si4o16",
+    "nepheline",
+    "nephelite"
+   ],
+   "exact": [
+    "nepheline"
+   ]
+  },
+  {
+   "display": "népouite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "nepouite"
+   ],
+   "exact": [
+    "nepouite"
+   ]
+  },
+  {
+   "display": "Neptunite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "carlosite",
+    "ferroneptunite",
+    "neptunite"
+   ],
+   "exact": [
+    "carlosite",
+    "neptunite"
+   ]
+  },
+  {
+   "display": "nesquehonite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "nesquehonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Newbéryite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "hydrogenophosphate de magnesium trihydrate naturel",
+    "mghpo4 3h2o cristal",
+    "newberyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nickel natif",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "nickel natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nickelhexahydrite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "nickelhexahydrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "nickéline",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "12795 30 1",
+    "27016 75 7",
+    "nia",
+    "niccolite",
+    "nickel arsenical",
+    "nickeline",
+    "nickelite"
+   ],
+   "exact": [
+    "niccolite"
+   ]
+  },
+  {
+   "display": "Nickelskuttérudite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "nickel skutterudite",
+    "nickelskutterudite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nimite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "nimite"
+   ],
+   "exact": [
+    "nimite"
+   ]
+  },
+  {
+   "display": "Niningérite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "niningerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "nissonite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "nissonite"
+   ],
+   "exact": [
+    "nissonite"
+   ]
+  },
+  {
+   "display": "nitre",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "nitre",
+    "salpetre"
+   ],
+   "exact": [
+    "nitre"
+   ]
+  },
+  {
+   "display": "Nitronatrite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "nitronatrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nobléite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "nobleite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "nontronite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "nontronite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Norbergite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "norbergite"
+   ],
+   "exact": [
+    "norbergite"
+   ]
+  },
+  {
+   "display": "Nordenskiöldine",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "nordenskioldine"
+   ],
+   "exact": [
+    "nordenskioldine"
+   ]
+  },
+  {
+   "display": "Nordstrandite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "nordstrandite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Norsethite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "norsethite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Northupite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "northupite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "noséane",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "natron hauyne",
+    "noseane",
+    "noselite",
+    "noselitite",
+    "nosiane",
+    "nosine",
+    "nosite",
+    "spinellane"
+   ],
+   "exact": [
+    "noselite",
+    "nosite",
+    "spinellane"
+   ]
+  },
+  {
+   "display": "Nováčekite-I",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "novacekite i"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Novakite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "novakite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nuraghéite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "nuragheite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "obsidienne",
+   "tier": 4,
+   "score": 0.8,
+   "forms": [
+    "obsidienne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ocre ferreuse",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "ocre ferreuse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Odinite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "odinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "odintsovite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "ima1994 052",
+    "odintsovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "œil-de-tigre",
+   "tier": 4,
+   "score": 0.7,
+   "forms": [
+    "oeil de tigre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Okayamalite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "okayamalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Okénite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "bordite",
+    "dysclasite",
+    "okenite"
+   ],
+   "exact": [
+    "bordite",
+    "dysclasite"
+   ]
+  },
+  {
+   "display": "olivénite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "cu2aso4 oh",
+    "olivenite"
+   ],
+   "exact": [
+    "olivenite"
+   ]
+  },
+  {
+   "display": "olsénite",
+   "tier": 5,
+   "score": 0.0025,
+   "forms": [
+    "olsenite"
+   ],
+   "exact": [
+    "olsenite"
+   ]
+  },
+  {
+   "display": "Omphacite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "omphacite"
+   ],
+   "exact": [
+    "omphacite"
+   ]
+  },
+  {
+   "display": "omsite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "omsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "onyx",
+   "tier": 4,
+   "score": 0.75,
+   "forms": [
+    "onyx"
+   ],
+   "exact": []
+  },
+  {
+   "display": "opale",
+   "tier": 2,
+   "score": 0.9839,
+   "forms": [
+    "cachalong",
+    "opale",
+    "opale ag",
+    "opale commune",
+    "opale potch",
+    "vidrite"
+   ],
+   "exact": [
+    "opale"
+   ]
+  },
+  {
+   "display": "or",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "or",
+    "or natif"
+   ],
+   "exact": [
+    "or natif"
+   ]
+  },
+  {
+   "display": "orpiment",
+   "tier": 2,
+   "score": 0.961,
+   "forms": [
+    "12255 89 9",
+    "12612 21 4",
+    "as2s3",
+    "orpiment"
+   ],
+   "exact": [
+    "12255 89 9"
+   ]
+  },
+  {
+   "display": "orthoferrosilite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "ferrosilite",
+    "orthoferrosilite"
+   ],
+   "exact": [
+    "ferrosilite"
+   ]
+  },
+  {
+   "display": "Orthose",
+   "tier": 2,
+   "score": 0.9691,
+   "forms": [
+    "orthose"
+   ],
+   "exact": []
+  },
+  {
+   "display": "osarizawaite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "osarizawaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "osmium natif",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "osmium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Oswaldpeetersite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "oswaldpeetersite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Otavite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "otavite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ouvarovite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "ouvarovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Oxammite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "oxammite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pääkkönenite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "paakkonenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Padĕraïte",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "paderaite"
+   ],
+   "exact": [
+    "paderaite"
+   ]
+  },
+  {
+   "display": "Painite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "painite"
+   ],
+   "exact": [
+    "painite"
+   ]
+  },
+  {
+   "display": "Palermoite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "palermoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Palladium natif",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "palladium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Panéthite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "panethite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Papagoïte",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "papagoite"
+   ],
+   "exact": [
+    "papagoite"
+   ]
+  },
+  {
+   "display": "Paracoquimbite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "paracoquimbite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "paragonite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "paragonite"
+   ],
+   "exact": [
+    "paragonite"
+   ]
+  },
+  {
+   "display": "Paraguanajuatite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "paraguanajuatite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paralaurionite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "paralaurionite",
+    "rafaelite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paratacamite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "paratacamite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paratellurite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "paratellurite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paravauxite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "paravauxite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pargasite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "pargasite"
+   ],
+   "exact": [
+    "pargasite"
+   ]
+  },
+  {
+   "display": "Pascoite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "pascoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Patronite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "patronite"
+   ],
+   "exact": [
+    "patronite"
+   ]
+  },
+  {
+   "display": "Pearcéite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "pearceite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pecoraite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "pecoraite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pectolite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "gonsogolite",
+    "jade d alaska",
+    "pectolite"
+   ],
+   "exact": [
+    "pectolite"
+   ]
+  },
+  {
+   "display": "Penikisite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "penikisite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pennantite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "pennantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "penroséite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "penroseite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pentagonite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "pentagonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pentahydrite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "pentahydrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pentlandite",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "pentlandite"
+   ],
+   "exact": [
+    "pentlandite"
+   ]
+  },
+  {
+   "display": "Périclase",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "lavernite",
+    "periclase",
+    "periclasie",
+    "periclasite"
+   ],
+   "exact": [
+    "lavernite"
+   ]
+  },
+  {
+   "display": "péridot",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "peridot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "perle",
+   "tier": 3,
+   "score": 0.9,
+   "forms": [
+    "perle"
+   ],
+   "exact": [
+    "perle"
+   ]
+  },
+  {
+   "display": "Perloffite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "perloffite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pérovskite",
+   "tier": 3,
+   "score": 0.9297,
+   "forms": [
+    "37226 56 5",
+    "catio3",
+    "metaperovskite",
+    "perovskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pétalite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "petalite"
+   ],
+   "exact": [
+    "petalite"
+   ]
+  },
+  {
+   "display": "Petedunnite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "petedunnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petzite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "petzite"
+   ],
+   "exact": [
+    "petzite"
+   ]
+  },
+  {
+   "display": "pezzottaite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "pezzottaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pharmacolite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "pharmacolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pharmacosidérite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "pharmacosiderite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "phénacite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "phenacite"
+   ],
+   "exact": [
+    "phenacite"
+   ]
+  },
+  {
+   "display": "phlogopite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "mica bronze",
+    "phlogopite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phosgénite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "cromfordite",
+    "galenoceratite",
+    "hornblei",
+    "kerasine",
+    "murio carbonate de plomb",
+    "phosgenite",
+    "plomb carbonate muriatifere",
+    "plomb chloro carbonate",
+    "plomb corne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phosphohedyphane",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "calcium pyromorphite",
+    "nussierite",
+    "phosphohedyphane",
+    "polysphaerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phosphophyllite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "phosphophyllite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phosphosidérite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "phosphosiderite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phosphuranylite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "phosphuranylite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pickeringite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "pickeringite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Picromérite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "picromerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Piémontite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "epidote manganesifere",
+    "piedmontite",
+    "piemontite",
+    "withamite"
+   ],
+   "exact": [
+    "withamite"
+   ]
+  },
+  {
+   "display": "Pierre d'Eilat",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "pierre d eilat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pierre de lune",
+   "tier": 4,
+   "score": 0.72,
+   "forms": [
+    "pierre de lune"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pierre fine",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "pierre fine",
+    "pierre semi precieuse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pierre précieuse",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "pierre precieuse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pigeonite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "pigeonite"
+   ],
+   "exact": [
+    "pigeonite"
+   ]
+  },
+  {
+   "display": "pimélite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "desaulerite",
+    "pimelite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pinnoïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "pinnoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pirssonite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "pirssonite"
+   ],
+   "exact": [
+    "pirssonite"
+   ]
+  },
+  {
+   "display": "Planchéite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "katangaite",
+    "katangite",
+    "plancheite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "platine",
+   "tier": 3,
+   "score": 0.88,
+   "forms": [
+    "platine",
+    "platine natif"
+   ],
+   "exact": [
+    "platine"
+   ]
+  },
+  {
+   "display": "plattnérite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "plattnerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "plomb natif",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "plomb natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "plombonacrite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "plombonacrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plumbotellurite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "plumbotellurite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pollucite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "pollucite"
+   ],
+   "exact": [
+    "pollucite"
+   ]
+  },
+  {
+   "display": "Polybasite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "polybasite"
+   ],
+   "exact": [
+    "polybasite"
+   ]
+  },
+  {
+   "display": "polycrase-",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "polycrase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Polydymite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "polydymite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Polyhalite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "polyhalite"
+   ],
+   "exact": [
+    "polyhalite"
+   ]
+  },
+  {
+   "display": "polylithionite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "polylithionite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Portlandite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "portlandite"
+   ],
+   "exact": [
+    "portlandite"
+   ]
+  },
+  {
+   "display": "Posnjakite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "posnjakite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Potarite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "potarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Povondraïte",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "povondraite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Powellite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "powellite"
+   ],
+   "exact": [
+    "powellite"
+   ]
+  },
+  {
+   "display": "Prehnite",
+   "tier": 4,
+   "score": 0.8492,
+   "forms": [
+    "bostrichite",
+    "chiltonite",
+    "chrysolite du cap",
+    "coupholite",
+    "koupholite",
+    "prehnite",
+    "zeolithe cuivreuse",
+    "zeolithe etincelante",
+    "zeolithe jaunatre radiee",
+    "zeolithe rayonnee",
+    "zeolithe verte",
+    "zeolithe vitreuse verdatre du cap"
+   ],
+   "exact": [
+    "chiltonite",
+    "coupholite",
+    "koupholite"
+   ]
+  },
+  {
+   "display": "Pricéite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "priceite"
+   ],
+   "exact": [
+    "priceite"
+   ]
+  },
+  {
+   "display": "Probertite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "probertite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Proustite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "proustite"
+   ],
+   "exact": [
+    "proustite"
+   ]
+  },
+  {
+   "display": "Pseudobrookite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "pseudobrookite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pseudowollastonite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "pseudowollastonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pucherite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "pucherite"
+   ],
+   "exact": [
+    "pucherite"
+   ]
+  },
+  {
+   "display": "putnisite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "putnisite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pyrargyrite",
+   "tier": 4,
+   "score": 0.8424,
+   "forms": [
+    "pyrargyrite"
+   ],
+   "exact": [
+    "pyrargyrite"
+   ]
+  },
+  {
+   "display": "pyrite",
+   "tier": 2,
+   "score": 0.9839,
+   "forms": [
+    "pyrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pyrochroïte",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "pyrochroite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pyrolusite",
+   "tier": 3,
+   "score": 0.947,
+   "forms": [
+    "pyrolusite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pyromorphite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "mine de plomb verte",
+    "phosphomimetite",
+    "plomb phosphate",
+    "pyromorphite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pyrope",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "pyrope"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pyrophanite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "pyrophanite"
+   ],
+   "exact": [
+    "pyrophanite"
+   ]
+  },
+  {
+   "display": "Pyrophyllite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "pyrophyllite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pyroxferroite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "pyroxferroite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pyroxmangite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "pyroxmangite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pyrrhotite",
+   "tier": 3,
+   "score": 0.9267,
+   "forms": [
+    "magnetopyrite",
+    "pyrrhotite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "quartz",
+   "tier": 1,
+   "score": 0.9979,
+   "forms": [
+    "14808 60 7",
+    "azetulite",
+    "azeztulite",
+    "dragonite",
+    "konilite",
+    "lodolite",
+    "quartz"
+   ],
+   "exact": [
+    "dragonite",
+    "konilite",
+    "lodolite",
+    "quartz"
+   ]
+  },
+  {
+   "display": "quéitite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "queitite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "quenstedtite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "quenstedtite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "quetzalcoatlite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "quetzalcoatlite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "quintinite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "quintinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rammelsbergite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "rammelsbergite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rapidcreekite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "rapidcreekite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Raslakite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "raslakite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "raspite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "raspite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "réalgar",
+   "tier": 3,
+   "score": 0.9559,
+   "forms": [
+    "as4s4",
+    "realgar",
+    "realgarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rectorite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "rectorite"
+   ],
+   "exact": [
+    "rectorite"
+   ]
+  },
+  {
+   "display": "Reichenbachite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "reichenbachite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Retgersite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "retgersite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rhodium natif",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "rhodium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rhodizite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "rhodizite"
+   ],
+   "exact": [
+    "rhodizite"
+   ]
+  },
+  {
+   "display": "rhodochrosite",
+   "tier": 3,
+   "score": 0.9449,
+   "forms": [
+    "diallogite",
+    "manganese oxyde carbonate",
+    "mnco3",
+    "rhodochroisite",
+    "rhodochrosite",
+    "rhodocrosite",
+    "torrensite",
+    "villaurite"
+   ],
+   "exact": [
+    "mnco3",
+    "villaurite"
+   ]
+  },
+  {
+   "display": "Rhodonite",
+   "tier": 3,
+   "score": 0.9331,
+   "forms": [
+    "bustamite",
+    "hermannite",
+    "hydropite",
+    "kapnikite",
+    "mangan amphibol",
+    "manganese lithoide rose",
+    "manganese oxyde rose silicifere",
+    "manganese oxyde silicifere rouge",
+    "manganese silicate rose",
+    "manganolite",
+    "paisbergite",
+    "pajsbergite",
+    "rhodonite",
+    "silicate sesquimanganeu"
+   ],
+   "exact": [
+    "hermannite",
+    "hydropite",
+    "kapnikite",
+    "manganolite",
+    "rhodonite"
+   ]
+  },
+  {
+   "display": "Rhomboclase",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "rhomboclase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "richtérite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "richterite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rickardite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "rickardite",
+    "te5cu7"
+   ],
+   "exact": [
+    "rickardite"
+   ]
+  },
+  {
+   "display": "riébeckite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "riebeckite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ringwoodite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "ringwoodite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rodalquilarite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "rodalquilarite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rollandite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "rollandite"
+   ],
+   "exact": [
+    "rollandite"
+   ]
+  },
+  {
+   "display": "Romanèchite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "psilomelane",
+    "romanechite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Römerite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "romerite"
+   ],
+   "exact": [
+    "romerite"
+   ]
+  },
+  {
+   "display": "Rosasite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "rosasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Roschérite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "roscherite"
+   ],
+   "exact": [
+    "roscherite"
+   ]
+  },
+  {
+   "display": "roscoélite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "roscoelite"
+   ],
+   "exact": [
+    "roscoelite"
+   ]
+  },
+  {
+   "display": "Rosélite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "roselite"
+   ],
+   "exact": [
+    "roselite"
+   ]
+  },
+  {
+   "display": "rouille verte",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "fougerite",
+    "rouille verte"
+   ],
+   "exact": [
+    "fougerite"
+   ]
+  },
+  {
+   "display": "routhierite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "routhierite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rozénite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "rozenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rubis",
+   "tier": 1,
+   "score": 0.9979,
+   "forms": [
+    "rubi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rubis du Prince Noir",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "rubi du prince noir"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Russellite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "russellite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ruthénarsénite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "ruthenarsenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ruthénium natif",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "ruthenium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rutherfordine",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "diderichite",
+    "rutherfordine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rutile",
+   "tier": 2,
+   "score": 0.9657,
+   "forms": [
+    "cajuelite",
+    "crispite",
+    "dicksbergite",
+    "edisonite",
+    "lusterite",
+    "paraedrite",
+    "rutile",
+    "titane oxyde"
+   ],
+   "exact": [
+    "crispite",
+    "lusterite",
+    "rutile"
+   ]
+  },
+  {
+   "display": "Sabinaite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "sabinaite"
+   ],
+   "exact": [
+    "sabinaite"
+   ]
+  },
+  {
+   "display": "Sadanagaïte",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "sadanagaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Safflorite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "safflorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainfeldite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "sainfeldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saléeite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "saleeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Salmiac",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "salmiac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "samarskite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "samarskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sanidine",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "azulicite",
+    "barium sanidine",
+    "granzerite",
+    "rhyacolite",
+    "riacolite",
+    "sanidine"
+   ],
+   "exact": [
+    "granzerite",
+    "riacolite"
+   ]
+  },
+  {
+   "display": "saphir",
+   "tier": 1,
+   "score": 0.9966,
+   "forms": [
+    "1317 82 4",
+    "gemme orientale",
+    "saphir",
+    "saphir physique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saponite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "saponite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sapphirine",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "sapphirine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sardoine",
+   "tier": 5,
+   "score": 0.0025,
+   "forms": [
+    "sardoine"
+   ],
+   "exact": [
+    "sardoine"
+   ]
+  },
+  {
+   "display": "Sassolite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "sassolite"
+   ],
+   "exact": [
+    "sassolite"
+   ]
+  },
+  {
+   "display": "satterlyite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "satterlyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Scheelite",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "7790 75 2",
+    "calcioscheelite",
+    "calciumwolframite",
+    "cawo4",
+    "scheelin calcaire",
+    "scheelite",
+    "trimontite"
+   ],
+   "exact": [
+    "scheelite"
+   ]
+  },
+  {
+   "display": "schoepite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "schoepite"
+   ],
+   "exact": [
+    "schoepite"
+   ]
+  },
+  {
+   "display": "Schorl",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "schorl"
+   ],
+   "exact": []
+  },
+  {
+   "display": "schorlomite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "schorlomite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schreibersite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "schreibersite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schreyerite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "schreyerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "scolécite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "ellagite",
+    "episcolecite",
+    "mesotype sexoctonal",
+    "scolecite",
+    "scolesite"
+   ],
+   "exact": [
+    "scolecite",
+    "scolesite"
+   ]
+  },
+  {
+   "display": "scorodite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "scorodite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "scorzalite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "scorzalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Seamanite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "seamanite"
+   ],
+   "exact": [
+    "seamanite"
+   ]
+  },
+  {
+   "display": "Searlésite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "searlesite"
+   ],
+   "exact": [
+    "searlesite"
+   ]
+  },
+  {
+   "display": "Sederholmite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "sederholmite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Seeligerite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "seeligerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Seifertite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "seifertite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sélénium natif",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "selenium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Semseyite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "semseyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sénarmontite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "senarmontite",
+    "sernamontite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sépiolite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "ecume de mer",
+    "sepiolite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sérandite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "serandite"
+   ],
+   "exact": [
+    "serandite"
+   ]
+  },
+  {
+   "display": "Sérendibite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "serendibite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shakhovite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "shakhovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shandite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "shandite"
+   ],
+   "exact": [
+    "shandite"
+   ]
+  },
+  {
+   "display": "Shattuckite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "shattuckite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "shigaite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "shigaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shirokshinite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "shirokshinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sidérite",
+   "tier": 3,
+   "score": 0.947,
+   "forms": [
+    "563 71 3",
+    "carbonate de fer",
+    "e505",
+    "junckerite",
+    "oligonite",
+    "siderite"
+   ],
+   "exact": [
+    "oligonite"
+   ]
+  },
+  {
+   "display": "sidérophyllite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "siderophyllite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sidérotile",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "siderotil",
+    "siderotile"
+   ],
+   "exact": []
+  },
+  {
+   "display": "siegenite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "siegenite"
+   ],
+   "exact": [
+    "siegenite"
+   ]
+  },
+  {
+   "display": "silex",
+   "tier": 4,
+   "score": 0.85,
+   "forms": [
+    "silex"
+   ],
+   "exact": [
+    "silex"
+   ]
+  },
+  {
+   "display": "sillimanite",
+   "tier": 3,
+   "score": 0.922,
+   "forms": [
+    "fibrolite",
+    "sillimanite"
+   ],
+   "exact": [
+    "fibrolite"
+   ]
+  },
+  {
+   "display": "Silvialite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "silvialite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Simpsonite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "simpsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sincosite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "sincosite"
+   ],
+   "exact": [
+    "sincosite"
+   ]
+  },
+  {
+   "display": "Sinhalite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "sinhalite"
+   ],
+   "exact": [
+    "sinhalite"
+   ]
+  },
+  {
+   "display": "sinkankasite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "sinkankasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sinoite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "sinoite"
+   ],
+   "exact": [
+    "sinoite"
+   ]
+  },
+  {
+   "display": "sklodowskite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "sklodowskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Skuttérudite",
+   "tier": 4,
+   "score": 0.8085,
+   "forms": [
+    "modumite",
+    "skutterudite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Smithite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "smithite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "smithsonite",
+   "tier": 3,
+   "score": 0.9428,
+   "forms": [
+    "14476 25 6",
+    "3486 35 9",
+    "bonamite",
+    "cadmiosmithsonite",
+    "cobaltosmithsonite",
+    "cuprosmithsonite",
+    "herrerite",
+    "monheimite",
+    "smithsonite",
+    "zinc carbonate",
+    "znco3"
+   ],
+   "exact": [
+    "herrerite",
+    "znco3"
+   ]
+  },
+  {
+   "display": "smolyaninovite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "smolyaninovite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sobolevskite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "sobolevskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sodalite",
+   "tier": 3,
+   "score": 0.9076,
+   "forms": [
+    "alomite",
+    "ditroite",
+    "glaucolite",
+    "sodalite"
+   ],
+   "exact": [
+    "alomite",
+    "ditroite",
+    "sodalite"
+   ]
+  },
+  {
+   "display": "soufre natif",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "soufre",
+    "soufre natif"
+   ],
+   "exact": [
+    "soufre"
+   ]
+  },
+  {
+   "display": "Spaltiite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "spaltiite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sperrylite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "sperrylite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "spessartine",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "spessartine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sphaérocobaltite",
+   "tier": 4,
+   "score": 0.7386,
+   "forms": [
+    "sphaerocobaltite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sphalérite",
+   "tier": 2,
+   "score": 0.9712,
+   "forms": [
+    "blende",
+    "calaem",
+    "christophite",
+    "chrystophite",
+    "marasmolite",
+    "pseudo galene",
+    "sphalerite",
+    "zinc blende",
+    "zinc sulfure"
+   ],
+   "exact": [
+    "blende",
+    "sphalerite"
+   ]
+  },
+  {
+   "display": "spinelle",
+   "tier": 2,
+   "score": 0.9746,
+   "forms": [
+    "1302 67 6",
+    "akerite",
+    "candite",
+    "mgal2o4",
+    "rubace",
+    "rubacelle",
+    "rubi balai",
+    "spinelle"
+   ],
+   "exact": [
+    "1302 67 6",
+    "akerite",
+    "candite",
+    "spinelle"
+   ]
+  },
+  {
+   "display": "Spodumène",
+   "tier": 3,
+   "score": 0.9297,
+   "forms": [
+    "spodumene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Spurrite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "spurrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stannite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "kassiterolamprite",
+    "stannine",
+    "stannite",
+    "volfsonite"
+   ],
+   "exact": [
+    "stannite"
+   ]
+  },
+  {
+   "display": "Starkeyite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "starkeyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Staurolite",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "granatite",
+    "lusakite",
+    "pierre de croix",
+    "schorl cruciforme",
+    "staurolite",
+    "staurotide"
+   ],
+   "exact": [
+    "granatite"
+   ]
+  },
+  {
+   "display": "Steinmetzite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "steinmetzite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stellérite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "stellerite"
+   ],
+   "exact": [
+    "stellerite"
+   ]
+  },
+  {
+   "display": "Stéphanite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "argent fragile",
+    "argent noir",
+    "psaturose",
+    "stephanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "stercorite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "stercorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stibarsen",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "stibarsen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stibine",
+   "tier": 2,
+   "score": 0.9657,
+   "forms": [
+    "1345 04 6",
+    "antimoine gri",
+    "antimoine sulfure",
+    "mine d antimoine grise",
+    "mine d antimoine sulfureuse",
+    "mine d antimoine sulfurueuse",
+    "platyophthalmite",
+    "sb2s3",
+    "stibine",
+    "stibnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stibiopalladinite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "stibiopalladinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stichtite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "bouazzerite",
+    "chrom brugnatellite",
+    "stichtite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stilléite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "stilleite"
+   ],
+   "exact": [
+    "stilleite"
+   ]
+  },
+  {
+   "display": "stishovite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "13778 37 5",
+    "stishovite"
+   ],
+   "exact": [
+    "13778 37 5"
+   ]
+  },
+  {
+   "display": "Stistaïte",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "stistaite"
+   ],
+   "exact": [
+    "stistaite"
+   ]
+  },
+  {
+   "display": "stolzite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "stolzite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stranskiite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "stranskiite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Strashimirite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "strashimirite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "strengite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "strengite"
+   ],
+   "exact": [
+    "strengite"
+   ]
+  },
+  {
+   "display": "Strontianite",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "1633 05 2",
+    "carbonate de strontium",
+    "emmonite",
+    "srco3",
+    "strontiane carbonatee",
+    "strontianite"
+   ],
+   "exact": [
+    "emmonite"
+   ]
+  },
+  {
+   "display": "Strontiodressérite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "strontiodresserite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Strunzite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "strunzite"
+   ],
+   "exact": [
+    "strunzite"
+   ]
+  },
+  {
+   "display": "struvite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "nh4mgpo4 6h2o",
+    "struvite"
+   ],
+   "exact": [
+    "struvite"
+   ]
+  },
+  {
+   "display": "studtite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "studtite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stumpflite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "stumpflite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sturmanite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "sturmanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stützite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "stutzite"
+   ],
+   "exact": [
+    "stutzite"
+   ]
+  },
+  {
+   "display": "Sudburyite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "sudburyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sudoïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "sudoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sugilite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "sugilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sulvanite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "sulvanite"
+   ],
+   "exact": [
+    "sulvanite"
+   ]
+  },
+  {
+   "display": "Susannite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "susannite"
+   ],
+   "exact": [
+    "susannite"
+   ]
+  },
+  {
+   "display": "Sussexite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "sussexite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Switzérite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "switzerite"
+   ],
+   "exact": [
+    "switzerite"
+   ]
+  },
+  {
+   "display": "Sylvanite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "aurotellurite",
+    "goldschmidtite",
+    "or graphique",
+    "sylvane graphique",
+    "sylvanite"
+   ],
+   "exact": [
+    "sylvanite"
+   ]
+  },
+  {
+   "display": "Sylvine",
+   "tier": 3,
+   "score": 0.9267,
+   "forms": [
+    "hoevelite",
+    "leopoldite",
+    "sylvine",
+    "sylvite"
+   ],
+   "exact": [
+    "sylvine",
+    "sylvite"
+   ]
+  },
+  {
+   "display": "Synchysite-",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "synchysite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "szaibelyite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "szaibelyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Szenicsite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "szenicsite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Szklaryite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "szklaryite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Szmikite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "szmikite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Szomolnokite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "szomolnokite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tacharanite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "c a s h",
+    "cash",
+    "tacharanite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Taénite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "taenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "talc",
+   "tier": 1,
+   "score": 0.9869,
+   "forms": [
+    "agalite",
+    "agalmatolite",
+    "colubrine",
+    "kerolite",
+    "lardite",
+    "ollite",
+    "talc"
+   ],
+   "exact": [
+    "agalite",
+    "lardite"
+   ]
+  },
+  {
+   "display": "Tangeite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "tangeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tantite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "tantite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Taranakite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "taranakite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tarbuttite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "tarbuttite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tausonite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "tausonite"
+   ],
+   "exact": [
+    "tausonite"
+   ]
+  },
+  {
+   "display": "Tazieffite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "tazieffite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tellure natif",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "tellure natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tellurite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "tellurite"
+   ],
+   "exact": [
+    "tellurite"
+   ]
+  },
+  {
+   "display": "Ténorite",
+   "tier": 4,
+   "score": 0.8339,
+   "forms": [
+    "tenorite"
+   ],
+   "exact": [
+    "tenorite"
+   ]
+  },
+  {
+   "display": "Téphroïte",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "tephroite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terlinguaïte",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "terlinguaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tétradymite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "tetradymite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tétrataénite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "tetrataenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thaumasite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "thaumasite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thénardite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "pyrotechnite",
+    "thenardite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thermonatrite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "thermonatrite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thoreaulite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "thoreaulite"
+   ],
+   "exact": [
+    "thoreaulite"
+   ]
+  },
+  {
+   "display": "Thorianite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "thorianite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thorite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "thorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thortveitite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "thortveitite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tiemannite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "tiemannite"
+   ],
+   "exact": [
+    "tiemannite"
+   ]
+  },
+  {
+   "display": "Tilasite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "tilasite"
+   ],
+   "exact": [
+    "tilasite"
+   ]
+  },
+  {
+   "display": "Tinaksite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "tinaksite"
+   ],
+   "exact": [
+    "tinaksite"
+   ]
+  },
+  {
+   "display": "Tincalconite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "tincalconite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tiptopite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "tiptopite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tirodite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "tirodite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tistarite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "tistarite"
+   ],
+   "exact": [
+    "tistarite"
+   ]
+  },
+  {
+   "display": "Titanite",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "sphene",
+    "titanite"
+   ],
+   "exact": [
+    "sphene",
+    "titanite"
+   ]
+  },
+  {
+   "display": "Tlalocite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "tlalocite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tobermorite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "tobermorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tocornalite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "tocornalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tokyoïte",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "tokyoite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "topaze",
+   "tier": 1,
+   "score": 0.9932,
+   "forms": [
+    "12305 55 4",
+    "1302 59 6",
+    "67479 89 4",
+    "al2sio4 f oh 2",
+    "topaze"
+   ],
+   "exact": [
+    "1302 59 6"
+   ]
+  },
+  {
+   "display": "torbernite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "calcholite",
+    "chalcolite",
+    "chalkolite",
+    "cuprouranite",
+    "orthotorbernite",
+    "torberite",
+    "torbernite",
+    "uran mica",
+    "urane oxyde"
+   ],
+   "exact": [
+    "calcholite",
+    "chalcolite",
+    "chalkolite",
+    "torberite",
+    "torbernite"
+   ]
+  },
+  {
+   "display": "tourmaline",
+   "tier": 4,
+   "score": 0.8,
+   "forms": [
+    "tourmaline"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tranquillityite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "tranquillityite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "trapiche",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "cristal trapiche",
+    "trapiche",
+    "trapiche mineral"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trémolite",
+   "tier": 3,
+   "score": 0.9013,
+   "forms": [
+    "grammatite",
+    "hoepfnerite",
+    "nordenskioldite",
+    "peponite",
+    "raphilite",
+    "sebesite",
+    "semi nephrite",
+    "tremolite",
+    "zeolithe en colonne"
+   ],
+   "exact": [
+    "grammatite",
+    "nordenskioldite",
+    "raphilite",
+    "tremolite"
+   ]
+  },
+  {
+   "display": "Trévorite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "trevorite"
+   ],
+   "exact": [
+    "trevorite"
+   ]
+  },
+  {
+   "display": "Triazolite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "triazolite"
+   ],
+   "exact": [
+    "triazolite"
+   ]
+  },
+  {
+   "display": "tridymite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "15468 32 3",
+    "alpha tridymite",
+    "asmanite",
+    "christensenite",
+    "tridymite"
+   ],
+   "exact": [
+    "asmanite",
+    "tridymite"
+   ]
+  },
+  {
+   "display": "Triphylite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "triphylite"
+   ],
+   "exact": [
+    "triphylite"
+   ]
+  },
+  {
+   "display": "triplite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "triplite"
+   ],
+   "exact": [
+    "triplite"
+   ]
+  },
+  {
+   "display": "Tripuhyite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "tripuhyite"
+   ],
+   "exact": [
+    "tripuhyite"
+   ]
+  },
+  {
+   "display": "Troïlite",
+   "tier": 4,
+   "score": 0.7907,
+   "forms": [
+    "1317 37 9",
+    "troilite"
+   ],
+   "exact": [
+    "1317 37 9"
+   ]
+  },
+  {
+   "display": "Trona",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "trona"
+   ],
+   "exact": [
+    "trona"
+   ]
+  },
+  {
+   "display": "tsarégorodtsévite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "tsaregorodtsevite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tschermakite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "tschermakite"
+   ],
+   "exact": [
+    "tschermakite"
+   ]
+  },
+  {
+   "display": "tschermigite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "tschermigite"
+   ],
+   "exact": [
+    "tschermigite"
+   ]
+  },
+  {
+   "display": "Tsumcorite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "tsumcorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tsumébite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "tsumebite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tugtupite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "tugtupite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tunellite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "tunellite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "turquoise",
+   "tier": 1,
+   "score": 0.9919,
+   "forms": [
+    "turquoise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tusionite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "tusionite"
+   ],
+   "exact": [
+    "tusionite"
+   ]
+  },
+  {
+   "display": "Twinnite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "twinnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tyrolite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "tyrolite"
+   ],
+   "exact": [
+    "tyrolite"
+   ]
+  },
+  {
+   "display": "tyrrellite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "tyrrellite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tyuyamunite",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "tyuyamunite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Uléxite",
+   "tier": 4,
+   "score": 0.864,
+   "forms": [
+    "ulexite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ullmannite",
+   "tier": 5,
+   "score": 0.6657,
+   "forms": [
+    "ullmannite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ulvöspinelle",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "ulvospinelle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Umangite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "umangite"
+   ],
+   "exact": [
+    "umangite"
+   ]
+  },
+  {
+   "display": "uraninite",
+   "tier": 2,
+   "score": 0.9657,
+   "forms": [
+    "1317 99 3",
+    "dioxyde d uranium",
+    "oxyde d uranium",
+    "pechblende",
+    "uraninite"
+   ],
+   "exact": [
+    "uraninite"
+   ]
+  },
+  {
+   "display": "Uranocircite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "uranocircite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Uranophane",
+   "tier": 4,
+   "score": 0.7182,
+   "forms": [
+    "uranophane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Uranospinite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "uranospinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ussingite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "ussingite"
+   ],
+   "exact": [
+    "ussingite"
+   ]
+  },
+  {
+   "display": "uvite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "uvite"
+   ],
+   "exact": [
+    "uvite"
+   ]
+  },
+  {
+   "display": "Vaesite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "vaesite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Valentinite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "valentinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vanadinite",
+   "tier": 3,
+   "score": 0.9331,
+   "forms": [
+    "chromate de plomb brun",
+    "pb5 vo4 3cl",
+    "vanadinite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vanadium natif",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "vanadium natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vanthoffite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "vanthoffite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vanuralite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "vanuralite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "variscite",
+   "tier": 4,
+   "score": 0.7551,
+   "forms": [
+    "alpha variscite",
+    "barrandite",
+    "bolivarite",
+    "lucinite",
+    "peganite",
+    "sphaerite",
+    "utahlite",
+    "variquoise",
+    "variscite"
+   ],
+   "exact": [
+    "barrandite",
+    "bolivarite",
+    "lucinite",
+    "sphaerite",
+    "utahlite",
+    "variscite"
+   ]
+  },
+  {
+   "display": "Vatérite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "vaterite"
+   ],
+   "exact": [
+    "vaterite"
+   ]
+  },
+  {
+   "display": "Vauxite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "vauxite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vavrinite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "vavrinite"
+   ],
+   "exact": [
+    "vavrinite"
+   ]
+  },
+  {
+   "display": "vermiculite",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "vermiculite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vésuvianite",
+   "tier": 3,
+   "score": 0.9076,
+   "forms": [
+    "beryllian vesuvianite",
+    "californite",
+    "cerian vesuvianite",
+    "cyprine",
+    "genevite",
+    "heteromerite",
+    "hyacinte du vesuve",
+    "hyacinte volcanique",
+    "hyacinthine",
+    "idocrase",
+    "vesuvianite"
+   ],
+   "exact": [
+    "heteromerite"
+   ]
+  },
+  {
+   "display": "villiaumite",
+   "tier": 5,
+   "score": 0.6949,
+   "forms": [
+    "villiaumite"
+   ],
+   "exact": [
+    "villiaumite"
+   ]
+  },
+  {
+   "display": "Villyaellenite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "villyaellenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Violarite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "violarite"
+   ],
+   "exact": [
+    "violarite"
+   ]
+  },
+  {
+   "display": "Vishnévite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "vishnevite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vivianite",
+   "tier": 3,
+   "score": 0.9178,
+   "forms": [
+    "vivianite"
+   ],
+   "exact": [
+    "vivianite"
+   ]
+  },
+  {
+   "display": "Volborthite",
+   "tier": 5,
+   "score": 0.6254,
+   "forms": [
+    "volborthite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vrbaïte",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "vrbaite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vulcanite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "vulcanite"
+   ],
+   "exact": [
+    "vulcanite"
+   ]
+  },
+  {
+   "display": "Vuorelainenite",
+   "tier": 5,
+   "score": 0.1398,
+   "forms": [
+    "vuorelainenite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vysotskite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "vysotskite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wadsleyite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "wadsleyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "wakabayashilite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "wakabayashilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wardite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "wardite"
+   ],
+   "exact": [
+    "wardite"
+   ]
+  },
+  {
+   "display": "Warikahnite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "warikahnite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Warwickite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "warwickite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wassonite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "wassonite"
+   ],
+   "exact": [
+    "wassonite"
+   ]
+  },
+  {
+   "display": "wavellite",
+   "tier": 4,
+   "score": 0.8242,
+   "forms": [
+    "wavellite"
+   ],
+   "exact": [
+    "wavellite"
+   ]
+  },
+  {
+   "display": "weddellite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "weddellite"
+   ],
+   "exact": [
+    "weddellite"
+   ]
+  },
+  {
+   "display": "Weilite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "weilite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wéloganite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "12374 69 5",
+    "weloganite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wendwilsonite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "wendwilsonite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Westerveldite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "westerveldite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Whewellite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "whewellite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Whitlockite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "whitlockite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wicksite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "wicksite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Willemite",
+   "tier": 4,
+   "score": 0.8792,
+   "forms": [
+    "willemite"
+   ],
+   "exact": [
+    "willemite"
+   ]
+  },
+  {
+   "display": "Wiluite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "wiluite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Withérite",
+   "tier": 4,
+   "score": 0.8712,
+   "forms": [
+    "14941 39 0",
+    "513 77 9",
+    "baco3",
+    "witherite"
+   ],
+   "exact": [
+    "baco3",
+    "witherite"
+   ]
+  },
+  {
+   "display": "Wöhlerite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "wohlerite"
+   ],
+   "exact": [
+    "wohlerite"
+   ]
+  },
+  {
+   "display": "Wollastonite",
+   "tier": 3,
+   "score": 0.9386,
+   "forms": [
+    "gillebachite",
+    "gillebackite",
+    "gjellebackite",
+    "grammite",
+    "parawollastonite",
+    "rivaite",
+    "spath en table",
+    "tafelspath",
+    "vilnite",
+    "wollastonite",
+    "zurlite",
+    "zurlonite"
+   ],
+   "exact": [
+    "grammite",
+    "rivaite",
+    "zurlite",
+    "zurlonite"
+   ]
+  },
+  {
+   "display": "Woodhouséite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "woodhouseite"
+   ],
+   "exact": [
+    "woodhouseite"
+   ]
+  },
+  {
+   "display": "wulfénite",
+   "tier": 3,
+   "score": 0.9331,
+   "forms": [
+    "10190 55 3",
+    "carinthite",
+    "lyonite",
+    "melinose",
+    "pbmoo4",
+    "plomb jaune",
+    "plomb molybdate",
+    "wulfenite"
+   ],
+   "exact": [
+    "lyonite"
+   ]
+  },
+  {
+   "display": "Wurtzite",
+   "tier": 3,
+   "score": 0.8877,
+   "forms": [
+    "wurtzite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wustite",
+   "tier": 4,
+   "score": 0.7737,
+   "forms": [
+    "wustite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wycheproofite",
+   "tier": 5,
+   "score": 0.0102,
+   "forms": [
+    "wycheproofite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Xanthiosite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "xanthiosite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Xanthoconite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "15122 59 5",
+    "ag3ass3",
+    "xanthoconite"
+   ],
+   "exact": [
+    "xanthoconite"
+   ]
+  },
+  {
+   "display": "Xanthoxenite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "xanthoxenite"
+   ],
+   "exact": [
+    "xanthoxenite"
+   ]
+  },
+  {
+   "display": "Xocomécatlite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "xocomecatlite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yttrialite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "yttrialite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yttrotantalite",
+   "tier": 5,
+   "score": 0.1936,
+   "forms": [
+    "yttrotantalite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zaïrite",
+   "tier": 5,
+   "score": 0.2424,
+   "forms": [
+    "zairite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zakharovite",
+   "tier": 5,
+   "score": 0.2919,
+   "forms": [
+    "zakharovite"
+   ],
+   "exact": [
+    "zakharovite"
+   ]
+  },
+  {
+   "display": "Zaratite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "zaratite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zektzerite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "zektzerite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "zemannite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "zemannite"
+   ],
+   "exact": [
+    "zemannite"
+   ]
+  },
+  {
+   "display": "Zeunérite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "zeunerite"
+   ],
+   "exact": [
+    "zeunerite"
+   ]
+  },
+  {
+   "display": "Zhanghengite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "zhanghengite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zinc-mélantérite",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "zinc melanterite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zinc natif",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "zinc natif"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zincite",
+   "tier": 4,
+   "score": 0.8564,
+   "forms": [
+    "zincite"
+   ],
+   "exact": [
+    "zincite"
+   ]
+  },
+  {
+   "display": "Zincosite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "zincosite"
+   ],
+   "exact": [
+    "zincosite"
+   ]
+  },
+  {
+   "display": "Zincrosélite",
+   "tier": 5,
+   "score": 0.0856,
+   "forms": [
+    "zincroselite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zinkénite",
+   "tier": 5,
+   "score": 0.5805,
+   "forms": [
+    "zinkenite"
+   ],
+   "exact": [
+    "zinkenite"
+   ]
+  },
+  {
+   "display": "Zippéite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "zippeite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "zircon",
+   "tier": 2,
+   "score": 0.9788,
+   "forms": [
+    "10101 52 7",
+    "14940 68 2",
+    "silicate de zirconium",
+    "zircon",
+    "zrsio4"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zirconolite",
+   "tier": 5,
+   "score": 0.4784,
+   "forms": [
+    "zirconolite"
+   ],
+   "exact": [
+    "zirconolite"
+   ]
+  },
+  {
+   "display": "Zlatogorite",
+   "tier": 5,
+   "score": 0.0373,
+   "forms": [
+    "zlatogorite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "zoïsite",
+   "tier": 3,
+   "score": 0.9076,
+   "forms": [
+    "illuderite",
+    "orthozoisite",
+    "saoualpite",
+    "stromite",
+    "unionite",
+    "zoisite",
+    "zoizite"
+   ],
+   "exact": [
+    "unionite"
+   ]
+  },
+  {
+   "display": "Zunyite",
+   "tier": 5,
+   "score": 0.5297,
+   "forms": [
+    "zunyite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zykaite",
+   "tier": 5,
+   "score": 0.4258,
+   "forms": [
+    "zykaite"
+   ],
+   "exact": []
+  }
+ ]
+}

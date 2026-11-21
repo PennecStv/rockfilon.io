@@ -1,0 +1,16 @@
+id: pays-du-monde
+prompt: "Cite un pays du monde"
+categorie: géographie
+sources:
+  - type: wikidata_sparql
+    query: |
+      # États souverains actuels, avec leurs alias FR (« États-Unis », « USA »…)
+      SELECT ?item ?label ?alias ?article WHERE {
+        ?item wdt:P31 wd:Q3624078 ; rdfs:label ?label .
+        FILTER(LANG(?label) = "fr")
+        FILTER NOT EXISTS { ?item wdt:P576 [] }
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+        OPTIONAL { ?article schema:about ?item ; schema:isPartOf <https://fr.wikipedia.org/> }
+      }
+rarete: llm  # les vues Wikipédia suivent l'actualité (Soudan du Sud > Allemagne), pas ce qu'on cite spontanément
+pepite: "Eswatini"  # à valider : l'ancien Swaziland, renommé en 2018

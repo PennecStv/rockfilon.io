@@ -1,0 +1,110 @@
+# Os du corps humain : liste de référence, elle fait foi sur Wikidata. Format : libellé | alias | alias
+# Les variantes numérotées (onzième côte, L3…) sont rangées sous l'os générique : acceptées,
+# mais elles ne valent pas plus que « côte » (sinon diamant gratuit en ajoutant un numéro).
+
+# Crâne et face
+crâne | os du crâne | boîte crânienne | calvaria | calotte crânienne | neurocrâne
+os frontal | frontal
+os pariétal | pariétal
+os temporal | temporal | rocher | os pétreux
+os occipital | occipital
+os sphénoïde | sphénoïde
+os ethmoïde | ethmoïde
+os maxillaire | maxillaire | maxillaire supérieur | maxilla
+mandibule | maxillaire inférieur | mâchoire inférieure | mâchoire
+os zygomatique | zygomatique | os malaire | malaire | os de la pommette | pommette
+os nasal | os propre du nez | os du nez
+os lacrymal | lacrymal | unguis
+os palatin | palatin
+vomer
+cornet nasal inférieur | cornet inférieur
+os incisif | prémaxillaire | os intermaxillaire
+os wormien | os sutural | os suturaux
+os interpariétal | os inca | os épactal
+
+# Oreille moyenne
+osselet | osselet de l'ouïe | osselets de l'ouïe
+marteau | malleus
+enclume | incus
+étrier | stapes
+
+# Cou
+os hyoïde | hyoïde
+
+# Colonne vertébrale
+vertèbre
+vertèbre cervicale | cervicale | troisième vertèbre cervicale | quatrième vertèbre cervicale | cinquième vertèbre cervicale | sixième vertèbre cervicale | C3 | C4 | C5 | C6
+atlas | C1 | première vertèbre cervicale
+axis | C2 | deuxième vertèbre cervicale
+vertèbre proéminente | C7 | septième vertèbre cervicale
+vertèbre thoracique | vertèbre dorsale | dorsale | première vertèbre thoracique | deuxième vertèbre thoracique | troisième vertèbre thoracique | quatrième vertèbre thoracique | cinquième vertèbre thoracique | sixième vertèbre thoracique | septième vertèbre thoracique | huitième vertèbre thoracique | neuvième vertèbre thoracique | dixième vertèbre thoracique | onzième vertèbre thoracique | douzième vertèbre thoracique
+vertèbre lombaire | lombaire | première vertèbre lombaire | deuxième vertèbre lombaire | troisième vertèbre lombaire | quatrième vertèbre lombaire | cinquième vertèbre lombaire | L1 | L2 | L3 | L4 | L5
+sacrum | os sacrum | os sacré | vertèbre sacrée | aile de l'os sacrum
+coccyx | os coccyx | vertèbre coccygienne
+
+# Thorax
+sternum | sternum humain
+manubrium | manubrium sternal | poignée du sternum
+processus xiphoïde | appendice xiphoïde | xiphoïde
+côte | vraie côte | fausse côte | côte flottante | côte sternale | première côte | deuxième côte | troisième côte | quatrième côte | cinquième côte | sixième côte | septième côte | huitième côte | neuvième côte | dixième côte | onzième côte | douzième côte
+côte cervicale | côte surnuméraire | côte lombale
+
+# Membre supérieur
+clavicule
+scapula | omoplate
+humérus
+radius
+ulna | cubitus
+carpe | os du carpe
+scaphoïde | os scaphoïde | os naviculaire de la main
+lunatum | semi-lunaire | os semi-lunaire | os lunatum
+triquetrum | pyramidal | os pyramidal | os triquetrum
+pisiforme | os pisiforme
+trapèze | os trapèze | trapezium
+trapézoïde | os trapézoïde
+capitatum | grand os
+hamatum | os crochu | os unciforme | unciforme
+os central du carpe | os centrale
+métacarpien | métacarpe | os du métacarpe | premier métacarpien | deuxième métacarpien | troisième métacarpien | quatrième métacarpien | cinquième métacarpien
+phalange | phalange de la main | phalange du pied | phalange du pouce | phalange de l'index | phalange du médius | phalange de l'annulaire | phalange de l'auriculaire | phalange du gros orteil | phalange du petit orteil
+phalange proximale | première phalange | phalange proximale de la main | phalange proximale du pied
+phalangine | phalange moyenne | phalange intermédiaire | deuxième phalange | phalange moyenne de la main | phalange moyenne du pied
+phalangette | phalange distale | phalange unguéale | troisième phalange | phalange distale de la main | phalange distale du pied
+
+# Bassin
+bassin | pelvis | ceinture pelvienne
+os coxal | os iliaque | os de la hanche | coxal
+ilium | ilion | aile iliaque
+ischium | ischion
+pubis | os pubien | os du pubis
+
+# Membre inférieur
+fémur
+patella | rotule
+tibia
+fibula | péroné
+tarse | os du tarse
+talus | astragale
+calcanéus | calcanéum | os du talon
+os naviculaire | naviculaire | scaphoïde tarsien | os scaphoïde du pied
+cuboïde | os cuboïde
+cunéiforme | os cunéiforme
+cunéiforme médial | premier cunéiforme | grand cunéiforme
+cunéiforme intermédiaire | deuxième cunéiforme | petit cunéiforme
+cunéiforme latéral | troisième cunéiforme | moyen cunéiforme
+métatarsien | métatarse | os du métatarse | premier métatarsien | deuxième métatarsien | troisième métatarsien | quatrième métatarsien | cinquième métatarsien
+
+# Sésamoïdes et os accessoires
+os sésamoïde | sésamoïde
+fabella
+cyamella
+os trigone | os trigonum
+os naviculaire accessoire | os tibial externe | os tibiale externum
+os péronéen | os peroneum
+os vésalien | os vesalianum
+os intermétatarsien | os intermetatarseum
+os acromial | os acromiale
+os supranaviculaire
+os styloïde | os styloideum
+os odontoïde | os odontoideum
+os suprasternal | os suprasternaux

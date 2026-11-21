@@ -1,0 +1,14 @@
+id: races-de-chien
+prompt: "Cite une race de chien"
+categorie: animaux
+sources:
+  - type: wikidata_sparql
+    query: |
+      SELECT ?item ?label ?alias ?article WHERE {
+        ?item wdt:P31 wd:Q39367 ; rdfs:label ?label .
+        FILTER(LANG(?label) = "fr")
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+        OPTIONAL { ?article schema:about ?item ; schema:isPartOf <https://fr.wikipedia.org/> }
+      }
+rarete: llm  # les vues Wikipédia suivent l'actualité (Soudan du Sud > Allemagne), pas ce qu'on cite spontanément
+pepite: "Lundehund"  # à valider : chien norvégien chasseur de macareux, six doigts à chaque patte

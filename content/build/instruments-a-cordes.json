@@ -1,0 +1,4663 @@
+{
+ "id": "instruments-a-cordes",
+ "prompt": "Cite un instrument à cordes",
+ "categorie": "musique",
+ "built_at": "2026-11-20T16:17:43+00:00",
+ "answers": [
+  {
+   "display": "Adjalin",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "adjalin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Adungu",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "adungu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Adyrna",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "adyrna"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ajaeng",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "ajaeng"
+   ],
+   "exact": []
+  },
+  {
+   "display": "akkordolia",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "akkordolia"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ala bohemica",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "aile de boheme",
+    "ala bohemica",
+    "psalterion ala bohemica"
+   ],
+   "exact": []
+  },
+  {
+   "display": "alto",
+   "tier": 1,
+   "score": 0.9888,
+   "forms": [
+    "alto",
+    "alto violon",
+    "violon alto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alzapúa",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "alzapua"
+   ],
+   "exact": []
+  },
+  {
+   "display": "đàn bầu",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "an bau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "đàn gáo",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "an gao",
+    "dan gao"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Đàn nguyệt",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "an nguyet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Đàn nhị",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "an nhi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Đàn tranh",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "an tranh",
+    "dan tranh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Đàn tỳ bà",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "an ty ba"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ang Kuy",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "ang kuy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Angélique",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "angelique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "arc-en-terre",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "arc en terre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "arc musical",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "arc musical"
+   ],
+   "exact": []
+  },
+  {
+   "display": "archiluth",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "archiluth"
+   ],
+   "exact": []
+  },
+  {
+   "display": "archiquier",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "archiquier",
+    "eschiquier"
+   ],
+   "exact": [
+    "archiquier",
+    "eschiquier"
+   ]
+  },
+  {
+   "display": "Ardîn",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "ardin"
+   ],
+   "exact": [
+    "ardin"
+   ]
+  },
+  {
+   "display": "Armónico",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "armonico"
+   ],
+   "exact": []
+  },
+  {
+   "display": "arpa jarocha",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "arpa jarocha"
+   ],
+   "exact": []
+  },
+  {
+   "display": "arpanetta",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "arpanetta"
+   ],
+   "exact": []
+  },
+  {
+   "display": "arpe chromatique",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "arpe chromatique"
+   ],
+   "exact": [
+    "arpe chromatique"
+   ]
+  },
+  {
+   "display": "Arpeggione",
+   "tier": 3,
+   "score": 0.7897,
+   "forms": [
+    "arpeggione"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arpicordo",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "alpichordo",
+    "ampichordo",
+    "arpicordo",
+    "clavicordio",
+    "harpichordo"
+   ],
+   "exact": [
+    "clavicordio"
+   ]
+  },
+  {
+   "display": "autoharpe",
+   "tier": 3,
+   "score": 0.8166,
+   "forms": [
+    "autoharpe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ayumaa",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "ayumaa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Baglama",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "baglama"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bajo quinto",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "bajo quinto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bajo sexto",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "bajo sexto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "balalaïka",
+   "tier": 2,
+   "score": 0.9642,
+   "forms": [
+    "balalaika"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bandola",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "bandola"
+   ],
+   "exact": [
+    "bandola"
+   ]
+  },
+  {
+   "display": "Bandolim",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "bandolim"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bandolón",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "bandolon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bandore",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "bandora",
+    "bandore",
+    "pandora",
+    "pandore"
+   ],
+   "exact": [
+    "bandora",
+    "bandore",
+    "pandore"
+   ]
+  },
+  {
+   "display": "bandoura",
+   "tier": 2,
+   "score": 0.934,
+   "forms": [
+    "bandoura",
+    "bandura"
+   ],
+   "exact": [
+    "bandoura",
+    "bandura"
+   ]
+  },
+  {
+   "display": "bandurria",
+   "tier": 3,
+   "score": 0.8367,
+   "forms": [
+    "bandurria"
+   ],
+   "exact": [
+    "bandurria"
+   ]
+  },
+  {
+   "display": "banhu",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "banhu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "banjo",
+   "tier": 1,
+   "score": 0.9743,
+   "forms": [
+    "banjo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "banjo basse",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "banjo basse",
+    "banjo violoncelle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "banjo-ukulélé",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "banjo uke",
+    "banjo ukulele",
+    "banjolele",
+    "ukulele banjo"
+   ],
+   "exact": [
+    "banjolele"
+   ]
+  },
+  {
+   "display": "banjoline",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "banjoline"
+   ],
+   "exact": [
+    "banjoline"
+   ]
+  },
+  {
+   "display": "barbat",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "barbat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "barbitos",
+   "tier": 4,
+   "score": 0.7371,
+   "forms": [
+    "barbito"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Baritone ukulele",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "baritone ukulele"
+   ],
+   "exact": []
+  },
+  {
+   "display": "baryton à cordes",
+   "tier": 3,
+   "score": 0.8255,
+   "forms": [
+    "baryton a corde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "basolia",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "basolia",
+    "basolya",
+    "basy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "basse de violon",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "basse de violon"
+   ],
+   "exact": [
+    "basse de violon"
+   ]
+  },
+  {
+   "display": "basse fretless",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "basse fretles",
+    "basse san frette",
+    "slide bas"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Begena",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "bagana instrument",
+    "baganna",
+    "begena"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berimbau",
+   "tier": 3,
+   "score": 0.8803,
+   "forms": [
+    "berimbau",
+    "gunga",
+    "viola"
+   ],
+   "exact": [
+    "viola"
+   ]
+  },
+  {
+   "display": "bipa",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "bipa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bisernica",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "bisernica"
+   ],
+   "exact": []
+  },
+  {
+   "display": "biwa",
+   "tier": 3,
+   "score": 0.8949,
+   "forms": [
+    "biwa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bobre",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "bob",
+    "bobre"
+   ],
+   "exact": [
+    "bobre"
+   ]
+  },
+  {
+   "display": "Bolon",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "bolon",
+    "bolon bato",
+    "m bolon"
+   ],
+   "exact": [
+    "bolon"
+   ]
+  },
+  {
+   "display": "Bordonua",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "bordonua"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bouzouki",
+   "tier": 2,
+   "score": 0.934,
+   "forms": [
+    "bouzouk",
+    "bouzouki",
+    "bozoq",
+    "bozuq",
+    "buzuki"
+   ],
+   "exact": [
+    "bozuq"
+   ]
+  },
+  {
+   "display": "bouzouki irlandais",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "bouzouki irlandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bratsch",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "brace",
+    "braci",
+    "bratsch",
+    "bratsch instrument",
+    "bratsch instrument de musique"
+   ],
+   "exact": [
+    "brace"
+   ]
+  },
+  {
+   "display": "bugarija",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "bugarija"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bulbul tarang",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "benju",
+    "bulbul tarang",
+    "bulbultara",
+    "taisho koto",
+    "tashepoto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bulgari",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "bulgari"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bundengan",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "bundengan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Byzaanchy",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "byzaanchy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cavaquinho",
+   "tier": 3,
+   "score": 0.8166,
+   "forms": [
+    "cavaquinho"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Celinder",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "celinder",
+    "celinder guitar design"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cellone",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "cellone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cembal d’amour",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "cembal d amour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "çeng",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "ceng"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cetera",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "cetera"
+   ],
+   "exact": [
+    "cetera"
+   ]
+  },
+  {
+   "display": "Cetra",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "cetra"
+   ],
+   "exact": [
+    "cetra"
+   ]
+  },
+  {
+   "display": "Chakhe",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "chakhe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chang",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "chang"
+   ],
+   "exact": [
+    "chang"
+   ]
+  },
+  {
+   "display": "changi",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "changi"
+   ],
+   "exact": [
+    "changi"
+   ]
+  },
+  {
+   "display": "Chanza",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "chanz",
+    "chanza",
+    "chanzy",
+    "shaanza"
+   ],
+   "exact": [
+    "chanz",
+    "chanza"
+   ]
+  },
+  {
+   "display": "chapey",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "chapey"
+   ],
+   "exact": [
+    "chapey"
+   ]
+  },
+  {
+   "display": "Chapman Stick",
+   "tier": 3,
+   "score": 0.8479,
+   "forms": [
+    "chapman stick",
+    "stick chapman"
+   ],
+   "exact": []
+  },
+  {
+   "display": "charango",
+   "tier": 3,
+   "score": 0.8747,
+   "forms": [
+    "charango",
+    "charango electrique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chikuzenbiwa",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "chikuzenbiwa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chillador",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "chillador"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chitarrone",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "chitarrone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chiwang",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "chiwang"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chonguri",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "chonguri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chuniri",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "chuniri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cisteron",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "cisteron"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cistre",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "cister",
+    "cistre",
+    "cittern",
+    "zister"
+   ],
+   "exact": [
+    "cister",
+    "cistre",
+    "zister"
+   ]
+  },
+  {
+   "display": "cithare",
+   "tier": 2,
+   "score": 0.9609,
+   "forms": [
+    "cithare",
+    "cithare electrique",
+    "cithariste",
+    "zither"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cithare en radeau",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "cithare en radeau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cithare sur caisse",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "cithare sur caisse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "citole",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "citole"
+   ],
+   "exact": []
+  },
+  {
+   "display": "clavecin",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "clavecin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clavecin brisé",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "clavecin brise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clavi-harpe",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "clavi harpe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "clavicorde",
+   "tier": 2,
+   "score": 0.9609,
+   "forms": [
+    "clavicorde",
+    "manichordion",
+    "manicordion"
+   ],
+   "exact": [
+    "clavicorde"
+   ]
+  },
+  {
+   "display": "Clavicymbalum",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "clavecimbalum",
+    "clavicymbalum",
+    "clavisymbalum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "clavicythérium",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "clavicytherium"
+   ],
+   "exact": []
+  },
+  {
+   "display": "claviorganum",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "clavecin organise",
+    "claviorganum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cobza",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "cobza"
+   ],
+   "exact": [
+    "cobza"
+   ]
+  },
+  {
+   "display": "Colachon",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "colachon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "console steel guitar",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "console steel",
+    "console steel guitar",
+    "table steel",
+    "table steel guitar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "contrebasse",
+   "tier": 1,
+   "score": 0.9821,
+   "forms": [
+    "contrebasse"
+   ],
+   "exact": [
+    "contrebasse"
+   ]
+  },
+  {
+   "display": "contrebassine",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "contrebassine"
+   ],
+   "exact": [
+    "contrebassine"
+   ]
+  },
+  {
+   "display": "contreguitare",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "contra guitare",
+    "contre guitare",
+    "contreguitare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "crwth",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "crouth",
+    "crwth",
+    "rote"
+   ],
+   "exact": [
+    "crouth"
+   ]
+  },
+  {
+   "display": "Cuatro",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "cuatro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cümbüş",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "cumbu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cymbalum",
+   "tier": 2,
+   "score": 0.9306,
+   "forms": [
+    "cimbal",
+    "cimbalom",
+    "cimbolai",
+    "cimbole",
+    "cymbalum",
+    "czimbalum",
+    "piano tzigane",
+    "tambal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "daguangxian",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "daguangxian",
+    "daguanxian",
+    "datongxian",
+    "guangxian"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dàn môi",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "dan moi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "diddley bow",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "diddley bow"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dilruba",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "dilruba"
+   ],
+   "exact": []
+  },
+  {
+   "display": "djoza",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "djoza",
+    "djoze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dombra",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "dombra",
+    "dong bu la",
+    "dongbula"
+   ],
+   "exact": [
+    "dombra"
+   ]
+  },
+  {
+   "display": "domra",
+   "tier": 3,
+   "score": 0.8166,
+   "forms": [
+    "domra"
+   ],
+   "exact": [
+    "domra"
+   ]
+  },
+  {
+   "display": "doshpuluur",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "doshpuluur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dotâr",
+   "tier": 2,
+   "score": 0.9239,
+   "forms": [
+    "dotar",
+    "dutaer",
+    "dutar",
+    "dutor"
+   ],
+   "exact": [
+    "dotar"
+   ]
+  },
+  {
+   "display": "dotara",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "dotara"
+   ],
+   "exact": [
+    "dotara"
+   ]
+  },
+  {
+   "display": "Double violin",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "double violin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dranyen",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "danyen",
+    "dranyen",
+    "sugudu",
+    "zhamunie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dulce melos",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "doucemelle",
+    "dulce melo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dulcimer des Appalaches",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "appalachian dulcimer",
+    "dulcimer des appalache",
+    "dulcimeriste"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dulcimer martelé",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "dulcimer martele",
+    "hackbrett",
+    "hammered dulcimer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Egek",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "egek"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ekonting",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "akonting",
+    "bunchundo",
+    "busunde",
+    "econtine",
+    "ekonting",
+    "entofen",
+    "gambra",
+    "gullum",
+    "gurmi",
+    "kaburu",
+    "kibewe",
+    "kisinta",
+    "koliko",
+    "komsa",
+    "konde",
+    "konde musique",
+    "kusunde",
+    "lawa",
+    "ngopata",
+    "ngulang",
+    "wase",
+    "xalam gesere"
+   ],
+   "exact": [
+    "gambra",
+    "gurmi",
+    "konde"
+   ]
+  },
+  {
+   "display": "ektara",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "ektara",
+    "tumbi",
+    "yaktaro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Endongo",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "endongo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ennanga",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "ennanga"
+   ],
+   "exact": []
+  },
+  {
+   "display": "epigonion",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "epigonion"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épinette",
+   "tier": 2,
+   "score": 0.9072,
+   "forms": [
+    "epinette"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épinette des Vosges",
+   "tier": 6,
+   "score": 0.528,
+   "forms": [
+    "epinette des vosge",
+    "epinette vosgienne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "erhu",
+   "tier": 2,
+   "score": 0.9385,
+   "forms": [
+    "erhu",
+    "viele erhu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Erxian",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "erxian"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Escopetarra",
+   "tier": 3,
+   "score": 0.8702,
+   "forms": [
+    "escopetarra"
+   ],
+   "exact": []
+  },
+  {
+   "display": "espina",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "espina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "esraj",
+   "tier": 3,
+   "score": 0.8054,
+   "forms": [
+    "esraj"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fiddle",
+   "tier": 3,
+   "score": 0.811,
+   "forms": [
+    "fiddle",
+    "violon folk"
+   ],
+   "exact": [
+    "fiddle"
+   ]
+  },
+  {
+   "display": "gaboussi",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "gaboussi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "gadoulka",
+   "tier": 3,
+   "score": 0.8255,
+   "forms": [
+    "badoulka",
+    "gadoulka",
+    "ganilka",
+    "gjola",
+    "kemene",
+    "kopanka",
+    "tsigulka"
+   ],
+   "exact": [
+    "kemene"
+   ]
+  },
+  {
+   "display": "gambus",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "gambu"
+   ],
+   "exact": [
+    "gambu"
+   ]
+  },
+  {
+   "display": "gaohu",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "gaohu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "gardon",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "gardon",
+    "utogardon"
+   ],
+   "exact": [
+    "gardon"
+   ]
+  },
+  {
+   "display": "gayageum",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "gayageum",
+    "kayagum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Geigenwerk",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "geigenwerk"
+   ],
+   "exact": []
+  },
+  {
+   "display": "geomungo",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "geomungo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ghaychak",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "ghaychak",
+    "gheychak"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ghidjak",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "ghidjak"
+   ],
+   "exact": [
+    "ghidjak"
+   ]
+  },
+  {
+   "display": "Gigue",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "gigue"
+   ],
+   "exact": [
+    "gigue"
+   ]
+  },
+  {
+   "display": "godié",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "godie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "gottan",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "gottan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gousli",
+   "tier": 3,
+   "score": 0.8747,
+   "forms": [
+    "gousli",
+    "gusli",
+    "housli",
+    "husli"
+   ],
+   "exact": [
+    "gusli"
+   ]
+  },
+  {
+   "display": "Gravi-kora",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "gravi kora",
+    "gravikord"
+   ],
+   "exact": []
+  },
+  {
+   "display": "gudok",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "gudok"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guembri",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "gambri",
+    "gembre",
+    "gembri",
+    "gimbri",
+    "gombri",
+    "guembri",
+    "gumbri",
+    "hajhouj",
+    "hajouj",
+    "sintir"
+   ],
+   "exact": [
+    "gambri",
+    "gembre",
+    "sintir"
+   ]
+  },
+  {
+   "display": "guitalin",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "guitalin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare",
+   "tier": 1,
+   "score": 1.0,
+   "forms": [
+    "guitare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare à 12 cordes",
+   "tier": 3,
+   "score": 0.8479,
+   "forms": [
+    "guitare a 12 corde",
+    "guitare a douze corde"
+   ],
+   "exact": [
+    "guitare a 12 corde"
+   ]
+  },
+  {
+   "display": "guitare à dix cordes",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "decacorde",
+    "guitare a dix corde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare à double manche",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "guitare a double manche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare à sept cordes",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "guitare a sept corde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare acoustique",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "guitare acoustique",
+    "guitare seche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare baroque",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "guitare baroque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare baryton",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "guitare baryton"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare basse",
+   "tier": 1,
+   "score": 0.9855,
+   "forms": [
+    "basse",
+    "basse electrique",
+    "guitare basse",
+    "guitare basse electrique"
+   ],
+   "exact": [
+    "basse",
+    "guitare basse"
+   ]
+  },
+  {
+   "display": "guitare basse acoustique",
+   "tier": 3,
+   "score": 0.8054,
+   "forms": [
+    "guitare basse acoustique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare battente",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "chitarra battente",
+    "guitare a dos bombe",
+    "guitare a la capucine",
+    "guitare bateau",
+    "guitare battente"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare Brahms",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "guitare brahm"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare-cithare",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "guitare cithare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare classique",
+   "tier": 2,
+   "score": 0.9418,
+   "forms": [
+    "guitare classique",
+    "guitare espagnole",
+    "guitare espanole"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare électrique",
+   "tier": 1,
+   "score": 0.9855,
+   "forms": [
+    "guitare electrique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare électro-acoustique",
+   "tier": 4,
+   "score": 0.7371,
+   "forms": [
+    "guitare electro acoustique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare flamenca",
+   "tier": 3,
+   "score": 0.7975,
+   "forms": [
+    "guitare flamenca"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare folk",
+   "tier": 3,
+   "score": 0.7975,
+   "forms": [
+    "guitare folk"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare fretless",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "guitare fretles"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare hawaïenne",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "guitare hawaienne",
+    "guitare hawaiienne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare jazz",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "guitare jazz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare Pikasso",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "guitare pikasso"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare portugaise",
+   "tier": 3,
+   "score": 0.8367,
+   "forms": [
+    "guitare portugaise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare russe à sept cordes",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "guitare russe",
+    "guitare russe a sept corde",
+    "guitare russe tzigane a sept corde"
+   ],
+   "exact": [
+    "guitare russe"
+   ]
+  },
+  {
+   "display": "guitare sans tête",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "guitare san tete"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guitare semi-acoustique",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "guitare semi acoustique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare sept cordes brésilienne",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "guitare sept corde bresilienne",
+    "violao de sete corda"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare synthétiseur",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "guitare synthetiseur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitare ténor",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "guitare tenor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guitarrón",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "guitaron",
+    "guitarron"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guiterne",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "guiterne",
+    "guiterre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "guqin",
+   "tier": 2,
+   "score": 0.9072,
+   "forms": [
+    "cithare chinoise",
+    "guqin",
+    "kin",
+    "kine",
+    "luth chinoi",
+    "lyre chinoise",
+    "qin"
+   ],
+   "exact": [
+    "guqin"
+   ]
+  },
+  {
+   "display": "gusle",
+   "tier": 2,
+   "score": 0.9183,
+   "forms": [
+    "gusle"
+   ],
+   "exact": [
+    "gusle"
+   ]
+  },
+  {
+   "display": "guzheng",
+   "tier": 3,
+   "score": 0.8803,
+   "forms": [
+    "guzheng"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Halam",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "halam"
+   ],
+   "exact": [
+    "halam"
+   ]
+  },
+  {
+   "display": "harpe",
+   "tier": 1,
+   "score": 0.9911,
+   "forms": [
+    "harpe",
+    "harpe electrique"
+   ],
+   "exact": [
+    "harpe"
+   ]
+  },
+  {
+   "display": "harpe à cadre",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "harpe a cadre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe à pédales",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "grande harpe",
+    "harpe a pedale",
+    "harpe classique",
+    "harpe d orchestre",
+    "harpe de concert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe africaine",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "harpe africaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe celtique",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "clairseach",
+    "clarsach",
+    "harpe bretonne",
+    "harpe celtique",
+    "harpe ecossaise",
+    "harpe gaelique",
+    "harpe galloise",
+    "harpe irlandaise",
+    "telenn",
+    "telyn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe chromatique",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "harpe chromatique"
+   ],
+   "exact": [
+    "harpe chromatique"
+   ]
+  },
+  {
+   "display": "harpe ditale",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "harpe ditale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe éolienne",
+   "tier": 3,
+   "score": 0.8255,
+   "forms": [
+    "harpe eolienne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe khmère",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "harpe angkorienne",
+    "harpe khmere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe luth",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "harpe luth"
+   ],
+   "exact": []
+  },
+  {
+   "display": "harpe paraguayenne",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "harpe paraguayenne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Harpe triple",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "harpe triple"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hass",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "has"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hasapi",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "hasapi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hegelung",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "hegelung"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hoddu",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "hoddu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Home Swinger",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "home swinger"
+   ],
+   "exact": []
+  },
+  {
+   "display": "hummel",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "humle",
+    "hummel"
+   ],
+   "exact": [
+    "humle"
+   ]
+  },
+  {
+   "display": "Huqin",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "huqin"
+   ],
+   "exact": [
+    "huqin"
+   ]
+  },
+  {
+   "display": "Igil",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "igil"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ikh khuur",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "ikh khuur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "imzad",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "amzad",
+    "anzad",
+    "imzad",
+    "inzad"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Inanga",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "inanga"
+   ],
+   "exact": []
+  },
+  {
+   "display": "indingidi",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "indingidi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "jarana",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "jarana"
+   ],
+   "exact": []
+  },
+  {
+   "display": "jouhikko",
+   "tier": 4,
+   "score": 0.7371,
+   "forms": [
+    "jouhikko"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kabosy",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "kabosa",
+    "kabosse",
+    "kabossy",
+    "kabosy"
+   ],
+   "exact": [
+    "kabosse"
+   ]
+  },
+  {
+   "display": "kacapi",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "kacapi",
+    "kacapi indung",
+    "kacapi rincik",
+    "kacaping",
+    "siter"
+   ],
+   "exact": [
+    "siter"
+   ]
+  },
+  {
+   "display": "Kamânche",
+   "tier": 3,
+   "score": 0.887,
+   "forms": [
+    "aijieke",
+    "ghaychak i pamiri",
+    "ghijak",
+    "kabak kemane",
+    "kamanche",
+    "kamancheh",
+    "kamanja",
+    "kashmiri saz",
+    "kemance",
+    "kemantche",
+    "kemenca",
+    "kemenche"
+   ],
+   "exact": [
+    "ghijak",
+    "kemance",
+    "kemantche",
+    "kemenca",
+    "kemenche"
+   ]
+  },
+  {
+   "display": "kamele ngoni",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "kamele ngoni"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kankara sanshin",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "kankara sanshin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kanklės",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "kankle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kannel",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "kannel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kantele",
+   "tier": 2,
+   "score": 0.9239,
+   "forms": [
+    "kantele"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kelutviaq",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "kelutviaq"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kemençe",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "kemence",
+    "kementcha"
+   ],
+   "exact": [
+    "kemence",
+    "kementcha"
+   ]
+  },
+  {
+   "display": "kemençe classique",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "kemence classique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kemençe de la mer Noire",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "kemence de la mer noire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Khamak",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "khamak"
+   ],
+   "exact": []
+  },
+  {
+   "display": "khim",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "harpe papillon",
+    "khim"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kiboe",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "kiboe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "King Mortone",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "king mortone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kinnor",
+   "tier": 4,
+   "score": 0.7371,
+   "forms": [
+    "kinnor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kissar",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "kissar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kobyz",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "k lkopuz",
+    "kobyz",
+    "kumuzi",
+    "kyl kobyz",
+    "kyl kyyak"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kobza",
+   "tier": 3,
+   "score": 0.7897,
+   "forms": [
+    "kobza"
+   ],
+   "exact": [
+    "kobza"
+   ]
+  },
+  {
+   "display": "kokles",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "kokle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kokyū",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "kokyu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "komuz",
+   "tier": 3,
+   "score": 0.811,
+   "forms": [
+    "komuz"
+   ],
+   "exact": [
+    "komuz"
+   ]
+  },
+  {
+   "display": "Konghou",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "harpe chinoise",
+    "konghou",
+    "kugo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kontigi",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "kontigi"
+   ],
+   "exact": [
+    "kontigi"
+   ]
+  },
+  {
+   "display": "kopuz",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "kopuz"
+   ],
+   "exact": [
+    "kopuz"
+   ]
+  },
+  {
+   "display": "kora",
+   "tier": 2,
+   "score": 0.9027,
+   "forms": [
+    "kora"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kotamo",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "kotamo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "koto",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "koto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "koto à 17 cordes",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "koto a 17 corde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kountigui",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "kountigui"
+   ],
+   "exact": [
+    "kountigui"
+   ]
+  },
+  {
+   "display": "Kouxian",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "hoho",
+    "kou xian",
+    "kouxian"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kpaniglo",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "kpaniglo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "krar",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "krar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "krez",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "krez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kuitra",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "kouitra",
+    "kuitra"
+   ],
+   "exact": []
+  },
+  {
+   "display": "kundi",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "kundi"
+   ],
+   "exact": [
+    "kundi"
+   ]
+  },
+  {
+   "display": "langeleik",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "langeleik"
+   ],
+   "exact": []
+  },
+  {
+   "display": "langspil",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "langspil"
+   ],
+   "exact": []
+  },
+  {
+   "display": "laouto",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "laghouto",
+    "laghuto",
+    "lagouto",
+    "laouto",
+    "lavouto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lap steel guitar",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "lap steel guitar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "laúd",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "laud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lavta",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "lavta"
+   ],
+   "exact": [
+    "lavta"
+   ]
+  },
+  {
+   "display": "leona",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "leona"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lesiba",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "lesiba"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lijerica",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "lijerica",
+    "lirica"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liliu ukulele",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "liliu ukulele"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lira calabraise",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "lira calabraise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lira da braccio",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "lira da braccio"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lirone",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "lirone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liuqin",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "liuqin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liuto forte",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "liuto forte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "luth",
+   "tier": 1,
+   "score": 0.9776,
+   "forms": [
+    "lute",
+    "luth"
+   ],
+   "exact": []
+  },
+  {
+   "display": "luths à jougs",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "luth a joug"
+   ],
+   "exact": []
+  },
+  {
+   "display": "luths à manche",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "luth a manche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Luth-clavecin",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "lautenwerck",
+    "lautenwerk",
+    "luth clavecin",
+    "lyra d helicon",
+    "lyrum delium"
+   ],
+   "exact": []
+  },
+  {
+   "display": "luth-guitare",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "guitare luth",
+    "luth guitare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "luth suédois",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "luth suedoi",
+    "svensk luta"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lyra",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "lyra"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lyra byzantine",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "lyra byzantine",
+    "lyre byzantine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lyra-viol",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "lyra viol",
+    "viola all inglese"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lyre",
+   "tier": 1,
+   "score": 0.9709,
+   "forms": [
+    "lyre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lyre guitare",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "lyre guitare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ma'wo",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "ma wo",
+    "mawu instrument",
+    "mawuwi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "magadis",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "magadi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mandobasse",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "mandobasse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mandola",
+   "tier": 3,
+   "score": 0.8479,
+   "forms": [
+    "mandola"
+   ],
+   "exact": [
+    "mandola"
+   ]
+  },
+  {
+   "display": "mandole algérienne",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "mandole algerie",
+    "mandole algerienne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mandole ténor/alto",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "mandole tenor alto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mandoline",
+   "tier": 1,
+   "score": 0.9799,
+   "forms": [
+    "mandoline",
+    "mandoline electrique"
+   ],
+   "exact": [
+    "mandoline"
+   ]
+  },
+  {
+   "display": "Mandoline country",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "mandoline country"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mandoloncelle",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "mandoloncelle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mandoluth",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "mandolute",
+    "mandoluth"
+   ],
+   "exact": [
+    "mandolute"
+   ]
+  },
+  {
+   "display": "mandore",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "galichon",
+    "mandole",
+    "mandore"
+   ],
+   "exact": [
+    "mandole",
+    "mandore"
+   ]
+  },
+  {
+   "display": "Marxophone",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "marxophone"
+   ],
+   "exact": [
+    "marxophone"
+   ]
+  },
+  {
+   "display": "masenqo",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "masenqo",
+    "masinko"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mejorana",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "mejorana"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mini-guitare",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "guitalele",
+    "mini guitare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mohan vînâ",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "mohan vina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "monocorde",
+   "tier": 3,
+   "score": 0.8255,
+   "forms": [
+    "monocorde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "monocorde à clavier",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "monocorde a clavier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moodswinger",
+   "tier": 3,
+   "score": 0.8367,
+   "forms": [
+    "moodswinger"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moorchang",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "moorchang",
+    "morsing",
+    "murchang"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Morin khuur",
+   "tier": 2,
+   "score": 0.9027,
+   "forms": [
+    "morin khuur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mukkuri",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "mukkuri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mvet",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "mvet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "n'goni",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "bappe",
+    "diassare",
+    "gambare",
+    "garaya",
+    "goumbale",
+    "gurumi",
+    "keleli",
+    "koubour",
+    "molo",
+    "n dere",
+    "n goni",
+    "taherdent",
+    "tidinit"
+   ],
+   "exact": [
+    "bappe",
+    "gurumi"
+   ]
+  },
+  {
+   "display": "ngombi",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "ngombi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Njarka",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "njarka"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nyatiti",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "nyatiti"
+   ],
+   "exact": []
+  },
+  {
+   "display": "nyckelharpa",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "nyckelharpa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "octobasse",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "octobasse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "orgue-clavicorde",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "orgue clavicorde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "orpharion",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "orpharion"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Orutu",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "orutu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "oud",
+   "tier": 2,
+   "score": 0.9676,
+   "forms": [
+    "luth arabe",
+    "oud",
+    "oudiste",
+    "oute",
+    "outi",
+    "uti"
+   ],
+   "exact": [
+    "oudiste"
+   ]
+  },
+  {
+   "display": "Panduri",
+   "tier": 4,
+   "score": 0.7371,
+   "forms": [
+    "panduri"
+   ],
+   "exact": [
+    "panduri"
+   ]
+  },
+  {
+   "display": "pandurina",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "pandurina"
+   ],
+   "exact": [
+    "pandurina"
+   ]
+  },
+  {
+   "display": "Pantaléon",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "pantaleon",
+    "pantaleon musique",
+    "pantalon musique"
+   ],
+   "exact": [
+    "pantaleon"
+   ]
+  },
+  {
+   "display": "pedal steel guitar",
+   "tier": 3,
+   "score": 0.8054,
+   "forms": [
+    "guitare steel a pedal",
+    "pedal steel",
+    "pedal steel guitar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petite harpe de Durango",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "petite harpe de durango"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phin",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "phin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "phorminx",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "phorminx"
+   ],
+   "exact": []
+  },
+  {
+   "display": "piano",
+   "tier": 1,
+   "score": 0.9978,
+   "forms": [
+    "forte piano",
+    "piano",
+    "piano a queue",
+    "piano droit",
+    "pianoforte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Piano carré",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "piano carre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pipa",
+   "tier": 2,
+   "score": 0.9385,
+   "forms": [
+    "pipa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pluriarc",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "pluriarc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pochette",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "pochette"
+   ],
+   "exact": []
+  },
+  {
+   "display": "psalmodicon",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "psalmodicon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "psaltérion",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "psalterion"
+   ],
+   "exact": []
+  },
+  {
+   "display": "psaltérion à archet",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "psalterion a archet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "psaltérion balte",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "psalterion balte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Qanbüs",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "gabbu",
+    "gambusi",
+    "qabu",
+    "qanbu"
+   ],
+   "exact": [
+    "gabbu"
+   ]
+  },
+  {
+   "display": "qanûn",
+   "tier": 2,
+   "score": 0.915,
+   "forms": [
+    "kalong",
+    "kanonaki",
+    "kanun",
+    "qanun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "qifteli",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "ciftelia",
+    "qifteli"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Qinqin",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "qinqin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "quinte de violon",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "quinte de violon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "quinton",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "quinton"
+   ],
+   "exact": [
+    "quinton"
+   ]
+  },
+  {
+   "display": "rabâb",
+   "tier": 2,
+   "score": 0.9116,
+   "forms": [
+    "rabab",
+    "rebab",
+    "rewapu",
+    "robab",
+    "rubob",
+    "rybab"
+   ],
+   "exact": [
+    "rabab",
+    "rebab",
+    "robab",
+    "rubob",
+    "rybab"
+   ]
+  },
+  {
+   "display": "rebab indonésien",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "rebab indonesien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rebec",
+   "tier": 3,
+   "score": 0.8613,
+   "forms": [
+    "rebec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Requinto",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "requinto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "requinto jarocho",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "guitarra de son",
+    "requinto jarocho"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ribab",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "ribab"
+   ],
+   "exact": [
+    "ribab"
+   ]
+  },
+  {
+   "display": "riwana",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "riwana"
+   ],
+   "exact": [
+    "riwana"
+   ]
+  },
+  {
+   "display": "ronroco",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "ronroco"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ruan",
+   "tier": 4,
+   "score": 0.7371,
+   "forms": [
+    "luai",
+    "meihuaruan",
+    "ruan",
+    "shao luai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rubab",
+   "tier": 3,
+   "score": 0.8479,
+   "forms": [
+    "rubab"
+   ],
+   "exact": [
+    "rubab"
+   ]
+  },
+  {
+   "display": "sambuco",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "sambuco"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sanshin",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "jabisen",
+    "sanshin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "santour",
+   "tier": 2,
+   "score": 0.9284,
+   "forms": [
+    "santoor",
+    "santour",
+    "santur"
+   ],
+   "exact": [
+    "santour"
+   ]
+  },
+  {
+   "display": "Santouri",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "santouri"
+   ],
+   "exact": [
+    "santouri"
+   ]
+  },
+  {
+   "display": "santouri grec",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "santouri grec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sanxian",
+   "tier": 3,
+   "score": 0.7752,
+   "forms": [
+    "sanxian"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sarangi",
+   "tier": 2,
+   "score": 0.9183,
+   "forms": [
+    "sarangi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "sarod",
+   "tier": 3,
+   "score": 0.8993,
+   "forms": [
+    "sarod",
+    "sarode"
+   ],
+   "exact": []
+  },
+  {
+   "display": "saung",
+   "tier": 4,
+   "score": 0.6991,
+   "forms": [
+    "saung"
+   ],
+   "exact": [
+    "saung"
+   ]
+  },
+  {
+   "display": "saz",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "bozuk",
+    "cagur",
+    "cogur",
+    "saz"
+   ],
+   "exact": [
+    "bozuk",
+    "cogur"
+   ]
+  },
+  {
+   "display": "Scheitholt",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "hexaschit",
+    "hexenscheit",
+    "scheitholt",
+    "scheitholz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "se",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "se"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Seprewa",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "seprewa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "setâr",
+   "tier": 3,
+   "score": 0.8479,
+   "forms": [
+    "setar"
+   ],
+   "exact": [
+    "setar"
+   ]
+  },
+  {
+   "display": "Seto",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "seto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "shamisen",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "shamisen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shuangqin",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "shuangqin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sihu",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "sihu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "simikon",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "simikon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "simsimiyya",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "semsemiah",
+    "simsimiyya",
+    "tanburah"
+   ],
+   "exact": [
+    "tanburah"
+   ]
+  },
+  {
+   "display": "sitar",
+   "tier": 2,
+   "score": 0.9676,
+   "forms": [
+    "sitar",
+    "sitar electrique"
+   ],
+   "exact": [
+    "sitar"
+   ]
+  },
+  {
+   "display": "sorud",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "g cek",
+    "sarinda",
+    "sorud",
+    "sringara"
+   ],
+   "exact": [
+    "sorud"
+   ]
+  },
+  {
+   "display": "Sperrhake",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "kurt sperrhake passau",
+    "musikhau kurt sperrhake",
+    "sperrhake",
+    "sperrhake passau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Springtime",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "springtime",
+    "springtime ii"
+   ],
+   "exact": []
+  },
+  {
+   "display": "steel guitar",
+   "tier": 3,
+   "score": 0.7975,
+   "forms": [
+    "steel guitar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sueng",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "sueng"
+   ],
+   "exact": []
+  },
+  {
+   "display": "surbahar",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "sitar basse",
+    "surbahar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sursingar",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "sursingar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Talharpa",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "talharpa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tambourin à cordes",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "fabrication du tambourin a corde",
+    "tamborin",
+    "tambourin a corde",
+    "tom tom",
+    "ttun ttun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tambur",
+   "tier": 3,
+   "score": 0.887,
+   "forms": [
+    "dambura",
+    "tamboor",
+    "tamboura",
+    "tambur",
+    "tamburitza",
+    "tampura",
+    "tampuri",
+    "tanbur",
+    "tanbura",
+    "tanburag",
+    "tanpura",
+    "tonbul",
+    "tunbur"
+   ],
+   "exact": [
+    "dambura",
+    "tamboor",
+    "tamboura",
+    "tambur",
+    "tamburitza",
+    "tampura",
+    "tanbura",
+    "tanburag"
+   ]
+  },
+  {
+   "display": "tambura",
+   "tier": 3,
+   "score": 0.8949,
+   "forms": [
+    "tambura"
+   ],
+   "exact": [
+    "tambura"
+   ]
+  },
+  {
+   "display": "tamburica",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "tamburica"
+   ],
+   "exact": [
+    "tamburica"
+   ]
+  },
+  {
+   "display": "târ",
+   "tier": 3,
+   "score": 0.8949,
+   "forms": [
+    "tar",
+    "tar luth"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tautirut",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "tautirut"
+   ],
+   "exact": []
+  },
+  {
+   "display": "The Handle",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "the handle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "théorbe",
+   "tier": 2,
+   "score": 0.9116,
+   "forms": [
+    "teorbe",
+    "theorbe"
+   ],
+   "exact": [
+    "theorbe"
+   ]
+  },
+  {
+   "display": "Thomo",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "thomo"
+   ],
+   "exact": [
+    "thomo"
+   ]
+  },
+  {
+   "display": "Tianqin",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "tianqin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Timple",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "timple"
+   ],
+   "exact": [
+    "timple"
+   ]
+  },
+  {
+   "display": "tiple",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "tiple"
+   ],
+   "exact": [
+    "tiple"
+   ]
+  },
+  {
+   "display": "tiple colombien",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "tiple colombien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tololoche",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "tololoche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tonkori",
+   "tier": 4,
+   "score": 0.6689,
+   "forms": [
+    "tonkori"
+   ],
+   "exact": []
+  },
+  {
+   "display": "torban",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "torban"
+   ],
+   "exact": [
+    "torban"
+   ]
+  },
+  {
+   "display": "Tovshuur",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "tobshuur",
+    "topshur",
+    "tovshuur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "träskofiol",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "traskofiol",
+    "violon sabot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tres",
+   "tier": 3,
+   "score": 0.7897,
+   "forms": [
+    "tre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "trémoloa",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "tremoloa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "trigonon",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "trigonon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tritare",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "tritare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "trompette marine",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "trompette marine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tsymbaly",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "tsymbaly"
+   ],
+   "exact": []
+  },
+  {
+   "display": "tympanon",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "tympanon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "ukulélé",
+   "tier": 1,
+   "score": 0.9743,
+   "forms": [
+    "ukulele",
+    "youkoulele",
+    "yukulele"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Valiha",
+   "tier": 3,
+   "score": 0.7975,
+   "forms": [
+    "valiha"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vichitra vînâ",
+   "tier": 4,
+   "score": 0.5705,
+   "forms": [
+    "vichitra vina",
+    "vicitra vina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vièle",
+   "tier": 3,
+   "score": 0.8367,
+   "forms": [
+    "viele",
+    "vielle a archet"
+   ],
+   "exact": [
+    "viele"
+   ]
+  },
+  {
+   "display": "vièle à pique",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "viele a pique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vielle à roue",
+   "tier": 2,
+   "score": 0.9575,
+   "forms": [
+    "chifournie",
+    "viele a roue",
+    "vielle a roue"
+   ],
+   "exact": []
+  },
+  {
+   "display": "vihuela",
+   "tier": 3,
+   "score": 0.8747,
+   "forms": [
+    "vihuela"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Villu",
+   "tier": 5,
+   "score": 0.4094,
+   "forms": [
+    "onavill",
+    "onavillu",
+    "villu",
+    "villukottu"
+   ],
+   "exact": [
+    "villu"
+   ]
+  },
+  {
+   "display": "vînâ",
+   "tier": 2,
+   "score": 0.9239,
+   "forms": [
+    "bin",
+    "bine",
+    "sarasvati vina",
+    "veena",
+    "vina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "viola amarantina",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "viola amarantina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "viola da braccio",
+   "tier": 4,
+   "score": 0.6376,
+   "forms": [
+    "viola da braccio",
+    "viola da brazzo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "viola de arame",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "viola de arame"
+   ],
+   "exact": []
+  },
+  {
+   "display": "viola pomposa",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "viola pomposa"
+   ],
+   "exact": []
+  },
+  {
+   "display": "viola profonda",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "viola profonda"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violão",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "guitare a 7 corde",
+    "viola caipira",
+    "viola de cocho",
+    "viola guitare",
+    "viola sertaneja",
+    "violao"
+   ],
+   "exact": [
+    "guitare a 7 corde",
+    "violao"
+   ]
+  },
+  {
+   "display": "viole d'amour",
+   "tier": 3,
+   "score": 0.887,
+   "forms": [
+    "sinekeman",
+    "viole d amour"
+   ],
+   "exact": [
+    "viole d amour"
+   ]
+  },
+  {
+   "display": "viole de gambe",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "basse de viole",
+    "viole",
+    "viole de gambe"
+   ],
+   "exact": [
+    "basse de viole",
+    "viole"
+   ]
+  },
+  {
+   "display": "viole de gambe alto",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "hautcontre de viole",
+    "haute contre de viole",
+    "viole de gambe alto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "viole ténor",
+   "tier": 5,
+   "score": 0.0727,
+   "forms": [
+    "taille de viole voile de gambe tenor taille de viole de gambe",
+    "viole tenor"
+   ],
+   "exact": [
+    "viole tenor"
+   ]
+  },
+  {
+   "display": "Violette",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "violetta",
+    "violette"
+   ],
+   "exact": [
+    "violetta",
+    "violette"
+   ]
+  },
+  {
+   "display": "Violino piccolo",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "violino piccolo",
+    "violon piccolo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violon",
+   "tier": 1,
+   "score": 0.9955,
+   "forms": [
+    "violon",
+    "violon electrique"
+   ],
+   "exact": [
+    "violon"
+   ]
+  },
+  {
+   "display": "violon baroque",
+   "tier": 4,
+   "score": 0.7215,
+   "forms": [
+    "violon baroque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violon canne",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "canne violon",
+    "violon canne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Violon d'amour",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "violon d amore",
+    "violon d amour"
+   ],
+   "exact": [
+    "violon d amour"
+   ]
+  },
+  {
+   "display": "Violon en Gascogne",
+   "tier": 5,
+   "score": 0.0157,
+   "forms": [
+    "violon en gascogne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Violon Hardanger",
+   "tier": 3,
+   "score": 0.8255,
+   "forms": [
+    "fele",
+    "hardangerfele",
+    "hardingfele",
+    "violon de hardanger",
+    "violon hardanger"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violon ténor",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "violon tenor"
+   ],
+   "exact": [
+    "violon tenor"
+   ]
+  },
+  {
+   "display": "violoncelle",
+   "tier": 1,
+   "score": 0.9933,
+   "forms": [
+    "violoncelle",
+    "violoncelle electrique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violoncello da spalla",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "viola da spalla",
+    "violoncello da spalla"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violoncello piccolo",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "violoncello piccolo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "violone",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "violone"
+   ],
+   "exact": [
+    "violone"
+   ]
+  },
+  {
+   "display": "violotta",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "violotta"
+   ],
+   "exact": [
+    "violotta"
+   ]
+  },
+  {
+   "display": "virginal",
+   "tier": 3,
+   "score": 0.887,
+   "forms": [
+    "ottavino",
+    "virginal",
+    "virginale"
+   ],
+   "exact": [
+    "virginale"
+   ]
+  },
+  {
+   "display": "virginal muselar",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "muselaar",
+    "virginal muselar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "waldzither",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "waldzither"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Weissenborn",
+   "tier": 5,
+   "score": 0.3725,
+   "forms": [
+    "weissenborn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "xalam",
+   "tier": 4,
+   "score": 0.528,
+   "forms": [
+    "xalam"
+   ],
+   "exact": [
+    "xalam"
+   ]
+  },
+  {
+   "display": "Yamatogoto",
+   "tier": 5,
+   "score": 0.4832,
+   "forms": [
+    "yamatogoto"
+   ],
+   "exact": []
+  },
+  {
+   "display": "yanggeum",
+   "tier": 5,
+   "score": 0.2617,
+   "forms": [
+    "yanggeum"
+   ],
+   "exact": [
+    "yanggeum"
+   ]
+  },
+  {
+   "display": "yangqin",
+   "tier": 3,
+   "score": 0.8367,
+   "forms": [
+    "dan tam thap luc",
+    "jooch in",
+    "khom",
+    "rgyu mang",
+    "rgyud mang",
+    "tchang",
+    "yanggum",
+    "yangqin",
+    "yaukin",
+    "yochin"
+   ],
+   "exact": [
+    "tchang",
+    "yanggum"
+   ]
+  },
+  {
+   "display": "Yatga",
+   "tier": 4,
+   "score": 0.6051,
+   "forms": [
+    "yatga"
+   ],
+   "exact": []
+  },
+  {
+   "display": "yazheng",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "yazheng"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yueqin",
+   "tier": 3,
+   "score": 0.7539,
+   "forms": [
+    "gut komm",
+    "yueqin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zeze",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "zeze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "zheng",
+   "tier": 5,
+   "score": 0.1879,
+   "forms": [
+    "zheng",
+    "zheng instrument de musique"
+   ],
+   "exact": []
+  },
+  {
+   "display": "zhongdihu",
+   "tier": 5,
+   "score": 0.4452,
+   "forms": [
+    "zhongdihu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "zhuihu",
+   "tier": 5,
+   "score": 0.3233,
+   "forms": [
+    "zhuihu"
+   ],
+   "exact": []
+  }
+ ]
+}

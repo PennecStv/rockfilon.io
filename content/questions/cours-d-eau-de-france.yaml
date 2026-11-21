@@ -1,0 +1,17 @@
+id: cours-d-eau-de-france
+prompt: "Cite un cours d'eau de France"
+categorie: géographie de France
+sources:
+  - type: wikidata_sparql
+    query: |
+      # fleuves, rivières et ruisseaux situés en France qui ont un article sur Wikipédia FR
+      SELECT ?item ?label ?alias ?sitelinks WHERE {
+        VALUES ?type { wd:Q4022 wd:Q573344 wd:Q47521 }
+        ?item wdt:P31 ?type ; wdt:P17 wd:Q142 ; rdfs:label ?label ; wikibase:sitelinks ?sitelinks .
+        ?article schema:about ?item ; schema:isPartOf <https://fr.wikipedia.org/> .
+        FILTER(LANG(?label) = "fr")
+        OPTIONAL { ?item skos:altLabel ?alias . FILTER(LANG(?alias) = "fr") }
+      }
+rarete: sitelinks
+pepite: "Loue"  # à valider : rivière du Jura peinte par Courbet, sa source jaillit d'une falaise
+quantiles: [0.99, 0.97, 0.90, 0.75]  # 3 600 cours d'eau : charbon = la quarantaine que tout le monde connaît

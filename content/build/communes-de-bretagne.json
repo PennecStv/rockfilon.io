@@ -1,0 +1,12747 @@
+{
+ "id": "communes-de-bretagne",
+ "prompt": "Cite une commune de Bretagne",
+ "categorie": "géographie de France",
+ "built_at": "2026-11-20T16:33:54+00:00",
+ "answers": [
+  {
+   "display": "Acigné",
+   "tier": 3,
+   "score": 0.7563,
+   "forms": [
+    "acigne"
+   ],
+   "exact": [
+    "acigne"
+   ]
+  },
+  {
+   "display": "Allaire",
+   "tier": 4,
+   "score": 0.7295,
+   "forms": [
+    "alaer",
+    "allaire"
+   ],
+   "exact": [
+    "alaer"
+   ]
+  },
+  {
+   "display": "Allineuc",
+   "tier": 5,
+   "score": 0.2538,
+   "forms": [
+    "alineg",
+    "allineuc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Amanlis",
+   "tier": 5,
+   "score": 0.4837,
+   "forms": [
+    "amanli"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ambon",
+   "tier": 3,
+   "score": 0.7772,
+   "forms": [
+    "ambon"
+   ],
+   "exact": [
+    "ambon"
+   ]
+  },
+  {
+   "display": "Andel",
+   "tier": 5,
+   "score": 0.2965,
+   "forms": [
+    "andel",
+    "andeu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Andouillé-Neuville",
+   "tier": 5,
+   "score": 0.2638,
+   "forms": [
+    "andouille neuville"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arbrissel",
+   "tier": 5,
+   "score": 0.0821,
+   "forms": [
+    "arbressec",
+    "arbrissel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Argentré-du-Plessis",
+   "tier": 4,
+   "score": 0.6541,
+   "forms": [
+    "35006",
+    "argentre",
+    "argentre du plessi"
+   ],
+   "exact": [
+    "argentre"
+   ]
+  },
+  {
+   "display": "Argol",
+   "tier": 3,
+   "score": 0.8375,
+   "forms": [
+    "argol"
+   ],
+   "exact": [
+    "argol"
+   ]
+  },
+  {
+   "display": "Arradon",
+   "tier": 2,
+   "score": 0.9196,
+   "forms": [
+    "aradon",
+    "arradon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arzal",
+   "tier": 4,
+   "score": 0.7077,
+   "forms": [
+    "arzal",
+    "arzhal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arzano",
+   "tier": 4,
+   "score": 0.5436,
+   "forms": [
+    "arzano"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Arzon",
+   "tier": 2,
+   "score": 0.9062,
+   "forms": [
+    "arzhon rewiz",
+    "arzon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aubigné",
+   "tier": 5,
+   "score": 0.0779,
+   "forms": [
+    "aubigne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aucaleuc",
+   "tier": 5,
+   "score": 0.1441,
+   "forms": [
+    "aucaleuc",
+    "oskaleg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Audierne",
+   "tier": 3,
+   "score": 0.8911,
+   "forms": [
+    "audierne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Augan",
+   "tier": 4,
+   "score": 0.567,
+   "forms": [
+    "algam",
+    "augan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Auray",
+   "tier": 1,
+   "score": 0.9774,
+   "forms": [
+    "alreen",
+    "auray"
+   ],
+   "exact": [
+    "auray"
+   ]
+  },
+  {
+   "display": "Availles-sur-Seiche",
+   "tier": 5,
+   "score": 0.0209,
+   "forms": [
+    "availle sur seiche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Baden",
+   "tier": 3,
+   "score": 0.866,
+   "forms": [
+    "baden"
+   ],
+   "exact": [
+    "baden"
+   ]
+  },
+  {
+   "display": "Baguer-Morvan",
+   "tier": 5,
+   "score": 0.2203,
+   "forms": [
+    "baguer morvan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Baguer-Pican",
+   "tier": 5,
+   "score": 0.3216,
+   "forms": [
+    "baguer pican",
+    "lairgue"
+   ],
+   "exact": [
+    "lairgue"
+   ]
+  },
+  {
+   "display": "Bais",
+   "tier": 4,
+   "score": 0.5452,
+   "forms": [
+    "bai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bain-de-Bretagne",
+   "tier": 2,
+   "score": 0.9003,
+   "forms": [
+    "baen veur",
+    "bain de bretagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bains-sur-Oust",
+   "tier": 4,
+   "score": 0.6625,
+   "forms": [
+    "bain",
+    "bain sur oust"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Balazé",
+   "tier": 5,
+   "score": 0.3576,
+   "forms": [
+    "balaze"
+   ],
+   "exact": [
+    "balaze"
+   ]
+  },
+  {
+   "display": "Bangor",
+   "tier": 4,
+   "score": 0.7236,
+   "forms": [
+    "bangor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bannalec",
+   "tier": 3,
+   "score": 0.8275,
+   "forms": [
+    "banaleg",
+    "bannalec"
+   ],
+   "exact": [
+    "banaleg"
+   ]
+  },
+  {
+   "display": "Baud",
+   "tier": 3,
+   "score": 0.8752,
+   "forms": [
+    "baud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Baulon",
+   "tier": 4,
+   "score": 0.5142,
+   "forms": [
+    "baulon"
+   ],
+   "exact": [
+    "baulon"
+   ]
+  },
+  {
+   "display": "La Baussaine",
+   "tier": 5,
+   "score": 0.1491,
+   "forms": [
+    "baussaine"
+   ],
+   "exact": [
+    "baussaine"
+   ]
+  },
+  {
+   "display": "Baye",
+   "tier": 5,
+   "score": 0.4715,
+   "forms": [
+    "baye",
+    "bei"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Bazouge-du-Désert",
+   "tier": 5,
+   "score": 0.366,
+   "forms": [
+    "bazouge",
+    "bazouge du desert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bazouges-la-Pérouse",
+   "tier": 3,
+   "score": 0.8476,
+   "forms": [
+    "bazouge la perouse",
+    "bazouge la perouze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Beaucé",
+   "tier": 5,
+   "score": 0.1583,
+   "forms": [
+    "beauce"
+   ],
+   "exact": [
+    "beauce"
+   ]
+  },
+  {
+   "display": "Beaussais-sur-Mer",
+   "tier": 3,
+   "score": 0.799,
+   "forms": [
+    "beaussai sur mer",
+    "bosez poudour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bécherel",
+   "tier": 2,
+   "score": 0.9355,
+   "forms": [
+    "becherel",
+    "cite du livre",
+    "village du livre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bédée",
+   "tier": 3,
+   "score": 0.8317,
+   "forms": [
+    "bedee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Béganne",
+   "tier": 4,
+   "score": 0.5117,
+   "forms": [
+    "beganne",
+    "begaon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bégard",
+   "tier": 3,
+   "score": 0.7781,
+   "forms": [
+    "bear",
+    "begard",
+    "botlezan",
+    "guenezan",
+    "lanneven",
+    "saint novez",
+    "trezelan"
+   ],
+   "exact": [
+    "begard",
+    "lanneven",
+    "trezelan"
+   ]
+  },
+  {
+   "display": "Beignon",
+   "tier": 4,
+   "score": 0.5067,
+   "forms": [
+    "beignon",
+    "benion"
+   ],
+   "exact": [
+    "benion"
+   ]
+  },
+  {
+   "display": "Belle-Isle-en-Terre",
+   "tier": 3,
+   "score": 0.8342,
+   "forms": [
+    "belle isle en terre",
+    "benac h"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Belz",
+   "tier": 3,
+   "score": 0.8099,
+   "forms": [
+    "belz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bénodet",
+   "tier": 2,
+   "score": 0.959,
+   "forms": [
+    "benodet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berhet",
+   "tier": 5,
+   "score": 0.0423,
+   "forms": [
+    "berhet"
+   ],
+   "exact": [
+    "berhet"
+   ]
+  },
+  {
+   "display": "Berné",
+   "tier": 4,
+   "score": 0.5754,
+   "forms": [
+    "berne"
+   ],
+   "exact": [
+    "berne"
+   ]
+  },
+  {
+   "display": "Berric",
+   "tier": 4,
+   "score": 0.5678,
+   "forms": [
+    "berric",
+    "berrig"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berrien",
+   "tier": 4,
+   "score": 0.657,
+   "forms": [
+    "berrien"
+   ],
+   "exact": [
+    "berrien"
+   ]
+  },
+  {
+   "display": "Betton",
+   "tier": 3,
+   "score": 0.8677,
+   "forms": [
+    "betton",
+    "bezhon",
+    "lanvezhon"
+   ],
+   "exact": [
+    "betton"
+   ]
+  },
+  {
+   "display": "Beuzec-Cap-Sizun",
+   "tier": 5,
+   "score": 0.4506,
+   "forms": [
+    "beuzec cap sizun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bignan",
+   "tier": 4,
+   "score": 0.6658,
+   "forms": [
+    "begnen",
+    "bignan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Billé",
+   "tier": 5,
+   "score": 0.075,
+   "forms": [
+    "bille"
+   ],
+   "exact": [
+    "bille"
+   ]
+  },
+  {
+   "display": "Billiers",
+   "tier": 4,
+   "score": 0.66,
+   "forms": [
+    "beler",
+    "billier"
+   ],
+   "exact": [
+    "beler",
+    "billier"
+   ]
+  },
+  {
+   "display": "Billio",
+   "tier": 5,
+   "score": 0.0461,
+   "forms": [
+    "biliou",
+    "billio"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Binic-Étables-sur-Mer",
+   "tier": 3,
+   "score": 0.8141,
+   "forms": [
+    "binic etable sur mer",
+    "binig staol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bléruais",
+   "tier": 5,
+   "score": 0.2136,
+   "forms": [
+    "bleruai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bobital",
+   "tier": 5,
+   "score": 0.3534,
+   "forms": [
+    "bobital",
+    "bowidel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Bodéo",
+   "tier": 5,
+   "score": 0.0695,
+   "forms": [
+    "bodeo",
+    "bodeou"
+   ],
+   "exact": [
+    "bodeo"
+   ]
+  },
+  {
+   "display": "Bodilis",
+   "tier": 4,
+   "score": 0.6516,
+   "forms": [
+    "bodili"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bohal",
+   "tier": 5,
+   "score": 0.1457,
+   "forms": [
+    "bohal"
+   ],
+   "exact": [
+    "bohal"
+   ]
+  },
+  {
+   "display": "Bohars",
+   "tier": 4,
+   "score": 0.5427,
+   "forms": [
+    "bohar"
+   ],
+   "exact": [
+    "bohar"
+   ]
+  },
+  {
+   "display": "Boisgervilly",
+   "tier": 5,
+   "score": 0.2236,
+   "forms": [
+    "boisgervilly"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boistrudan",
+   "tier": 5,
+   "score": 0.1223,
+   "forms": [
+    "boistrudan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bolazec",
+   "tier": 5,
+   "score": 0.3074,
+   "forms": [
+    "bolazec",
+    "bolazeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bon Repos sur Blavet",
+   "tier": 4,
+   "score": 0.5469,
+   "forms": [
+    "berrepoz ar blavezh",
+    "bon repo sur blavet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bonnemain",
+   "tier": 5,
+   "score": 0.3116,
+   "forms": [
+    "bonmaen",
+    "bonnemain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Bono",
+   "tier": 3,
+   "score": 0.8082,
+   "forms": [
+    "bono",
+    "bonoviste"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boqueho",
+   "tier": 5,
+   "score": 0.4112,
+   "forms": [
+    "boqueho",
+    "boskazou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Bosse-de-Bretagne",
+   "tier": 5,
+   "score": 0.1122,
+   "forms": [
+    "bosse",
+    "bosse de bretagne"
+   ],
+   "exact": [
+    "bosse"
+   ]
+  },
+  {
+   "display": "Botmeur",
+   "tier": 4,
+   "score": 0.5519,
+   "forms": [
+    "botmeur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Botsorhel",
+   "tier": 5,
+   "score": 0.2781,
+   "forms": [
+    "botsorhel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Bouëxière",
+   "tier": 4,
+   "score": 0.6918,
+   "forms": [
+    "bouexiere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Bouillie",
+   "tier": 5,
+   "score": 0.3266,
+   "forms": [
+    "ar vezvid",
+    "bouillie",
+    "vezvid"
+   ],
+   "exact": [
+    "bouillie"
+   ]
+  },
+  {
+   "display": "Bourbriac",
+   "tier": 3,
+   "score": 0.7789,
+   "forms": [
+    "boulvriag",
+    "bourbriac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bourg-Blanc",
+   "tier": 4,
+   "score": 0.536,
+   "forms": [
+    "bourg blanc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bourg-des-Comptes",
+   "tier": 4,
+   "score": 0.6608,
+   "forms": [
+    "bourg des compte",
+    "bourg la montagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bourgbarré",
+   "tier": 4,
+   "score": 0.6893,
+   "forms": [
+    "bourgbarre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bourseul",
+   "tier": 5,
+   "score": 0.196,
+   "forms": [
+    "boursaout",
+    "bourseul"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Boussac",
+   "tier": 5,
+   "score": 0.2257,
+   "forms": [
+    "boussac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bovel",
+   "tier": 5,
+   "score": 0.0988,
+   "forms": [
+    "bovel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brandérion",
+   "tier": 5,
+   "score": 0.4221,
+   "forms": [
+    "branderion",
+    "prederion"
+   ],
+   "exact": [
+    "prederion"
+   ]
+  },
+  {
+   "display": "Brandivy",
+   "tier": 4,
+   "score": 0.6583,
+   "forms": [
+    "brandevi",
+    "brandivy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brasparts",
+   "tier": 3,
+   "score": 0.7613,
+   "forms": [
+    "braspart"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bréal-sous-Montfort",
+   "tier": 3,
+   "score": 0.7747,
+   "forms": [
+    "breal sou montfort"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bréal-sous-Vitré",
+   "tier": 5,
+   "score": 0.0142,
+   "forms": [
+    "breal",
+    "breal sou vitre"
+   ],
+   "exact": [
+    "breal"
+   ]
+  },
+  {
+   "display": "Brécé",
+   "tier": 5,
+   "score": 0.4238,
+   "forms": [
+    "brece"
+   ],
+   "exact": [
+    "brece"
+   ]
+  },
+  {
+   "display": "Brech",
+   "tier": 3,
+   "score": 0.8484,
+   "forms": [
+    "brec h",
+    "brech",
+    "saint degan"
+   ],
+   "exact": [
+    "brech",
+    "saint degan"
+   ]
+  },
+  {
+   "display": "Bréhan",
+   "tier": 4,
+   "score": 0.6152,
+   "forms": [
+    "brehan",
+    "brehan loudeac",
+    "brehant loudieg"
+   ],
+   "exact": [
+    "brehan"
+   ]
+  },
+  {
+   "display": "Bréhand",
+   "tier": 5,
+   "score": 0.4523,
+   "forms": [
+    "brehand",
+    "brehand moncontour",
+    "brehant monkontour"
+   ],
+   "exact": [
+    "brehand"
+   ]
+  },
+  {
+   "display": "Brélès",
+   "tier": 5,
+   "score": 0.4338,
+   "forms": [
+    "brele"
+   ],
+   "exact": [
+    "brele"
+   ]
+  },
+  {
+   "display": "Brélidy",
+   "tier": 5,
+   "score": 0.0251,
+   "forms": [
+    "brelidi",
+    "brelidy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brennilis",
+   "tier": 3,
+   "score": 0.8526,
+   "forms": [
+    "brennili"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brest",
+   "tier": 1,
+   "score": 0.9983,
+   "forms": [
+    "brest"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Breteil",
+   "tier": 5,
+   "score": 0.4623,
+   "forms": [
+    "breteil"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brie",
+   "tier": 5,
+   "score": 0.2554,
+   "forms": [
+    "brie"
+   ],
+   "exact": [
+    "brie"
+   ]
+  },
+  {
+   "display": "Briec",
+   "tier": 3,
+   "score": 0.7998,
+   "forms": [
+    "briec",
+    "briec de l odet",
+    "brieg"
+   ],
+   "exact": [
+    "briec",
+    "brieg"
+   ]
+  },
+  {
+   "display": "Brielles",
+   "tier": 5,
+   "score": 0.0678,
+   "forms": [
+    "brielle"
+   ],
+   "exact": [
+    "brielle"
+   ]
+  },
+  {
+   "display": "Brignac",
+   "tier": 5,
+   "score": 0.1072,
+   "forms": [
+    "brennieg",
+    "brignac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bringolo",
+   "tier": 5,
+   "score": 0.1273,
+   "forms": [
+    "brengolou",
+    "bringolo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Broons",
+   "tier": 3,
+   "score": 0.8878,
+   "forms": [
+    "bronn",
+    "broon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Broualan",
+   "tier": 5,
+   "score": 0.0963,
+   "forms": [
+    "broualan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bruc-sur-Aff",
+   "tier": 5,
+   "score": 0.1893,
+   "forms": [
+    "bruc",
+    "bruc sur aff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Les Brulais",
+   "tier": 5,
+   "score": 0.0394,
+   "forms": [
+    "brulai"
+   ],
+   "exact": [
+    "brulai"
+   ]
+  },
+  {
+   "display": "Brusvily",
+   "tier": 5,
+   "score": 0.1985,
+   "forms": [
+    "brusvily",
+    "bruzivili"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bruz",
+   "tier": 2,
+   "score": 0.9447,
+   "forms": [
+    "bruz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bubry",
+   "tier": 3,
+   "score": 0.7655,
+   "forms": [
+    "bubri",
+    "bubry"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bulat-Pestivien",
+   "tier": 4,
+   "score": 0.5829,
+   "forms": [
+    "bulad pestivien",
+    "bulat pestivien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Buléon",
+   "tier": 5,
+   "score": 0.1164,
+   "forms": [
+    "buelion",
+    "buleon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caden",
+   "tier": 4,
+   "score": 0.5796,
+   "forms": [
+    "caden",
+    "kaden"
+   ],
+   "exact": [
+    "caden",
+    "kaden"
+   ]
+  },
+  {
+   "display": "Calan",
+   "tier": 4,
+   "score": 0.6449,
+   "forms": [
+    "calan",
+    "kalann"
+   ],
+   "exact": [
+    "calan"
+   ]
+  },
+  {
+   "display": "Calanhel",
+   "tier": 5,
+   "score": 0.1357,
+   "forms": [
+    "calanhel",
+    "kalanel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Callac",
+   "tier": 3,
+   "score": 0.8953,
+   "forms": [
+    "botmel",
+    "callac",
+    "callac de bretagne",
+    "kallag",
+    "landugen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Calorguen",
+   "tier": 5,
+   "score": 0.4104,
+   "forms": [
+    "calorguen",
+    "kerorgen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Camaret-sur-Mer",
+   "tier": 2,
+   "score": 0.9456,
+   "forms": [
+    "29022",
+    "camaret",
+    "camaret sur mer"
+   ],
+   "exact": [
+    "camaret"
+   ]
+  },
+  {
+   "display": "Camlez",
+   "tier": 5,
+   "score": 0.0997,
+   "forms": [
+    "camlez",
+    "kamlez"
+   ],
+   "exact": [
+    "camlez"
+   ]
+  },
+  {
+   "display": "Camoël",
+   "tier": 5,
+   "score": 0.474,
+   "forms": [
+    "camoel",
+    "kamoel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Camors",
+   "tier": 3,
+   "score": 0.7864,
+   "forms": [
+    "camor",
+    "kamorzh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Campénéac",
+   "tier": 4,
+   "score": 0.6344,
+   "forms": [
+    "campeneac",
+    "kempenieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cancale",
+   "tier": 1,
+   "score": 0.974,
+   "forms": [
+    "cancale",
+    "cauncall",
+    "kankaven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Canihuel",
+   "tier": 5,
+   "score": 0.2395,
+   "forms": [
+    "canihuel",
+    "kanuhel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caouënnec-Lanvézéac",
+   "tier": 5,
+   "score": 0.1847,
+   "forms": [
+    "caouennec lanvezeac",
+    "kaouenneg lanvezeeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carantec",
+   "tier": 2,
+   "score": 0.9372,
+   "forms": [
+    "carantec",
+    "karanteg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cardroc",
+   "tier": 5,
+   "score": 0.3157,
+   "forms": [
+    "cardroc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carentoir",
+   "tier": 3,
+   "score": 0.8467,
+   "forms": [
+    "carentoir"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carhaix-Plouguer",
+   "tier": 1,
+   "score": 0.9757,
+   "forms": [
+    "carhaix",
+    "carhaix plouguer",
+    "karae",
+    "karaez",
+    "plouguer"
+   ],
+   "exact": [
+    "karae",
+    "plouguer"
+   ]
+  },
+  {
+   "display": "Carnac",
+   "tier": 1,
+   "score": 0.9849,
+   "forms": [
+    "carnac",
+    "karnag",
+    "saint colomban carnac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Carnoët",
+   "tier": 4,
+   "score": 0.7303,
+   "forms": [
+    "carnoet",
+    "karnoed"
+   ],
+   "exact": [
+    "carnoet"
+   ]
+  },
+  {
+   "display": "Caro",
+   "tier": 4,
+   "score": 0.6206,
+   "forms": [
+    "caro",
+    "karozh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cast",
+   "tier": 4,
+   "score": 0.6189,
+   "forms": [
+    "cast",
+    "kast"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caudan",
+   "tier": 3,
+   "score": 0.8032,
+   "forms": [
+    "caudan",
+    "kaodan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caulnes",
+   "tier": 4,
+   "score": 0.6675,
+   "forms": [
+    "caulne",
+    "kaon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caurel",
+   "tier": 5,
+   "score": 0.3518,
+   "forms": [
+    "caurel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cavan",
+   "tier": 4,
+   "score": 0.5134,
+   "forms": [
+    "cavan",
+    "kawan"
+   ],
+   "exact": [
+    "cavan",
+    "kawan"
+   ]
+  },
+  {
+   "display": "Cesson-Sévigné",
+   "tier": 2,
+   "score": 0.9489,
+   "forms": [
+    "cesson",
+    "cesson sevigne"
+   ],
+   "exact": [
+    "cesson"
+   ]
+  },
+  {
+   "display": "Les Champs-Géraux",
+   "tier": 4,
+   "score": 0.7127,
+   "forms": [
+    "champ geral",
+    "maez geraod"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Champeaux",
+   "tier": 4,
+   "score": 0.5159,
+   "forms": [
+    "champeau"
+   ],
+   "exact": [
+    "champeau"
+   ]
+  },
+  {
+   "display": "Chanteloup",
+   "tier": 4,
+   "score": 0.5461,
+   "forms": [
+    "chanteloup"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chantepie",
+   "tier": 3,
+   "score": 0.8224,
+   "forms": [
+    "chantepie"
+   ],
+   "exact": [
+    "chantepie"
+   ]
+  },
+  {
+   "display": "La Chapelle-aux-Filtzméens",
+   "tier": 5,
+   "score": 0.4037,
+   "forms": [
+    "chapelle aux filtzmeen",
+    "chapelle aux filzmeen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Blanche",
+   "tier": 5,
+   "score": 0.103,
+   "forms": [
+    "ar chapel wenn",
+    "chapelle blanche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Bouëxic",
+   "tier": 5,
+   "score": 0.3953,
+   "forms": [
+    "chapelle bouexic"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Chaussée",
+   "tier": 5,
+   "score": 0.2044,
+   "forms": [
+    "chapelle chaussee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-de-Brain",
+   "tier": 5,
+   "score": 0.4631,
+   "forms": [
+    "chapelle de brain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-des-Fougeretz",
+   "tier": 4,
+   "score": 0.6767,
+   "forms": [
+    "chapelle des fougeretz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle du Lou du Lac",
+   "tier": 5,
+   "score": 0.2085,
+   "forms": [
+    "chapelle du lou du lac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Erbrée",
+   "tier": 5,
+   "score": 0.0201,
+   "forms": [
+    "chapelle erbree"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Fleurigné",
+   "tier": 5,
+   "score": 0.1575,
+   "forms": [
+    "chapelle fleurigne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Neuve",
+   "tier": 5,
+   "score": 0.3346,
+   "forms": [
+    "ar chapel nevez",
+    "chapelle neuve"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Saint-Aubert",
+   "tier": 5,
+   "score": 0.0151,
+   "forms": [
+    "chapelle saint aubert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Chapelle-Thouarault",
+   "tier": 5,
+   "score": 0.3564,
+   "forms": [
+    "chapelle thouarault"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chartres-de-Bretagne",
+   "tier": 3,
+   "score": 0.7881,
+   "forms": [
+    "chartre",
+    "chartre de bretagne"
+   ],
+   "exact": [
+    "chartre"
+   ]
+  },
+  {
+   "display": "Chasné-sur-Illet",
+   "tier": 5,
+   "score": 0.2471,
+   "forms": [
+    "chasne sur illet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châteaubourg",
+   "tier": 3,
+   "score": 0.861,
+   "forms": [
+    "chateaubourg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châteaugiron",
+   "tier": 2,
+   "score": 0.9179,
+   "forms": [
+    "chateaugiron",
+    "kastell geron",
+    "mont giron"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châteaulin",
+   "tier": 2,
+   "score": 0.9439,
+   "forms": [
+    "chateaulain",
+    "chateaulin",
+    "cite sur aone",
+    "montagne sur aone",
+    "ville sur aone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châteauneuf-d'Ille-et-Vilaine",
+   "tier": 5,
+   "score": 0.4887,
+   "forms": [
+    "35070",
+    "chateauneuf d ille et vilaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châteauneuf-du-Faou",
+   "tier": 3,
+   "score": 0.8844,
+   "forms": [
+    "chateauneuf",
+    "chateauneuf du faou",
+    "kastell nevez ar faou",
+    "mont sur aulne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châtelaudren-Plouagat",
+   "tier": 4,
+   "score": 0.5293,
+   "forms": [
+    "chatelaudren plouagat",
+    "kastellaodren plagad"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Châtellier",
+   "tier": 5,
+   "score": 0.371,
+   "forms": [
+    "chatellier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Châtillon-en-Vendelais",
+   "tier": 5,
+   "score": 0.3769,
+   "forms": [
+    "chatillon en vendelai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chauvigné",
+   "tier": 5,
+   "score": 0.093,
+   "forms": [
+    "chauvigne"
+   ],
+   "exact": [
+    "chauvigne"
+   ]
+  },
+  {
+   "display": "Chavagne",
+   "tier": 4,
+   "score": 0.6005,
+   "forms": [
+    "chavagne"
+   ],
+   "exact": [
+    "chavagne"
+   ]
+  },
+  {
+   "display": "Chelun",
+   "tier": 5,
+   "score": 0.0842,
+   "forms": [
+    "chelun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cherrueix",
+   "tier": 4,
+   "score": 0.6784,
+   "forms": [
+    "cherrueix"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chevaigné",
+   "tier": 5,
+   "score": 0.4162,
+   "forms": [
+    "chevaigne"
+   ],
+   "exact": [
+    "chevaigne"
+   ]
+  },
+  {
+   "display": "La Chèze",
+   "tier": 5,
+   "score": 0.4657,
+   "forms": [
+    "cheze",
+    "kez"
+   ],
+   "exact": [
+    "cheze"
+   ]
+  },
+  {
+   "display": "Cintré",
+   "tier": 5,
+   "score": 0.3417,
+   "forms": [
+    "cintre"
+   ],
+   "exact": [
+    "cintre"
+   ]
+  },
+  {
+   "display": "Clayes",
+   "tier": 5,
+   "score": 0.2098,
+   "forms": [
+    "claye"
+   ],
+   "exact": [
+    "claye"
+   ]
+  },
+  {
+   "display": "Cléden-Cap-Sizun",
+   "tier": 4,
+   "score": 0.5712,
+   "forms": [
+    "cleden cap sizun",
+    "kledenn ar c hab"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cléden-Poher",
+   "tier": 5,
+   "score": 0.3995,
+   "forms": [
+    "cleden poher",
+    "kledenn poc her"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cléder",
+   "tier": 3,
+   "score": 0.8702,
+   "forms": [
+    "cleder",
+    "kleder"
+   ],
+   "exact": [
+    "cleder",
+    "kleder"
+   ]
+  },
+  {
+   "display": "Cléguer",
+   "tier": 5,
+   "score": 0.4958,
+   "forms": [
+    "cleguer",
+    "kleger"
+   ],
+   "exact": [
+    "cleguer",
+    "kleger"
+   ]
+  },
+  {
+   "display": "Cléguérec",
+   "tier": 4,
+   "score": 0.7136,
+   "forms": [
+    "cleguerec",
+    "keranroue",
+    "klegereg"
+   ],
+   "exact": [
+    "cleguerec",
+    "keranroue"
+   ]
+  },
+  {
+   "display": "Clohars-Carnoët",
+   "tier": 2,
+   "score": 0.9263,
+   "forms": [
+    "clohar carnoet",
+    "doelan",
+    "kloar karnoed",
+    "pouldu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clohars-Fouesnant",
+   "tier": 5,
+   "score": 0.4925,
+   "forms": [
+    "clohar",
+    "clohar fouesnant",
+    "kloar fouenant"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Cloître-Pleyben",
+   "tier": 5,
+   "score": 0.1616,
+   "forms": [
+    "cloitre",
+    "cloitre pleyben",
+    "kloastr pleiben"
+   ],
+   "exact": [
+    "cloitre"
+   ]
+  },
+  {
+   "display": "Le Cloître-Saint-Thégonnec",
+   "tier": 5,
+   "score": 0.4975,
+   "forms": [
+    "ar c hloastr plourin",
+    "cloitre saint thegonnec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coadout",
+   "tier": 5,
+   "score": 0.0469,
+   "forms": [
+    "coadout",
+    "koadoud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coat-Méal",
+   "tier": 5,
+   "score": 0.2529,
+   "forms": [
+    "coat meal",
+    "koz meal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coatascorn",
+   "tier": 5,
+   "score": 0.0293,
+   "forms": [
+    "coatascorn",
+    "koadaskorn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coatréven",
+   "tier": 5,
+   "score": 0.0306,
+   "forms": [
+    "coatreven",
+    "koatreven"
+   ],
+   "exact": [
+    "coatreven"
+   ]
+  },
+  {
+   "display": "Coësmes",
+   "tier": 5,
+   "score": 0.2575,
+   "forms": [
+    "coesme"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coëtmieux",
+   "tier": 5,
+   "score": 0.2672,
+   "forms": [
+    "coetmieu",
+    "koedmaeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cohiniac",
+   "tier": 5,
+   "score": 0.2404,
+   "forms": [
+    "cohiniac",
+    "kaouennieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Collorec",
+   "tier": 4,
+   "score": 0.6843,
+   "forms": [
+    "collorec",
+    "koloreg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Colpo",
+   "tier": 4,
+   "score": 0.7119,
+   "forms": [
+    "colpo",
+    "kolpou"
+   ],
+   "exact": [
+    "colpo"
+   ]
+  },
+  {
+   "display": "Comblessac",
+   "tier": 5,
+   "score": 0.1156,
+   "forms": [
+    "comblessac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Combourg",
+   "tier": 2,
+   "score": 0.943,
+   "forms": [
+    "combourg",
+    "comboute",
+    "conborn",
+    "komborn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Combourtillé",
+   "tier": 5,
+   "score": 0.0092,
+   "forms": [
+    "combourtille"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Combrit",
+   "tier": 3,
+   "score": 0.8057,
+   "forms": [
+    "combrit",
+    "combrit sainte marine",
+    "kombrid"
+   ],
+   "exact": [
+    "combrit"
+   ]
+  },
+  {
+   "display": "Commana",
+   "tier": 3,
+   "score": 0.7605,
+   "forms": [
+    "commana",
+    "kommanna",
+    "localite de commana"
+   ],
+   "exact": [
+    "commana"
+   ]
+  },
+  {
+   "display": "Concarneau",
+   "tier": 1,
+   "score": 0.9933,
+   "forms": [
+    "concarneau",
+    "konk kerne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Concoret",
+   "tier": 4,
+   "score": 0.5025,
+   "forms": [
+    "concoret",
+    "konkored"
+   ],
+   "exact": [
+    "concoret"
+   ]
+  },
+  {
+   "display": "Confort-Meilars",
+   "tier": 5,
+   "score": 0.4405,
+   "forms": [
+    "confort meilar",
+    "konforzh meilar",
+    "meilar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Conquet",
+   "tier": 2,
+   "score": 0.9464,
+   "forms": [
+    "conquet"
+   ],
+   "exact": [
+    "conquet"
+   ]
+  },
+  {
+   "display": "Coray",
+   "tier": 4,
+   "score": 0.6022,
+   "forms": [
+    "coray",
+    "kore"
+   ],
+   "exact": [
+    "coray",
+    "kore"
+   ]
+  },
+  {
+   "display": "Corlay",
+   "tier": 4,
+   "score": 0.593,
+   "forms": [
+    "corlay",
+    "korle"
+   ],
+   "exact": [
+    "corlay",
+    "korle"
+   ]
+  },
+  {
+   "display": "Cornillé",
+   "tier": 5,
+   "score": 0.1512,
+   "forms": [
+    "cornille"
+   ],
+   "exact": [
+    "cornille"
+   ]
+  },
+  {
+   "display": "Corps-Nuds",
+   "tier": 3,
+   "score": 0.8501,
+   "forms": [
+    "corp nud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Corseul",
+   "tier": 3,
+   "score": 0.804,
+   "forms": [
+    "corseul",
+    "kersaout"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Cours",
+   "tier": 5,
+   "score": 0.2881,
+   "forms": [
+    "ar c hour",
+    "cour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cournon",
+   "tier": 4,
+   "score": 0.6214,
+   "forms": [
+    "cournon",
+    "kornon"
+   ],
+   "exact": [
+    "cournon"
+   ]
+  },
+  {
+   "display": "La Couyère",
+   "tier": 5,
+   "score": 0.3149,
+   "forms": [
+    "couyere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Crach",
+   "tier": 3,
+   "score": 0.8811,
+   "forms": [
+    "crac h",
+    "crach",
+    "krac h"
+   ],
+   "exact": [
+    "crach"
+   ]
+  },
+  {
+   "display": "Crédin",
+   "tier": 5,
+   "score": 0.268,
+   "forms": [
+    "credin",
+    "kerzhin"
+   ],
+   "exact": [
+    "credin"
+   ]
+  },
+  {
+   "display": "Créhen",
+   "tier": 4,
+   "score": 0.5687,
+   "forms": [
+    "crehen",
+    "krehen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Crevin",
+   "tier": 4,
+   "score": 0.6068,
+   "forms": [
+    "crevin"
+   ],
+   "exact": [
+    "crevin"
+   ]
+  },
+  {
+   "display": "Le Croisty",
+   "tier": 5,
+   "score": 0.4489,
+   "forms": [
+    "ar c hroesti",
+    "croisty"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Croix-Helléan",
+   "tier": 5,
+   "score": 0.0637,
+   "forms": [
+    "ar groez helean",
+    "croix hellean"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Crouais",
+   "tier": 5,
+   "score": 0.0067,
+   "forms": [
+    "crouai"
+   ],
+   "exact": [
+    "crouai"
+   ]
+  },
+  {
+   "display": "Crozon",
+   "tier": 2,
+   "score": 0.964,
+   "forms": [
+    "crauzon",
+    "crozon",
+    "trelannec"
+   ],
+   "exact": [
+    "crozon"
+   ]
+  },
+  {
+   "display": "Cruguel",
+   "tier": 5,
+   "score": 0.2793,
+   "forms": [
+    "cruguel",
+    "krugell"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cuguen",
+   "tier": 5,
+   "score": 0.1591,
+   "forms": [
+    "cuguen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Damgan",
+   "tier": 2,
+   "score": 0.9204,
+   "forms": [
+    "damgan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Daoulas",
+   "tier": 4,
+   "score": 0.742,
+   "forms": [
+    "daoula"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dinan",
+   "tier": 1,
+   "score": 0.9941,
+   "forms": [
+    "dinan",
+    "dinan lehon"
+   ],
+   "exact": [
+    "dinan"
+   ]
+  },
+  {
+   "display": "Dinard",
+   "tier": 1,
+   "score": 0.9891,
+   "forms": [
+    "dinard",
+    "dinard saint enogat",
+    "dinarzh"
+   ],
+   "exact": [
+    "dinard"
+   ]
+  },
+  {
+   "display": "Dinéault",
+   "tier": 4,
+   "score": 0.701,
+   "forms": [
+    "dineault",
+    "dineol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dingé",
+   "tier": 5,
+   "score": 0.4548,
+   "forms": [
+    "dingad",
+    "dinge"
+   ],
+   "exact": [
+    "dinge"
+   ]
+  },
+  {
+   "display": "Dirinon",
+   "tier": 4,
+   "score": 0.7358,
+   "forms": [
+    "dirinon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dol-de-Bretagne",
+   "tier": 2,
+   "score": 0.9623,
+   "forms": [
+    "dol",
+    "dol breizh",
+    "dol de bretagne"
+   ],
+   "exact": [
+    "dol de bretagne"
+   ]
+  },
+  {
+   "display": "Domagné",
+   "tier": 5,
+   "score": 0.4992,
+   "forms": [
+    "domagne"
+   ],
+   "exact": [
+    "domagne"
+   ]
+  },
+  {
+   "display": "Domalain",
+   "tier": 5,
+   "score": 0.4355,
+   "forms": [
+    "domalain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Dominelais",
+   "tier": 5,
+   "score": 0.1868,
+   "forms": [
+    "dominelai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Domloup",
+   "tier": 4,
+   "score": 0.5528,
+   "forms": [
+    "domloup"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Douarnenez",
+   "tier": 1,
+   "score": 0.9908,
+   "forms": [
+    "douarnenez",
+    "douarneniste"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dourdain",
+   "tier": 5,
+   "score": 0.3291,
+   "forms": [
+    "dourdain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Drennec",
+   "tier": 5,
+   "score": 0.3283,
+   "forms": [
+    "an dreneg",
+    "ar dreneg",
+    "drennec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Drouges",
+   "tier": 5,
+   "score": 0.0327,
+   "forms": [
+    "drouge"
+   ],
+   "exact": [
+    "drouge"
+   ]
+  },
+  {
+   "display": "Duault",
+   "tier": 5,
+   "score": 0.4288,
+   "forms": [
+    "duaod",
+    "duault"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Eancé",
+   "tier": 5,
+   "score": 0.0306,
+   "forms": [
+    "eance"
+   ],
+   "exact": [
+    "eance"
+   ]
+  },
+  {
+   "display": "Edern",
+   "tier": 4,
+   "score": 0.5921,
+   "forms": [
+    "edern"
+   ],
+   "exact": [
+    "edern"
+   ]
+  },
+  {
+   "display": "Elliant",
+   "tier": 3,
+   "score": 0.8007,
+   "forms": [
+    "elliant"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Elven",
+   "tier": 3,
+   "score": 0.8291,
+   "forms": [
+    "an elven",
+    "elven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Epiniac",
+   "tier": 5,
+   "score": 0.4129,
+   "forms": [
+    "epiniac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Erbrée",
+   "tier": 5,
+   "score": 0.1968,
+   "forms": [
+    "erbree"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ercé-en-Lamée",
+   "tier": 5,
+   "score": 0.3333,
+   "forms": [
+    "erce en lamee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ercé-près-Liffré",
+   "tier": 5,
+   "score": 0.2923,
+   "forms": [
+    "erce pre liffre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Erdeven",
+   "tier": 3,
+   "score": 0.876,
+   "forms": [
+    "an ardeven",
+    "erdeven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Éréac",
+   "tier": 5,
+   "score": 0.3099,
+   "forms": [
+    "ereac",
+    "eriac",
+    "erieg"
+   ],
+   "exact": [
+    "erieg"
+   ]
+  },
+  {
+   "display": "Ergué-Gabéric",
+   "tier": 3,
+   "score": 0.897,
+   "forms": [
+    "1 parcelle de saint guenole",
+    "6 parcelle de guilly houarn",
+    "an erge vra",
+    "ergue gaberic",
+    "grand terrier",
+    "keranrou",
+    "parcelle d ergue gaberic",
+    "treodet"
+   ],
+   "exact": [
+    "keranrou"
+   ]
+  },
+  {
+   "display": "Erquy",
+   "tier": 2,
+   "score": 0.969,
+   "forms": [
+    "erge ar mor",
+    "erquy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Essé",
+   "tier": 4,
+   "score": 0.5972,
+   "forms": [
+    "esse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Étel",
+   "tier": 2,
+   "score": 0.9255,
+   "forms": [
+    "an intel",
+    "etel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Étrelles",
+   "tier": 5,
+   "score": 0.4866,
+   "forms": [
+    "etrelle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Évellys",
+   "tier": 4,
+   "score": 0.6457,
+   "forms": [
+    "evelly"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Évran",
+   "tier": 4,
+   "score": 0.6365,
+   "forms": [
+    "evran",
+    "evrann"
+   ],
+   "exact": [
+    "evran"
+   ]
+  },
+  {
+   "display": "Évriguet",
+   "tier": 5,
+   "score": 0.0318,
+   "forms": [
+    "evriged",
+    "evriguet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Faou",
+   "tier": 3,
+   "score": 0.8643,
+   "forms": [
+    "ar faou",
+    "faou",
+    "rumengol"
+   ],
+   "exact": [
+    "ar faou"
+   ]
+  },
+  {
+   "display": "Le Faouët",
+   "tier": 5,
+   "score": 0.3476,
+   "forms": [
+    "ar faoued",
+    "ar faved",
+    "faouet",
+    "soueff de montalembert"
+   ],
+   "exact": [
+    "ar faoued",
+    "faouet"
+   ]
+  },
+  {
+   "display": "Feins",
+   "tier": 5,
+   "score": 0.2362,
+   "forms": [
+    "fein"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Férel",
+   "tier": 4,
+   "score": 0.6872,
+   "forms": [
+    "ferel"
+   ],
+   "exact": [
+    "ferel"
+   ]
+  },
+  {
+   "display": "Le Ferré",
+   "tier": 5,
+   "score": 0.2843,
+   "forms": [
+    "ferre"
+   ],
+   "exact": [
+    "ferre"
+   ]
+  },
+  {
+   "display": "La Feuillée",
+   "tier": 4,
+   "score": 0.6466,
+   "forms": [
+    "ar fouilhez",
+    "feuillee"
+   ],
+   "exact": [
+    "ar fouilhez",
+    "feuillee"
+   ]
+  },
+  {
+   "display": "Le Fœil",
+   "tier": 5,
+   "score": 0.2144,
+   "forms": [
+    "ar fouilh",
+    "foeil",
+    "saint thuriau de quintin"
+   ],
+   "exact": [
+    "ar fouilh",
+    "foeil"
+   ]
+  },
+  {
+   "display": "Le Folgoët",
+   "tier": 4,
+   "score": 0.7328,
+   "forms": [
+    "ar folgoad",
+    "elestrec",
+    "folgoet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Forest-Landerneau",
+   "tier": 5,
+   "score": 0.3526,
+   "forms": [
+    "29056",
+    "forest",
+    "forest landerneau",
+    "foret landerneau"
+   ],
+   "exact": [
+    "forest"
+   ]
+  },
+  {
+   "display": "La Forêt-Fouesnant",
+   "tier": 3,
+   "score": 0.8417,
+   "forms": [
+    "ar forest fouenant",
+    "foret",
+    "foret fouesnant"
+   ],
+   "exact": [
+    "foret"
+   ]
+  },
+  {
+   "display": "Forges de Lanouée",
+   "tier": 4,
+   "score": 0.6692,
+   "forms": [
+    "forge de lanouee",
+    "goveliou lannoez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Forges-la-Forêt",
+   "tier": 5,
+   "score": 0.0159,
+   "forms": [
+    "forge",
+    "forge la foret"
+   ],
+   "exact": [
+    "forge"
+   ]
+  },
+  {
+   "display": "Fouesnant",
+   "tier": 2,
+   "score": 0.9556,
+   "forms": [
+    "fouenant",
+    "fouesnant"
+   ],
+   "exact": [
+    "fouesnant"
+   ]
+  },
+  {
+   "display": "Fougères",
+   "tier": 1,
+   "score": 0.9916,
+   "forms": [
+    "felger",
+    "fougere"
+   ],
+   "exact": [
+    "fougere"
+   ]
+  },
+  {
+   "display": "Les Fougerêts",
+   "tier": 5,
+   "score": 0.2751,
+   "forms": [
+    "felgerieg al lann",
+    "fougeret"
+   ],
+   "exact": [
+    "fougeret"
+   ]
+  },
+  {
+   "display": "Fréhel",
+   "tier": 3,
+   "score": 0.8258,
+   "forms": [
+    "frehel",
+    "pleherel"
+   ],
+   "exact": [
+    "pleherel"
+   ]
+  },
+  {
+   "display": "La Fresnais",
+   "tier": 5,
+   "score": 0.4564,
+   "forms": [
+    "an onneg",
+    "fresnai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Gacilly",
+   "tier": 2,
+   "score": 0.9497,
+   "forms": [
+    "gacilly",
+    "gazilieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gaël",
+   "tier": 4,
+   "score": 0.6508,
+   "forms": [
+    "gael",
+    "gaelite",
+    "gwazel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gahard",
+   "tier": 5,
+   "score": 0.2291,
+   "forms": [
+    "gahard"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Garlan",
+   "tier": 5,
+   "score": 0.2647,
+   "forms": [
+    "garlan",
+    "garlann"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gausson",
+   "tier": 5,
+   "score": 0.0808,
+   "forms": [
+    "gausson",
+    "gwalc hion"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gâvres",
+   "tier": 3,
+   "score": 0.7709,
+   "forms": [
+    "gavr",
+    "gavre"
+   ],
+   "exact": [
+    "gavre"
+   ]
+  },
+  {
+   "display": "Gennes-sur-Seiche",
+   "tier": 5,
+   "score": 0.1642,
+   "forms": [
+    "35119",
+    "genne",
+    "genne sur seiche"
+   ],
+   "exact": [
+    "genne"
+   ]
+  },
+  {
+   "display": "Gestel",
+   "tier": 4,
+   "score": 0.5398,
+   "forms": [
+    "gestel",
+    "yestael"
+   ],
+   "exact": [
+    "gestel"
+   ]
+  },
+  {
+   "display": "Gévezé",
+   "tier": 4,
+   "score": 0.6993,
+   "forms": [
+    "geveze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Glomel",
+   "tier": 3,
+   "score": 0.809,
+   "forms": [
+    "glomel",
+    "gronvel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gomené",
+   "tier": 3,
+   "score": 0.7513,
+   "forms": [
+    "gomene",
+    "gouvene"
+   ],
+   "exact": [
+    "gouvene"
+   ]
+  },
+  {
+   "display": "Gommenec'h",
+   "tier": 5,
+   "score": 0.1382,
+   "forms": [
+    "gommenec h",
+    "gouanac h"
+   ],
+   "exact": [
+    "gouanac h"
+   ]
+  },
+  {
+   "display": "Gosné",
+   "tier": 5,
+   "score": 0.2772,
+   "forms": [
+    "gosne"
+   ],
+   "exact": [
+    "gosne"
+   ]
+  },
+  {
+   "display": "Gouarec",
+   "tier": 4,
+   "score": 0.6968,
+   "forms": [
+    "gouarec",
+    "gwareg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Goudelin",
+   "tier": 2,
+   "score": 0.9137,
+   "forms": [
+    "goudelin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gouesnach",
+   "tier": 4,
+   "score": 0.608,
+   "forms": [
+    "gouenac h",
+    "gouesnach"
+   ],
+   "exact": [
+    "gouenac h"
+   ]
+  },
+  {
+   "display": "La Gouesnière",
+   "tier": 5,
+   "score": 0.4673,
+   "forms": [
+    "gouenaer",
+    "gouesniere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gouesnou",
+   "tier": 3,
+   "score": 0.8149,
+   "forms": [
+    "gouenou",
+    "gouesnou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gouézec",
+   "tier": 5,
+   "score": 0.4694,
+   "forms": [
+    "gouezec",
+    "gouezeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Goulien",
+   "tier": 5,
+   "score": 0.3367,
+   "forms": [
+    "goulien"
+   ],
+   "exact": [
+    "goulien"
+   ]
+  },
+  {
+   "display": "Goulven",
+   "tier": 4,
+   "score": 0.5276,
+   "forms": [
+    "goulc hen",
+    "goulven"
+   ],
+   "exact": [
+    "goulven"
+   ]
+  },
+  {
+   "display": "Gourhel",
+   "tier": 4,
+   "score": 0.5653,
+   "forms": [
+    "gorhaeu",
+    "gourhael",
+    "gourhel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gourin",
+   "tier": 2,
+   "score": 0.9045,
+   "forms": [
+    "gourin"
+   ],
+   "exact": [
+    "gourin"
+   ]
+  },
+  {
+   "display": "Gourlizon",
+   "tier": 4,
+   "score": 0.5946,
+   "forms": [
+    "gourlizon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Goven",
+   "tier": 4,
+   "score": 0.675,
+   "forms": [
+    "goven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grâces",
+   "tier": 4,
+   "score": 0.5586,
+   "forms": [
+    "gra gwengamp",
+    "grace",
+    "saint michel rural"
+   ],
+   "exact": [
+    "grace"
+   ]
+  },
+  {
+   "display": "Grâce-Uzel",
+   "tier": 5,
+   "score": 0.1403,
+   "forms": [
+    "22068",
+    "gra uzel",
+    "grace uzel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand-Champ",
+   "tier": 3,
+   "score": 0.84,
+   "forms": [
+    "grand champ",
+    "gregam",
+    "kerfur",
+    "roi stevan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand-Fougeray",
+   "tier": 3,
+   "score": 0.7722,
+   "forms": [
+    "fougeray",
+    "grand fougeray"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Grée-Saint-Laurent",
+   "tier": 5,
+   "score": 0.1935,
+   "forms": [
+    "ar c hrav sant laoran",
+    "gree saint laurent"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Groix",
+   "tier": 1,
+   "score": 0.9899,
+   "forms": [
+    "groix",
+    "port tudy"
+   ],
+   "exact": [
+    "groix"
+   ]
+  },
+  {
+   "display": "Guégon",
+   "tier": 4,
+   "score": 0.549,
+   "forms": [
+    "guegon",
+    "gwegon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guéhenno",
+   "tier": 5,
+   "score": 0.3978,
+   "forms": [
+    "guehenno",
+    "gwezhennou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gueltas",
+   "tier": 5,
+   "score": 0.1985,
+   "forms": [
+    "guelta",
+    "gweltaz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guémené-sur-Scorff",
+   "tier": 2,
+   "score": 0.9296,
+   "forms": [
+    "ar gemene",
+    "guemene",
+    "guemene sur scorff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guengat",
+   "tier": 5,
+   "score": 0.4732,
+   "forms": [
+    "guengat",
+    "gwengad"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guénin",
+   "tier": 5,
+   "score": 0.4054,
+   "forms": [
+    "guenin",
+    "gwennin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guenroc",
+   "tier": 5,
+   "score": 0.1943,
+   "forms": [
+    "guenroc",
+    "gwenroc h"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guer",
+   "tier": 2,
+   "score": 0.9121,
+   "forms": [
+    "coetquidan",
+    "guer",
+    "gwern porc hoed"
+   ],
+   "exact": [
+    "guer"
+   ]
+  },
+  {
+   "display": "La Guerche-de-Bretagne",
+   "tier": 3,
+   "score": 0.8459,
+   "forms": [
+    "35125",
+    "guerche",
+    "guerche de bretagne",
+    "gwerc h breizh",
+    "montagne de la guerche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guerlédan",
+   "tier": 3,
+   "score": 0.8191,
+   "forms": [
+    "guerledan",
+    "gwerledan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guerlesquin",
+   "tier": 4,
+   "score": 0.7487,
+   "forms": [
+    "guerlesquin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guern",
+   "tier": 4,
+   "score": 0.5595,
+   "forms": [
+    "guern",
+    "gwern"
+   ],
+   "exact": [
+    "guern"
+   ]
+  },
+  {
+   "display": "Le Guerno",
+   "tier": 5,
+   "score": 0.433,
+   "forms": [
+    "ar gwernou",
+    "guerno"
+   ],
+   "exact": [
+    "guerno"
+   ]
+  },
+  {
+   "display": "Guichen",
+   "tier": 3,
+   "score": 0.8451,
+   "forms": [
+    "guichen",
+    "gwizien"
+   ],
+   "exact": [
+    "guichen"
+   ]
+  },
+  {
+   "display": "Guiclan",
+   "tier": 4,
+   "score": 0.6089,
+   "forms": [
+    "guiclan",
+    "gwiglann"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guidel",
+   "tier": 2,
+   "score": 0.9389,
+   "forms": [
+    "guidel",
+    "gwidel"
+   ],
+   "exact": [
+    "guidel"
+   ]
+  },
+  {
+   "display": "Guignen",
+   "tier": 4,
+   "score": 0.6323,
+   "forms": [
+    "guignen"
+   ],
+   "exact": [
+    "guignen"
+   ]
+  },
+  {
+   "display": "Guilers",
+   "tier": 3,
+   "score": 0.8157,
+   "forms": [
+    "guiler"
+   ],
+   "exact": [
+    "guiler"
+   ]
+  },
+  {
+   "display": "Guiler-sur-Goyen",
+   "tier": 5,
+   "score": 0.098,
+   "forms": [
+    "guiler sur goyen",
+    "gwiler kerne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guillac",
+   "tier": 5,
+   "score": 0.4765,
+   "forms": [
+    "gilieg",
+    "guillac"
+   ],
+   "exact": [
+    "gilieg"
+   ]
+  },
+  {
+   "display": "Guilliers",
+   "tier": 4,
+   "score": 0.5377,
+   "forms": [
+    "guillier",
+    "gwiler porc hoed"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guilligomarc'h",
+   "tier": 5,
+   "score": 0.4774,
+   "forms": [
+    "guilligomarc h",
+    "gwelegouarc h"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guilvinec",
+   "tier": 2,
+   "score": 0.9229,
+   "forms": [
+    "ar gelveneg",
+    "guilvinec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guimaëc",
+   "tier": 4,
+   "score": 0.598,
+   "forms": [
+    "guimaec",
+    "gwimaeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guimiliau",
+   "tier": 4,
+   "score": 0.5201,
+   "forms": [
+    "guimiliau",
+    "kerzu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guingamp",
+   "tier": 1,
+   "score": 0.9874,
+   "forms": [
+    "guingamp",
+    "gwengamp",
+    "saint michel faubourg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guipavas",
+   "tier": 2,
+   "score": 0.9506,
+   "forms": [
+    "guipava",
+    "gwipavaz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guipel",
+   "tier": 5,
+   "score": 0.2504,
+   "forms": [
+    "guipel"
+   ],
+   "exact": [
+    "guipel"
+   ]
+  },
+  {
+   "display": "Guipry-Messac",
+   "tier": 3,
+   "score": 0.8074,
+   "forms": [
+    "guipry messac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guiscriff",
+   "tier": 4,
+   "score": 0.7186,
+   "forms": [
+    "guiscriff",
+    "gwiskri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guissény",
+   "tier": 4,
+   "score": 0.7345,
+   "forms": [
+    "guisseny",
+    "gwiseni"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guitté",
+   "tier": 4,
+   "score": 0.5,
+   "forms": [
+    "guitte",
+    "gwitei"
+   ],
+   "exact": [
+    "guitte"
+   ]
+  },
+  {
+   "display": "Gurunhuel",
+   "tier": 5,
+   "score": 0.2906,
+   "forms": [
+    "gurunhuel",
+    "gurunuhel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hanvec",
+   "tier": 3,
+   "score": 0.7831,
+   "forms": [
+    "hanvec",
+    "hanveg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Harmoye",
+   "tier": 5,
+   "score": 0.1047,
+   "forms": [
+    "harmoye",
+    "lanhervoed"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Haut-Corlay",
+   "tier": 5,
+   "score": 0.2127,
+   "forms": [
+    "ar gozh korle",
+    "haut corlay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hédé-Bazouges",
+   "tier": 4,
+   "score": 0.7462,
+   "forms": [
+    "bazouge sou hede",
+    "hede",
+    "hede bazouge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Helléan",
+   "tier": 5,
+   "score": 0.026,
+   "forms": [
+    "helean",
+    "hellean"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hémonstoir",
+   "tier": 5,
+   "score": 0.1013,
+   "forms": [
+    "hemonstoir",
+    "henvoustoer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hénanbihen",
+   "tier": 4,
+   "score": 0.5226,
+   "forms": [
+    "henanbihen",
+    "henant bihan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hénansal",
+   "tier": 5,
+   "score": 0.2412,
+   "forms": [
+    "henansal",
+    "henant sal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hennebont",
+   "tier": 2,
+   "score": 0.9523,
+   "forms": [
+    "henbont",
+    "hennebont"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hénon",
+   "tier": 4,
+   "score": 0.5544,
+   "forms": [
+    "henon"
+   ],
+   "exact": [
+    "henon"
+   ]
+  },
+  {
+   "display": "Henvic",
+   "tier": 4,
+   "score": 0.5042,
+   "forms": [
+    "henvic",
+    "henvig"
+   ],
+   "exact": []
+  },
+  {
+   "display": "L'Hermitage",
+   "tier": 4,
+   "score": 0.7102,
+   "forms": [
+    "hermitage"
+   ],
+   "exact": [
+    "hermitage"
+   ]
+  },
+  {
+   "display": "Le Hézo",
+   "tier": 5,
+   "score": 0.3836,
+   "forms": [
+    "hezo",
+    "hezou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hillion",
+   "tier": 3,
+   "score": 0.7546,
+   "forms": [
+    "hilion",
+    "hillion"
+   ],
+   "exact": [
+    "hillion"
+   ]
+  },
+  {
+   "display": "Le Hinglé",
+   "tier": 5,
+   "score": 0.1332,
+   "forms": [
+    "an hengleuz",
+    "hingle"
+   ],
+   "exact": [
+    "hingle"
+   ]
+  },
+  {
+   "display": "Hirel",
+   "tier": 5,
+   "score": 0.4255,
+   "forms": [
+    "hirel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hœdic",
+   "tier": 2,
+   "score": 0.9657,
+   "forms": [
+    "edig",
+    "hoedic"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hôpital-Camfrout",
+   "tier": 4,
+   "score": 0.7152,
+   "forms": [
+    "an ospital",
+    "hopital camfrout"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Huelgoat",
+   "tier": 2,
+   "score": 0.9598,
+   "forms": [
+    "an uhelgoad",
+    "huelgoat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Les Iffs",
+   "tier": 5,
+   "score": 0.2454,
+   "forms": [
+    "iff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Iffendic",
+   "tier": 4,
+   "score": 0.6616,
+   "forms": [
+    "iffendic"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-aux-Moines",
+   "tier": 1,
+   "score": 0.9782,
+   "forms": [
+    "ile aux moine",
+    "isle du morbihan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-d'Arz",
+   "tier": 3,
+   "score": 0.7822,
+   "forms": [
+    "ile d arz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-d'Houat",
+   "tier": 3,
+   "score": 0.7806,
+   "forms": [
+    "ile d houat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-de-Batz",
+   "tier": 1,
+   "score": 0.9832,
+   "forms": [
+    "enez vaz",
+    "ile de batz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-de-Bréhat",
+   "tier": 1,
+   "score": 0.9883,
+   "forms": [
+    "brehat",
+    "enez vriad",
+    "ile de brehat"
+   ],
+   "exact": [
+    "brehat"
+   ]
+  },
+  {
+   "display": "Île-de-Sein",
+   "tier": 6,
+   "score": 0.9028,
+   "forms": [
+    "ile de sein",
+    "localite de ile de sein"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-Molène",
+   "tier": 2,
+   "score": 0.9682,
+   "forms": [
+    "ile molene",
+    "moal enez",
+    "molene",
+    "molenez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Île-Tudy",
+   "tier": 2,
+   "score": 0.9162,
+   "forms": [
+    "ile tudy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Illifaut",
+   "tier": 5,
+   "score": 0.1742,
+   "forms": [
+    "ilifav",
+    "illifaut"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Inguiniel",
+   "tier": 4,
+   "score": 0.5553,
+   "forms": [
+    "an ignel",
+    "inguiniel"
+   ],
+   "exact": [
+    "an ignel"
+   ]
+  },
+  {
+   "display": "Inzinzac-Lochrist",
+   "tier": 3,
+   "score": 0.8333,
+   "forms": [
+    "inzinzac",
+    "inzinzac lochrist",
+    "zinzag lokrist"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Irodouër",
+   "tier": 5,
+   "score": 0.4786,
+   "forms": [
+    "irodouer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Irvillac",
+   "tier": 5,
+   "score": 0.4137,
+   "forms": [
+    "irvilhag",
+    "irvillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Janzé",
+   "tier": 3,
+   "score": 0.8936,
+   "forms": [
+    "gentieg",
+    "janze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Javené",
+   "tier": 5,
+   "score": 0.2843,
+   "forms": [
+    "javene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Josselin",
+   "tier": 2,
+   "score": 0.9548,
+   "forms": [
+    "josilin",
+    "josselin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Juch",
+   "tier": 4,
+   "score": 0.5879,
+   "forms": [
+    "ar yeuc h",
+    "juch"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jugon-les-Lacs",
+   "tier": 4,
+   "score": 0.7312,
+   "forms": [
+    "jugon les lac",
+    "jugon les lac commune nouvelle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kerbors",
+   "tier": 5,
+   "score": 0.1633,
+   "forms": [
+    "kerbor",
+    "kerborzh"
+   ],
+   "exact": [
+    "kerbor"
+   ]
+  },
+  {
+   "display": "Kerfot",
+   "tier": 5,
+   "score": 0.1478,
+   "forms": [
+    "kerfod",
+    "kerfot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kerfourn",
+   "tier": 5,
+   "score": 0.227,
+   "forms": [
+    "kerforn",
+    "kerfourn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kergloff",
+   "tier": 4,
+   "score": 0.6265,
+   "forms": [
+    "kergloff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kergrist",
+   "tier": 5,
+   "score": 0.2446,
+   "forms": [
+    "kergrist"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kergrist-Moëlou",
+   "tier": 4,
+   "score": 0.5352,
+   "forms": [
+    "kergrist moelou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kerien",
+   "tier": 5,
+   "score": 0.2186,
+   "forms": [
+    "kerien",
+    "kerien boulvriag"
+   ],
+   "exact": [
+    "kerien"
+   ]
+  },
+  {
+   "display": "Kerlaz",
+   "tier": 5,
+   "score": 0.3786,
+   "forms": [
+    "kerlaz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kerlouan",
+   "tier": 3,
+   "score": 0.8409,
+   "forms": [
+    "kerlouan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kermaria-Sulard",
+   "tier": 5,
+   "score": 0.281,
+   "forms": [
+    "kermaria sulard",
+    "kervaria sular"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kermoroc'h",
+   "tier": 5,
+   "score": 0.0687,
+   "forms": [
+    "kermoroc h",
+    "kervoroc h"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kernascléden",
+   "tier": 4,
+   "score": 0.5938,
+   "forms": [
+    "kernascleden",
+    "kernaskledenn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kernilis",
+   "tier": 5,
+   "score": 0.16,
+   "forms": [
+    "kernili"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kernouës",
+   "tier": 5,
+   "score": 0.0842,
+   "forms": [
+    "kernoue",
+    "kernouez"
+   ],
+   "exact": [
+    "kernoue"
+   ]
+  },
+  {
+   "display": "Kerpert",
+   "tier": 5,
+   "score": 0.3325,
+   "forms": [
+    "kerber",
+    "kerpert"
+   ],
+   "exact": [
+    "kerber"
+   ]
+  },
+  {
+   "display": "Kersaint-Plabennec",
+   "tier": 5,
+   "score": 0.2889,
+   "forms": [
+    "kersaint",
+    "kersaint plabennec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kervignac",
+   "tier": 3,
+   "score": 0.8183,
+   "forms": [
+    "kervignac",
+    "kervignag"
+   ],
+   "exact": [
+    "kervignac"
+   ]
+  },
+  {
+   "display": "Laignelet",
+   "tier": 5,
+   "score": 0.2655,
+   "forms": [
+    "laignelet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laillé",
+   "tier": 4,
+   "score": 0.7441,
+   "forms": [
+    "laille"
+   ],
+   "exact": [
+    "laille"
+   ]
+  },
+  {
+   "display": "Lalleu",
+   "tier": 5,
+   "score": 0.075,
+   "forms": [
+    "lalleu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lamballe-Armor",
+   "tier": 2,
+   "score": 0.9481,
+   "forms": [
+    "lamballe armor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lampaul-Guimiliau",
+   "tier": 4,
+   "score": 0.5419,
+   "forms": [
+    "lampaul guimiliau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lampaul-Plouarzel",
+   "tier": 4,
+   "score": 0.7471,
+   "forms": [
+    "lampaul plouarzel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lampaul-Ploudalmézeau",
+   "tier": 5,
+   "score": 0.263,
+   "forms": [
+    "lampaul ploudalmezeau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanarvily",
+   "tier": 5,
+   "score": 0.072,
+   "forms": [
+    "lanarvily"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lancieux",
+   "tier": 3,
+   "score": 0.8241,
+   "forms": [
+    "lancieu",
+    "lanseeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landaul",
+   "tier": 4,
+   "score": 0.5101,
+   "forms": [
+    "landaol",
+    "landaul"
+   ],
+   "exact": [
+    "landaul"
+   ]
+  },
+  {
+   "display": "Landavran",
+   "tier": 5,
+   "score": 0.0101,
+   "forms": [
+    "landavran"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landéan",
+   "tier": 5,
+   "score": 0.3878,
+   "forms": [
+    "landean"
+   ],
+   "exact": [
+    "landean"
+   ]
+  },
+  {
+   "display": "Landebaëron",
+   "tier": 5,
+   "score": 0.1022,
+   "forms": [
+    "landebaeron"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landébia",
+   "tier": 5,
+   "score": 0.1625,
+   "forms": [
+    "landebia",
+    "landebiav"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Landec",
+   "tier": 5,
+   "score": 0.0486,
+   "forms": [
+    "landec",
+    "lannandeg"
+   ],
+   "exact": [
+    "landec"
+   ]
+  },
+  {
+   "display": "Landéda",
+   "tier": 3,
+   "score": 0.7973,
+   "forms": [
+    "landeda"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landéhen",
+   "tier": 5,
+   "score": 0.1415,
+   "forms": [
+    "landehen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landeleau",
+   "tier": 4,
+   "score": 0.5385,
+   "forms": [
+    "landeleau",
+    "landelo"
+   ],
+   "exact": [
+    "landeleau"
+   ]
+  },
+  {
+   "display": "Landerneau",
+   "tier": 1,
+   "score": 0.9799,
+   "forms": [
+    "commune de landerneau",
+    "landerneau",
+    "ville de landerneau"
+   ],
+   "exact": [
+    "landerneau"
+   ]
+  },
+  {
+   "display": "Landévant",
+   "tier": 4,
+   "score": 0.737,
+   "forms": [
+    "landevant"
+   ],
+   "exact": [
+    "landevant"
+   ]
+  },
+  {
+   "display": "Landévennec",
+   "tier": 3,
+   "score": 0.8015,
+   "forms": [
+    "landevenec",
+    "landevennec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landivisiau",
+   "tier": 2,
+   "score": 0.9305,
+   "forms": [
+    "landivisiau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landrévarzec",
+   "tier": 5,
+   "score": 0.4372,
+   "forms": [
+    "landrevarzec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landudal",
+   "tier": 5,
+   "score": 0.3928,
+   "forms": [
+    "landudal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landudec",
+   "tier": 4,
+   "score": 0.7253,
+   "forms": [
+    "landudec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landujan",
+   "tier": 5,
+   "score": 0.1512,
+   "forms": [
+    "landujan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landunvez",
+   "tier": 3,
+   "score": 0.7755,
+   "forms": [
+    "landunvez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanester",
+   "tier": 2,
+   "score": 0.9271,
+   "forms": [
+    "lanester"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanfains",
+   "tier": 5,
+   "score": 0.4179,
+   "forms": [
+    "lanfain",
+    "lanfeun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Langan",
+   "tier": 5,
+   "score": 0.2245,
+   "forms": [
+    "langan"
+   ],
+   "exact": [
+    "langan"
+   ]
+  },
+  {
+   "display": "Langoat",
+   "tier": 5,
+   "score": 0.2462,
+   "forms": [
+    "langoad",
+    "langoat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Langoëlan",
+   "tier": 5,
+   "score": 0.4146,
+   "forms": [
+    "langoelan",
+    "laoulan"
+   ],
+   "exact": [
+    "langoelan"
+   ]
+  },
+  {
+   "display": "Langolen",
+   "tier": 5,
+   "score": 0.3794,
+   "forms": [
+    "langolen"
+   ],
+   "exact": [
+    "langolen"
+   ]
+  },
+  {
+   "display": "Langon",
+   "tier": 4,
+   "score": 0.6859,
+   "forms": [
+    "langon"
+   ],
+   "exact": [
+    "langon"
+   ]
+  },
+  {
+   "display": "Langonnet",
+   "tier": 3,
+   "score": 0.7538,
+   "forms": [
+    "langoned",
+    "langonnet"
+   ],
+   "exact": [
+    "langonnet"
+   ]
+  },
+  {
+   "display": "Langouet",
+   "tier": 5,
+   "score": 0.4083,
+   "forms": [
+    "langouet"
+   ],
+   "exact": [
+    "langouet"
+   ]
+  },
+  {
+   "display": "Langrolay-sur-Rance",
+   "tier": 5,
+   "score": 0.2425,
+   "forms": [
+    "langorlae",
+    "langrolay",
+    "langrolay sur rance"
+   ],
+   "exact": [
+    "langorlae"
+   ]
+  },
+  {
+   "display": "Languédias",
+   "tier": 5,
+   "score": 0.232,
+   "forms": [
+    "langadiarn",
+    "languedia"
+   ],
+   "exact": [
+    "languedia"
+   ]
+  },
+  {
+   "display": "Languenan",
+   "tier": 5,
+   "score": 0.2161,
+   "forms": [
+    "langenan",
+    "languenan"
+   ],
+   "exact": [
+    "langenan",
+    "languenan"
+   ]
+  },
+  {
+   "display": "Langueux",
+   "tier": 4,
+   "score": 0.7178,
+   "forms": [
+    "langaeg",
+    "langueu"
+   ],
+   "exact": [
+    "langaeg",
+    "langueu"
+   ]
+  },
+  {
+   "display": "Languidic",
+   "tier": 3,
+   "score": 0.8719,
+   "forms": [
+    "langedig",
+    "languidic"
+   ],
+   "exact": [
+    "langedig",
+    "languidic"
+   ]
+  },
+  {
+   "display": "Lanhouarneau",
+   "tier": 4,
+   "score": 0.6407,
+   "forms": [
+    "lanhouarne",
+    "lanhouarneau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanildut",
+   "tier": 4,
+   "score": 0.6951,
+   "forms": [
+    "lanildut",
+    "lannildud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanleff",
+   "tier": 4,
+   "score": 0.5251,
+   "forms": [
+    "lanleff",
+    "lanlenv"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanloup",
+   "tier": 5,
+   "score": 0.4422,
+   "forms": [
+    "lanloup",
+    "lanmor",
+    "sant loup",
+    "tercillat pelletier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanmérin",
+   "tier": 5,
+   "score": 0.0109,
+   "forms": [
+    "lanmerin",
+    "lanvilin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanmeur",
+   "tier": 4,
+   "score": 0.6432,
+   "forms": [
+    "lanmeur",
+    "lanneur"
+   ],
+   "exact": [
+    "lanmeur",
+    "lanneur"
+   ]
+  },
+  {
+   "display": "Lanmodez",
+   "tier": 5,
+   "score": 0.3032,
+   "forms": [
+    "lanmodez",
+    "lanvaodez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lannéanou",
+   "tier": 5,
+   "score": 0.178,
+   "forms": [
+    "lanneanou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lannebert",
+   "tier": 5,
+   "score": 0.0184,
+   "forms": [
+    "lannebert",
+    "lannebeur"
+   ],
+   "exact": [
+    "lannebert",
+    "lannebeur"
+   ]
+  },
+  {
+   "display": "Lannédern",
+   "tier": 5,
+   "score": 0.1901,
+   "forms": [
+    "lannedern"
+   ],
+   "exact": [
+    "lannedern"
+   ]
+  },
+  {
+   "display": "Lanneuffret",
+   "tier": 5,
+   "score": 0.2688,
+   "forms": [
+    "lanneuffret",
+    "lanneured"
+   ],
+   "exact": [
+    "lanneured"
+   ]
+  },
+  {
+   "display": "Lannilis",
+   "tier": 2,
+   "score": 0.9188,
+   "forms": [
+    "lanili",
+    "lannili",
+    "lanniliz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lannion",
+   "tier": 1,
+   "score": 0.9866,
+   "forms": [
+    "lannion",
+    "lannuon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanrelas",
+   "tier": 5,
+   "score": 0.3275,
+   "forms": [
+    "lanrela",
+    "lanrelaz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanrigan",
+   "tier": 5,
+   "score": 0.0335,
+   "forms": [
+    "lanrigan"
+   ],
+   "exact": [
+    "lanrigan"
+   ]
+  },
+  {
+   "display": "Lanrivain",
+   "tier": 5,
+   "score": 0.34,
+   "forms": [
+    "lanrivain",
+    "larruen"
+   ],
+   "exact": [
+    "lanrivain"
+   ]
+  },
+  {
+   "display": "Lanrivoaré",
+   "tier": 5,
+   "score": 0.2931,
+   "forms": [
+    "lanrivoare",
+    "lanriware"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanrodec",
+   "tier": 5,
+   "score": 0.2307,
+   "forms": [
+    "lanrodec",
+    "lanrodeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lantic",
+   "tier": 5,
+   "score": 0.3346,
+   "forms": [
+    "lannidig",
+    "lantic"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lantillac",
+   "tier": 5,
+   "score": 0.0272,
+   "forms": [
+    "lantilieg",
+    "lantillac"
+   ],
+   "exact": [
+    "lantillac"
+   ]
+  },
+  {
+   "display": "Lanvallay",
+   "tier": 4,
+   "score": 0.6223,
+   "forms": [
+    "lanvalae",
+    "lanvallay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanvaudan",
+   "tier": 5,
+   "score": 0.4062,
+   "forms": [
+    "lanvaudan",
+    "lanvodan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanvellec",
+   "tier": 5,
+   "score": 0.3308,
+   "forms": [
+    "lanvaeleg",
+    "lanvellec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanvénégen",
+   "tier": 4,
+   "score": 0.6068,
+   "forms": [
+    "lannejenn",
+    "lanvenegen"
+   ],
+   "exact": [
+    "lannejenn"
+   ]
+  },
+  {
+   "display": "Lanvéoc",
+   "tier": 4,
+   "score": 0.7496,
+   "forms": [
+    "lanveoc",
+    "lanveog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lanvollon",
+   "tier": 4,
+   "score": 0.6642,
+   "forms": [
+    "lannolon",
+    "lanvollon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Larmor-Baden",
+   "tier": 3,
+   "score": 0.7906,
+   "forms": [
+    "an arvor baden",
+    "larmor baden"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Larmor-Plage",
+   "tier": 2,
+   "score": 0.9012,
+   "forms": [
+    "an arvor",
+    "kernevel",
+    "larmor plage"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Larré",
+   "tier": 5,
+   "score": 0.3945,
+   "forms": [
+    "lare",
+    "larre"
+   ],
+   "exact": [
+    "larre"
+   ]
+  },
+  {
+   "display": "Lassy",
+   "tier": 5,
+   "score": 0.3827,
+   "forms": [
+    "lassy"
+   ],
+   "exact": [
+    "lassy"
+   ]
+  },
+  {
+   "display": "Laurenan",
+   "tier": 5,
+   "score": 0.2998,
+   "forms": [
+    "lanreunan",
+    "laurenan"
+   ],
+   "exact": [
+    "lanreunan"
+   ]
+  },
+  {
+   "display": "Lauzach",
+   "tier": 4,
+   "score": 0.6667,
+   "forms": [
+    "laozac h",
+    "laozag",
+    "lauzach"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laz",
+   "tier": 4,
+   "score": 0.629,
+   "forms": [
+    "laz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lécousse",
+   "tier": 5,
+   "score": 0.4824,
+   "forms": [
+    "lecousse"
+   ],
+   "exact": [
+    "lecousse"
+   ]
+  },
+  {
+   "display": "Lennon",
+   "tier": 3,
+   "score": 0.8744,
+   "forms": [
+    "lennon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lescouët-Gouarec",
+   "tier": 5,
+   "score": 0.0628,
+   "forms": [
+    "22124",
+    "lescouet",
+    "lescouet gouarec",
+    "leskoed gwareg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Leslay",
+   "tier": 5,
+   "score": 0.1658,
+   "forms": [
+    "al leslae",
+    "leslay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lesneven",
+   "tier": 3,
+   "score": 0.8995,
+   "forms": [
+    "lesneven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Leuhan",
+   "tier": 5,
+   "score": 0.4263,
+   "forms": [
+    "leuc han",
+    "leuhan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lézardrieux",
+   "tier": 3,
+   "score": 0.8283,
+   "forms": [
+    "lezardrev",
+    "lezardrieu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lieuron",
+   "tier": 5,
+   "score": 0.2307,
+   "forms": [
+    "lieuron"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Liffré",
+   "tier": 3,
+   "score": 0.8618,
+   "forms": [
+    "liffre",
+    "liverieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lignol",
+   "tier": 4,
+   "score": 0.5704,
+   "forms": [
+    "an ignol",
+    "lignol"
+   ],
+   "exact": [
+    "an ignol"
+   ]
+  },
+  {
+   "display": "Lillemer",
+   "tier": 5,
+   "score": 0.0285,
+   "forms": [
+    "lillemer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Limerzel",
+   "tier": 4,
+   "score": 0.5318,
+   "forms": [
+    "limerzel",
+    "lizmerzher"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Livré-sur-Changeon",
+   "tier": 5,
+   "score": 0.2111,
+   "forms": [
+    "livre",
+    "livre sur changeon"
+   ],
+   "exact": [
+    "livre"
+   ]
+  },
+  {
+   "display": "Lizio",
+   "tier": 3,
+   "score": 0.7948,
+   "forms": [
+    "lizio",
+    "liziou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loc-Brévalaire",
+   "tier": 5,
+   "score": 0.0477,
+   "forms": [
+    "loc brevalaire",
+    "loprevaler"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loc-Eguiner",
+   "tier": 5,
+   "score": 0.0771,
+   "forms": [
+    "loc eguiner",
+    "logeginer plouziri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loc-Envel",
+   "tier": 3,
+   "score": 0.8132,
+   "forms": [
+    "loc envel",
+    "lokenvel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locarn",
+   "tier": 4,
+   "score": 0.5398,
+   "forms": [
+    "locarn",
+    "lokarn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmalo",
+   "tier": 5,
+   "score": 0.3987,
+   "forms": [
+    "locmalo",
+    "lokmac hlou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmaria",
+   "tier": 3,
+   "score": 0.7965,
+   "forms": [
+    "locmaria"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmaria-Grand-Champ",
+   "tier": 5,
+   "score": 0.237,
+   "forms": [
+    "locmaria grand champ",
+    "lokmaria gregam"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmaria-Plouzané",
+   "tier": 4,
+   "score": 0.7203,
+   "forms": [
+    "loc maria plouzane",
+    "locmaria lanvenec",
+    "locmaria plouzane",
+    "lokmaria plouzane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmariaquer",
+   "tier": 2,
+   "score": 0.9288,
+   "forms": [
+    "locmariaquer",
+    "lokmaria kaer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmélar",
+   "tier": 5,
+   "score": 0.0946,
+   "forms": [
+    "locmelar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locminé",
+   "tier": 2,
+   "score": 0.9129,
+   "forms": [
+    "locmine",
+    "logunec h",
+    "lominoec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locmiquélic",
+   "tier": 3,
+   "score": 0.8266,
+   "forms": [
+    "locmiquelic",
+    "lokmikaelig"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locoal-Mendon",
+   "tier": 3,
+   "score": 0.7554,
+   "forms": [
+    "locoal",
+    "locoal mendon",
+    "lokoal mendon",
+    "mendon"
+   ],
+   "exact": [
+    "locoal",
+    "mendon"
+   ]
+  },
+  {
+   "display": "Locqueltas",
+   "tier": 5,
+   "score": 0.3819,
+   "forms": [
+    "locquelta",
+    "lokeltaz"
+   ],
+   "exact": [
+    "lokeltaz"
+   ]
+  },
+  {
+   "display": "Locquénolé",
+   "tier": 4,
+   "score": 0.5628,
+   "forms": [
+    "locquenole",
+    "lokenole"
+   ],
+   "exact": [
+    "locquenole",
+    "lokenole"
+   ]
+  },
+  {
+   "display": "Locquirec",
+   "tier": 2,
+   "score": 0.9514,
+   "forms": [
+    "locquirec",
+    "lokireg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locronan",
+   "tier": 2,
+   "score": 0.9698,
+   "forms": [
+    "locronan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loctudy",
+   "tier": 2,
+   "score": 0.9363,
+   "forms": [
+    "loctudy",
+    "loktudi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Locunolé",
+   "tier": 4,
+   "score": 0.6441,
+   "forms": [
+    "locunole",
+    "lokunole"
+   ],
+   "exact": [
+    "locunole",
+    "lokunole"
+   ]
+  },
+  {
+   "display": "Logonna-Daoulas",
+   "tier": 4,
+   "score": 0.691,
+   "forms": [
+    "logonna daoula",
+    "logonna daoulaz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loguivy-Plougras",
+   "tier": 4,
+   "score": 0.5846,
+   "forms": [
+    "logivi plougraz",
+    "loguivy plougra"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lohéac",
+   "tier": 3,
+   "score": 0.8049,
+   "forms": [
+    "loheac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lohuec",
+   "tier": 5,
+   "score": 0.2726,
+   "forms": [
+    "lohuec",
+    "lohueg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Longaulnay",
+   "tier": 5,
+   "score": 0.0528,
+   "forms": [
+    "longaulnay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lopérec",
+   "tier": 5,
+   "score": 0.4665,
+   "forms": [
+    "loperec",
+    "lopereg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loperhet",
+   "tier": 4,
+   "score": 0.6759,
+   "forms": [
+    "loperhet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loqueffret",
+   "tier": 4,
+   "score": 0.5369,
+   "forms": [
+    "lokeored",
+    "loqueffret"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lorient",
+   "tier": 1,
+   "score": 0.9966,
+   "forms": [
+    "lorient"
+   ],
+   "exact": [
+    "lorient"
+   ]
+  },
+  {
+   "display": "Le Loroux",
+   "tier": 5,
+   "score": 0.0653,
+   "forms": [
+    "lorou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loscouët-sur-Meu",
+   "tier": 5,
+   "score": 0.129,
+   "forms": [
+    "loscouet sur meu",
+    "loskoed ar mozon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lothey",
+   "tier": 4,
+   "score": 0.6013,
+   "forms": [
+    "lotei",
+    "lothey"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Louannec",
+   "tier": 4,
+   "score": 0.7161,
+   "forms": [
+    "louaneg",
+    "louannec"
+   ],
+   "exact": [
+    "louaneg"
+   ]
+  },
+  {
+   "display": "Louargat",
+   "tier": 5,
+   "score": 0.4615,
+   "forms": [
+    "louargat",
+    "louergad"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loudéac",
+   "tier": 2,
+   "score": 0.9564,
+   "forms": [
+    "loudeac",
+    "loudieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lourmais",
+   "tier": 5,
+   "score": 0.0008,
+   "forms": [
+    "lourmai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loutehel",
+   "tier": 5,
+   "score": 0.067,
+   "forms": [
+    "loutehel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Louvigné-de-Bais",
+   "tier": 5,
+   "score": 0.4514,
+   "forms": [
+    "louvigne",
+    "louvigne de bai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Louvigné-du-Désert",
+   "tier": 4,
+   "score": 0.7441,
+   "forms": [
+    "louvigne du desert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Loyat",
+   "tier": 5,
+   "score": 0.3911,
+   "forms": [
+    "louad",
+    "loyat"
+   ],
+   "exact": [
+    "louad",
+    "loyat"
+   ]
+  },
+  {
+   "display": "Luitré-Dompierre",
+   "tier": 5,
+   "score": 0.2224,
+   "forms": [
+    "luitre dompierre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Maël-Carhaix",
+   "tier": 4,
+   "score": 0.6424,
+   "forms": [
+    "mael carhaix",
+    "mel karaez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Maël-Pestivien",
+   "tier": 5,
+   "score": 0.4121,
+   "forms": [
+    "mael pestivien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Maen Roch",
+   "tier": 3,
+   "score": 0.8116,
+   "forms": [
+    "maen roch"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Magoar",
+   "tier": 5,
+   "score": 0.0955,
+   "forms": [
+    "magoar",
+    "magor"
+   ],
+   "exact": [
+    "magor"
+   ]
+  },
+  {
+   "display": "Mahalon",
+   "tier": 5,
+   "score": 0.3199,
+   "forms": [
+    "mahalon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Malansac",
+   "tier": 4,
+   "score": 0.6717,
+   "forms": [
+    "malansac",
+    "malanseg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Malestroit",
+   "tier": 2,
+   "score": 0.9606,
+   "forms": [
+    "malastred",
+    "malestroit"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Malguénac",
+   "tier": 5,
+   "score": 0.4849,
+   "forms": [
+    "malgeneg",
+    "malguenac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Malhoure",
+   "tier": 5,
+   "score": 0.0226,
+   "forms": [
+    "lanvelor",
+    "malhoure"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mantallot",
+   "tier": 5,
+   "score": 0.0829,
+   "forms": [
+    "mantallod",
+    "mantallot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Marcillé-Raoul",
+   "tier": 5,
+   "score": 0.1817,
+   "forms": [
+    "marcille raoul"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Marcillé-Robert",
+   "tier": 5,
+   "score": 0.3459,
+   "forms": [
+    "marcille robert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Marpiré",
+   "tier": 5,
+   "score": 0.165,
+   "forms": [
+    "marpire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Martigné-Ferchaud",
+   "tier": 4,
+   "score": 0.7261,
+   "forms": [
+    "martigne",
+    "martigne ferchaud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Martyre",
+   "tier": 4,
+   "score": 0.5168,
+   "forms": [
+    "ar merzher",
+    "ar merzher salaun",
+    "martyre"
+   ],
+   "exact": [
+    "martyre"
+   ]
+  },
+  {
+   "display": "Marzan",
+   "tier": 4,
+   "score": 0.6273,
+   "forms": [
+    "marzan",
+    "marzhan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Matignon",
+   "tier": 3,
+   "score": 0.8568,
+   "forms": [
+    "matignon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mauron",
+   "tier": 3,
+   "score": 0.7672,
+   "forms": [
+    "mauron"
+   ],
+   "exact": [
+    "mauron"
+   ]
+  },
+  {
+   "display": "Maxent",
+   "tier": 5,
+   "score": 0.3961,
+   "forms": [
+    "maxent"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Méaugon",
+   "tier": 5,
+   "score": 0.33,
+   "forms": [
+    "lanvealgon",
+    "meaugon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mecé",
+   "tier": 5,
+   "score": 0.0444,
+   "forms": [
+    "mece"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Médréac",
+   "tier": 5,
+   "score": 0.4322,
+   "forms": [
+    "medreac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mégrit",
+   "tier": 5,
+   "score": 0.17,
+   "forms": [
+    "megrid",
+    "megrit"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Meillac",
+   "tier": 5,
+   "score": 0.2613,
+   "forms": [
+    "meillac"
+   ],
+   "exact": [
+    "meillac"
+   ]
+  },
+  {
+   "display": "Melesse",
+   "tier": 4,
+   "score": 0.7044,
+   "forms": [
+    "meled",
+    "melesse"
+   ],
+   "exact": [
+    "meled",
+    "melesse"
+   ]
+  },
+  {
+   "display": "Melgven",
+   "tier": 4,
+   "score": 0.67,
+   "forms": [
+    "melgven",
+    "melwenn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mellac",
+   "tier": 4,
+   "score": 0.6114,
+   "forms": [
+    "mellac",
+    "mellag"
+   ],
+   "exact": [
+    "mellac"
+   ]
+  },
+  {
+   "display": "Mellé",
+   "tier": 5,
+   "score": 0.1834,
+   "forms": [
+    "melle"
+   ],
+   "exact": [
+    "melle"
+   ]
+  },
+  {
+   "display": "Mellionnec",
+   "tier": 4,
+   "score": 0.541,
+   "forms": [
+    "melioneg",
+    "mellionnec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Melrand",
+   "tier": 3,
+   "score": 0.7764,
+   "forms": [
+    "melrand",
+    "melrant"
+   ],
+   "exact": [
+    "melrant"
+   ]
+  },
+  {
+   "display": "Le Mené",
+   "tier": 3,
+   "score": 0.825,
+   "forms": [
+    "mene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ménéac",
+   "tier": 4,
+   "score": 0.549,
+   "forms": [
+    "meneac",
+    "menieg"
+   ],
+   "exact": [
+    "meneac"
+   ]
+  },
+  {
+   "display": "Merdrignac",
+   "tier": 3,
+   "score": 0.8023,
+   "forms": [
+    "medrigneg",
+    "merdrignac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mérillac",
+   "tier": 5,
+   "score": 0.062,
+   "forms": [
+    "merelieg",
+    "merillac"
+   ],
+   "exact": [
+    "merillac"
+   ]
+  },
+  {
+   "display": "Merléac",
+   "tier": 5,
+   "score": 0.1847,
+   "forms": [
+    "merleac",
+    "merleag"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Merlevenez",
+   "tier": 4,
+   "score": 0.5745,
+   "forms": [
+    "brelevenez",
+    "merlevenez"
+   ],
+   "exact": [
+    "brelevenez",
+    "merlevenez"
+   ]
+  },
+  {
+   "display": "Mernel",
+   "tier": 5,
+   "score": 0.1667,
+   "forms": [
+    "mernel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Merzer",
+   "tier": 5,
+   "score": 0.1826,
+   "forms": [
+    "merzer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Meslan",
+   "tier": 4,
+   "score": 0.5444,
+   "forms": [
+    "melann",
+    "meslan"
+   ],
+   "exact": [
+    "melann",
+    "meslan"
+   ]
+  },
+  {
+   "display": "Mesnil-Roc'h",
+   "tier": 4,
+   "score": 0.6792,
+   "forms": [
+    "mesnil roc h"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mespaul",
+   "tier": 5,
+   "score": 0.1545,
+   "forms": [
+    "mespaol",
+    "mespaul"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Meucon",
+   "tier": 5,
+   "score": 0.4213,
+   "forms": [
+    "meucon",
+    "meukon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Mézière",
+   "tier": 4,
+   "score": 0.7002,
+   "forms": [
+    "meziere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mézières-sur-Couesnon",
+   "tier": 5,
+   "score": 0.2119,
+   "forms": [
+    "meziere sur couesnon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Milizac-Guipronvel",
+   "tier": 5,
+   "score": 0.4799,
+   "forms": [
+    "milizac guipronvel",
+    "milizag gwipronvel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Miniac-Morvan",
+   "tier": 4,
+   "score": 0.6809,
+   "forms": [
+    "miniac morvan",
+    "minieg morvan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Miniac-sous-Bécherel",
+   "tier": 5,
+   "score": 0.1114,
+   "forms": [
+    "miniac sou becherel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Minihic-sur-Rance",
+   "tier": 4,
+   "score": 0.6198,
+   "forms": [
+    "minic hi poudour",
+    "minihic sur rance"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Minihy-Tréguier",
+   "tier": 4,
+   "score": 0.5184,
+   "forms": [
+    "ar vinic hi",
+    "minihy treguier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Missiriac",
+   "tier": 4,
+   "score": 0.6039,
+   "forms": [
+    "megerieg",
+    "missiriac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moëlan-sur-Mer",
+   "tier": 2,
+   "score": 0.9087,
+   "forms": [
+    "kerfany les pin",
+    "moelan sur mer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mohon",
+   "tier": 5,
+   "score": 0.4447,
+   "forms": [
+    "mohon",
+    "mozhon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Molac",
+   "tier": 5,
+   "score": 0.3802,
+   "forms": [
+    "molac",
+    "moulleg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moncontour",
+   "tier": 2,
+   "score": 0.9573,
+   "forms": [
+    "moncontour",
+    "moncontour de bretagne",
+    "monkontour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mondevert",
+   "tier": 5,
+   "score": 0.0704,
+   "forms": [
+    "mondevert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mont-Dol",
+   "tier": 3,
+   "score": 0.8392,
+   "forms": [
+    "mont dol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montauban-de-Bretagne",
+   "tier": 3,
+   "score": 0.8601,
+   "forms": [
+    "menezalban",
+    "montauban",
+    "montauban de bretagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montautour",
+   "tier": 5,
+   "score": 0.0871,
+   "forms": [
+    "montautour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Monteneuf",
+   "tier": 5,
+   "score": 0.4535,
+   "forms": [
+    "monteneg",
+    "monteneuf"
+   ],
+   "exact": [
+    "monteneuf"
+   ]
+  },
+  {
+   "display": "Monterblanc",
+   "tier": 4,
+   "score": 0.5838,
+   "forms": [
+    "monterblanc",
+    "sterwenn"
+   ],
+   "exact": [
+    "monterblanc"
+   ]
+  },
+  {
+   "display": "Monterfil",
+   "tier": 5,
+   "score": 0.4204,
+   "forms": [
+    "monterfil"
+   ],
+   "exact": [
+    "monterfil"
+   ]
+  },
+  {
+   "display": "Montertelot",
+   "tier": 5,
+   "score": 0.121,
+   "forms": [
+    "montertelot",
+    "mousterdelav"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montfort-sur-Meu",
+   "tier": 3,
+   "score": 0.8693,
+   "forms": [
+    "coulon",
+    "monforzh",
+    "montfort",
+    "montfort la cane",
+    "montfort la montagne",
+    "montfort sur meu"
+   ],
+   "exact": [
+    "coulon"
+   ]
+  },
+  {
+   "display": "Montgermont",
+   "tier": 4,
+   "score": 0.5804,
+   "forms": [
+    "montgermont"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Monthault",
+   "tier": 5,
+   "score": 0.0528,
+   "forms": [
+    "monthault"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montreuil-des-Landes",
+   "tier": 5,
+   "score": 0.0034,
+   "forms": [
+    "montreuil des lande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montreuil-le-Gast",
+   "tier": 5,
+   "score": 0.3698,
+   "forms": [
+    "montreuil le gast"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montreuil-sous-Pérouse",
+   "tier": 5,
+   "score": 0.0653,
+   "forms": [
+    "montreuil sou perouse",
+    "montreuil sur perouse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Montreuil-sur-Ille",
+   "tier": 5,
+   "score": 0.4816,
+   "forms": [
+    "montreuil sur ille"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mordelles",
+   "tier": 3,
+   "score": 0.8543,
+   "forms": [
+    "mordelle"
+   ],
+   "exact": [
+    "mordelle"
+   ]
+  },
+  {
+   "display": "Moréac",
+   "tier": 4,
+   "score": 0.6164,
+   "forms": [
+    "moreac",
+    "mourieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Morlaix",
+   "tier": 1,
+   "score": 0.9925,
+   "forms": [
+    "cite du viaduc",
+    "morlaix"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Motreff",
+   "tier": 5,
+   "score": 0.3643,
+   "forms": [
+    "motreff",
+    "motrev"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Motte",
+   "tier": 5,
+   "score": 0.4246,
+   "forms": [
+    "ar voudenn",
+    "motte"
+   ],
+   "exact": [
+    "motte"
+   ]
+  },
+  {
+   "display": "Mouazé",
+   "tier": 5,
+   "score": 0.1374,
+   "forms": [
+    "mouaze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moulins",
+   "tier": 5,
+   "score": 0.4573,
+   "forms": [
+    "moulin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Moussé",
+   "tier": 5,
+   "score": 0.0017,
+   "forms": [
+    "mousse"
+   ],
+   "exact": [
+    "mousse"
+   ]
+  },
+  {
+   "display": "Moustéru",
+   "tier": 5,
+   "score": 0.1713,
+   "forms": [
+    "mousteru",
+    "mousteruz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Moustoir",
+   "tier": 5,
+   "score": 0.3086,
+   "forms": [
+    "ar vouster",
+    "moustoir"
+   ],
+   "exact": [
+    "moustoir"
+   ]
+  },
+  {
+   "display": "Moustoir-Ac",
+   "tier": 4,
+   "score": 0.5176,
+   "forms": [
+    "moustoer logunec h",
+    "moustoir ac",
+    "moustoir radennac",
+    "moustoirac"
+   ],
+   "exact": [
+    "moustoirac"
+   ]
+  },
+  {
+   "display": "Moutiers",
+   "tier": 5,
+   "score": 0.0402,
+   "forms": [
+    "moutier"
+   ],
+   "exact": [
+    "moutier"
+   ]
+  },
+  {
+   "display": "Muel",
+   "tier": 5,
+   "score": 0.2387,
+   "forms": [
+    "muel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Muzillac",
+   "tier": 3,
+   "score": 0.8978,
+   "forms": [
+    "muzilheg",
+    "muzillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Néant-sur-Yvel",
+   "tier": 4,
+   "score": 0.5988,
+   "forms": [
+    "neant",
+    "neant sur yvel"
+   ],
+   "exact": [
+    "neant"
+   ]
+  },
+  {
+   "display": "Neulliac",
+   "tier": 5,
+   "score": 0.464,
+   "forms": [
+    "neulieg",
+    "neulliac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Névez",
+   "tier": 2,
+   "score": 0.9079,
+   "forms": [
+    "chaumiere de kerascoet",
+    "nevez",
+    "port manec h"
+   ],
+   "exact": [
+    "nevez"
+   ]
+  },
+  {
+   "display": "Nivillac",
+   "tier": 4,
+   "score": 0.7337,
+   "forms": [
+    "nivilieg",
+    "nivillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Noë-Blanche",
+   "tier": 5,
+   "score": 0.286,
+   "forms": [
+    "noe blanche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nostang",
+   "tier": 5,
+   "score": 0.3685,
+   "forms": [
+    "nostang"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Nouaye",
+   "tier": 5,
+   "score": 0.0553,
+   "forms": [
+    "nouaye"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nouvoitou",
+   "tier": 4,
+   "score": 0.6307,
+   "forms": [
+    "nouvoitou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Noyal",
+   "tier": 5,
+   "score": 0.1558,
+   "forms": [
+    "noual pentevr",
+    "noyal"
+   ],
+   "exact": [
+    "noyal"
+   ]
+  },
+  {
+   "display": "Noyal-Châtillon-sur-Seiche",
+   "tier": 3,
+   "score": 0.768,
+   "forms": [
+    "noyal chatillon sur seiche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Noyal-Muzillac",
+   "tier": 4,
+   "score": 0.6122,
+   "forms": [
+    "noal muzilheg",
+    "noyal muzillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Noyal-Pontivy",
+   "tier": 4,
+   "score": 0.6344,
+   "forms": [
+    "noal pondi",
+    "noyal pontivy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Noyal-sous-Bazouges",
+   "tier": 5,
+   "score": 0.0126,
+   "forms": [
+    "noal bazeleg",
+    "noyal sou bazouge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Noyal-sur-Vilaine",
+   "tier": 3,
+   "score": 0.7848,
+   "forms": [
+    "noyal sur vilaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Orgères",
+   "tier": 3,
+   "score": 0.7647,
+   "forms": [
+    "orgere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ouessant",
+   "tier": 1,
+   "score": 0.9707,
+   "forms": [
+    "localite de ouessant",
+    "ouessant"
+   ],
+   "exact": [
+    "ouessant"
+   ]
+  },
+  {
+   "display": "Pabu",
+   "tier": 3,
+   "score": 0.8559,
+   "forms": [
+    "pabu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pacé",
+   "tier": 3,
+   "score": 0.871,
+   "forms": [
+    "pace"
+   ],
+   "exact": [
+    "pace"
+   ]
+  },
+  {
+   "display": "Paimpol",
+   "tier": 1,
+   "score": 0.9824,
+   "forms": [
+    "paimpol",
+    "pempoull"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paimpont",
+   "tier": 2,
+   "score": 0.9246,
+   "forms": [
+    "paimpont"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Palais",
+   "tier": 3,
+   "score": 0.8727,
+   "forms": [
+    "montagne",
+    "palai",
+    "palai le"
+   ],
+   "exact": [
+    "montagne",
+    "palai"
+   ]
+  },
+  {
+   "display": "Pancé",
+   "tier": 5,
+   "score": 0.3007,
+   "forms": [
+    "pance"
+   ],
+   "exact": [
+    "pance"
+   ]
+  },
+  {
+   "display": "Parcé",
+   "tier": 5,
+   "score": 0.1805,
+   "forms": [
+    "parce"
+   ],
+   "exact": [
+    "parce"
+   ]
+  },
+  {
+   "display": "Parigné",
+   "tier": 5,
+   "score": 0.1281,
+   "forms": [
+    "parigne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Parthenay-de-Bretagne",
+   "tier": 5,
+   "score": 0.3132,
+   "forms": [
+    "parthenay de bretagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Paule",
+   "tier": 5,
+   "score": 0.4707,
+   "forms": [
+    "paoul",
+    "paule"
+   ],
+   "exact": [
+    "paoul",
+    "paule"
+   ]
+  },
+  {
+   "display": "Péaule",
+   "tier": 4,
+   "score": 0.6709,
+   "forms": [
+    "coueffaut",
+    "peaule",
+    "pleaol"
+   ],
+   "exact": [
+    "peaule"
+   ]
+  },
+  {
+   "display": "Pédernec",
+   "tier": 5,
+   "score": 0.4028,
+   "forms": [
+    "pedernec",
+    "pederneg",
+    "trezean"
+   ],
+   "exact": [
+    "trezean"
+   ]
+  },
+  {
+   "display": "Peillac",
+   "tier": 4,
+   "score": 0.5871,
+   "forms": [
+    "paolieg",
+    "peillac"
+   ],
+   "exact": [
+    "peillac"
+   ]
+  },
+  {
+   "display": "Pencran",
+   "tier": 5,
+   "score": 0.4899,
+   "forms": [
+    "pencran",
+    "penn ar c hrann"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pénestin",
+   "tier": 2,
+   "score": 0.9422,
+   "forms": [
+    "penestin",
+    "pennestin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Penguily",
+   "tier": 5,
+   "score": 0.1055,
+   "forms": [
+    "pengilli",
+    "penguily"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Penmarch",
+   "tier": 2,
+   "score": 0.9405,
+   "forms": [
+    "croix du poulguen",
+    "pen marck",
+    "penmarc h",
+    "penmarch",
+    "pointe de penmarc h",
+    "saint guenole"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Penvénan",
+   "tier": 3,
+   "score": 0.8233,
+   "forms": [
+    "penvenan",
+    "perwenan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Perros-Guirec",
+   "tier": 1,
+   "score": 0.9816,
+   "forms": [
+    "perro",
+    "perro guirec",
+    "perroz gireg"
+   ],
+   "exact": [
+    "perro"
+   ]
+  },
+  {
+   "display": "Persquen",
+   "tier": 5,
+   "score": 0.1466,
+   "forms": [
+    "persken",
+    "persquen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Pertre",
+   "tier": 4,
+   "score": 0.5075,
+   "forms": [
+    "pertre"
+   ],
+   "exact": [
+    "pertre"
+   ]
+  },
+  {
+   "display": "Le Petit-Fougeray",
+   "tier": 5,
+   "score": 0.0385,
+   "forms": [
+    "petit fougeray"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Peumerit",
+   "tier": 5,
+   "score": 0.2563,
+   "forms": [
+    "peumerit",
+    "purid"
+   ],
+   "exact": [
+    "purid"
+   ]
+  },
+  {
+   "display": "Peumerit-Quintin",
+   "tier": 5,
+   "score": 0.0218,
+   "forms": [
+    "peumerit quintin",
+    "purid kintin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pipriac",
+   "tier": 3,
+   "score": 0.7621,
+   "forms": [
+    "pipriac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Piré-Chancé",
+   "tier": 5,
+   "score": 0.4682,
+   "forms": [
+    "pire chance"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plabennec",
+   "tier": 3,
+   "score": 0.7915,
+   "forms": [
+    "plabennec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plaine-Haute",
+   "tier": 5,
+   "score": 0.1805,
+   "forms": [
+    "plaine haute",
+    "plenaod"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plaintel",
+   "tier": 4,
+   "score": 0.7228,
+   "forms": [
+    "plaintel",
+    "pleneventer"
+   ],
+   "exact": [
+    "plaintel",
+    "pleneventer"
+   ]
+  },
+  {
+   "display": "Plancoët",
+   "tier": 3,
+   "score": 0.8819,
+   "forms": [
+    "plancoet",
+    "plangoed"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plaudren",
+   "tier": 4,
+   "score": 0.5059,
+   "forms": [
+    "plaodren",
+    "plaudren"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pléboulle",
+   "tier": 5,
+   "score": 0.3777,
+   "forms": [
+    "pleboull",
+    "pleboulle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pléchâtel",
+   "tier": 4,
+   "score": 0.6139,
+   "forms": [
+    "plechatel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plédéliac",
+   "tier": 4,
+   "score": 0.5151,
+   "forms": [
+    "pledeliac",
+    "pledeliav"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plédran",
+   "tier": 4,
+   "score": 0.639,
+   "forms": [
+    "pledran"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pléguien",
+   "tier": 4,
+   "score": 0.6231,
+   "forms": [
+    "pleguien",
+    "plian"
+   ],
+   "exact": [
+    "plian"
+   ]
+  },
+  {
+   "display": "Pléhédel",
+   "tier": 5,
+   "score": 0.4363,
+   "forms": [
+    "plehedel"
+   ],
+   "exact": [
+    "plehedel"
+   ]
+  },
+  {
+   "display": "Pleine-Fougères",
+   "tier": 4,
+   "score": 0.6332,
+   "forms": [
+    "planfili",
+    "pleine fougere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plélan-le-Grand",
+   "tier": 3,
+   "score": 0.794,
+   "forms": [
+    "plelan le grand",
+    "plelann veur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plélan-le-Petit",
+   "tier": 4,
+   "score": 0.5218,
+   "forms": [
+    "plelan",
+    "plelan le petit",
+    "plelann vihan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plélauff",
+   "tier": 5,
+   "score": 0.2915,
+   "forms": [
+    "pellann",
+    "plelauff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plélo",
+   "tier": 4,
+   "score": 0.603,
+   "forms": [
+    "plelo",
+    "pleuloc h"
+   ],
+   "exact": [
+    "pleuloc h"
+   ]
+  },
+  {
+   "display": "Plémet",
+   "tier": 4,
+   "score": 0.7278,
+   "forms": [
+    "plemet",
+    "plezeved"
+   ],
+   "exact": [
+    "plezeved"
+   ]
+  },
+  {
+   "display": "Plémy",
+   "tier": 5,
+   "score": 0.3065,
+   "forms": [
+    "plemy",
+    "plevig"
+   ],
+   "exact": [
+    "plevig"
+   ]
+  },
+  {
+   "display": "Plénée-Jugon",
+   "tier": 4,
+   "score": 0.6097,
+   "forms": [
+    "plened yugon",
+    "plenee jugon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pléneuf-Val-André",
+   "tier": 2,
+   "score": 0.9581,
+   "forms": [
+    "pleneg nantraezh",
+    "pleneuf",
+    "pleneuf val andre",
+    "val andre"
+   ],
+   "exact": [
+    "pleneuf"
+   ]
+  },
+  {
+   "display": "Plerguer",
+   "tier": 5,
+   "score": 0.4933,
+   "forms": [
+    "plergar",
+    "plerguer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plérin",
+   "tier": 3,
+   "score": 0.8961,
+   "forms": [
+    "plerin",
+    "plerin sur mer",
+    "saint laurent de la mer"
+   ],
+   "exact": [
+    "plerin"
+   ]
+  },
+  {
+   "display": "Plerneuf",
+   "tier": 5,
+   "score": 0.1348,
+   "forms": [
+    "plerneg",
+    "plerneuf"
+   ],
+   "exact": [
+    "plerneg",
+    "plerneuf"
+   ]
+  },
+  {
+   "display": "Plescop",
+   "tier": 3,
+   "score": 0.8668,
+   "forms": [
+    "plescop",
+    "pleskob"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plesder",
+   "tier": 5,
+   "score": 0.1181,
+   "forms": [
+    "plesder"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plésidy",
+   "tier": 5,
+   "score": 0.3187,
+   "forms": [
+    "plesidy",
+    "plijidi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleslin-Trigavou",
+   "tier": 3,
+   "score": 0.7529,
+   "forms": [
+    "plelin tregavou",
+    "pleslin trigavou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plestan",
+   "tier": 5,
+   "score": 0.4095,
+   "forms": [
+    "plestan"
+   ],
+   "exact": [
+    "plestan"
+   ]
+  },
+  {
+   "display": "Plestin-les-Grèves",
+   "tier": 2,
+   "score": 0.9037,
+   "forms": [
+    "plestin",
+    "plestin les greve",
+    "plistin"
+   ],
+   "exact": [
+    "plestin"
+   ]
+  },
+  {
+   "display": "Pleubian",
+   "tier": 3,
+   "score": 0.7814,
+   "forms": [
+    "pleubian",
+    "pleuvihan"
+   ],
+   "exact": [
+    "pleuvihan"
+   ]
+  },
+  {
+   "display": "Pleucadeuc",
+   "tier": 4,
+   "score": 0.657,
+   "forms": [
+    "plegadeg",
+    "pleucadeuc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleudaniel",
+   "tier": 5,
+   "score": 0.2437,
+   "forms": [
+    "planiel",
+    "pleudaniel"
+   ],
+   "exact": [
+    "pleudaniel"
+   ]
+  },
+  {
+   "display": "Pleudihen-sur-Rance",
+   "tier": 3,
+   "score": 0.7504,
+   "forms": [
+    "pleudihen",
+    "pleudihen sur rance"
+   ],
+   "exact": [
+    "pleudihen"
+   ]
+  },
+  {
+   "display": "Pleugriffet",
+   "tier": 5,
+   "score": 0.4229,
+   "forms": [
+    "pleugriffet",
+    "ploueg grifed"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleugueneuc",
+   "tier": 5,
+   "score": 0.495,
+   "forms": [
+    "pleugueneuc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleumeleuc",
+   "tier": 4,
+   "score": 0.6131,
+   "forms": [
+    "pleumeleuc"
+   ],
+   "exact": [
+    "pleumeleuc"
+   ]
+  },
+  {
+   "display": "Pleumeur-Bodou",
+   "tier": 2,
+   "score": 0.9054,
+   "forms": [
+    "pleumeur",
+    "pleumeur bodou",
+    "pleuveur bodou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleumeur-Gautier",
+   "tier": 5,
+   "score": 0.3652,
+   "forms": [
+    "pleumeur gautier",
+    "pleuveur gaoter"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleurtuit",
+   "tier": 3,
+   "score": 0.8685,
+   "forms": [
+    "pleurestud",
+    "pleurtuit"
+   ],
+   "exact": [
+    "pleurtuit"
+   ]
+  },
+  {
+   "display": "Pleuven",
+   "tier": 4,
+   "score": 0.5243,
+   "forms": [
+    "pleuven",
+    "pluwenn"
+   ],
+   "exact": [
+    "pleuven"
+   ]
+  },
+  {
+   "display": "Plévenon",
+   "tier": 3,
+   "score": 0.7839,
+   "forms": [
+    "plevenon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plévin",
+   "tier": 5,
+   "score": 0.4837,
+   "forms": [
+    "plevin"
+   ],
+   "exact": [
+    "plevin"
+   ]
+  },
+  {
+   "display": "Pleyben",
+   "tier": 3,
+   "score": 0.8786,
+   "forms": [
+    "pleiben",
+    "pleyben"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pleyber-Christ",
+   "tier": 4,
+   "score": 0.706,
+   "forms": [
+    "pleyber christ"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plobannalec-Lesconil",
+   "tier": 3,
+   "score": 0.8626,
+   "forms": [
+    "lesconil",
+    "plobannalec",
+    "plobannalec lesconil",
+    "pornaleg leskonil"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploemel",
+   "tier": 4,
+   "score": 0.6776,
+   "forms": [
+    "plenver",
+    "ploemel"
+   ],
+   "exact": [
+    "ploemel"
+   ]
+  },
+  {
+   "display": "Ploërdut",
+   "tier": 4,
+   "score": 0.6281,
+   "forms": [
+    "kervro",
+    "pleurdud",
+    "ploerdut"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploeren",
+   "tier": 3,
+   "score": 0.7709,
+   "forms": [
+    "ploeren",
+    "ploveren"
+   ],
+   "exact": [
+    "ploeren"
+   ]
+  },
+  {
+   "display": "Ploërmel",
+   "tier": 1,
+   "score": 0.9732,
+   "forms": [
+    "ploermel"
+   ],
+   "exact": [
+    "ploermel"
+   ]
+  },
+  {
+   "display": "Plœuc-L'Hermitage",
+   "tier": 4,
+   "score": 0.6826,
+   "forms": [
+    "ploeuc l hermitage",
+    "ploheg peniti"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploéven",
+   "tier": 5,
+   "score": 0.3057,
+   "forms": [
+    "ploeven"
+   ],
+   "exact": [
+    "ploeven"
+   ]
+  },
+  {
+   "display": "Ploëzal",
+   "tier": 5,
+   "score": 0.3379,
+   "forms": [
+    "pleuzal",
+    "ploezal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plogastel-Saint-Germain",
+   "tier": 4,
+   "score": 0.5821,
+   "forms": [
+    "plogastel saint germain",
+    "plogastell sant jermen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plogoff",
+   "tier": 3,
+   "score": 0.8794,
+   "forms": [
+    "plogoff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plogonnec",
+   "tier": 4,
+   "score": 0.6591,
+   "forms": [
+    "croezou",
+    "plogoneg",
+    "plogonnec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plomelin",
+   "tier": 4,
+   "score": 0.7395,
+   "forms": [
+    "plomelin",
+    "ploveilh"
+   ],
+   "exact": [
+    "plomelin"
+   ]
+  },
+  {
+   "display": "Plomeur",
+   "tier": 3,
+   "score": 0.7797,
+   "forms": [
+    "plomeur",
+    "ploveur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plomodiern",
+   "tier": 3,
+   "score": 0.7956,
+   "forms": [
+    "plomodiern",
+    "ploudiern"
+   ],
+   "exact": [
+    "ploudiern"
+   ]
+  },
+  {
+   "display": "Plonéis",
+   "tier": 4,
+   "score": 0.5264,
+   "forms": [
+    "plonei",
+    "ploneiz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plonéour-Lanvern",
+   "tier": 3,
+   "score": 0.8384,
+   "forms": [
+    "lanvern",
+    "ploneour lanvern",
+    "ploneour lanwern"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plonévez-du-Faou",
+   "tier": 4,
+   "score": 0.6683,
+   "forms": [
+    "plonevez",
+    "plonevez ar faou",
+    "plonevez du faou",
+    "quilliou"
+   ],
+   "exact": [
+    "plonevez",
+    "quilliou"
+   ]
+  },
+  {
+   "display": "Plonévez-Porzay",
+   "tier": 4,
+   "score": 0.6985,
+   "forms": [
+    "plage de kervel",
+    "plonevez porzay",
+    "plonevez porzhe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plorec-sur-Arguenon",
+   "tier": 4,
+   "score": 0.6487,
+   "forms": [
+    "ploareg",
+    "plorec",
+    "plorec sur arguenon"
+   ],
+   "exact": [
+    "plorec"
+   ]
+  },
+  {
+   "display": "Plouaret",
+   "tier": 3,
+   "score": 0.7739,
+   "forms": [
+    "plouared",
+    "plouaret"
+   ],
+   "exact": [
+    "plouared",
+    "plouaret"
+   ]
+  },
+  {
+   "display": "Plouarzel",
+   "tier": 3,
+   "score": 0.8166,
+   "forms": [
+    "plouarzel"
+   ],
+   "exact": [
+    "plouarzel"
+   ]
+  },
+  {
+   "display": "Plouasne",
+   "tier": 3,
+   "score": 0.8894,
+   "forms": [
+    "plouan",
+    "plouasne"
+   ],
+   "exact": [
+    "plouan"
+   ]
+  },
+  {
+   "display": "Plouay",
+   "tier": 3,
+   "score": 0.8635,
+   "forms": [
+    "plouay",
+    "ploue"
+   ],
+   "exact": [
+    "plouay",
+    "ploue"
+   ]
+  },
+  {
+   "display": "Ploubazlanec",
+   "tier": 2,
+   "score": 0.9095,
+   "forms": [
+    "plaeraneg",
+    "ploubazlanec"
+   ],
+   "exact": [
+    "plaeraneg"
+   ]
+  },
+  {
+   "display": "Ploubezre",
+   "tier": 4,
+   "score": 0.5854,
+   "forms": [
+    "plouber",
+    "ploubezre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploudalmézeau",
+   "tier": 3,
+   "score": 0.8735,
+   "forms": [
+    "ploudalmezeau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploudaniel",
+   "tier": 4,
+   "score": 0.6533,
+   "forms": [
+    "ploudaniel",
+    "plouzeniel"
+   ],
+   "exact": [
+    "ploudaniel"
+   ]
+  },
+  {
+   "display": "Ploudiry",
+   "tier": 5,
+   "score": 0.2873,
+   "forms": [
+    "ploudiry",
+    "plouziri"
+   ],
+   "exact": [
+    "ploudiry"
+   ]
+  },
+  {
+   "display": "Plouëc-du-Trieux",
+   "tier": 5,
+   "score": 0.3618,
+   "forms": [
+    "plouec",
+    "plouec du trieu",
+    "ploueg pontrev"
+   ],
+   "exact": [
+    "plouec"
+   ]
+  },
+  {
+   "display": "Plouédern",
+   "tier": 4,
+   "score": 0.557,
+   "forms": [
+    "plouedern"
+   ],
+   "exact": [
+    "plouedern"
+   ]
+  },
+  {
+   "display": "Plouégat-Guérand",
+   "tier": 4,
+   "score": 0.6399,
+   "forms": [
+    "plegad gwerann",
+    "plouegat gallon",
+    "plouegat guerand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouégat-Moysan",
+   "tier": 5,
+   "score": 0.3208,
+   "forms": [
+    "moezan",
+    "moysan",
+    "plegad",
+    "plegad moezan",
+    "plouegat",
+    "plouegat moysan"
+   ],
+   "exact": [
+    "plouegat"
+   ]
+  },
+  {
+   "display": "Plouénan",
+   "tier": 4,
+   "score": 0.6256,
+   "forms": [
+    "plouenan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouër-sur-Rance",
+   "tier": 3,
+   "score": 0.8107,
+   "forms": [
+    "plouer sur rance",
+    "plouhern"
+   ],
+   "exact": [
+    "plouhern"
+   ]
+  },
+  {
+   "display": "Plouescat",
+   "tier": 2,
+   "score": 0.9221,
+   "forms": [
+    "plouescat",
+    "plouescat station balneaire",
+    "ploueskad"
+   ],
+   "exact": [
+    "plouescat"
+   ]
+  },
+  {
+   "display": "Plouézec",
+   "tier": 3,
+   "score": 0.8124,
+   "forms": [
+    "ploueg ar mor",
+    "plouezec"
+   ],
+   "exact": [
+    "plouezec"
+   ]
+  },
+  {
+   "display": "Plouezoc'h",
+   "tier": 4,
+   "score": 0.7144,
+   "forms": [
+    "plouezoc h",
+    "plouezoch"
+   ],
+   "exact": [
+    "plouezoch"
+   ]
+  },
+  {
+   "display": "Ploufragan",
+   "tier": 3,
+   "score": 0.835,
+   "forms": [
+    "ploufragan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plougar",
+   "tier": 5,
+   "score": 0.0528,
+   "forms": [
+    "gwikar",
+    "plougar"
+   ],
+   "exact": [
+    "plougar"
+   ]
+  },
+  {
+   "display": "Plougasnou",
+   "tier": 3,
+   "score": 0.8945,
+   "forms": [
+    "plouganou",
+    "plougasnou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plougastel-Daoulas",
+   "tier": 2,
+   "score": 0.9414,
+   "forms": [
+    "commune de plougastel daoula",
+    "plougastel",
+    "plougastel daoula",
+    "plougastell",
+    "plougastell daoulaz",
+    "ville de plougastel daoula"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plougonvelin",
+   "tier": 3,
+   "score": 0.8903,
+   "forms": [
+    "plougonvelen",
+    "plougonvelin"
+   ],
+   "exact": [
+    "plougonvelen",
+    "plougonvelin"
+   ]
+  },
+  {
+   "display": "Plougonven",
+   "tier": 3,
+   "score": 0.7923,
+   "forms": [
+    "plougonven"
+   ],
+   "exact": [
+    "plougonven"
+   ]
+  },
+  {
+   "display": "Plougonver",
+   "tier": 4,
+   "score": 0.5963,
+   "forms": [
+    "plougonver",
+    "plougouver"
+   ],
+   "exact": [
+    "plougonver",
+    "plougouver"
+   ]
+  },
+  {
+   "display": "Plougoulm",
+   "tier": 4,
+   "score": 0.7387,
+   "forms": [
+    "plougoulm",
+    "plougouloum"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plougoumelen",
+   "tier": 4,
+   "score": 0.6901,
+   "forms": [
+    "plougoumelen",
+    "plougouvelen"
+   ],
+   "exact": [
+    "plougoumelen",
+    "plougouvelen"
+   ]
+  },
+  {
+   "display": "Plougourvest",
+   "tier": 5,
+   "score": 0.3141,
+   "forms": [
+    "gwikourvest",
+    "plougourvest"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plougras",
+   "tier": 5,
+   "score": 0.1131,
+   "forms": [
+    "plougra",
+    "plougraz"
+   ],
+   "exact": [
+    "plougra"
+   ]
+  },
+  {
+   "display": "Plougrescant",
+   "tier": 3,
+   "score": 0.8518,
+   "forms": [
+    "plougouskant",
+    "plougrescant"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouguenast-Langast",
+   "tier": 5,
+   "score": 0.3509,
+   "forms": [
+    "langast",
+    "lanwal",
+    "plougonwaz",
+    "plougonwaz lanwal",
+    "plouguenast",
+    "plouguenast langast"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouguerneau",
+   "tier": 2,
+   "score": 0.9171,
+   "forms": [
+    "plougerne",
+    "plouguerneau"
+   ],
+   "exact": [
+    "plougerne"
+   ]
+  },
+  {
+   "display": "Plouguernével",
+   "tier": 4,
+   "score": 0.5762,
+   "forms": [
+    "plougernevel",
+    "plouguernevel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouguiel",
+   "tier": 4,
+   "score": 0.5913,
+   "forms": [
+    "plouguiel",
+    "priel"
+   ],
+   "exact": [
+    "plouguiel",
+    "priel"
+   ]
+  },
+  {
+   "display": "Plouguin",
+   "tier": 4,
+   "score": 0.6884,
+   "forms": [
+    "plougin",
+    "plouguin"
+   ],
+   "exact": [
+    "plougin",
+    "plouguin"
+   ]
+  },
+  {
+   "display": "Plouha",
+   "tier": 2,
+   "score": 0.9322,
+   "forms": [
+    "plouha"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouharnel",
+   "tier": 3,
+   "score": 0.8216,
+   "forms": [
+    "plouharnel"
+   ],
+   "exact": [
+    "plouharnel"
+   ]
+  },
+  {
+   "display": "Plouhinec",
+   "tier": 2,
+   "score": 0.9104,
+   "forms": [
+    "pleheneg",
+    "plouhinec",
+    "poulgoazec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouider",
+   "tier": 4,
+   "score": 0.7211,
+   "forms": [
+    "plouider"
+   ],
+   "exact": [
+    "plouider"
+   ]
+  },
+  {
+   "display": "Plouigneau",
+   "tier": 4,
+   "score": 0.6801,
+   "forms": [
+    "plouigneau",
+    "plouigno"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouisy",
+   "tier": 5,
+   "score": 0.4313,
+   "forms": [
+    "plouisy",
+    "plouizi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploulec'h",
+   "tier": 5,
+   "score": 0.3894,
+   "forms": [
+    "ploulec h"
+   ],
+   "exact": [
+    "ploulec h"
+   ]
+  },
+  {
+   "display": "Ploumagoar",
+   "tier": 3,
+   "score": 0.7521,
+   "forms": [
+    "ploumagoar",
+    "plouvagor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploumilliau",
+   "tier": 3,
+   "score": 0.8576,
+   "forms": [
+    "keraudy",
+    "plouilio",
+    "ploumilliau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ploumoguer",
+   "tier": 4,
+   "score": 0.5863,
+   "forms": [
+    "ploumoguer"
+   ],
+   "exact": [
+    "ploumoguer"
+   ]
+  },
+  {
+   "display": "Plounéour-Brignogan-plages",
+   "tier": 4,
+   "score": 0.5477,
+   "forms": [
+    "plouneour brignogan plage"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plounéour-Ménez",
+   "tier": 4,
+   "score": 0.7286,
+   "forms": [
+    "plouneour menez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plounérin",
+   "tier": 5,
+   "score": 0.376,
+   "forms": [
+    "plounerin"
+   ],
+   "exact": [
+    "plounerin"
+   ]
+  },
+  {
+   "display": "Plounéventer",
+   "tier": 4,
+   "score": 0.5343,
+   "forms": [
+    "gwineventer",
+    "plouneventer"
+   ],
+   "exact": [
+    "plouneventer"
+   ]
+  },
+  {
+   "display": "Plounévez-Lochrist",
+   "tier": 4,
+   "score": 0.6524,
+   "forms": [
+    "gwinevez",
+    "plounevez lochrist"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plounévez-Moëdec",
+   "tier": 4,
+   "score": 0.5637,
+   "forms": [
+    "plounevez moedec",
+    "plounevez moedeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plounévez-Quintin",
+   "tier": 5,
+   "score": 0.3936,
+   "forms": [
+    "plounevez kintin",
+    "plounevez quintin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plounévézel",
+   "tier": 5,
+   "score": 0.2605,
+   "forms": [
+    "plonevell",
+    "plounevezel"
+   ],
+   "exact": [
+    "plonevell"
+   ]
+  },
+  {
+   "display": "Plourac'h",
+   "tier": 5,
+   "score": 0.2513,
+   "forms": [
+    "plourac h"
+   ],
+   "exact": [
+    "plourac h"
+   ]
+  },
+  {
+   "display": "Plouray",
+   "tier": 4,
+   "score": 0.6977,
+   "forms": [
+    "plourae",
+    "plouray"
+   ],
+   "exact": [
+    "plouray"
+   ]
+  },
+  {
+   "display": "Plourhan",
+   "tier": 5,
+   "score": 0.4045,
+   "forms": [
+    "plourc han",
+    "plourhan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plourin",
+   "tier": 5,
+   "score": 0.4694,
+   "forms": [
+    "pennendreff",
+    "plourin",
+    "plourin gwitalmeze",
+    "plourin ploudalmezeau"
+   ],
+   "exact": [
+    "plourin"
+   ]
+  },
+  {
+   "display": "Plourin-lès-Morlaix",
+   "tier": 4,
+   "score": 0.7018,
+   "forms": [
+    "plourin les morlaix",
+    "plourin montroulez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plourivo",
+   "tier": 4,
+   "score": 0.5331,
+   "forms": [
+    "plourivo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouvara",
+   "tier": 5,
+   "score": 0.2764,
+   "forms": [
+    "plouvara"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouvien",
+   "tier": 4,
+   "score": 0.5729,
+   "forms": [
+    "plouvien"
+   ],
+   "exact": [
+    "plouvien"
+   ]
+  },
+  {
+   "display": "Plouvorn",
+   "tier": 4,
+   "score": 0.665,
+   "forms": [
+    "lambader",
+    "plouvorn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouyé",
+   "tier": 4,
+   "score": 0.5264,
+   "forms": [
+    "plouie",
+    "plouye"
+   ],
+   "exact": [
+    "plouie",
+    "plouye"
+   ]
+  },
+  {
+   "display": "Plouzané",
+   "tier": 3,
+   "score": 0.8853,
+   "forms": [
+    "plouzane"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouzélambre",
+   "tier": 5,
+   "score": 0.1252,
+   "forms": [
+    "plouzelambr",
+    "plouzelambre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plouzévédé",
+   "tier": 4,
+   "score": 0.5302,
+   "forms": [
+    "gwitevede",
+    "plouzevede"
+   ],
+   "exact": [
+    "plouzevede"
+   ]
+  },
+  {
+   "display": "Plovan",
+   "tier": 4,
+   "score": 0.5536,
+   "forms": [
+    "plovan"
+   ],
+   "exact": [
+    "plovan"
+   ]
+  },
+  {
+   "display": "Plozévet",
+   "tier": 3,
+   "score": 0.8777,
+   "forms": [
+    "plozeved",
+    "plozevet"
+   ],
+   "exact": [
+    "plozeved"
+   ]
+  },
+  {
+   "display": "Pludual",
+   "tier": 5,
+   "score": 0.0762,
+   "forms": [
+    "plua",
+    "pludual"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plufur",
+   "tier": 5,
+   "score": 0.2345,
+   "forms": [
+    "plufur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pluguffan",
+   "tier": 4,
+   "score": 0.6943,
+   "forms": [
+    "pluguen",
+    "pluguffan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pluherlin",
+   "tier": 5,
+   "score": 0.3744,
+   "forms": [
+    "pluherlin",
+    "pluhernin"
+   ],
+   "exact": [
+    "pluherlin",
+    "pluhernin"
+   ]
+  },
+  {
+   "display": "Plumaudan",
+   "tier": 5,
+   "score": 0.2982,
+   "forms": [
+    "plumaudan",
+    "pluvaodan"
+   ],
+   "exact": [
+    "plumaudan"
+   ]
+  },
+  {
+   "display": "Plumaugat",
+   "tier": 5,
+   "score": 0.3392,
+   "forms": [
+    "plumaugat"
+   ],
+   "exact": [
+    "plumaugat"
+   ]
+  },
+  {
+   "display": "Plumelec",
+   "tier": 3,
+   "score": 0.7688,
+   "forms": [
+    "plumelec"
+   ],
+   "exact": [
+    "plumelec"
+   ]
+  },
+  {
+   "display": "Pluméliau-Bieuzy",
+   "tier": 4,
+   "score": 0.5812,
+   "forms": [
+    "plumeliau bieuzy",
+    "pluniav bizhui"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plumelin",
+   "tier": 4,
+   "score": 0.5896,
+   "forms": [
+    "plumelin",
+    "pluverin"
+   ],
+   "exact": [
+    "plumelin",
+    "pluverin"
+   ]
+  },
+  {
+   "display": "Plumergat",
+   "tier": 3,
+   "score": 0.763,
+   "forms": [
+    "plumergat",
+    "pluvergad"
+   ],
+   "exact": [
+    "plumergat"
+   ]
+  },
+  {
+   "display": "Plumieux",
+   "tier": 4,
+   "score": 0.505,
+   "forms": [
+    "ploemioec",
+    "plumieu",
+    "pluvaeg"
+   ],
+   "exact": [
+    "plumieu"
+   ]
+  },
+  {
+   "display": "Pluneret",
+   "tier": 3,
+   "score": 0.8492,
+   "forms": [
+    "pluneret"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plurien",
+   "tier": 4,
+   "score": 0.6415,
+   "forms": [
+    "pluriaen",
+    "plurien"
+   ],
+   "exact": [
+    "plurien"
+   ]
+  },
+  {
+   "display": "Plusquellec",
+   "tier": 5,
+   "score": 0.3187,
+   "forms": [
+    "pluskelleg",
+    "plusquellec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plussulien",
+   "tier": 5,
+   "score": 0.2726,
+   "forms": [
+    "plussulien",
+    "plusulian"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pluvigner",
+   "tier": 3,
+   "score": 0.8442,
+   "forms": [
+    "kerreo",
+    "pleuwigner",
+    "pluvigner",
+    "saint bieuzy",
+    "saint ybre bubry"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pluzunet",
+   "tier": 5,
+   "score": 0.2663,
+   "forms": [
+    "pluned",
+    "pluzunet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pocé-les-Bois",
+   "tier": 5,
+   "score": 0.1725,
+   "forms": [
+    "poce les boi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Poilley",
+   "tier": 4,
+   "score": 0.6742,
+   "forms": [
+    "poilley"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Poligné",
+   "tier": 5,
+   "score": 0.4456,
+   "forms": [
+    "poligne"
+   ],
+   "exact": [
+    "poligne"
+   ]
+  },
+  {
+   "display": "Pommeret",
+   "tier": 5,
+   "score": 0.3015,
+   "forms": [
+    "peunvrid",
+    "pomeret",
+    "pommeret"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pommerit-le-Vicomte",
+   "tier": 4,
+   "score": 0.5126,
+   "forms": [
+    "pommerit le vicomte",
+    "pommerit les boi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pont-Aven",
+   "tier": 1,
+   "score": 0.9724,
+   "forms": [
+    "pont aven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pont-Croix",
+   "tier": 3,
+   "score": 0.8836,
+   "forms": [
+    "pont croix",
+    "pont libre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pont-de-Buis-lès-Quimerch",
+   "tier": 3,
+   "score": 0.7697,
+   "forms": [
+    "pont de bui les quimerc h",
+    "pont de bui les quimerch"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pont-l'Abbé",
+   "tier": 1,
+   "score": 0.9715,
+   "forms": [
+    "lambour",
+    "pont l abbe",
+    "pont marat"
+   ],
+   "exact": [
+    "lambour"
+   ]
+  },
+  {
+   "display": "Pont-Melvez",
+   "tier": 5,
+   "score": 0.3585,
+   "forms": [
+    "pont melvez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pont-Péan",
+   "tier": 4,
+   "score": 0.6734,
+   "forms": [
+    "pont pean"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pont-Scorff",
+   "tier": 3,
+   "score": 0.7889,
+   "forms": [
+    "pont scorff",
+    "pont skorf"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pontivy",
+   "tier": 1,
+   "score": 0.9807,
+   "forms": [
+    "pontivy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pontrieux",
+   "tier": 3,
+   "score": 0.8585,
+   "forms": [
+    "petite venise bretonne",
+    "petite venise du tregor",
+    "pontrieu"
+   ],
+   "exact": [
+    "pontrieu"
+   ]
+  },
+  {
+   "display": "Porcaro",
+   "tier": 4,
+   "score": 0.6173,
+   "forms": [
+    "porcaro",
+    "porzh karozh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pordic",
+   "tier": 3,
+   "score": 0.7856,
+   "forms": [
+    "pordic",
+    "porzhig"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Porspoder",
+   "tier": 3,
+   "score": 0.8652,
+   "forms": [
+    "larret",
+    "porspoder"
+   ],
+   "exact": [
+    "larret"
+   ]
+  },
+  {
+   "display": "Port-Launay",
+   "tier": 5,
+   "score": 0.4435,
+   "forms": [
+    "meilh ar wern",
+    "port launay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Port-Louis",
+   "tier": 2,
+   "score": 0.938,
+   "forms": [
+    "port de l egalite",
+    "port liberte",
+    "port loui",
+    "porzh loeiz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Les Portes du Coglais",
+   "tier": 5,
+   "score": 0.2956,
+   "forms": [
+    "porte du coglai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pouldergat",
+   "tier": 5,
+   "score": 0.2521,
+   "forms": [
+    "pouldergat",
+    "pouldregad"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pouldreuzic",
+   "tier": 3,
+   "score": 0.8208,
+   "forms": [
+    "lababan",
+    "pouldreuzic",
+    "pouldreuzig"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Poullan-sur-Mer",
+   "tier": 5,
+   "score": 0.4757,
+   "forms": [
+    "poullan",
+    "poullan sur mer",
+    "poullann"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Poullaouen",
+   "tier": 3,
+   "score": 0.8308,
+   "forms": [
+    "poullaouen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Prat",
+   "tier": 5,
+   "score": 0.459,
+   "forms": [
+    "prat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Prénessaye",
+   "tier": 5,
+   "score": 0.2257,
+   "forms": [
+    "perenezeg",
+    "prenessaye"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Primelin",
+   "tier": 5,
+   "score": 0.4786,
+   "forms": [
+    "prevel",
+    "primelin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Princé",
+   "tier": 5,
+   "score": 0.0938,
+   "forms": [
+    "prince"
+   ],
+   "exact": [
+    "prince"
+   ]
+  },
+  {
+   "display": "Priziac",
+   "tier": 4,
+   "score": 0.6315,
+   "forms": [
+    "priziac",
+    "prizieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Québriac",
+   "tier": 5,
+   "score": 0.2973,
+   "forms": [
+    "quebriac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quédillac",
+   "tier": 5,
+   "score": 0.3224,
+   "forms": [
+    "quedillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quéménéven",
+   "tier": 5,
+   "score": 0.4296,
+   "forms": [
+    "quemeneven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quemper-Guézennec",
+   "tier": 4,
+   "score": 0.531,
+   "forms": [
+    "kemper gwezhenneg",
+    "quemper guezennec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quemperven",
+   "tier": 5,
+   "score": 0.0343,
+   "forms": [
+    "kemperven",
+    "quemperven"
+   ],
+   "exact": [
+    "kemperven"
+   ]
+  },
+  {
+   "display": "Querrien",
+   "tier": 4,
+   "score": 0.6152,
+   "forms": [
+    "querrien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quessoy",
+   "tier": 4,
+   "score": 0.7085,
+   "forms": [
+    "kesoue",
+    "quessoy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Questembert",
+   "tier": 2,
+   "score": 0.928,
+   "forms": [
+    "questembert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quéven",
+   "tier": 3,
+   "score": 0.7982,
+   "forms": [
+    "kewenn",
+    "queven"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quévert",
+   "tier": 4,
+   "score": 0.5737,
+   "forms": [
+    "kever",
+    "quevert"
+   ],
+   "exact": [
+    "kever"
+   ]
+  },
+  {
+   "display": "Quiberon",
+   "tier": 1,
+   "score": 0.9791,
+   "forms": [
+    "kiberen",
+    "quiberon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Quillio",
+   "tier": 5,
+   "score": 0.4749,
+   "forms": [
+    "ar c hilliou",
+    "quillio"
+   ],
+   "exact": [
+    "quillio"
+   ]
+  },
+  {
+   "display": "Quimper",
+   "tier": 1,
+   "score": 0.9958,
+   "forms": [
+    "montagne sur odet",
+    "quimper"
+   ],
+   "exact": [
+    "quimper"
+   ]
+  },
+  {
+   "display": "Quimperlé",
+   "tier": 1,
+   "score": 0.9749,
+   "forms": [
+    "kemperle",
+    "quimperle"
+   ],
+   "exact": [
+    "kemperle",
+    "quimperle"
+   ]
+  },
+  {
+   "display": "Quintenic",
+   "tier": 5,
+   "score": 0.0578,
+   "forms": [
+    "kistenid",
+    "qeintenit",
+    "quintenic"
+   ],
+   "exact": [
+    "kistenid",
+    "quintenic"
+   ]
+  },
+  {
+   "display": "Quintin",
+   "tier": 3,
+   "score": 0.892,
+   "forms": [
+    "quintin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Quiou",
+   "tier": 5,
+   "score": 0.2186,
+   "forms": [
+    "ar c haeou",
+    "quiou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Quistinic",
+   "tier": 3,
+   "score": 0.7571,
+   "forms": [
+    "kistinid",
+    "quistinic"
+   ],
+   "exact": [
+    "kistinid",
+    "quistinic"
+   ]
+  },
+  {
+   "display": "Radenac",
+   "tier": 5,
+   "score": 0.4083,
+   "forms": [
+    "radenac",
+    "radeneg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rannée",
+   "tier": 5,
+   "score": 0.1089,
+   "forms": [
+    "rannee"
+   ],
+   "exact": [
+    "rannee"
+   ]
+  },
+  {
+   "display": "Rédené",
+   "tier": 5,
+   "score": 0.4916,
+   "forms": [
+    "redene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Redon",
+   "tier": 1,
+   "score": 0.9765,
+   "forms": [
+    "redon"
+   ],
+   "exact": [
+    "redon"
+   ]
+  },
+  {
+   "display": "Réguiny",
+   "tier": 5,
+   "score": 0.4887,
+   "forms": [
+    "regini",
+    "reguiny"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Relecq-Kerhuon",
+   "tier": 3,
+   "score": 0.8802,
+   "forms": [
+    "ar releg kerhuon",
+    "kerhuon",
+    "relecq kerhuon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Réminiac",
+   "tier": 5,
+   "score": 0.1951,
+   "forms": [
+    "reminiac",
+    "ruvenieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Renac",
+   "tier": 5,
+   "score": 0.2739,
+   "forms": [
+    "renac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rennes",
+   "tier": 1,
+   "score": 1.0,
+   "forms": [
+    "renne",
+    "ville de renne"
+   ],
+   "exact": [
+    "renne"
+   ]
+  },
+  {
+   "display": "Retiers",
+   "tier": 4,
+   "score": 0.6851,
+   "forms": [
+    "retier"
+   ],
+   "exact": [
+    "retier"
+   ]
+  },
+  {
+   "display": "Le Rheu",
+   "tier": 3,
+   "score": 0.8367,
+   "forms": [
+    "reuz",
+    "rheu",
+    "rheu moigne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Riantec",
+   "tier": 3,
+   "score": 0.8551,
+   "forms": [
+    "riantec",
+    "rianteg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Richardais",
+   "tier": 4,
+   "score": 0.6487,
+   "forms": [
+    "kerricharzh an arvor",
+    "richardai"
+   ],
+   "exact": [
+    "richardai"
+   ]
+  },
+  {
+   "display": "Riec-sur-Bélon",
+   "tier": 3,
+   "score": 0.8928,
+   "forms": [
+    "riec sur belon",
+    "rosbraz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rieux",
+   "tier": 4,
+   "score": 0.6926,
+   "forms": [
+    "reoz",
+    "rieu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rimou",
+   "tier": 5,
+   "score": 0.1675,
+   "forms": [
+    "rimou"
+   ],
+   "exact": [
+    "rimou"
+   ]
+  },
+  {
+   "display": "Rives-du-Couesnon",
+   "tier": 5,
+   "score": 0.3869,
+   "forms": [
+    "rive du couesnon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Roche-Bernard",
+   "tier": 2,
+   "score": 0.9472,
+   "forms": [
+    "ar roc h bernez",
+    "roche bernard",
+    "roche sauveur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Roche-Jaudy",
+   "tier": 4,
+   "score": 0.5888,
+   "forms": [
+    "roc h ar yeodi",
+    "roche jaudy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Roche-Maurice",
+   "tier": 4,
+   "score": 0.6357,
+   "forms": [
+    "roche",
+    "roche maurice"
+   ],
+   "exact": [
+    "roche"
+   ]
+  },
+  {
+   "display": "Rochefort-en-Terre",
+   "tier": 2,
+   "score": 0.9648,
+   "forms": [
+    "56196",
+    "roche des troi",
+    "rochefort",
+    "rochefort des troi",
+    "rochefort en terre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rohan",
+   "tier": 3,
+   "score": 0.83,
+   "forms": [
+    "roc han",
+    "rohan",
+    "saint gouvry",
+    "saint samson"
+   ],
+   "exact": [
+    "rohan"
+   ]
+  },
+  {
+   "display": "Romagné",
+   "tier": 5,
+   "score": 0.3116,
+   "forms": [
+    "romagne"
+   ],
+   "exact": [
+    "romagne"
+   ]
+  },
+  {
+   "display": "Romazy",
+   "tier": 5,
+   "score": 0.0272,
+   "forms": [
+    "romazy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Romillé",
+   "tier": 4,
+   "score": 0.7052,
+   "forms": [
+    "romille"
+   ],
+   "exact": [
+    "romille"
+   ]
+  },
+  {
+   "display": "Roscanvel",
+   "tier": 4,
+   "score": 0.6725,
+   "forms": [
+    "roscanvel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Roscoff",
+   "tier": 1,
+   "score": 0.9841,
+   "forms": [
+    "roscoff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rosnoën",
+   "tier": 5,
+   "score": 0.4192,
+   "forms": [
+    "rosloc hen",
+    "rosnoen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rospez",
+   "tier": 5,
+   "score": 0.201,
+   "forms": [
+    "rospez",
+    "rospezh"
+   ],
+   "exact": [
+    "rospez"
+   ]
+  },
+  {
+   "display": "Rosporden",
+   "tier": 3,
+   "score": 0.8869,
+   "forms": [
+    "rosporden",
+    "rosporden kernevel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rostrenen",
+   "tier": 2,
+   "score": 0.9146,
+   "forms": [
+    "bonen",
+    "rostrenen",
+    "rostrenenn"
+   ],
+   "exact": [
+    "bonen"
+   ]
+  },
+  {
+   "display": "Roudouallec",
+   "tier": 5,
+   "score": 0.4598,
+   "forms": [
+    "roudouallec",
+    "roudoualleg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rouillac",
+   "tier": 5,
+   "score": 0.0972,
+   "forms": [
+    "rioleg",
+    "rouillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Roz-Landrieux",
+   "tier": 5,
+   "score": 0.1734,
+   "forms": [
+    "roz landrieu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Roz-sur-Couesnon",
+   "tier": 4,
+   "score": 0.5285,
+   "forms": [
+    "roz sur couesnon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ruca",
+   "tier": 5,
+   "score": 0.2052,
+   "forms": [
+    "ruca"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ruffiac",
+   "tier": 5,
+   "score": 0.3811,
+   "forms": [
+    "ruffiac",
+    "rufieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Runan",
+   "tier": 5,
+   "score": 0.2353,
+   "forms": [
+    "runan"
+   ],
+   "exact": [
+    "runan"
+   ]
+  },
+  {
+   "display": "Sains",
+   "tier": 5,
+   "score": 0.3032,
+   "forms": [
+    "sain"
+   ],
+   "exact": [
+    "sain"
+   ]
+  },
+  {
+   "display": "Le Saint",
+   "tier": 5,
+   "score": 0.4983,
+   "forms": [
+    "ar sent",
+    "saint"
+   ],
+   "exact": [
+    "saint"
+   ]
+  },
+  {
+   "display": "Saint-Abraham",
+   "tier": 5,
+   "score": 0.2069,
+   "forms": [
+    "saint abraham",
+    "sant abran"
+   ],
+   "exact": [
+    "sant abran"
+   ]
+  },
+  {
+   "display": "Saint-Adrien",
+   "tier": 5,
+   "score": 0.0863,
+   "forms": [
+    "montrieu",
+    "saint adrien",
+    "sant rien"
+   ],
+   "exact": [
+    "montrieu",
+    "sant rien"
+   ]
+  },
+  {
+   "display": "Saint-Agathon",
+   "tier": 5,
+   "score": 0.4384,
+   "forms": [
+    "bonvalon",
+    "saint agathon",
+    "sant eganton"
+   ],
+   "exact": [
+    "sant eganton"
+   ]
+  },
+  {
+   "display": "Saint-Aignan",
+   "tier": 5,
+   "score": 0.3049,
+   "forms": [
+    "saint aignan",
+    "sant inan"
+   ],
+   "exact": [
+    "sant inan"
+   ]
+  },
+  {
+   "display": "Saint-Alban",
+   "tier": 4,
+   "score": 0.5662,
+   "forms": [
+    "saint alban"
+   ],
+   "exact": [
+    "saint alban"
+   ]
+  },
+  {
+   "display": "Saint-Allouestre",
+   "tier": 5,
+   "score": 0.1101,
+   "forms": [
+    "saint allouestre",
+    "sant aleustr"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-André-des-Eaux",
+   "tier": 5,
+   "score": 0.3438,
+   "forms": [
+    "saint andre des eau",
+    "sant andrev an dour"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Armel",
+   "tier": 4,
+   "score": 0.6872,
+   "forms": [
+    "saint armel",
+    "sant armael"
+   ],
+   "exact": [
+    "saint armel"
+   ]
+  },
+  {
+   "display": "Saint-Aubin-d'Aubigné",
+   "tier": 4,
+   "score": 0.6298,
+   "forms": [
+    "aubin philonome",
+    "saint aubin d aubigne",
+    "sant albin elvinieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Aubin-des-Landes",
+   "tier": 5,
+   "score": 0.178,
+   "forms": [
+    "saint aubin",
+    "saint aubin des lande"
+   ],
+   "exact": [
+    "saint aubin"
+   ]
+  },
+  {
+   "display": "Saint-Aubin-du-Cormier",
+   "tier": 3,
+   "score": 0.8534,
+   "forms": [
+    "montagne la foret",
+    "saint aubin du cormier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Avé",
+   "tier": 3,
+   "score": 0.8358,
+   "forms": [
+    "saint ave",
+    "sant teve"
+   ],
+   "exact": [
+    "saint ave",
+    "sant teve"
+   ]
+  },
+  {
+   "display": "Saint-Barnabé",
+   "tier": 5,
+   "score": 0.2697,
+   "forms": [
+    "saint barnabe",
+    "sant barnev"
+   ],
+   "exact": [
+    "sant barnev"
+   ]
+  },
+  {
+   "display": "Saint-Barthélemy",
+   "tier": 5,
+   "score": 0.4305,
+   "forms": [
+    "bartelame",
+    "saint barthelemy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Benoît-des-Ondes",
+   "tier": 5,
+   "score": 0.4874,
+   "forms": [
+    "saint benoit",
+    "saint benoit des onde"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Bihy",
+   "tier": 5,
+   "score": 0.0243,
+   "forms": [
+    "saint bihy"
+   ],
+   "exact": [
+    "saint bihy"
+   ]
+  },
+  {
+   "display": "Saint-Brandan",
+   "tier": 4,
+   "score": 0.5084,
+   "forms": [
+    "bertouhan",
+    "saint brandan",
+    "sant vedan"
+   ],
+   "exact": [
+    "sant vedan"
+   ]
+  },
+  {
+   "display": "Saint-Briac-sur-Mer",
+   "tier": 2,
+   "score": 0.9531,
+   "forms": [
+    "port briac",
+    "saint briac",
+    "saint briac sur mer",
+    "sant briag"
+   ],
+   "exact": [
+    "port briac",
+    "saint briac",
+    "sant briag"
+   ]
+  },
+  {
+   "display": "Saint-Brieuc",
+   "tier": 1,
+   "score": 0.995,
+   "forms": [
+    "port brieuc",
+    "saint brieuc",
+    "saint brieuc des val"
+   ],
+   "exact": [
+    "port brieuc",
+    "saint brieuc"
+   ]
+  },
+  {
+   "display": "Saint-Brieuc-de-Mauron",
+   "tier": 5,
+   "score": 0.1039,
+   "forms": [
+    "saint brieu de mauron",
+    "saint brieuc de mauron",
+    "sant brieg maoron"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Brieuc-des-Iffs",
+   "tier": 5,
+   "score": 0.0729,
+   "forms": [
+    "saint brieuc des iff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Broladre",
+   "tier": 5,
+   "score": 0.3116,
+   "forms": [
+    "saint broladre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Caradec",
+   "tier": 4,
+   "score": 0.5193,
+   "forms": [
+    "caradec sur oust",
+    "saint caradec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Caradec-Trégomel",
+   "tier": 5,
+   "score": 0.2496,
+   "forms": [
+    "saint caradec tregomel",
+    "sant karadeg tregonvael"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Carné",
+   "tier": 5,
+   "score": 0.1189,
+   "forms": [
+    "saint carne",
+    "sant karneg"
+   ],
+   "exact": [
+    "sant karneg"
+   ]
+  },
+  {
+   "display": "Saint-Carreuc",
+   "tier": 5,
+   "score": 0.3543,
+   "forms": [
+    "saent caroec",
+    "saint carreuc",
+    "sant kareg"
+   ],
+   "exact": [
+    "sant kareg"
+   ]
+  },
+  {
+   "display": "Saint-Cast-le-Guildo",
+   "tier": 2,
+   "score": 0.9539,
+   "forms": [
+    "havre cast",
+    "notre dame du guildo",
+    "saint cast",
+    "saint cast le guildo",
+    "sant kast ar gwildou"
+   ],
+   "exact": [
+    "saint cast"
+   ]
+  },
+  {
+   "display": "Saint-Christophe-de-Valains",
+   "tier": 5,
+   "score": 0.0168,
+   "forms": [
+    "saint christophe de valain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Christophe-des-Bois",
+   "tier": 5,
+   "score": 0.0423,
+   "forms": [
+    "saint christophe des boi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Clet",
+   "tier": 5,
+   "score": 0.3501,
+   "forms": [
+    "haut trieuc",
+    "leintreo",
+    "saint clet",
+    "sant kleve"
+   ],
+   "exact": [
+    "saint clet",
+    "sant kleve"
+   ]
+  },
+  {
+   "display": "Saint-Congard",
+   "tier": 5,
+   "score": 0.3409,
+   "forms": [
+    "saint congard",
+    "sant kongar"
+   ],
+   "exact": [
+    "sant kongar"
+   ]
+  },
+  {
+   "display": "Saint-Connan",
+   "tier": 5,
+   "score": 0.294,
+   "forms": [
+    "roc conan",
+    "saint connan",
+    "sant konan"
+   ],
+   "exact": [
+    "saint connan",
+    "sant konan"
+   ]
+  },
+  {
+   "display": "Saint-Connec",
+   "tier": 5,
+   "score": 0.0352,
+   "forms": [
+    "saint connec",
+    "sant koneg"
+   ],
+   "exact": [
+    "saint connec",
+    "sant koneg"
+   ]
+  },
+  {
+   "display": "Saint-Coulitz",
+   "tier": 4,
+   "score": 0.6834,
+   "forms": [
+    "saint coulitz",
+    "sant kouled"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Coulomb",
+   "tier": 3,
+   "score": 0.8425,
+   "forms": [
+    "coulomb rocher",
+    "saint coulomb"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Denoual",
+   "tier": 5,
+   "score": 0.1759,
+   "forms": [
+    "saint denoual",
+    "sant denwal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Derrien",
+   "tier": 5,
+   "score": 0.0888,
+   "forms": [
+    "saint derrien",
+    "sant derc hen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Didier",
+   "tier": 5,
+   "score": 0.4724,
+   "forms": [
+    "saint didier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Divy",
+   "tier": 4,
+   "score": 0.5905,
+   "forms": [
+    "saint divy",
+    "sant divi"
+   ],
+   "exact": [
+    "saint divy",
+    "sant divi"
+   ]
+  },
+  {
+   "display": "Saint-Dolay",
+   "tier": 4,
+   "score": 0.5331,
+   "forms": [
+    "saint dolay",
+    "sant aelwez"
+   ],
+   "exact": [
+    "saint dolay"
+   ]
+  },
+  {
+   "display": "Saint-Domineuc",
+   "tier": 5,
+   "score": 0.4472,
+   "forms": [
+    "saint domineuc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Donan",
+   "tier": 5,
+   "score": 0.4008,
+   "forms": [
+    "saint donan",
+    "sant donan"
+   ],
+   "exact": [
+    "saint donan",
+    "sant donan"
+   ]
+  },
+  {
+   "display": "Saint-Eloy",
+   "tier": 5,
+   "score": 0.1533,
+   "forms": [
+    "saint eloy",
+    "sant alar"
+   ],
+   "exact": [
+    "saint eloy",
+    "sant alar"
+   ]
+  },
+  {
+   "display": "Saint-Erblon",
+   "tier": 4,
+   "score": 0.6047,
+   "forms": [
+    "saint erblon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Étienne-du-Gué-de-l'Isle",
+   "tier": 5,
+   "score": 0.2575,
+   "forms": [
+    "etienne sur lie",
+    "saint etienne du gue de l isle",
+    "sant stefan ar roudouz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Évarzec",
+   "tier": 4,
+   "score": 0.6558,
+   "forms": [
+    "saint evarzec",
+    "sant evarzeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Fiacre",
+   "tier": 5,
+   "score": 0.2002,
+   "forms": [
+    "fiacre les boi",
+    "saint fiacre",
+    "sant fieg"
+   ],
+   "exact": [
+    "sant fieg"
+   ]
+  },
+  {
+   "display": "Saint-Frégant",
+   "tier": 5,
+   "score": 0.2705,
+   "forms": [
+    "saint fregant",
+    "sant fregan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Ganton",
+   "tier": 5,
+   "score": 0.2793,
+   "forms": [
+    "saint ganton"
+   ],
+   "exact": [
+    "saint ganton"
+   ]
+  },
+  {
+   "display": "Saint-Georges-de-Gréhaigne",
+   "tier": 5,
+   "score": 0.1005,
+   "forms": [
+    "saint george de grehaigne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Georges-de-Reintembault",
+   "tier": 4,
+   "score": 0.6474,
+   "forms": [
+    "saint george de reintembault"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gérand-Croixanvec",
+   "tier": 5,
+   "score": 0.1792,
+   "forms": [
+    "saint gerand croixanvec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Germain-du-Pinel",
+   "tier": 5,
+   "score": 0.0796,
+   "forms": [
+    "saint germain du pinel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Germain-en-Coglès",
+   "tier": 5,
+   "score": 0.325,
+   "forms": [
+    "saint germain en cogle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Germain-sur-Ille",
+   "tier": 5,
+   "score": 0.1876,
+   "forms": [
+    "saint germain sur ille"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gildas",
+   "tier": 5,
+   "score": 0.1198,
+   "forms": [
+    "gilda du chaneau",
+    "saint gilda",
+    "sant weltaz"
+   ],
+   "exact": [
+    "saint gilda"
+   ]
+  },
+  {
+   "display": "Saint-Gildas-de-Rhuys",
+   "tier": 3,
+   "score": 0.8987,
+   "forms": [
+    "abelard",
+    "lokentaz",
+    "saint gilda de rhuy",
+    "saint gilda devenue saint gilda de rhuy"
+   ],
+   "exact": [
+    "lokentaz"
+   ]
+  },
+  {
+   "display": "Saint-Gilles",
+   "tier": 4,
+   "score": 0.6181,
+   "forms": [
+    "saint gille"
+   ],
+   "exact": [
+    "saint gille"
+   ]
+  },
+  {
+   "display": "Saint-Gilles-les-Bois",
+   "tier": 5,
+   "score": 0.1252,
+   "forms": [
+    "bellevue",
+    "saint gille le vicomte",
+    "saint gille les boi",
+    "sant jili ar c hoad"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gilles-Pligeaux",
+   "tier": 5,
+   "score": 0.2337,
+   "forms": [
+    "mont pligeau",
+    "saint gille pligeau",
+    "sant jili plijo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gilles-Vieux-Marché",
+   "tier": 5,
+   "score": 0.1985,
+   "forms": [
+    "saint gille du vieu marche",
+    "saint gille vieu marche",
+    "sant jili ar c hozhvarc had"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Glen",
+   "tier": 5,
+   "score": 0.2077,
+   "forms": [
+    "saint glen",
+    "sant glenn"
+   ],
+   "exact": [
+    "saint glen"
+   ]
+  },
+  {
+   "display": "Saint-Goazec",
+   "tier": 4,
+   "score": 0.5955,
+   "forms": [
+    "saint goazec",
+    "sant wazeg"
+   ],
+   "exact": [
+    "sant wazeg"
+   ]
+  },
+  {
+   "display": "Saint-Gondran",
+   "tier": 5,
+   "score": 0.041,
+   "forms": [
+    "saint gondran"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gonlay",
+   "tier": 5,
+   "score": 0.0377,
+   "forms": [
+    "saint gonlay"
+   ],
+   "exact": [
+    "saint gonlay"
+   ]
+  },
+  {
+   "display": "Saint-Gonnery",
+   "tier": 5,
+   "score": 0.2898,
+   "forms": [
+    "saent goneri",
+    "saint gonnery",
+    "sant goneri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gorgon",
+   "tier": 5,
+   "score": 0.0888,
+   "forms": [
+    "saint gorgon",
+    "sant kogo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Gravé",
+   "tier": 5,
+   "score": 0.175,
+   "forms": [
+    "saint grave",
+    "sant gravez"
+   ],
+   "exact": [
+    "saint grave"
+   ]
+  },
+  {
+   "display": "Saint-Grégoire",
+   "tier": 3,
+   "score": 0.8769,
+   "forms": [
+    "saint gregoire",
+    "sant gregor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Guinoux",
+   "tier": 5,
+   "score": 0.1922,
+   "forms": [
+    "saint guinou",
+    "sant gwenou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Guyomard",
+   "tier": 5,
+   "score": 0.4966,
+   "forms": [
+    "saint guyomard",
+    "sant gwionvarc h"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Hélen",
+   "tier": 5,
+   "score": 0.3752,
+   "forms": [
+    "saint helen",
+    "sant haelen"
+   ],
+   "exact": [
+    "saint helen"
+   ]
+  },
+  {
+   "display": "Saint-Hernin",
+   "tier": 5,
+   "score": 0.3438,
+   "forms": [
+    "saint hernin",
+    "sant hern"
+   ],
+   "exact": [
+    "sant hern"
+   ]
+  },
+  {
+   "display": "Saint-Hervé",
+   "tier": 5,
+   "score": 0.1064,
+   "forms": [
+    "herve le loup",
+    "saint herve",
+    "sant herve"
+   ],
+   "exact": [
+    "saint herve",
+    "sant herve"
+   ]
+  },
+  {
+   "display": "Saint-Hilaire-des-Landes",
+   "tier": 5,
+   "score": 0.1713,
+   "forms": [
+    "saint hilaire",
+    "saint hilaire des lande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Igeaux",
+   "tier": 5,
+   "score": 0.0603,
+   "forms": [
+    "saint igeau",
+    "saint ygeau",
+    "sant ijo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jacques-de-la-Lande",
+   "tier": 2,
+   "score": 0.9112,
+   "forms": [
+    "saint jacque de la lande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jacut-de-la-Mer",
+   "tier": 2,
+   "score": 0.9154,
+   "forms": [
+    "isle jacut",
+    "port jacut",
+    "saint jacut de la mer",
+    "saint jacut devenue saint jacut de la mer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jacut-les-Pins",
+   "tier": 4,
+   "score": 0.6817,
+   "forms": [
+    "saint jacut",
+    "saint jacut les pin",
+    "sant yagu ar bineg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jean-Brévelay",
+   "tier": 4,
+   "score": 0.624,
+   "forms": [
+    "saint jean brevelay",
+    "sant yann brevele"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jean-du-Doigt",
+   "tier": 3,
+   "score": 0.7596,
+   "forms": [
+    "saint jean du doigt",
+    "sant yann ar biz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jean-Kerdaniel",
+   "tier": 5,
+   "score": 0.1922,
+   "forms": [
+    "boi daniel",
+    "saint jean kerdaniel",
+    "sant yann gerdaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jean-la-Poterie",
+   "tier": 5,
+   "score": 0.4497,
+   "forms": [
+    "poterie",
+    "saint jean des marai",
+    "saint jean la poterie",
+    "sant yann ar wern"
+   ],
+   "exact": [
+    "poterie"
+   ]
+  },
+  {
+   "display": "Saint-Jean-sur-Vilaine",
+   "tier": 5,
+   "score": 0.124,
+   "forms": [
+    "saint jean sur vilaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jean-Trolimon",
+   "tier": 5,
+   "score": 0.4192,
+   "forms": [
+    "saint jean trolimon",
+    "sant yann drolimon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jouan-de-l'Isle",
+   "tier": 5,
+   "score": 0.1147,
+   "forms": [
+    "saint jouan de l isle",
+    "sant yowan an enez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Jouan-des-Guérets",
+   "tier": 4,
+   "score": 0.732,
+   "forms": [
+    "saint jouan",
+    "saint jouan des gueret",
+    "sant yowan an havreg"
+   ],
+   "exact": [
+    "saint jouan"
+   ]
+  },
+  {
+   "display": "Saint-Judoce",
+   "tier": 5,
+   "score": 0.0712,
+   "forms": [
+    "saint judoce",
+    "sant yuzeg"
+   ],
+   "exact": [
+    "sant yuzeg"
+   ]
+  },
+  {
+   "display": "Saint-Julien",
+   "tier": 4,
+   "score": 0.5034,
+   "forms": [
+    "saint julien",
+    "sant juluan pentevr"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Just",
+   "tier": 3,
+   "score": 0.8434,
+   "forms": [
+    "saint just"
+   ],
+   "exact": [
+    "saint just"
+   ]
+  },
+  {
+   "display": "Saint-Juvat",
+   "tier": 5,
+   "score": 0.2018,
+   "forms": [
+    "saint juvat",
+    "sant yuvad"
+   ],
+   "exact": [
+    "saint juvat"
+   ]
+  },
+  {
+   "display": "Saint-Laurent",
+   "tier": 5,
+   "score": 0.1424,
+   "forms": [
+    "brolan",
+    "saint laurent",
+    "sant laoran"
+   ],
+   "exact": [
+    "sant laoran"
+   ]
+  },
+  {
+   "display": "Saint-Laurent-sur-Oust",
+   "tier": 5,
+   "score": 0.0561,
+   "forms": [
+    "saint laurent sur oust"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Léger-des-Prés",
+   "tier": 5,
+   "score": 0.0544,
+   "forms": [
+    "saint leger des pre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Léry",
+   "tier": 5,
+   "score": 0.1231,
+   "forms": [
+    "saint lery"
+   ],
+   "exact": [
+    "saint lery"
+   ]
+  },
+  {
+   "display": "Saint-Lormel",
+   "tier": 5,
+   "score": 0.108,
+   "forms": [
+    "saint lormel",
+    "sant lohenvel"
+   ],
+   "exact": [
+    "saint lormel"
+   ]
+  },
+  {
+   "display": "Saint-Lunaire",
+   "tier": 2,
+   "score": 0.933,
+   "forms": [
+    "port lunaire",
+    "saent lunerr",
+    "saint lunaire",
+    "sant luner"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-M'Hervé",
+   "tier": 5,
+   "score": 0.3174,
+   "forms": [
+    "saint m herve"
+   ],
+   "exact": [
+    "saint m herve"
+   ]
+  },
+  {
+   "display": "Saint-Maden",
+   "tier": 5,
+   "score": 0.0369,
+   "forms": [
+    "saint maden",
+    "sant maden"
+   ],
+   "exact": [
+    "saint maden",
+    "sant maden"
+   ]
+  },
+  {
+   "display": "Saint-Malo",
+   "tier": 1,
+   "score": 0.9992,
+   "forms": [
+    "cite corsaire",
+    "commune de la victoire",
+    "malouine",
+    "mont mamet",
+    "port malo",
+    "saint malo"
+   ],
+   "exact": [
+    "saint malo"
+   ]
+  },
+  {
+   "display": "Saint-Malo-de-Beignon",
+   "tier": 5,
+   "score": 0.3358,
+   "forms": [
+    "saint malo de beignon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Malo-de-Phily",
+   "tier": 5,
+   "score": 0.4384,
+   "forms": [
+    "saint malo de phily"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Malo-des-Trois-Fontaines",
+   "tier": 5,
+   "score": 0.1524,
+   "forms": [
+    "saint malo des troi fontaine",
+    "sant malou an teir feunteun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Malon-sur-Mel",
+   "tier": 5,
+   "score": 0.2027,
+   "forms": [
+    "saint malon",
+    "saint malon sur mel"
+   ],
+   "exact": [
+    "saint malon"
+   ]
+  },
+  {
+   "display": "Saint-Marc-le-Blanc",
+   "tier": 5,
+   "score": 0.2596,
+   "forms": [
+    "saint marc le blanc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Marcan",
+   "tier": 5,
+   "score": 0.2546,
+   "forms": [
+    "saint marcan"
+   ],
+   "exact": [
+    "saint marcan"
+   ]
+  },
+  {
+   "display": "Saint-Marcel",
+   "tier": 4,
+   "score": 0.5695,
+   "forms": [
+    "saint marcel"
+   ],
+   "exact": [
+    "saint marcel"
+   ]
+  },
+  {
+   "display": "Saint-Martin-des-Champs",
+   "tier": 4,
+   "score": 0.7379,
+   "forms": [
+    "saint martin des champ",
+    "sant martin war ar maez",
+    "unite des champ"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Martin-des-Prés",
+   "tier": 5,
+   "score": 0.2714,
+   "forms": [
+    "saint martin des pre",
+    "sant varzhin korle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Martin-sur-Oust",
+   "tier": 5,
+   "score": 0.4606,
+   "forms": [
+    "saint martin",
+    "saint martin sur oust"
+   ],
+   "exact": [
+    "saint martin"
+   ]
+  },
+  {
+   "display": "Saint-Maudan",
+   "tier": 5,
+   "score": 0.0042,
+   "forms": [
+    "saint maudan",
+    "sant maodan"
+   ],
+   "exact": [
+    "saint maudan",
+    "sant maodan"
+   ]
+  },
+  {
+   "display": "Saint-Maudez",
+   "tier": 5,
+   "score": 0.0507,
+   "forms": [
+    "saint maudez"
+   ],
+   "exact": [
+    "saint maudez"
+   ]
+  },
+  {
+   "display": "Saint-Maugan",
+   "tier": 5,
+   "score": 0.0507,
+   "forms": [
+    "saint maugan"
+   ],
+   "exact": [
+    "saint maugan"
+   ]
+  },
+  {
+   "display": "Saint-Mayeux",
+   "tier": 5,
+   "score": 0.281,
+   "forms": [
+    "saint mayeu",
+    "sant vaeg"
+   ],
+   "exact": [
+    "saint mayeu",
+    "sant vaeg"
+   ]
+  },
+  {
+   "display": "Saint-Médard-sur-Ille",
+   "tier": 5,
+   "score": 0.2425,
+   "forms": [
+    "saint medard",
+    "saint medard sur ille"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Méen",
+   "tier": 5,
+   "score": 0.4171,
+   "forms": [
+    "saint meen",
+    "sant neven"
+   ],
+   "exact": [
+    "saint meen",
+    "sant neven"
+   ]
+  },
+  {
+   "display": "Saint-Méen-le-Grand",
+   "tier": 3,
+   "score": 0.8886,
+   "forms": [
+    "meen la foret",
+    "meen libre",
+    "saint meen devenue saint meen le grand",
+    "saint meen le grand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Méloir-des-Bois",
+   "tier": 5,
+   "score": 0.0921,
+   "forms": [
+    "meloir richal",
+    "saint meloir",
+    "saint meloir des boi",
+    "sant melar"
+   ],
+   "exact": [
+    "meloir richal",
+    "sant melar"
+   ]
+  },
+  {
+   "display": "Saint-Méloir-des-Ondes",
+   "tier": 3,
+   "score": 0.773,
+   "forms": [
+    "meloir richeu",
+    "saint meloir des onde",
+    "sant meleg"
+   ],
+   "exact": [
+    "meloir richeu",
+    "sant meleg"
+   ]
+  },
+  {
+   "display": "Saint-Michel-de-Plélan",
+   "tier": 5,
+   "score": 0.0059,
+   "forms": [
+    "saint michel de plelan",
+    "sant mikael plelann"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Michel-en-Grève",
+   "tier": 4,
+   "score": 0.6499,
+   "forms": [
+    "lokmikael an traezh",
+    "saint michel en greve"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Nic",
+   "tier": 4,
+   "score": 0.7094,
+   "forms": [
+    "pentrez",
+    "saint nic",
+    "sant vig"
+   ],
+   "exact": [
+    "pentrez",
+    "saint nic",
+    "sant vig"
+   ]
+  },
+  {
+   "display": "Saint-Nicodème",
+   "tier": 5,
+   "score": 0.3317,
+   "forms": [
+    "saint nicodeme",
+    "sant nigouden"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Nicolas-du-Pélem",
+   "tier": 3,
+   "score": 0.758,
+   "forms": [
+    "saint nicola du pelem",
+    "sant nikolaz ar pelem"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Nicolas-du-Tertre",
+   "tier": 5,
+   "score": 0.0888,
+   "forms": [
+    "saint nicola du tertre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Nolff",
+   "tier": 4,
+   "score": 0.7111,
+   "forms": [
+    "dilliec",
+    "ecole jean rostand",
+    "saint nolff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Onen-la-Chapelle",
+   "tier": 5,
+   "score": 0.4464,
+   "forms": [
+    "saint onen la chapelle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Ouen-des-Alleux",
+   "tier": 5,
+   "score": 0.1683,
+   "forms": [
+    "saint ouen des alleu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Pabu",
+   "tier": 3,
+   "score": 0.7638,
+   "forms": [
+    "saint pabu",
+    "sant pabu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Péran",
+   "tier": 5,
+   "score": 0.1608,
+   "forms": [
+    "saint peran"
+   ],
+   "exact": [
+    "saint peran"
+   ]
+  },
+  {
+   "display": "Saint-Père-Marc-en-Poulet",
+   "tier": 3,
+   "score": 0.8593,
+   "forms": [
+    "saint pere",
+    "saint pere marc en poulet",
+    "saint peremarc en poulet"
+   ],
+   "exact": [
+    "saint pere"
+   ]
+  },
+  {
+   "display": "Saint-Pern",
+   "tier": 5,
+   "score": 0.3727,
+   "forms": [
+    "pern les rocher",
+    "saint pern"
+   ],
+   "exact": [
+    "saint pern"
+   ]
+  },
+  {
+   "display": "Saint-Perreux",
+   "tier": 5,
+   "score": 0.1311,
+   "forms": [
+    "saint perreu"
+   ],
+   "exact": [
+    "saint perreu"
+   ]
+  },
+  {
+   "display": "Saint-Péver",
+   "tier": 5,
+   "score": 0.1101,
+   "forms": [
+    "pever la lande",
+    "saint pever",
+    "sant pever"
+   ],
+   "exact": [
+    "saint pever",
+    "sant pever"
+   ]
+  },
+  {
+   "display": "Saint-Philibert",
+   "tier": 3,
+   "score": 0.8065,
+   "forms": [
+    "saint philibert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Pierre-Quiberon",
+   "tier": 3,
+   "score": 0.8325,
+   "forms": [
+    "56234",
+    "saint pierre",
+    "saint pierre quiberon"
+   ],
+   "exact": [
+    "saint pierre"
+   ]
+  },
+  {
+   "display": "Saint-Pol-de-Léon",
+   "tier": 2,
+   "score": 0.9665,
+   "forms": [
+    "kastell paol",
+    "mont frimaire",
+    "port pol",
+    "saint paul de leon",
+    "saint pol",
+    "saint pol de leon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Pôtan",
+   "tier": 5,
+   "score": 0.3903,
+   "forms": [
+    "saint potan"
+   ],
+   "exact": [
+    "saint potan"
+   ]
+  },
+  {
+   "display": "Saint-Quay-Perros",
+   "tier": 5,
+   "score": 0.3635,
+   "forms": [
+    "saint quay perro",
+    "sant ke perroz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Quay-Portrieux",
+   "tier": 2,
+   "score": 0.9313,
+   "forms": [
+    "saint quay",
+    "saint quay portrieu",
+    "sant ke porzh olued"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Rémy-du-Plain",
+   "tier": 5,
+   "score": 0.1365,
+   "forms": [
+    "saint remy du plain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Renan",
+   "tier": 2,
+   "score": 0.9397,
+   "forms": [
+    "lokournan",
+    "saint renan"
+   ],
+   "exact": [
+    "saint renan"
+   ]
+  },
+  {
+   "display": "Saint-Rieul",
+   "tier": 5,
+   "score": 0.0193,
+   "forms": [
+    "saint rieul",
+    "sant rieg"
+   ],
+   "exact": [
+    "saint rieul",
+    "sant rieg"
+   ]
+  },
+  {
+   "display": "Saint-Rivoal",
+   "tier": 4,
+   "score": 0.5578,
+   "forms": [
+    "saint rivoal",
+    "sant riwal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Samson-sur-Rance",
+   "tier": 5,
+   "score": 0.4271,
+   "forms": [
+    "saint samson sur rance",
+    "sant samzun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Sauveur",
+   "tier": 5,
+   "score": 0.3853,
+   "forms": [
+    "an dre nevez",
+    "saint sauveur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Sauveur-des-Landes",
+   "tier": 5,
+   "score": 0.1323,
+   "forms": [
+    "saint sauveur des lande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Ségal",
+   "tier": 5,
+   "score": 0.3677,
+   "forms": [
+    "saint segal",
+    "sant segal"
+   ],
+   "exact": [
+    "saint segal"
+   ]
+  },
+  {
+   "display": "Saint-Séglin",
+   "tier": 5,
+   "score": 0.134,
+   "forms": [
+    "saint seglin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Senoux",
+   "tier": 4,
+   "score": 0.5561,
+   "forms": [
+    "saint senou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Servais",
+   "tier": 5,
+   "score": 0.402,
+   "forms": [
+    "burthulet",
+    "saint servai",
+    "sant servez",
+    "sant servez kallag",
+    "sant servez landivizio"
+   ],
+   "exact": [
+    "saint servai",
+    "sant servez"
+   ]
+  },
+  {
+   "display": "Saint-Servant",
+   "tier": 5,
+   "score": 0.4581,
+   "forms": [
+    "saint servant",
+    "saint servant sur oust",
+    "sanctu servaciu",
+    "sant servant an oud"
+   ],
+   "exact": [
+    "saint servant"
+   ]
+  },
+  {
+   "display": "Saint-Suliac",
+   "tier": 2,
+   "score": 0.9213,
+   "forms": [
+    "port suliac",
+    "saint suliac",
+    "sant suliav"
+   ],
+   "exact": [
+    "saint suliac",
+    "sant suliav"
+   ]
+  },
+  {
+   "display": "Saint-Sulpice-des-Landes",
+   "tier": 5,
+   "score": 0.2211,
+   "forms": [
+    "saint sulpice des lande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Sulpice-la-Forêt",
+   "tier": 5,
+   "score": 0.3593,
+   "forms": [
+    "saint sulpice la foret"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Symphorien",
+   "tier": 5,
+   "score": 0.1692,
+   "forms": [
+    "saint symphorien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Thégonnec Loc-Eguiner",
+   "tier": 5,
+   "score": 0.3564,
+   "forms": [
+    "29127",
+    "saint thegonnec loc eguiner"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Thélo",
+   "tier": 5,
+   "score": 0.3237,
+   "forms": [
+    "saint thelo",
+    "sant teliav",
+    "thelo sur oust"
+   ],
+   "exact": [
+    "sant teliav"
+   ]
+  },
+  {
+   "display": "Saint-Thois",
+   "tier": 5,
+   "score": 0.407,
+   "forms": [
+    "saint thoi",
+    "santoz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Thonan",
+   "tier": 5,
+   "score": 0.3601,
+   "forms": [
+    "saint thonan",
+    "sant tonan"
+   ],
+   "exact": [
+    "saint thonan",
+    "sant tonan"
+   ]
+  },
+  {
+   "display": "Saint-Thual",
+   "tier": 5,
+   "score": 0.4908,
+   "forms": [
+    "motay thual",
+    "saint thual"
+   ],
+   "exact": [
+    "saint thual"
+   ]
+  },
+  {
+   "display": "Saint-Thurial",
+   "tier": 5,
+   "score": 0.428,
+   "forms": [
+    "saint thurial"
+   ],
+   "exact": [
+    "saint thurial"
+   ]
+  },
+  {
+   "display": "Saint-Thuriau",
+   "tier": 5,
+   "score": 0.3484,
+   "forms": [
+    "saint thuriau",
+    "sant turiav"
+   ],
+   "exact": [
+    "saint thuriau",
+    "sant turiav"
+   ]
+  },
+  {
+   "display": "Saint-Thurien",
+   "tier": 5,
+   "score": 0.4414,
+   "forms": [
+    "saint thurien",
+    "sant turian"
+   ],
+   "exact": [
+    "saint thurien",
+    "sant turian"
+   ]
+  },
+  {
+   "display": "Saint-Trimoël",
+   "tier": 5,
+   "score": 0.0134,
+   "forms": [
+    "saint trimoel",
+    "sant rivoued"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Tugdual",
+   "tier": 5,
+   "score": 0.3551,
+   "forms": [
+    "saint tugdual",
+    "sant tudal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Uniac",
+   "tier": 5,
+   "score": 0.1139,
+   "forms": [
+    "saint uniac"
+   ],
+   "exact": [
+    "saint uniac"
+   ]
+  },
+  {
+   "display": "Saint-Urbain",
+   "tier": 5,
+   "score": 0.3698,
+   "forms": [
+    "lannurvan",
+    "saint urbain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Vincent-sur-Oust",
+   "tier": 5,
+   "score": 0.3861,
+   "forms": [
+    "saint vincent",
+    "saint vincent sur oust",
+    "sant visant an oud"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Vougay",
+   "tier": 5,
+   "score": 0.3086,
+   "forms": [
+    "saint vougay",
+    "sant nouga"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saint-Vran",
+   "tier": 5,
+   "score": 0.2224,
+   "forms": [
+    "saint vran",
+    "sant vran"
+   ],
+   "exact": [
+    "saint vran",
+    "sant vran"
+   ]
+  },
+  {
+   "display": "Saint-Yvi",
+   "tier": 4,
+   "score": 0.6382,
+   "forms": [
+    "saint ivy",
+    "saint yvi",
+    "saint yvy",
+    "sant ivi"
+   ],
+   "exact": [
+    "saint ivy",
+    "saint yvi",
+    "saint yvy",
+    "sant ivi"
+   ]
+  },
+  {
+   "display": "Sainte-Anne-d'Auray",
+   "tier": 2,
+   "score": 0.9338,
+   "forms": [
+    "saint anne d auray",
+    "sainte anne",
+    "sainte anne d auray"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Anne-sur-Vilaine",
+   "tier": 5,
+   "score": 0.4008,
+   "forms": [
+    "sainte anne sur vilaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Brigitte",
+   "tier": 4,
+   "score": 0.5235,
+   "forms": [
+    "berc hed",
+    "sainte brigitte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Colombe",
+   "tier": 5,
+   "score": 0.1884,
+   "forms": [
+    "sainte colombe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Hélène",
+   "tier": 4,
+   "score": 0.5787,
+   "forms": [
+    "sainte helene",
+    "santez elen"
+   ],
+   "exact": [
+    "sainte helene"
+   ]
+  },
+  {
+   "display": "Sainte-Marie",
+   "tier": 4,
+   "score": 0.5645,
+   "forms": [
+    "sainte marie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Sève",
+   "tier": 5,
+   "score": 0.3166,
+   "forms": [
+    "sainte seve",
+    "sant seo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sainte-Tréphine",
+   "tier": 5,
+   "score": 0.1478,
+   "forms": [
+    "sainte trephine",
+    "sant trifin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Santec",
+   "tier": 3,
+   "score": 0.7873,
+   "forms": [
+    "santec",
+    "santeg"
+   ],
+   "exact": [
+    "santec",
+    "santeg"
+   ]
+  },
+  {
+   "display": "Sarzeau",
+   "tier": 2,
+   "score": 0.9631,
+   "forms": [
+    "sarzeau",
+    "sarzhav"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Saulnières",
+   "tier": 5,
+   "score": 0.2831,
+   "forms": [
+    "saulniere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sauzon",
+   "tier": 4,
+   "score": 0.7035,
+   "forms": [
+    "01126",
+    "port philippe",
+    "sauzon"
+   ],
+   "exact": [
+    "sauzon"
+   ]
+  },
+  {
+   "display": "Scaër",
+   "tier": 3,
+   "score": 0.8861,
+   "forms": [
+    "scaer",
+    "skaer"
+   ],
+   "exact": [
+    "scaer",
+    "skaer"
+   ]
+  },
+  {
+   "display": "Scrignac",
+   "tier": 4,
+   "score": 0.6374,
+   "forms": [
+    "scrignac",
+    "skrigneg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Séglien",
+   "tier": 5,
+   "score": 0.3492,
+   "forms": [
+    "seglien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Sel-de-Bretagne",
+   "tier": 5,
+   "score": 0.4807,
+   "forms": [
+    "sel",
+    "sel de bretagne"
+   ],
+   "exact": [
+    "sel de bretagne"
+   ]
+  },
+  {
+   "display": "La Selle-en-Luitré",
+   "tier": 5,
+   "score": 0.1265,
+   "forms": [
+    "selle en luitre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Selle-Guerchaise",
+   "tier": 5,
+   "score": 0.0,
+   "forms": [
+    "selle",
+    "selle guerchaise"
+   ],
+   "exact": [
+    "selle"
+   ]
+  },
+  {
+   "display": "Sens-de-Bretagne",
+   "tier": 4,
+   "score": 0.5092,
+   "forms": [
+    "sen de bretagne"
+   ],
+   "exact": [
+    "sen de bretagne"
+   ]
+  },
+  {
+   "display": "Séné",
+   "tier": 2,
+   "score": 0.902,
+   "forms": [
+    "sene",
+    "sine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Senven-Léhart",
+   "tier": 5,
+   "score": 0.0494,
+   "forms": [
+    "senven lehard",
+    "senven lehart"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sérent",
+   "tier": 3,
+   "score": 0.7898,
+   "forms": [
+    "serent"
+   ],
+   "exact": [
+    "serent"
+   ]
+  },
+  {
+   "display": "Servon-sur-Vilaine",
+   "tier": 4,
+   "score": 0.5779,
+   "forms": [
+    "servon",
+    "servon sur vilaine"
+   ],
+   "exact": [
+    "servon"
+   ]
+  },
+  {
+   "display": "Sévignac",
+   "tier": 5,
+   "score": 0.397,
+   "forms": [
+    "sevignac",
+    "sevinieg"
+   ],
+   "exact": [
+    "sevignac"
+   ]
+  },
+  {
+   "display": "Sibiril",
+   "tier": 4,
+   "score": 0.696,
+   "forms": [
+    "sibiril",
+    "sibirill"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Silfiac",
+   "tier": 5,
+   "score": 0.3719,
+   "forms": [
+    "silfiac",
+    "silieg"
+   ],
+   "exact": [
+    "silieg"
+   ]
+  },
+  {
+   "display": "Sixt-sur-Aff",
+   "tier": 4,
+   "score": 0.5017,
+   "forms": [
+    "sixt",
+    "sixt sur aff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sizun",
+   "tier": 3,
+   "score": 0.7663,
+   "forms": [
+    "sizun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sougeal",
+   "tier": 5,
+   "score": 0.0808,
+   "forms": [
+    "sougeal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Sourn",
+   "tier": 5,
+   "score": 0.2948,
+   "forms": [
+    "ar sorn",
+    "sourn"
+   ],
+   "exact": [
+    "sourn"
+   ]
+  },
+  {
+   "display": "Spézet",
+   "tier": 4,
+   "score": 0.7412,
+   "forms": [
+    "speied",
+    "spezet"
+   ],
+   "exact": [
+    "speied"
+   ]
+  },
+  {
+   "display": "Squiffiec",
+   "tier": 5,
+   "score": 0.1298,
+   "forms": [
+    "skinvieg",
+    "squiffiec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sulniac",
+   "tier": 4,
+   "score": 0.5997,
+   "forms": [
+    "sulniac",
+    "sulnieg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Surzur",
+   "tier": 4,
+   "score": 0.7404,
+   "forms": [
+    "surzhur",
+    "surzur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Taden",
+   "tier": 4,
+   "score": 0.6549,
+   "forms": [
+    "taden"
+   ],
+   "exact": [
+    "taden"
+   ]
+  },
+  {
+   "display": "Taillis",
+   "tier": 5,
+   "score": 0.057,
+   "forms": [
+    "tailli"
+   ],
+   "exact": [
+    "tailli"
+   ]
+  },
+  {
+   "display": "Talensac",
+   "tier": 4,
+   "score": 0.5008,
+   "forms": [
+    "talensac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Taulé",
+   "tier": 4,
+   "score": 0.5511,
+   "forms": [
+    "taole",
+    "taule"
+   ],
+   "exact": [
+    "taole",
+    "taule"
+   ]
+  },
+  {
+   "display": "Taupont",
+   "tier": 4,
+   "score": 0.572,
+   "forms": [
+    "talbont",
+    "taupont"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Teillay",
+   "tier": 5,
+   "score": 0.2621,
+   "forms": [
+    "teillay"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Telgruc-sur-Mer",
+   "tier": 4,
+   "score": 0.7358,
+   "forms": [
+    "telgruc sur mer",
+    "terrug"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Théhillac",
+   "tier": 5,
+   "score": 0.191,
+   "forms": [
+    "tehelieg",
+    "thehillac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Theil-de-Bretagne",
+   "tier": 5,
+   "score": 0.2328,
+   "forms": [
+    "theil de bretagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Theix-Noyalo",
+   "tier": 4,
+   "score": 0.7454,
+   "forms": [
+    "theix noyalo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thorigné-Fouillard",
+   "tier": 3,
+   "score": 0.7931,
+   "forms": [
+    "thore folleen",
+    "thore folleenne",
+    "thorigne",
+    "thorigne fouillard",
+    "thorigne sur vilaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Thourie",
+   "tier": 5,
+   "score": 0.1566,
+   "forms": [
+    "thourie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Tiercent",
+   "tier": 5,
+   "score": 0.036,
+   "forms": [
+    "tiercent"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tinténiac",
+   "tier": 4,
+   "score": 0.7245,
+   "forms": [
+    "tinteniac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tonquédec",
+   "tier": 4,
+   "score": 0.6248,
+   "forms": [
+    "tonkedeg",
+    "tonquedec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Torcé",
+   "tier": 5,
+   "score": 0.286,
+   "forms": [
+    "torce"
+   ],
+   "exact": [
+    "torce"
+   ]
+  },
+  {
+   "display": "Le Tour-du-Parc",
+   "tier": 4,
+   "score": 0.6935,
+   "forms": [
+    "pencadenic",
+    "tour du parc",
+    "tro park"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tourch",
+   "tier": 4,
+   "score": 0.7027,
+   "forms": [
+    "tourc h",
+    "tourch"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tramain",
+   "tier": 5,
+   "score": 0.0653,
+   "forms": [
+    "tramain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trans-la-Forêt",
+   "tier": 5,
+   "score": 0.361,
+   "forms": [
+    "tran",
+    "tran la foret"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréal",
+   "tier": 5,
+   "score": 0.1767,
+   "forms": [
+    "treal"
+   ],
+   "exact": [
+    "treal"
+   ]
+  },
+  {
+   "display": "Trébabu",
+   "tier": 5,
+   "score": 0.1449,
+   "forms": [
+    "trebabu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trébédan",
+   "tier": 5,
+   "score": 0.1499,
+   "forms": [
+    "trebedan",
+    "treberan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trébeurden",
+   "tier": 2,
+   "score": 0.9238,
+   "forms": [
+    "trebeurden"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trébrivan",
+   "tier": 5,
+   "score": 0.2186,
+   "forms": [
+    "trabrivan",
+    "trebrivan"
+   ],
+   "exact": [
+    "trebrivan"
+   ]
+  },
+  {
+   "display": "Trébry",
+   "tier": 5,
+   "score": 0.2479,
+   "forms": [
+    "trebrid",
+    "trebrit",
+    "trebry"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trédaniel",
+   "tier": 5,
+   "score": 0.2169,
+   "forms": [
+    "tredaniel",
+    "trezeniel"
+   ],
+   "exact": [
+    "trezeniel"
+   ]
+  },
+  {
+   "display": "Trédarzec",
+   "tier": 4,
+   "score": 0.5209,
+   "forms": [
+    "tredarzec",
+    "tredarzeg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trédias",
+   "tier": 5,
+   "score": 0.0436,
+   "forms": [
+    "tredia",
+    "trediarn"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trédion",
+   "tier": 5,
+   "score": 0.4347,
+   "forms": [
+    "tredion"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trédrez-Locquémeau",
+   "tier": 4,
+   "score": 0.7479,
+   "forms": [
+    "locquemeau",
+    "tredraezh lokemo",
+    "tredrez",
+    "tredrez locquemeau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréduder",
+   "tier": 5,
+   "score": 0.0854,
+   "forms": [
+    "treduder"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Treffendel",
+   "tier": 5,
+   "score": 0.3237,
+   "forms": [
+    "treffendel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Treffiagat",
+   "tier": 3,
+   "score": 0.8199,
+   "forms": [
+    "lechiagat",
+    "treffiagat",
+    "treffiagat lechiagat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Treffléan",
+   "tier": 5,
+   "score": 0.4648,
+   "forms": [
+    "trefflean"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Treffrin",
+   "tier": 5,
+   "score": 0.299,
+   "forms": [
+    "treffrin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréflaouénan",
+   "tier": 5,
+   "score": 0.2487,
+   "forms": [
+    "treflaouenan",
+    "trelaouenan"
+   ],
+   "exact": [
+    "trelaouenan"
+   ]
+  },
+  {
+   "display": "Tréflévénez",
+   "tier": 5,
+   "score": 0.1403,
+   "forms": [
+    "treflevenez",
+    "trelevenez",
+    "trevreur"
+   ],
+   "exact": [
+    "treflevenez",
+    "trelevenez"
+   ]
+  },
+  {
+   "display": "Tréflez",
+   "tier": 5,
+   "score": 0.4435,
+   "forms": [
+    "treflez",
+    "trelez"
+   ],
+   "exact": [
+    "treflez"
+   ]
+  },
+  {
+   "display": "Tréfumel",
+   "tier": 5,
+   "score": 0.0905,
+   "forms": [
+    "trefermael",
+    "trefumel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trégarantec",
+   "tier": 5,
+   "score": 0.0595,
+   "forms": [
+    "tregarantec",
+    "tregaranteg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trégarvan",
+   "tier": 5,
+   "score": 0.4154,
+   "forms": [
+    "tregarvan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trégastel",
+   "tier": 2,
+   "score": 0.9347,
+   "forms": [
+    "tregastel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréglamus",
+   "tier": 5,
+   "score": 0.2291,
+   "forms": [
+    "treglamu",
+    "treglanviz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréglonou",
+   "tier": 5,
+   "score": 0.1311,
+   "forms": [
+    "treglonou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trégomeur",
+   "tier": 5,
+   "score": 0.3886,
+   "forms": [
+    "tregomeur",
+    "tregonveur"
+   ],
+   "exact": [
+    "tregomeur"
+   ]
+  },
+  {
+   "display": "Trégonneau",
+   "tier": 5,
+   "score": 0.0084,
+   "forms": [
+    "tregonev",
+    "tregonneau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trégourez",
+   "tier": 5,
+   "score": 0.3379,
+   "forms": [
+    "tregourez"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trégrom",
+   "tier": 5,
+   "score": 0.392,
+   "forms": [
+    "tregrom"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréguennec",
+   "tier": 5,
+   "score": 0.4858,
+   "forms": [
+    "tregeneg",
+    "treguennec"
+   ],
+   "exact": [
+    "tregeneg"
+   ]
+  },
+  {
+   "display": "Trégueux",
+   "tier": 4,
+   "score": 0.727,
+   "forms": [
+    "tregaeg",
+    "tregueu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréguidel",
+   "tier": 5,
+   "score": 0.0787,
+   "forms": [
+    "tregedel",
+    "treguidel"
+   ],
+   "exact": [
+    "treguidel"
+   ]
+  },
+  {
+   "display": "Tréguier",
+   "tier": 2,
+   "score": 0.9673,
+   "forms": [
+    "landreger",
+    "lantriguet",
+    "treguier"
+   ],
+   "exact": [
+    "treguier"
+   ]
+  },
+  {
+   "display": "Trégunc",
+   "tier": 2,
+   "score": 0.907,
+   "forms": [
+    "kersidan",
+    "tregon",
+    "tregunc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréhorenteuc",
+   "tier": 4,
+   "score": 0.7219,
+   "forms": [
+    "trec horanteg",
+    "trehorenteuc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Tréhou",
+   "tier": 5,
+   "score": 0.206,
+   "forms": [
+    "an treou leon",
+    "trehou"
+   ],
+   "exact": [
+    "trehou"
+   ]
+  },
+  {
+   "display": "Trélévern",
+   "tier": 4,
+   "score": 0.5607,
+   "forms": [
+    "trelevern"
+   ],
+   "exact": [
+    "trelevern"
+   ]
+  },
+  {
+   "display": "Trélivan",
+   "tier": 5,
+   "score": 0.3668,
+   "forms": [
+    "trelivan"
+   ],
+   "exact": [
+    "trelivan"
+   ]
+  },
+  {
+   "display": "Trémaouézan",
+   "tier": 5,
+   "score": 0.1545,
+   "forms": [
+    "tremaouezan"
+   ],
+   "exact": [
+    "tremaouezan"
+   ]
+  },
+  {
+   "display": "Trémargat",
+   "tier": 4,
+   "score": 0.562,
+   "forms": [
+    "tremargad",
+    "tremargat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trémeheuc",
+   "tier": 5,
+   "score": 0.005,
+   "forms": [
+    "tremeheuc"
+   ],
+   "exact": [
+    "tremeheuc"
+   ]
+  },
+  {
+   "display": "Trémel",
+   "tier": 5,
+   "score": 0.2098,
+   "forms": [
+    "tremael",
+    "tremel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréméoc",
+   "tier": 5,
+   "score": 0.2379,
+   "forms": [
+    "tremeoc",
+    "tremeog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréméreuc",
+   "tier": 5,
+   "score": 0.2035,
+   "forms": [
+    "tremereg",
+    "tremereuc"
+   ],
+   "exact": [
+    "tremereg",
+    "tremereuc"
+   ]
+  },
+  {
+   "display": "Trémeur",
+   "tier": 5,
+   "score": 0.121,
+   "forms": [
+    "tremeur"
+   ],
+   "exact": [
+    "tremeur"
+   ]
+  },
+  {
+   "display": "Tréméven",
+   "tier": 5,
+   "score": 0.0913,
+   "forms": [
+    "tremeven",
+    "tremeven gouelou",
+    "tremeven kemperle"
+   ],
+   "exact": [
+    "tremeven"
+   ]
+  },
+  {
+   "display": "Trémorel",
+   "tier": 5,
+   "score": 0.2588,
+   "forms": [
+    "tremorae",
+    "tremorel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trémuson",
+   "tier": 5,
+   "score": 0.4535,
+   "forms": [
+    "tremuson",
+    "tremuzon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tréogan",
+   "tier": 3,
+   "score": 0.8827,
+   "forms": [
+    "treogan"
+   ],
+   "exact": [
+    "treogan"
+   ]
+  },
+  {
+   "display": "Tréogat",
+   "tier": 5,
+   "score": 0.2751,
+   "forms": [
+    "tregad",
+    "treogat"
+   ],
+   "exact": [
+    "treogat"
+   ]
+  },
+  {
+   "display": "Tréouergat",
+   "tier": 5,
+   "score": 0.1432,
+   "forms": [
+    "treouergat"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tresbœuf",
+   "tier": 5,
+   "score": 0.2822,
+   "forms": [
+    "tresboeuf"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tressignaux",
+   "tier": 5,
+   "score": 0.0737,
+   "forms": [
+    "tresigne",
+    "tressignal"
+   ],
+   "exact": [
+    "tresigne"
+   ]
+  },
+  {
+   "display": "Trévé",
+   "tier": 5,
+   "score": 0.3844,
+   "forms": [
+    "treve"
+   ],
+   "exact": [
+    "treve"
+   ]
+  },
+  {
+   "display": "Tréveneuc",
+   "tier": 4,
+   "score": 0.5607,
+   "forms": [
+    "treveneg",
+    "treveneuc"
+   ],
+   "exact": [
+    "treveneg",
+    "treveneuc"
+   ]
+  },
+  {
+   "display": "Trévérec",
+   "tier": 5,
+   "score": 0.0075,
+   "forms": [
+    "treverec",
+    "trevereg"
+   ],
+   "exact": [
+    "treverec",
+    "trevereg"
+   ]
+  },
+  {
+   "display": "Trévérien",
+   "tier": 5,
+   "score": 0.3735,
+   "forms": [
+    "treverien"
+   ],
+   "exact": [
+    "treverien"
+   ]
+  },
+  {
+   "display": "Le Trévoux",
+   "tier": 5,
+   "score": 0.4941,
+   "forms": [
+    "an treou",
+    "an treou kerne",
+    "trevou"
+   ],
+   "exact": [
+    "an treou",
+    "trevou"
+   ]
+  },
+  {
+   "display": "Trévou-Tréguignec",
+   "tier": 4,
+   "score": 0.6633,
+   "forms": [
+    "an trevou",
+    "trevou treguignec"
+   ],
+   "exact": [
+    "an trevou"
+   ]
+  },
+  {
+   "display": "Trévron",
+   "tier": 5,
+   "score": 0.139,
+   "forms": [
+    "treveron",
+    "trevron"
+   ],
+   "exact": [
+    "treveron"
+   ]
+  },
+  {
+   "display": "Trézény",
+   "tier": 5,
+   "score": 0.0025,
+   "forms": [
+    "trezeni",
+    "trezeny"
+   ],
+   "exact": [
+    "trezeni"
+   ]
+  },
+  {
+   "display": "Trézilidé",
+   "tier": 5,
+   "score": 0.0176,
+   "forms": [
+    "trezilide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Trimer",
+   "tier": 5,
+   "score": 0.0235,
+   "forms": [
+    "trimer"
+   ],
+   "exact": [
+    "trimer"
+   ]
+  },
+  {
+   "display": "La Trinité-Porhoët",
+   "tier": 5,
+   "score": 0.4556,
+   "forms": [
+    "an drinded porc hoed",
+    "trinite",
+    "trinite porhoet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Trinité-sur-Mer",
+   "tier": 2,
+   "score": 0.9615,
+   "forms": [
+    "an drinded karnag",
+    "trinite sur mer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Trinité-Surzur",
+   "tier": 5,
+   "score": 0.3032,
+   "forms": [
+    "an drinded surzhur",
+    "trinite surzur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Troguéry",
+   "tier": 5,
+   "score": 0.0586,
+   "forms": [
+    "trogeri",
+    "troguery"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Tronchet",
+   "tier": 4,
+   "score": 0.5109,
+   "forms": [
+    "tronchet"
+   ],
+   "exact": [
+    "tronchet"
+   ]
+  },
+  {
+   "display": "Uzel",
+   "tier": 3,
+   "score": 0.7588,
+   "forms": [
+    "uzel",
+    "uzel pre l oust"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Val-Couesnon",
+   "tier": 4,
+   "score": 0.7194,
+   "forms": [
+    "traon kouenon",
+    "val couesnon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Val d'Anast",
+   "tier": 4,
+   "score": 0.7429,
+   "forms": [
+    "val d anast"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Val-d'Arguenon",
+   "tier": 5,
+   "score": 0.4397,
+   "forms": [
+    "val d arguenon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Val-d'Izé",
+   "tier": 4,
+   "score": 0.5503,
+   "forms": [
+    "val d ize"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Val d'Oust",
+   "tier": 4,
+   "score": 0.6055,
+   "forms": [
+    "val d oust"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vannes",
+   "tier": 1,
+   "score": 0.9975,
+   "forms": [
+    "vanne"
+   ],
+   "exact": [
+    "vanne"
+   ]
+  },
+  {
+   "display": "Vergéal",
+   "tier": 5,
+   "score": 0.0117,
+   "forms": [
+    "vergeal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Verger",
+   "tier": 5,
+   "score": 0.3467,
+   "forms": [
+    "verger"
+   ],
+   "exact": [
+    "verger"
+   ]
+  },
+  {
+   "display": "Vern-sur-Seiche",
+   "tier": 3,
+   "score": 0.8174,
+   "forms": [
+    "vern",
+    "vern sur seiche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vezin-le-Coquet",
+   "tier": 4,
+   "score": 0.7169,
+   "forms": [
+    "vezin le coquet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Vicomté-sur-Rance",
+   "tier": 5,
+   "score": 0.3425,
+   "forms": [
+    "kerveskont",
+    "vicomte sur rance"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Vieux-Bourg",
+   "tier": 5,
+   "score": 0.2278,
+   "forms": [
+    "bourc h kintin",
+    "vieu bourg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Le Vieux-Marché",
+   "tier": 4,
+   "score": 0.7069,
+   "forms": [
+    "ar c houerc had",
+    "vieu marche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vieux-Viel",
+   "tier": 5,
+   "score": 0.0611,
+   "forms": [
+    "vieu viel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vieux-Vy-sur-Couesnon",
+   "tier": 5,
+   "score": 0.3258,
+   "forms": [
+    "vieu vy sur couesnon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vignoc",
+   "tier": 5,
+   "score": 0.3451,
+   "forms": [
+    "vignoc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vildé-Guingalan",
+   "tier": 5,
+   "score": 0.1859,
+   "forms": [
+    "vilde guingalan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Villamée",
+   "tier": 5,
+   "score": 0.0452,
+   "forms": [
+    "villamee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "La Ville-ès-Nonais",
+   "tier": 5,
+   "score": 0.3626,
+   "forms": [
+    "ville es nonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Visseiche",
+   "tier": 5,
+   "score": 0.1173,
+   "forms": [
+    "visseiche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vitré",
+   "tier": 1,
+   "score": 0.9858,
+   "forms": [
+    "gwitreg",
+    "vitrae",
+    "vitre"
+   ],
+   "exact": [
+    "vitrae",
+    "vitre"
+   ]
+  },
+  {
+   "display": "Le Vivier-sur-Mer",
+   "tier": 4,
+   "score": 0.5771,
+   "forms": [
+    "35361",
+    "vivier",
+    "vivier sur mer"
+   ],
+   "exact": [
+    "vivier"
+   ]
+  },
+  {
+   "display": "La Vraie-Croix",
+   "tier": 4,
+   "score": 0.6106,
+   "forms": [
+    "langroez",
+    "vraie croix"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yffiniac",
+   "tier": 3,
+   "score": 0.8509,
+   "forms": [
+    "yffiniac"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yvias",
+   "tier": 5,
+   "score": 0.2152,
+   "forms": [
+    "eviaz",
+    "yvia"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yvignac-la-Tour",
+   "tier": 5,
+   "score": 0.4481,
+   "forms": [
+    "ivinieg",
+    "yvignac",
+    "yvignac la tour"
+   ],
+   "exact": []
+  }
+ ]
+}

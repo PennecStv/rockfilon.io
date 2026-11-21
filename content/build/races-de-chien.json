@@ -1,0 +1,4972 @@
+{
+ "id": "races-de-chien",
+ "prompt": "Cite une race de chien",
+ "categorie": "animaux",
+ "built_at": "2026-11-20T18:02:35+00:00",
+ "answers": [
+  {
+   "display": "Affenpinscher",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "affenpinscher"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Africanis",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "africani"
+   ],
+   "exact": [
+    "africani"
+   ]
+  },
+  {
+   "display": "Agassin",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "agassin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Aïdi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "aidi",
+    "berger de l atla",
+    "chien d atla",
+    "chien de montagne de l atla",
+    "chien des douar",
+    "chien kabyle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Airedale Terrier",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "airedale terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akbash",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "akba",
+    "akbash"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akita américain",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "akita americain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akita Inu",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "akita inu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Akita matagi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "akita matagi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alangu Mastiff",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "alangu mastiff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alano Español",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "alano espanol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alapaha Blue Blood Bulldog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "alapaha blue blood bulldog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Alaskan Klee Kai",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "alaskan klee kai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "American Alsatian",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "american alsatian"
+   ],
+   "exact": []
+  },
+  {
+   "display": "American Bully",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "american bully"
+   ],
+   "exact": []
+  },
+  {
+   "display": "American Eskimo",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "american eskimo",
+    "esquimau americain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "American Fox Terrier",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "american fox terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "American Hairless Terrier",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "american hairles terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "American Pit Bull Terrier",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "american pit bull terrier",
+    "pitt bull terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "american staffordshire terrier",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "american staffordshire",
+    "american staffordshire terrier",
+    "amstaff",
+    "bull terrier du staffordshire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Anglo-Français de petite vénerie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "anglo francai de petite venerie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ariégeois",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ariegeoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Armant",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "armant"
+   ],
+   "exact": [
+    "armant"
+   ]
+  },
+  {
+   "display": "Australian Bulldog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "australian bulldog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Australian Cobberdog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "australian cobberdog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Australian Kelpie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "australian kelpie",
+    "kelpie australien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Azawakh",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "azawakh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bakharwal",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bakharwal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bangkaew de Thaïlande",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bangkaew de thailande"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Barbet",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "barbet"
+   ],
+   "exact": [
+    "barbet"
+   ]
+  },
+  {
+   "display": "Barbu tchèque",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "barbu tcheque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Barzoï",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "barzoi",
+    "borzoi",
+    "levrier barzoi",
+    "levrier russe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basati Alaunt",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "basati alaunt"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basenji",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "basenji"
+   ],
+   "exact": []
+  },
+  {
+   "display": "basset",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "basset"
+   ],
+   "exact": [
+    "basset"
+   ]
+  },
+  {
+   "display": "Basset artésien normand",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "basset artesien",
+    "basset artesien normand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basset bleu de Gascogne",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "basset bleu de gascogne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "basset d’Artois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "basset d artoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basset de Westphalie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "basset de westphalie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basset des Alpes",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "alpenlandische dachsbracke",
+    "basset des alpe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basset fauve de Bretagne",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "basset fauve de bretagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "basset hound",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "basset hound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Basset Saintongeois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "basset saintongeoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "beagle",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "beagle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Beagle-harrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "beagle harrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Beauceron",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bas rouge",
+    "beauceron",
+    "berger de beauce",
+    "berger francai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bedlington terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bedlington terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger allemand",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "alsatian",
+    "berger allemand",
+    "berger alsacien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger américain miniature",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger americain miniature"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger anglais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger anglai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger australien",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "aussie",
+    "berger australien",
+    "berger australien shepherd"
+   ],
+   "exact": [
+    "aussie"
+   ]
+  },
+  {
+   "display": "Berger basque",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger basque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger belge",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "berger belge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger belge Groenendael",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger belge groenendael",
+    "groenendael"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger belge Laekenois",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger belge laekenoi",
+    "laekenoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger belge Tervueren",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger belge tervueren",
+    "berger belge tervuren",
+    "chien de berger belge",
+    "chien de tervuren",
+    "tervueren"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger Blanc",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger blanc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger blanc suisse",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "berger blanc suisse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger bulgare",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger bulgare",
+    "berger karakachan",
+    "berger karakatchan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger croate",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger croate",
+    "hrvatski ovcar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger d'Anatolie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger d anatolie",
+    "chien de berger d anatolie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger d'Asie Centrale",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "alabay",
+    "berger d asie centrale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger d'Auvergne",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger d auvergne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Abruzzes et Maremme",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger de abruzze et maremme",
+    "berger de la maremme",
+    "berger de la maremme et des abruzze",
+    "berger des abruzze"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Bergame",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger bergamasque",
+    "berger de bergame"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Bohême",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger de boheme"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Brie",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger de brie",
+    "briard"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Crau",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger de crau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger de Kars",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger de kar",
+    "chien de kar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger de la Serra de Aires",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger de la serra de aire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Majorque",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger de majorque",
+    "chien de berger de majorque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Russie méridionale",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger de russie meridionale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger de Savoie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger de savoie",
+    "berger savoyard"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger des Pyrénées",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger des pyrenee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger des Pyrénées à face rase",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger des pyrenee a face rase",
+    "chien de berger des pyrenee a face rase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger des Pyrénées à poil long",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger des pyrenee a poil long",
+    "chien de berger des pyrenee a poil long"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger des Tatras",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger des tatra",
+    "chien de berger des tatra"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger du Caucase",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger du caucase",
+    "chien de berger du caucase"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger du Karst",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger du karst"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger finnois de Laponie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger finnoi de laponie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger hollandais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger hollandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "berger islandais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger islandai",
+    "chien de berger islandai",
+    "islenskur fjarhundur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger noir slovaque",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger noir slovaque",
+    "cierny sery"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger picard",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger picard"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger polonais de plaine",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "berger polonai de plaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger roumain Bucovina",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger roumain bucovina",
+    "chien de berger roumain bucovina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Berger roumain corbeau",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger roumain corbeau",
+    "chien de berger roumain corbeau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bichon à poil frisé",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bichon a poil frise",
+    "bichon frise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bichon bolonais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "bichon bolonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bichon havanais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "bichon havanai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bichon maltais",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bichon maltai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Biewer Yorkshire",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "biewer yorkshire"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Billy",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "billy"
+   ],
+   "exact": [
+    "billy"
+   ]
+  },
+  {
+   "display": "Bisben",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bisben"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Blue Lacy",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "blue lacy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bluetick coonhound",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bluetick coonhound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bobtail",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "berger anglai ancestral",
+    "bobtail",
+    "chien de berger anglai ancestral"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boerboel",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "boerboel",
+    "boerbull"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Borador",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "borador"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Border Collie",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "border collie",
+    "chien de berger ecossai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Border Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "border terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouledogue américain",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "american bulldog",
+    "bouledogue americain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bouledogue français",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "bouledogue francai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier australien",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bouvier australien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier australien courte queue",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "australian stumpy tail cattle dog",
+    "bouvier australien courte queue"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier bernois",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bouvier bernoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bouvier de Bouriatie-Mongolie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bouvier de bouriatie mongolie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier de l’Appenzell",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bouvier de l appenzell"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier de l'Entlebuch",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bouvier de l entlebuch"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier des Ardennes",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bouvier des ardenne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bouvier des Flandres",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "bouvier des flandre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bouvier portugais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bouvier portugai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Boxer",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "boxer",
+    "deutscher boxer"
+   ],
+   "exact": [
+    "boxer"
+   ]
+  },
+  {
+   "display": "Boykin Spaniel",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "boykin spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brachet allemand",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "brachet allemand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brachet de Styrie à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "brachet de styrie a poil dur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brachet polonais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "brachet polonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Brachet tyrolien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "brachet tyrolien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque allemand",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "braque allemand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque d'Auvergne",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "braque d auvergne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque de l'Ariège",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "braque de l ariege"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque de Weimar",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "braque de weimar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque du Bourbonnais",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "bourbonnai nseisoja",
+    "bourbonnai pointer",
+    "bourbonnaiser vorstehhund",
+    "bracco del bourbonnai",
+    "braco del borbonesado",
+    "braque de bourbon",
+    "braque du bourbonnai",
+    "burboneski pticar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque du Puy",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "braque du puy"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque français",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "braque francai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque Français, Type «Gascongne»",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "braque francai type gascongne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque français, type Pyrénées",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "braque francai type pyrenee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque hongrois à poil court",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "braque hongroi a poil court"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque hongrois à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "braque hongroi a poil dur",
+    "drotzoru magyar vizsla",
+    "vizsla"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque italien",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "braque italien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque Saint-Germain",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "braque saint germain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Braque slovaque à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "braque slovaque a poil dur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Briquet griffon vendéen",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "briquet griffon vendeen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Broholmer",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "broholmer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bruno du Jura",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bruno du jura"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Buhund norvégien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "buhund norvegien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bull Arab",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bull arab"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bull Terrier",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bull terrier",
+    "english bull terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bull Terrier miniature",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "bull terrier miniature"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Bulldog anglais",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "bulldog anglai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "bullmastiff",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "bullmastiff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cairn terrier",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cairn terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Can de palleiro",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "can de palleiro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "caniche",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "caniche"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Caravan hound",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "caravan hound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "carlin",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "carlin"
+   ],
+   "exact": [
+    "carlin"
+   ]
+  },
+  {
+   "display": "Carolina Dog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "american dingo",
+    "carolina dog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Catalburun",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "catalburun",
+    "pointer turc",
+    "tarsu catalburun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cavalier King Charles Spaniel",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "cavalier king charle",
+    "cavalier king charle spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Charnaigre",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "charnaigre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chart polski",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chart polski"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien à loutre",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien a loutre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien chanteur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "cani lupu hallstromi",
+    "chien chanteur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien chinois à crête",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "chien chinoi",
+    "chien chinoi a crete"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant bernois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant bernoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant d'Istrie à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant d istrie a poil dur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant d'Istrie à poil ras",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant d istrie a poil ras"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant de Bosnie à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant de bosnie a poil dur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant de Halden",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant de halden"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant de la vallée de la Save",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant de la vallee de la save",
+    "posavski gonic"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant de montagne du Monténégro",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant de montagne du montenegro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant du Småland",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant du smaland"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien courant finlandais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant finlandai",
+    "chien courant finnoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant grec",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant grec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant italien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant italien",
+    "segugio italiano"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant italien à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant italien a poil dur",
+    "segugio italiano a pelo forte"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant italien à poil ras",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant italien a poil ras",
+    "segugio italiano a pelo raso"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant lucernois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant lucernoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant polonais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant polonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant schwytzois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant schwytzoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant serbe",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant serbe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant suisse",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant suisse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien courant tricolore serbe",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien courant tricolore serbe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien créole",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger creole",
+    "chien creole"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'arrêt allemand à poil long",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d arret allemand a poil long"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'arrêt allemand à poil raide",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d arret allemand a poil raide"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'arrêt danois ancestral",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d arret danoi ancestral",
+    "pointer danoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'arrêt frison",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d arret frison"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien d'arrêt portugais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d arret portugai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'Artois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d artoi",
+    "grand chien d artoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'eau américain",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d eau americain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'eau espagnol",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chien d eau espagnol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien d'eau portugais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "chien d eau portugai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien d'eau romagnol",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d eau romagnol",
+    "lagotto romagnolo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'élan norvégien gris",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d elan norvegien gri"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'élan norvégien noir",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d elan norvegien noir"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien d'élan suédois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d elan suedoi",
+    "jamthund"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien d'ours de Carélie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d our de carelie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien d'oysel allemand",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien d oysel allemand",
+    "deutscher wachtelhund"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de Berger de Lessinia et Lagorai",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de berger de lessinia et lagorai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de berger Kangal",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger kangal",
+    "chien de berger kangal",
+    "kangal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de berger roumain de Mioritza",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "berger roumain mioritic",
+    "chien de berger roumain de mioritza",
+    "chien de berger roumain mioritic"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de berger roumain des Carpathes",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de berger roumain des carpathe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de berger yougoslave de Charplanina",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "charplanina",
+    "chien de berger yougoslave de charplanina"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de Canaan",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chien de canaan",
+    "chien de cannan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de Castro Laboreiro",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "cao de castro laboreiro",
+    "chien de castro laboreiro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de cour italien",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "cane corso",
+    "chien de cour italien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de ferme dano-suédois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de ferme dano suedoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de garenne portugais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de garenne portugai",
+    "levrier portugai",
+    "podengo portugai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de la Serra da Estrela",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de la serra da estrela"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de Majorado",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de majorado"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de montagne des Pyrénées",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "chien de montagne des pyrenee",
+    "montagne des pyrenee",
+    "pastou",
+    "patou"
+   ],
+   "exact": [
+    "patou"
+   ]
+  },
+  {
+   "display": "Chien de perdrix de Drente",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de perdrix de drente"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de Rhodésie à crête dorsale",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de rhodesie a crete dorsale",
+    "rhodesian ridgeback"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de rouge de Bavière",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de rouge de baviere",
+    "chien rouge de baviere"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de rouge du Hanovre",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de rouge du hanovre"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien de Saint-Hubert",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "chien de saint hubert"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de Taïmyr",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de taimyr",
+    "taymyrskaya ezdovaye"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de Taïwan",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de taiwan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien de trait belge",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de trait belge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien des fuégiens",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de paragonie",
+    "chien des fuegien",
+    "chien yagan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien du Pharaon",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "chien du pharaon",
+    "levrier de pharaon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien fer",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien fe",
+    "chien fer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien finnois de Laponie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien finnoi de laponie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien Français blanc et noir",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien francai blan et noir",
+    "chien francai blanc et noir",
+    "francai blanc et noir"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien léopard catahoula",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien leopard catahoula",
+    "spitz des wizigoth"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien-loup de Saarloos",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chien loup de saarloo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien-loup tchécoslovaque",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger tchecoslovaque",
+    "chien loup tchecoslovaque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien noir et bronzé autrichien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien noir et bronze autrichien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien nu",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien nu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien nu du Pérou",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien nu du perou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien nu mexicain",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "chien nu mexicain",
+    "xoloitzcuintle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien paria",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien paria"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chien particolore à poil frisé",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien particolore a poil frise"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien polynésien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien polynesien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chien thaïlandais à crête dorsale",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien thailandai a crete dorsale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "chihuahua",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "chihuahua"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chinese Chongqing Dog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chinese chongqing dog",
+    "chongqing hound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chinook",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chinook"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chippiparai",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chippiparai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Chow-chow",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "chow chow"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cimarrón Uruguayo",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "cimarron uruguayo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cirneco de l'Etna",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "cirneco de l etna"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Clumber Spaniel",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "clumber spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cocker américain",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "american cocker spaniel",
+    "cocker americain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "cocker spaniel",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "cocker spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Cocker spaniel anglais",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "cocker anglai",
+    "cocker spaniel anglai",
+    "english cocker spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Colley",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "colley",
+    "colley a poil long",
+    "koolie"
+   ],
+   "exact": [
+    "colley"
+   ]
+  },
+  {
+   "display": "Colley à poil court",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "colley a poil court"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Colley barbu",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bearded collie",
+    "colley barbu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Combai",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "combai"
+   ],
+   "exact": [
+    "combai"
+   ]
+  },
+  {
+   "display": "Continental Bulldog",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "continental bulldog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coonhound",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "coonhound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coonhound noir et beige",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "coonhound noir et beige"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Coton de Tuléar",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "coton de tulear",
+    "cotton de tulear",
+    "medo de tulear",
+    "standard du coton de tulear"
+   ],
+   "exact": []
+  },
+  {
+   "display": "croisé",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "batard",
+    "corniaud",
+    "croise"
+   ],
+   "exact": [
+    "batard",
+    "croise"
+   ]
+  },
+  {
+   "display": "Cursinu",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "cursinu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dalmatien",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "dalmatien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dandie Dinmont Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "dandie dinmont terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Deerhound",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "deerhound",
+    "levrier d ecosse",
+    "levrier ecossai"
+   ],
+   "exact": [
+    "levrier d ecosse",
+    "levrier ecossai"
+   ]
+  },
+  {
+   "display": "Dikkulak",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "dikkulak"
+   ],
+   "exact": []
+  },
+  {
+   "display": "dingo",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "cani lupu dingo",
+    "dingo"
+   ],
+   "exact": [
+    "dingo"
+   ]
+  },
+  {
+   "display": "Dobermann",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "doberman",
+    "dobermann"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogo Guatemalteco",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "dogo guatemalteco"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogue allemand",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "alano",
+    "dogue allemand",
+    "grand danoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogue argentin",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "dogue argentin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogue de Bordeaux",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "dogue de bordeau"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogue de Majorque",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "ca de bou",
+    "dogo mallorquin",
+    "dogue de majorque",
+    "perro dogo mallorquin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogue des Canaries",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "dogue des canarie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Dogue du Tibet",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "do khyi",
+    "dogue du tibet",
+    "dogue tibetain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Donggyeongi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "donggyeongi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Drahthaar",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "drahthaar",
+    "drathaar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Drever",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "drever"
+   ],
+   "exact": [
+    "drever"
+   ]
+  },
+  {
+   "display": "Dunker",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "dunker"
+   ],
+   "exact": [
+    "dunker"
+   ]
+  },
+  {
+   "display": "English Coonhound",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "american english coonhound",
+    "english coonhound",
+    "redtick coonhound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Épagneul bleu de Picardie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "epagneul bleu de picardie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épagneul breton",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "epagneul breton"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Épagneul d'eau irlandais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "epagneul d eau irlandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Épagneul de Pont-Audemer",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "epagneul de pont audemer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Épagneul de Saint-Usuge",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "epagneul de saint usuge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Epagneul du Chasse Polonais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "epagneul du chasse polonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épagneul français",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "epagneul francai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Épagneul japonais",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "epagneul japonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Épagneul picard",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "epagneul picard"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épagneul russe",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "epagneul russe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "épagneul tibétain",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "epagneul tibetain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Erdélyi kopó",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "erdelyi kopo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Esquimau canadien",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "esquimau canadien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Eurasier",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "eurasier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Field Spaniel",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "field spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fila Brasileiro",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "fila brasileiro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fila de São Miguel",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "fila de saint miguel",
+    "fila de sao miguel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Flat-Coated Retriever",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "flat coated retriever"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fox-terrier",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "fox",
+    "fox terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "fox-terrier à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "fox terrier a poil dur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Fox-terrier à poil lisse",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "fox terrier a poil lisse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "foxhound américain",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "foxhound americain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Foxhound anglais",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "foxhound anglai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Français",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "francai"
+   ],
+   "exact": [
+    "francai"
+   ]
+  },
+  {
+   "display": "Français blanc et orange",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "francai blanc et orange"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Français tricolore",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien francai tricolore",
+    "francai tricolore"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gampr",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "gampr"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gascon saintongeois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "gascon saintongeoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "gegar colombien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "gegar colombien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Golden retriever",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "golden",
+    "golden retriever"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gollie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "gollie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Gos d'Atura Català",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "gos d atura catala"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand anglo-français blanc et noir",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand anglo francai blanc et noir"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand anglo-français blanc et orange",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand anglo francai blanc et orange"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand anglo-français tricolore",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand anglo francai tricolore"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand basset griffon vendéen",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand basset griffon vendeen",
+    "grand basset grifon vendeen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand Bleu de Gascogne",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "grand bleu de cascogne",
+    "grand bleu de gascogne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand bouvier suisse",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "grand bouvier",
+    "grand bouvier suisse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand Gascon saintongeois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand gascon saintongeoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand griffon vendéen",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand griffon vendeen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand Münsterländer",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "grand munsterlander"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Grand spitz",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "grand spitz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Greyster",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "greyster"
+   ],
+   "exact": []
+  },
+  {
+   "display": "griffon",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "griffon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Griffon belge",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "griffon belge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Griffon bleu de Gascogne",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "griffon bleu de gascogne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Griffon bruxellois",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "griffon bruxelloi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Griffon Fauve de Bretagne",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "griffon fauve de bretagne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Griffon nivernais",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "griffon nivernai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Groenlandais",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "chien du groenland",
+    "gr nlandshunden",
+    "groenlandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Guregh",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "boz shepherd",
+    "guregh"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hamiltonstövare",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "hamiltonstovare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Harrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "harrier"
+   ],
+   "exact": [
+    "harrier"
+   ]
+  },
+  {
+   "display": "Hokkaïdo",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "hokkaido"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hovawart",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "hovawart"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Husky sibérien",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "husky",
+    "husky de siberie",
+    "husky siberien",
+    "siberian husky of cold winter night"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Hygenhund",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "hygenhund"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Inn kwe",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "inn kwe"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Inuit du Nord",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "inuit du nord"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jack Russell",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "australian jack russell terrier",
+    "jack russell",
+    "jack russell terrier",
+    "russell terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jindo coréen",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "jindo coreen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Jonangi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "jonangi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kai",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Keeshond",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "keeshond",
+    "spitz loup"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kerry beagle",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "kerry beagle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Khortaï",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chortaj",
+    "khortai",
+    "levrier chortaj"
+   ],
+   "exact": []
+  },
+  {
+   "display": "King Charles Spaniel",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "king charle spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kintamani",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "kintamani"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kishu",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kishu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Komondor",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "komondor"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kooikerhondje",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kooiker",
+    "kooikerhondje"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Korthals",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "griffon d arret a poil dur",
+    "griffon d arret a poil dur korthal",
+    "korthal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kromfohrländer",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "kromfohrlander"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kumiş",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "kumi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Kuvasz",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "kuvasz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "labrador retriever",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "labrador",
+    "labrador retriever",
+    "retriever du labrador"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laika de Iakoutie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "laika de iakoutie",
+    "laika de yakoutie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laïka de Sibérie occidentale",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "laika de siberie occidentale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laïka de Sibérie orientale",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "laika de siberie orientale"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laïka russo-européen",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "laika russo europeen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lakeland Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "lakeland terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lancashire Heeler",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "lancashire heeler",
+    "lancashire heller"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Landseer",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "landseer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Laobé",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "laobe"
+   ],
+   "exact": [
+    "laobe"
+   ]
+  },
+  {
+   "display": "Lapphund suédois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "lapphund suedoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Larye, Larrye",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "larye larrye"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Leavitt bulldog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "leavitt bulldog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Leonberg",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "leonberg"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévesque",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "levesque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier afghan",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "levrier afghan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lévrier arabe",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "levrier arabe",
+    "levrier berbere",
+    "sloughi",
+    "slougi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier Bakhmull",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "bakhmull",
+    "levrier bakhmull"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier de Saintonge",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "levrier de saintonge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier de soie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "levrier de soie",
+    "silken windhound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier Galgo",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "galgo",
+    "galgo espagnol",
+    "galgo espanol",
+    "levrier espagnol",
+    "levrier galgo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier grec",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "levrier grec"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier greyhound",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "levrier anglai",
+    "levrier greyhound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier hongrois",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "levrier hongroi",
+    "magyar agar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier irlandais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "irish wolfhound",
+    "levrier d irlande",
+    "levrier irish wolfhound",
+    "levrier irlandai"
+   ],
+   "exact": [
+    "levrier irlandai"
+   ]
+  },
+  {
+   "display": "Lévrier persan",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "levrier persan",
+    "salouki",
+    "saluki"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier Rampur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "levrier rampur",
+    "rampur"
+   ],
+   "exact": [
+    "rampur"
+   ]
+  },
+  {
+   "display": "Lévrier Taïgan",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "levrier taigan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier Tazi",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "levrier tazi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "lévrier turc",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "anadolu sultan taz s",
+    "levrier turc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lévrier whippet",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "levrier whippet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lhassa Apso",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "lhasa apso",
+    "lhassa apso"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lundehund",
+   "tier": 6,
+   "score": 0.3,
+   "forms": [
+    "chien norvegien de macareu",
+    "lundehund"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Lupo Italiano",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "lupo italiano"
+   ],
+   "exact": []
+  },
+  {
+   "display": "malamute de l’Alaska",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "alaskan malamute",
+    "malamute de l alaska"
+   ],
+   "exact": []
+  },
+  {
+   "display": "malinois",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "berger belge malinoi",
+    "malinoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Maltzu",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "maltzu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Manchester Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "manchester terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Markiesje",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "markiesje"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mastiff",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "mastiff",
+    "old english mastiff"
+   ],
+   "exact": []
+  },
+  {
+   "display": "mastiff d'Anatolie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "aksaray malakl s",
+    "aksaray malaklisi",
+    "malakl",
+    "mastiff d anatolie",
+    "mastiff turc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mâtin des Pyrénées",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "matin des pyrenee"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mâtin espagnol",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "matin espagnol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mâtin napolitain",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "matin de naple",
+    "matin napolitain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Molossoïde",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "molosse",
+    "molossoide"
+   ],
+   "exact": [
+    "molosse"
+   ]
+  },
+  {
+   "display": "Morkie",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "morkie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mucuchies",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "mucuchie"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Mudi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "mudi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Norfolk Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "norfolk terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Normand-Poitevin",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "normand poitevin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Norwich Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "norwich terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Nureongi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "nureongi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Olde English Bulldogge",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "olde english bulldogge"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Original Fila Brasileiro",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "original fila brasileiro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pachon Navarro",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "pachon navarro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Papillon",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "epagneul nain continental papillon",
+    "epagneul papillon",
+    "papillon"
+   ],
+   "exact": [
+    "papillon"
+   ]
+  },
+  {
+   "display": "Parson Russell terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "parson russel terrier",
+    "parson russell terrier",
+    "terrier du reverend russell"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Patterdale Terrier",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "patterdale terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pékinois",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "pekinoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Perdiguero de Burgos",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "perdiguero de burgo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Perro de Agua Cantábrico",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "cantabrian water dog",
+    "perro de agua cantabrico",
+    "perro de lana merlucero"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Perro fino Colombiano",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "perro fino colombiano"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit basset griffon Vendéen",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "petit basset griffon vendeen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit bleu de Gascogne",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "petit bleu de gascogne",
+    "petit bleu gascogne"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit brabançon",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "petit brabancon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit chien courant suisse",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "petit chien courant suisse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit chien lion",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "petit chien lion"
+   ],
+   "exact": []
+  },
+  {
+   "display": "petit chien russe",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "petit chien russe",
+    "russian toy terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit épagneul de Münster",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "petit epagneul de munster"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit Gascon Saintongeois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "petit gascon saintongeoi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit lévrier italien",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "levrier italien",
+    "petit levrier italien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Petit spitz",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "petit spitz"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Phalène",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "phalene"
+   ],
+   "exact": []
+  },
+  {
+   "display": "pinscher allemand",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "pinscher allemand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pinscher autrichien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "pinscher autrichien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pinscher nain",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "pinscher nain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pit Monster",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "pit monster"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Plott Hound",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "plott hound"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Podenco canario",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "chien de garenne des canarie",
+    "podenco canario"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Podenco d'Ibiza",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "podenco d ibiza",
+    "podenco ibicenco"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pointer anglais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "pointer anglai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Poitevin",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "poitevin"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pomsky",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "pomsky"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Porcelaine",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "porcelaine"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pudelpointer",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "pudelpointer"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Puli",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "puli"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pumi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "pumi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Pungsan",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "pungsan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "rafeiro de l'Alentejo",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "mastiff de l alentejo",
+    "matin de l alentejo",
+    "rafeiro de l alentejo"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rajapalayam",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "rajapalayam"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rastreador Brasileiro",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "rastreador brasileiro"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rat Terrier",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "rat terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ratier de Prague",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "ratier de prague"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ratier valencien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "ratier valencien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Redbone",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "redbone"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Retriever à poil bouclé",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "retriever a poil boucle"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Retriever de la baie de Chesapeake",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "retriever de la baie de chesapeake"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Retriever de la Nouvelle-Écosse",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "retriever de la nouvelle ecosse"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rize Koyun",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "rize koyun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Rottweiler",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "rottweiler"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Ryūkyū",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "ryukyu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sabueso Español",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "sabueso espanol"
+   ],
+   "exact": []
+  },
+  {
+   "display": "saint-bernard",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "chien de saint bernard",
+    "saint bernard"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Samoyède",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "samoyede"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sapsali",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "sapsali"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schapendoes néerlandais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "schapendoe",
+    "schapendoe neerlandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schillerstövare",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "schillerstovare"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schipperke",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "schipperke"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schnauzer géant",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "riesenschnauzer",
+    "schnauzer geant"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Schnauzer miniature",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "schnauzer miniature",
+    "schnauzer nain"
+   ],
+   "exact": []
+  },
+  {
+   "display": "schnauzer moyen",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "schnauzer moyen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sealyham Terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "sealyham terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Seppala Siberian Sleddog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "seppala siberian sleddog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Setter anglais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "english setter",
+    "setter anglai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Setter Gordon",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "setter gordon"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Setter irlandais",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "irish setter",
+    "setter",
+    "setter irlandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Setter irlandais rouge et blanc",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "setter irlandai rouge et blanc"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shar Pei",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "shar pei",
+    "sharpei"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shetland",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "berger de shetland",
+    "berger des shetland",
+    "berger shetland",
+    "chien de berger des shetland",
+    "sheltie",
+    "shetland",
+    "shetland sheepdog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shiba Inu",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "shiba inu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shih Tzu",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "chi tsu",
+    "shi tzu",
+    "shih tzu",
+    "shit zu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shikoku",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "shikoku"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Shiloh Shepherd Dog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "shiloh shepherd dog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Silken Windsprite",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "silken windsprite"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Skye terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "skye terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Slovensky kopov",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "slovensky kopov"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Smous des Pays-Bas",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "smou des pay bas"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Spinone italiano",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "spinone italiano"
+   ],
+   "exact": []
+  },
+  {
+   "display": "spitz allemand",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "spitz allemand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Spitz de Norrbotten",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "norrbottenspet",
+    "spitz de norrbotten"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Spitz finlandais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "loulou finnoi",
+    "spitz finlandai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Spitz japonais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "spitz japonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Spitz moyen",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "spitz moyen"
+   ],
+   "exact": []
+  },
+  {
+   "display": "springer anglais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "english springer spaniel",
+    "springer anglai",
+    "springer spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Staffordshire Bull Terrier",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "staffie",
+    "staffordshire bull terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Stephens Cur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "stephen cur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Sussex Spaniel",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "sussex spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "talbot",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "talbot"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tchouvatch slovaque",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "tchouvatch slovaque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Techichi",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "techichi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "teckel",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "chien saucisse",
+    "dachshund",
+    "teckel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "teckel à poil dur",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "teckel a poil dur",
+    "teckel poil dur"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Teckel à poil long",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "teckel a poil long",
+    "teckel poil long"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Teckel à poil ras",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "teckel a poil ras"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terre-neuve",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "chien de terre neuve",
+    "terre neuve"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier australien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier australien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier australien à poil soyeux",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier australien a poil soyeu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier brésilien",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier bresilien"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier d'agrément anglais noir et feu",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier d agrement anglai noir et feu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier de Boston",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "terrier de boston"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier de chasse allemand",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "jagdterrier",
+    "terrier de chasse allemand"
+   ],
+   "exact": []
+  },
+  {
+   "display": "terrier écossais",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "scottish terrier",
+    "terrier d ecosse",
+    "terrier ecossai",
+    "terrier ecosse"
+   ],
+   "exact": [
+    "terrier d ecosse",
+    "terrier ecossai"
+   ]
+  },
+  {
+   "display": "Terrier irlandais",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "terrier irlandai"
+   ],
+   "exact": [
+    "terrier irlandai"
+   ]
+  },
+  {
+   "display": "Terrier irlandais à poil doux",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier irlandai a poil dou"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier irlandais Glen of Imaal",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier irlandai glen of imaal"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier japonais",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier japonai"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier Kerry Blue",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "terrier kerry blue"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier noir de Russie",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "black russian terrier",
+    "terrier noir de russie",
+    "terrier russe noir"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier Tchèque",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "terrier tcheque"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Terrier tibétain",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "terrier tibetain",
+    "tibetan terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tonya Finosu",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "tonya finosu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tornjak",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "tornjak"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Tosa Inu",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "tosa inu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vallhund suédois",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "valhund suedoi",
+    "vallhund suedoi",
+    "vastgotaspet"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Vertagus",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "levrier celte",
+    "ouertragoi",
+    "vertagi",
+    "vertagu",
+    "vertragi",
+    "vertragu"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Villano de las Encartaciones",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "villano de las encartacione"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Volpino Italiano",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "volpino italiano"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Welsh Corgi",
+   "tier": 3,
+   "score": 0.82,
+   "forms": [
+    "welsh corgi"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Welsh Corgi Cardigan",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "welsh corgi cardigan"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Welsh Corgi Pembroke",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "welsh corgi pembroke"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Welsh Sheepdog",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "welsh sheepdog"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Welsh Springer Spaniel",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "welsh springer spaniel"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Welsh terrier",
+   "tier": 4,
+   "score": 0.62,
+   "forms": [
+    "welsh terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "West Highland white terrier",
+   "tier": 2,
+   "score": 0.93,
+   "forms": [
+    "west highland white terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Wetterhoun",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "wetterhoun"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Yorkshire",
+   "tier": 1,
+   "score": 0.99,
+   "forms": [
+    "york",
+    "yorkshire",
+    "yorkshire terrier"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zağar",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "zagar"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zerdava",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "zerdava"
+   ],
+   "exact": []
+  },
+  {
+   "display": "Zuchon",
+   "tier": 5,
+   "score": 0.3,
+   "forms": [
+    "zuchon"
+   ],
+   "exact": []
+  }
+ ]
+}

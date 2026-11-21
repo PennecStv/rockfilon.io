@@ -1,0 +1,135 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource/jersey-10";
+@import "@fontsource-variable/pixelify-sans";
+
+@theme inline {
+  --font-sans: "Pixelify Sans Variable", system-ui, sans-serif;
+  --font-display: "Jersey 10", "Pixelify Sans Variable", sans-serif;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-destructive: var(--destructive);
+  --color-ring: var(--ring);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-face: var(--face);
+  --radius-sm: 0;
+  --radius-md: 0;
+  --radius-lg: 0;
+}
+
+/* Une seule ambiance : la mine. Fond roche, encre craie, accent lampe. */
+:root {
+  --background: #100c0a;
+  --foreground: #ece7df;
+  --primary: #ffc65c;
+  --primary-foreground: #1b120a;
+  --muted: #1c1512;
+  --muted-foreground: #bdb3a6;
+  --destructive: #ff8a66;
+  --ring: #ffc65c;
+  --border: transparent;
+  --input: #1c1512;
+  --face: #0f0b09;
+  --radius: 0;
+  color-scheme: dark;
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    overflow: hidden;
+  }
+  :focus-visible {
+    outline: 3px solid var(--ring);
+    outline-offset: 2px;
+  }
+  * {
+    scrollbar-color: #4a3a2c transparent;
+  }
+  ::selection {
+    background: var(--primary);
+    color: var(--primary-foreground);
+  }
+}
+
+/* --- pixel art : pixels nets, cadres à coins crantés, reliefs sans flou --- */
+/* Pixelify Sans et Jersey 10 sont dessinées sur une grille de 10 : tailles multiples de 10 seulement */
+.pixelated {
+  image-rendering: pixelated;
+}
+.pixel-shadow {
+  text-shadow: var(--px) var(--px) 0 #000;
+}
+.pixel-frame {
+  --frame: #2c211a;
+  box-shadow:
+    0 calc(var(--px) * -1) 0 0 var(--frame),
+    0 var(--px) 0 0 var(--frame),
+    calc(var(--px) * -1) 0 0 0 var(--frame),
+    var(--px) 0 0 0 var(--frame);
+}
+.pixel-input:focus-visible {
+  --frame: var(--primary);
+  outline: none;
+}
+.pixel-plate {
+  background: #0e0a08;
+  box-shadow:
+    0 calc(var(--px) * -1) 0 0 #0e0a08,
+    0 var(--px) 0 0 #0e0a08;
+}
+.pixel-button {
+  box-shadow:
+    inset var(--px) var(--px) 0 #ffe6ad,
+    inset calc(var(--px) * -1) calc(var(--px) * -1) 0 #c4842a,
+    0 calc(var(--px) * -1) 0 0 #1b120a,
+    0 var(--px) 0 0 #1b120a,
+    calc(var(--px) * -1) 0 0 0 #1b120a,
+    var(--px) 0 0 0 #1b120a;
+}
+.pixel-button:hover {
+  background: #ffd27d;
+}
+.pixel-button:active {
+  transform: translateY(var(--px));
+  box-shadow:
+    inset var(--px) var(--px) 0 #c4842a,
+    0 calc(var(--px) * -1) 0 0 #1b120a,
+    0 var(--px) 0 0 #1b120a,
+    calc(var(--px) * -1) 0 0 0 #1b120a,
+    var(--px) 0 0 0 #1b120a;
+}
+.pixel-button:focus-visible {
+  outline-offset: calc(var(--px) * 2);
+}
+
+/* le béryl rouge scintille par paliers, comme un sprite */
+@keyframes beryl-blink {
+  0%, 70%, 100% { filter: none; }
+  75%, 90% { filter: brightness(1.45); }
+}
+.beryl-blink {
+  animation: beryl-blink 1.6s steps(1) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
