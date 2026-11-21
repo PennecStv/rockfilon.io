@@ -1,4 +1,23 @@
-# rockfilon
+<h1 align="center">
+  <img src="docs/logo.png" alt="rockfilon" width="720">
+</h1>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/PennecStv/rockfilon.io?style=flat-square&labelColor=1c1512&label=licence&color=ffc65c" alt="Licence MIT"></a>
+  <img src="https://img.shields.io/github/last-commit/PennecStv/rockfilon.io?style=flat-square&labelColor=1c1512&label=dernier%20commit&color=ffc65c" alt="Dernier commit">
+  <img src="https://img.shields.io/badge/langue-fran%C3%A7ais-ffc65c?style=flat-square&labelColor=1c1512" alt="Langue : français">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&labelColor=1c1512&logo=python&logoColor=white" alt="Python 3.12">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&labelColor=1c1512&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=flat-square&labelColor=1c1512&logo=postgresql&logoColor=white" alt="PostgreSQL 17">
+  <img src="https://img.shields.io/badge/tests-pytest-0A9EDC?style=flat-square&labelColor=1c1512&logo=pytest&logoColor=white" alt="Tests pytest">
+  <br>
+  <img src="https://img.shields.io/badge/React-19-087EA4?style=flat-square&labelColor=1c1512&logo=react&logoColor=61DAFB" alt="React 19">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=1c1512&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&labelColor=1c1512&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=flat-square&labelColor=1c1512&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=1c1512&logo=docker&logoColor=white" alt="Docker">
+</p>
 
 Jeu quotidien de culture générale en français : chaque jour, 7 questions ouvertes. Les réponses évidentes grattent la surface, les réponses valides mais rares font creuser profond.
 
@@ -35,7 +54,8 @@ content/        questions (YAML), listes manuelles, scores relus, JSON construit
 web/            le site (Vite + React)
 alembic/        migrations
 tests/          pytest
-scripts/        partager.ps1 (tunnel de test)
+scripts/        partager.ps1 (tunnel de test), logo.py (régénère docs/logo.png depuis les sprites du site)
+docs/           logo
 ```
 
 ## Lancer le projet
